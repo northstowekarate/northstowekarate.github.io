@@ -1,0 +1,16 @@
+{
+  "name": "northstowekarate-11ty",
+  "version": "1.0.0",
+  "main": ".eleventy.js",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy-img": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
