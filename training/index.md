@@ -5,7 +5,7 @@ layout: base.njk
 # Training Sessions
 
 ## When and where 
-Training has not yet started. Please register your interest by [contacting us](/contact). Lessons will be 1hour long on Wednesday evenings held in Northstowe.
+Training has not yet started. Please register your interest by [contacting us](/contact). Lessons will be 1 hour long on Wednesday evenings held in Northstowe.
 
 ## Prices
 The first lesson is always free, so you can try it out and see if you enjoy the lesson. After that prices are still to be determined but in the region of £3-6 a lesson.
