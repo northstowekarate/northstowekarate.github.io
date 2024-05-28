@@ -11,6 +11,8 @@ Training has not yet started. Please register your interest by [contacting us](/
 The first lesson is always free, so you can try it out and see if you enjoy the lesson. After that prices are still to be determined but in the region of £3-6 a lesson.
 
 # What to expect
+We teach traditional [Shotokan Karate](https://en.wikipedia.org/wiki/Shotokan), a Japanese style of karate, which is one of the most popular around the world. We are are a member of [Japan Shotokan Karate England](https://jske.co.uk) and are affiliated with the [Japan Karate Association](https://www.jka.or.jp/en/). 
+
 Although each lesson will differ, training consists of 3 key elements.
 
 ## Kihon (basics)
