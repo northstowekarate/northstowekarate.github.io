@@ -8,7 +8,7 @@ layout: base.njk
 Training has not yet started. Please register your interest by [contacting us](/contact). Lessons will be 1hour long on Wednesday evenings held in Northstowe.
 
 ## Prices
-The first lesson is always free. After that each training session will be £4 for children and £5 for adults. Family discounts are available.
+The first lesson is always free, so you can try it out and see if you enjoy the lesson. After that prices are still to be determined but in the region of £3-6 a lesson.
 
 # What to expect
 Although each lesson will differ, training consists of 3 key elements.
