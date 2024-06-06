@@ -52,5 +52,5 @@ Kumite is the practice of techniques with an opponent. Students will generally b
 You don't need a gi (karate uniform) to start. Please wear loose fitting clothes to your first session.
 
 ## Ages
-We teach both children and adults, aged 7+.
+We teach both children and adults, aged 6+.
 
