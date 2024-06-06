@@ -5,10 +5,32 @@ layout: base.njk
 # Training Sessions
 
 ## When and where 
-Training has not yet started. Please register your interest by [contacting us](/contact). Lessons will be 1 hour long on Wednesday evenings held in Northstowe.
+From Wednesday 3rd July 2024, training will be held at [The Cabin](https://maps.app.goo.gl/wXcMAGknwyPFEgMp6) 1830-1930. Please register your interest by [contacting us](/contact).
+
+## Upcoming Sessions 
+
+| Time and Date                       | Location  |
+| ----------------------------------- | --------- |
+| Wednesday  3rd  July      1830-1930 | The Cabin |
+| Wednesday  10th July      1830-1930 | The Cabin |
+| Wednesday  17th July      1830-1930 | The Cabin |
+| Wednesday  24th July      1830-1930 | The Cabin |
+| Wednesday  31st July      1830-1930 | The Cabin |
+| Wednesday  7th  August    1830-1930 | The Cabin |
+| Wednesday  14th August    1830-1930 | The Cabin |
+| Wednesday  21st August    1830-1930 | The Cabin |
+| Wednesday  28th August    1830-1930 | The Cabin |
+| Wednesday  4th  September 1830-1930 | The Cabin |
+
 
 ## Prices
-The first lesson is always free, so you can try it out and see if you enjoy the lesson. After that prices are still to be determined but in the region of £3-6 a lesson.
+The first lesson is always free, so you can try it out and see if you enjoy the lesson. Prices are £4 per session for adults and £3 per session for children.
+
+A family discount is also available with up to 2 children free per adult.
+
+We also offer an introductory bulk discount with 9 lessons for the price of 7.
+
+Payment by bank transfer is preferred. Please [contact us](/contact) for details.
 
 # What to expect
 We teach traditional [Shotokan Karate](https://en.wikipedia.org/wiki/Shotokan), a Japanese style of karate, which is one of the most popular around the world. We are are a member of [Japan Shotokan Karate England](https://jske.co.uk) and are affiliated with the [Japan Karate Association](https://www.jka.or.jp/en/). 
