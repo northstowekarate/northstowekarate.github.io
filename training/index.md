@@ -1,7 +1,7 @@
 ---
 title: Training
 layout: base.njk
-description: Northstowe Karate Club training and times, prices and what to expect when training at the club
+description: Northstowe Karate Club trains on Wednesdays at The Cabin, Northstowe 1830-1930.
 ---
 # Training Sessions
 

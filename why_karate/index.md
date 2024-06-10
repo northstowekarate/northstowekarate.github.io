@@ -1,10 +1,10 @@
 ---
 title: Why Karate?
 layout: base.njk
-description: The benefits of karate and joining Northstowe Karate Club. Karate teaches self defence, instill values in students and increases confidence and fitness
+description: Learning Karate with Northstowe Karate Club has numberious benefits including learning effective self defence, gaining confidence and improved fitness
 ---
 # Learn Self Defence
-Karate teaches you how to defend yourself and others in life threatening situations.  Karate teaches basic and effective techniques that can be used to protect yourself from harm.
+Karate teaches you how to defend yourself and others in life threatening situations.  Karate teaches basic and effective techniques that can be used to protect yourself and others from harm.
 
 # Build Confidence and Fitness
 Karate builds fitness, strength and coordination as well as confidence. Karate is an excellent form of exercise which is key for a healthy lifestyle.
