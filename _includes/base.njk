@@ -1,5 +1,6 @@
 ---
 title: Northstowe Karate Club
+description:
 ---
 
 <!doctype html>
@@ -7,6 +8,13 @@ title: Northstowe Karate Club
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="Northstowe Karate, Northstowe Karate Club, Karate, Northstowe, Shotokan, Cambridge, Children's Karate, Kid's Karate">
+    {% if description %}
+    <meta name="description" content="{{ description }}">
+    {% else %}
+    <meta name="description" content="{{ title }}">
+    {% endif %}
+
     <link href="/static/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <title>{{ title }}</title>
     <style>
