@@ -22,7 +22,6 @@ module.exports = function (eleventyConfig) {
         sizes,
         loading: "lazy",
         decoding: "async",
-        width: 200,
       };
 
       return Image.generateHTML(imageMetadata, imageAttributes);
