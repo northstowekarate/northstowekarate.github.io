@@ -43,7 +43,7 @@ Kihon consists of performing basic techniques, without a partner, multiple times
 ## Kata (forms)
 A kata is a set of moves performed in a specific order in order to help develop technique, control of the body and timing. More advanced study of the kata leads to investigation of the techniques performed and potential application (bunkai).
 
-## Kumite (sparing)
+## Kumite (sparring)
 Kumite is the practice of techniques with an opponent. Students will generally build up their kihon first before kumite practice is considered. This can be intimidating at first, but is built up overtime, starting in controlled conditions - where the techniques are predetermined up to freestyle where the techniques are completely free.
 
 # FAQs
