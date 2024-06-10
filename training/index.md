@@ -1,6 +1,7 @@
 ---
 title: Training
 layout: base.njk
+description: Northstowe Karate Club training and times, prices and what to expect when training at the club
 ---
 # Training Sessions
 
