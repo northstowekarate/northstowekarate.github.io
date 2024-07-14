@@ -19,6 +19,7 @@ We collect various types of personal data, including:
 * Health data, required to ensure your safety while participating in our activities
 * Images or video footage for promotional or safety purposes
 * Payment details, if you are purchasing from our club
+* Website cookies to tracking website usage for analytics
 
 ## How We Use Your Data
 We use your data to:
