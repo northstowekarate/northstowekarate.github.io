@@ -19,8 +19,15 @@ description:
     <title>{{ title }}</title>
     <style>
       img {
-      width: 100%;
-      height: 100%;
+        width: 100%;
+        height: 100%;
+        padding: 5px;
+      }
+      img.instructor {
+        max-height: 40vw;
+        max-width: 20vw;
+        float: left;
+        padding: 5px;
       }
       div#page-content {
         max-width: 60vw;
@@ -34,6 +41,12 @@ description:
           margin-left: auto;
           margin-right: auto;
         }
+      }
+      ul {
+        overflow: hidden;
+      }
+      table, th, td {
+        border: 1px solid;
       }
     </style>
 </head>
@@ -60,6 +73,9 @@ description:
           </li>
           <li class="nav-item active">
             <a class="nav-link" href="/instructors">Instructors</a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="/policies">Policies</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="/contact">Contact</a>

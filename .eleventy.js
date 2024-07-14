@@ -6,6 +6,7 @@ module.exports = function (eleventyConfig) {
     async (
       src,
       alt,
+      classes = '',
       widths = [480, 800],
       formats = ['jpeg'],
       sizes = '(max-width: 600px) 480px, 800px',
@@ -22,6 +23,7 @@ module.exports = function (eleventyConfig) {
         sizes,
         loading: "lazy",
         decoding: "async",
+        class: classes,
       };
 
       return Image.generateHTML(imageMetadata, imageAttributes);
