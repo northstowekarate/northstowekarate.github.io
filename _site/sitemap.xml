@@ -2,11 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
         <url>
-            <loc>https://northstowekarate.com/README/</loc>
-            <lastmod>2024-05-26T22:34:19.032Z</lastmod>
-        </url>
-    
-        <url>
             <loc>https://northstowekarate.com/news/all/</loc>
             <lastmod>2024-07-13T10:55:27.997Z</lastmod>
         </url>
@@ -37,11 +32,6 @@
         </url>
     
         <url>
-            <loc>https://northstowekarate.com/policies/</loc>
-            <lastmod>2024-07-14T12:38:44.904Z</lastmod>
-        </url>
-    
-        <url>
             <loc>https://northstowekarate.com/posts/2024/07/03/</loc>
             <lastmod>2024-07-14T12:39:47.318Z</lastmod>
         </url>
@@ -62,18 +52,28 @@
         </url>
     
         <url>
-            <loc>https://northstowekarate.com/policies/privacy/</loc>
-            <lastmod>2024-07-14T12:42:15.679Z</lastmod>
-        </url>
-    
-        <url>
             <loc>https://northstowekarate.com/posts/2024/06/10/</loc>
             <lastmod>2024-07-14T12:47:10.868Z</lastmod>
         </url>
     
         <url>
             <loc>https://northstowekarate.com/instructors/</loc>
-            <lastmod>2024-07-14T13:07:31.066Z</lastmod>
+            <lastmod>2024-07-14T13:08:01.054Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://northstowekarate.com/policies/privacy/</loc>
+            <lastmod>2024-07-14T13:11:47.787Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://northstowekarate.com/policies/complaints/</loc>
+            <lastmod>2024-07-14T14:33:47.972Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://northstowekarate.com/policies/</loc>
+            <lastmod>2024-07-14T15:02:10.280Z</lastmod>
         </url>
     
 </urlset>

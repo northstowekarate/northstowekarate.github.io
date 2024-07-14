@@ -15,4 +15,6 @@ Our safeguarding statement can be found [here](./safeguarding). Our policy can b
 
 Our privacy policy can be found [here](./privacy)
 
+### Complaints Policy
 
+Our complaints policy can be found [here](./complaints)
