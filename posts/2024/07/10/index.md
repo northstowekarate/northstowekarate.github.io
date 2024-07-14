@@ -3,7 +3,7 @@ layout: base.njk
 title: Northstowe Karate Club - Second Session
 description: Northstowe Karate Clubs first session summary and additional information
 ---
-# Second session
+## Second session
 
 *Important Announcement*: Please let me know in advance if you're planning on attending next week (Wednesday 17th July). Only half the hall is available and we will have limited space. I will have to limit numbers. Please send me an [email](mailto:info@northstowekarate.com) if you plan on attending and I will let you know if you can attend.
 
