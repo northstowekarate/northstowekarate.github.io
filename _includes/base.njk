@@ -48,9 +48,18 @@ description:
       table, th, td {
         border: 1px solid;
       }
+      #cb-cookie-banner {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        z-index: 999;
+        border-radius: 0;
+        display: none;
+    }
     </style>
   </head>
-  <!-- Google tag (gtag.js) -->
+  <!-- Google tag (gtag.js)
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-5FVDSR42B3"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -59,6 +68,7 @@ description:
   
     gtag('config', 'G-5FVDSR42B3');
   </script>
+  -->
   <body>
     <h1 class="display-1 d-flex justify-content-center">Northstowe Karate Club</h1>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -96,6 +106,17 @@ description:
     {{ content | safe }}
     </div>
     </div>
+    <!--
+    <div id="cb-cookie-banner" class="alert alert-dark text-center mb-0" role="alert">
+  &#x1F36A; This website uses cookies to to track website usage for analytics purposes. By continuing to use this site, you consent
+  <a href="/policies/privacy" target="blank">Learn more</a>
+  <button type="button" class="btn btn-primary btn-sm ms-3" onclick="window.cb_hideCookieBanner()">
+    Ok
+  </button>
+</div>
+    -->
+    <!-- Cookie Banner -->
+    <script async src="/static/cookie-banner.js"></script>
     <script src="/static/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
   </body>
 </html>
