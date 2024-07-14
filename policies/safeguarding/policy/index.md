@@ -5,7 +5,7 @@ description: Northstowe Karate Club is committed to the safety of all of its stu
 ---
 
 
-# Northstowe Karate Club - Safeguarding Policy
+## Northstowe Karate Club - Safeguarding Policy
 
 This safeguarding policy applies to all instructors, coaches, officials, referees, trustees, secretaries,
 students, parents, volunteers and other members or associated instructors of Northstowe Karate Club.
@@ -53,9 +53,9 @@ appropriately.
 volunteers, by applying health and safety measures in accordance with the law and regulatory
 guidance
 
-## Contact Details
+### Contact Details
 
-### Designated Safeguarding Office (DSO);
+#### Designated Safeguarding Office (DSO);
 
 NAME: SIMON APEN-SADLER
 
@@ -63,7 +63,7 @@ EMAIL: info@northstowekarate.com
 
 [CLUB WEBSITE](/): northstowekarate.com
 
-### CLUB’S ASSOCIATIONS OR GOVERNING BODIES
+#### CLUB’S ASSOCIATIONS OR GOVERNING BODIES
 
 [JKA](https://jka.or.jp/en)
 
