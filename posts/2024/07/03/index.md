@@ -2,6 +2,7 @@
 layout: base.njk
 title: Northstowe Karate Clubs Opening Session
 description: Northstowe Karate Clubs first session summary and additional information
+date: 2024-07-03
 ---
 ## First session
 
