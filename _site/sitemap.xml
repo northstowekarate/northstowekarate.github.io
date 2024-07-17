@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
         <url>
+            <loc>https://northstowekarate.com/posts/2024/06/10/</loc>
+            <lastmod>2024-06-10T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://northstowekarate.com/posts/2024/07/03/</loc>
+            <lastmod>2024-07-03T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://northstowekarate.com/posts/2024/07/10/</loc>
+            <lastmod>2024-07-10T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
             <loc>https://northstowekarate.com/news/all/</loc>
             <lastmod>2024-07-13T10:55:27.997Z</lastmod>
         </url>
@@ -9,11 +24,6 @@
         <url>
             <loc>https://northstowekarate.com/news/</loc>
             <lastmod>2024-07-14T10:24:33.886Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>https://northstowekarate.com/training/</loc>
-            <lastmod>2024-07-14T12:31:50.646Z</lastmod>
         </url>
     
         <url>
@@ -32,11 +42,6 @@
         </url>
     
         <url>
-            <loc>https://northstowekarate.com/posts/2024/07/03/</loc>
-            <lastmod>2024-07-14T12:39:47.318Z</lastmod>
-        </url>
-    
-        <url>
             <loc>https://northstowekarate.com/policies/safeguarding/</loc>
             <lastmod>2024-07-14T12:40:17.772Z</lastmod>
         </url>
@@ -44,21 +49,6 @@
         <url>
             <loc>https://northstowekarate.com/policies/safeguarding/policy/</loc>
             <lastmod>2024-07-14T12:41:21.320Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>https://northstowekarate.com/posts/2024/07/10/</loc>
-            <lastmod>2024-07-14T12:41:39.588Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>https://northstowekarate.com/posts/2024/06/10/</loc>
-            <lastmod>2024-07-14T12:47:10.868Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>https://northstowekarate.com/instructors/</loc>
-            <lastmod>2024-07-14T13:08:01.054Z</lastmod>
         </url>
     
         <url>
@@ -74,6 +64,21 @@
         <url>
             <loc>https://northstowekarate.com/policies/</loc>
             <lastmod>2024-07-14T15:02:10.280Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://northstowekarate.com/posts/2024/07/17/</loc>
+            <lastmod>2024-07-17T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://northstowekarate.com/instructors/</loc>
+            <lastmod>2024-07-17T20:10:06.120Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://northstowekarate.com/training/</loc>
+            <lastmod>2024-07-17T20:14:42.065Z</lastmod>
         </url>
     
 </urlset>

@@ -1,7 +1,8 @@
 ---
 layout: base.njk
 title: Northstowe Karate Club - Second Session
-description: Northstowe Karate Clubs first session summary and additional information
+description: Northstowe Karate Clubs second session summary and additional information
+date: 2024-07-10
 ---
 ## Second session
 

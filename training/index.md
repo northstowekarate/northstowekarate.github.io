@@ -25,9 +25,7 @@ From Wednesday 3rd July 2024, training will be held at [The Cabin](https://maps.
 ### Prices
 The first lesson is always free, so you can try it out and see if you enjoy the lesson. Prices are £4 per session for adults and £3 per session for children.
 
-A family discount is also available with up to 2 children free per adult.
-
-We also offer an introductory bulk discount with 9 lessons for the price of 7.
+An introductory family discount is also available with up to 2 children free per adult.
 
 Payment by bank transfer is preferred. Please [contact us](/contact) for details.
 
