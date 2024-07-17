@@ -30,7 +30,7 @@ An introductory family discount is also available with up to 2 children free per
 Payment by bank transfer is preferred. Please [contact us](/contact) for details.
 
 ## What to expect
-We teach traditional [Shotokan Karate](https://en.wikipedia.org/wiki/Shotokan), a Japanese style of karate, which is one of the most popular around the world. We are are a member of [Japan Shotokan Karate England](https://jske.co.uk) and are affiliated with the [Japan Karate Association](https://www.jka.or.jp/en/). 
+We teach traditional [Shotokan Karate](https://en.wikipedia.org/wiki/Shotokan), a Japanese style martial art, which is one of the most popular around the world. We are are a member of [Japan Shotokan Karate England](https://jske.co.uk) and are affiliated with the [Japan Karate Association](https://www.jka.or.jp/en/). 
 
 Although each lesson will differ, training consists of 3 key elements.
 
