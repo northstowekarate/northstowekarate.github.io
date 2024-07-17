@@ -67,11 +67,6 @@
         </url>
     
         <url>
-            <loc>https://northstowekarate.com/instructors/</loc>
-            <lastmod>2024-07-17T20:10:06.120Z</lastmod>
-        </url>
-    
-        <url>
             <loc>https://northstowekarate.com/training/</loc>
             <lastmod>2024-07-17T20:21:50.872Z</lastmod>
         </url>
@@ -79,6 +74,11 @@
         <url>
             <loc>https://northstowekarate.com/</loc>
             <lastmod>2024-07-17T20:24:32.139Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://northstowekarate.com/instructors/</loc>
+            <lastmod>2024-07-17T20:41:25.747Z</lastmod>
         </url>
     
 </urlset>
