@@ -1,17 +1,20 @@
 ---
 layout: base.njk
-title: Recent News 
+title: Recent Posts 
 description: Find out the latest news regarding Northstowe Karate Club
 ---
+<h2>Recent Posts</h2>
+
 {% set atPost = 0 %}
 <ul>
 {%- for post in collections.blog_post | reverse -%}
-{% if atPost < 3 %}
+{% if atPost < 5 %}
   <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
+{% set atPost = atPost + 1 %}
 {% endif %}
 {%- endfor -%}
 </ul>
 
 <p>
-<a href="./all">All news</a>
+<a href="./all">All posts</a>
 </p>

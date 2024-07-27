@@ -1,11 +1,11 @@
 ---
-title: Policies
+title: Policies and Documents
 layout: base.njk
-description: View Northstowe Karate Club's polices, including safeguarding and privacy.
+description: View Northstowe Karate Club's polices and documents
 ---
-## Policies
+## Policies and Documents
 
-Northstowe Karate club has the following policies in place, including a safeguarding policy and privacy policy
+Northstowe Karate club has the following policies in place, including a safeguarding policy and privacy policy. 
 
 ### Safeguarding Policy
 
@@ -18,3 +18,4 @@ Our privacy policy can be found [here](./privacy)
 ### Complaints Policy
 
 Our complaints policy can be found [here](./complaints)
+
