@@ -12,7 +12,7 @@ students, parents, volunteers and other members or associated instructors of Nor
 
 The purpose of this policy is to;
 * Protect children, young people and, adults at risk who receive instruction, classes or martial arts lessons
-through Norsthwowe Karate Club
+through Northstowe Karate Club
 * To provide our instructors and other members of the club’s adult support team with the
 principles that guide our approach to safeguarding and child protection;
 

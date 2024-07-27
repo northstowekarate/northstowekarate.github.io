@@ -1,5 +1,5 @@
 ---
-title: Training
+title: Training Details
 layout: base.njk
 description: Northstowe Karate Club trains on Wednesdays at The Cabin, Northstowe 1830-1930.
 ---
@@ -12,8 +12,6 @@ From Wednesday 3rd July 2024, training will be held at [The Cabin](https://maps.
 
 | Time and Date                       | Location  | 
 | ----------------------------------- | --------- |
-| Wednesday  17th July      1830-1930 | The Cabin - limited space, please prebook via email |
-| Wednesday  24th July      1830-1930 | The Cabin |
 | Wednesday  31st July      1830-1930 | The Cabin |
 | Wednesday  7th  August    1830-1930 | The Cabin |
 | Wednesday  14th August    1830-1930 | The Cabin |
