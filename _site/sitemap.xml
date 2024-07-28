@@ -47,11 +47,6 @@
         </url>
     
         <url>
-            <loc>https://northstowekarate.com/</loc>
-            <lastmod>2024-07-27T16:17:21.615Z</lastmod>
-        </url>
-    
-        <url>
             <loc>https://northstowekarate.com/blog/</loc>
             <lastmod>2024-07-27T16:19:53.589Z</lastmod>
         </url>
@@ -112,13 +107,18 @@
         </url>
     
         <url>
-            <loc>https://northstowekarate.com/instructors/</loc>
-            <lastmod>2024-07-28T12:51:19.022Z</lastmod>
+            <loc>https://northstowekarate.com/training/</loc>
+            <lastmod>2024-07-28T13:05:29.351Z</lastmod>
         </url>
     
         <url>
-            <loc>https://northstowekarate.com/training/</loc>
-            <lastmod>2024-07-28T13:05:29.351Z</lastmod>
+            <loc>https://northstowekarate.com/</loc>
+            <lastmod>2024-07-28T22:13:40.054Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://northstowekarate.com/instructors/</loc>
+            <lastmod>2024-07-28T22:25:29.305Z</lastmod>
         </url>
     
 </urlset>
