@@ -5,7 +5,7 @@ description: Nothstowe Karate Clubs Social Media Policy
 ---
 
 Northstowe Karate Club understand everyone involved in martial arts must recognise that the
-responsibility to safeguard exists both in and out of the dojo. Instructors, assistant instructors and volunteers within clubname must take responsibility for ensuring this happens.
+responsibility to safeguard exists both in and out of the dojo. Instructors, assistant instructors and volunteers within Northstowe Karate Club must take responsibility for ensuring this happens.
 ## Northstowe Karate Club should:
 1.	Refrain from publishing comments about other clubs, participants or instructors and any
 controversial or potentially inflammatory subjects.
@@ -46,7 +46,7 @@ family members of those groups.
 9.	Delete any inappropriate text or email messages sent to you as they may form part
 of any subsequent investigation.
 ## Parent Guidance
-1.	Know who clubname’s Designated Safeguarding Lead (DSL / Welfare Officer) is and how to contact them if you have any concerns about the content of club web pages or in relation to the welfare of your child
+1.	Know who the Designated Safeguarding Lead (DSL / Welfare Officer) is and how to contact them if you have any concerns about the content of club web pages or in relation to the welfare of your child
 2.	Ensure you are aware of how instructors, managers and other members of the club
 should communicate with your child
 3.	Show an interest in the communications between the club, you and your child. Open
@@ -61,14 +61,14 @@ communications that make them feel uncomfortable or when they’ve been asked
 not to tell their parent/carer or instructor about the communication
 7.	Remember as a parent/carer of a child at the club you and your child are responsible
 for and need to abide by the club policy, BMABA Policy Guidance and BMABA Regulations regarding comments that you place online about the club or instructors, other participants and any parents or visitors to the club.
-8.	Inform clubname Designated Safeguarding Lead (DSL) or BMABA as soon as possible if you or your child receives any inappropriate communication from any member of staff/volunteer or other person associated with the club and save the communication
+8.	Inform Northstowe Karate Club Designated Safeguarding Lead (DSL) or BMABA as soon as possible if you or your child receives any inappropriate communication from any member of staff/volunteer or other person associated with the club and save the communication
 9.	Parents must not use social media to speak ill of the club or any staff or associates or
 to comment on students, training or competitions.
 10.	Parents must not reveal any information they may have received about a participant
 ## Student’s Guidance
 ### Students must not:
 1.	Post, host, text or email things that are hurtful, insulting, offensive, abusive,
-threatening, or racist as this would go against clubname’s rules and could also be
+threatening, or racist as this would go against Northstowe Karate Club’s rules and could also be
 against the law. They must also not post personal comments in relation to the management or operation of the club, instructors, students, opposition competitors, or any family members of those above.
 2.	Engage in any personal communications, ‘banter’ or comments with staff / volunteer(s).
 3.	Give out personal details online including mobile numbers, email addresses or social
@@ -86,7 +86,7 @@ any subsequent investigation
 social media posts.
 A breach of this policy will be considered by senior management as a potential case for gross misconduct which could result in expulsion from the club and potential reporting onward to BMABA for regulatory disciplinary processes.
 All reports of cyberbullying and other technology misuses will be investigated fully and may
-result in notification to the police where clubname is obliged to do so.
-Sanctions may include, but are not limited to, suspension, or banning from clubname. Everyone must be aware that in certain circumstances where a crime has been committed, they may be subject to a criminal investigation by the police over which clubname will have no control.
+result in notification to the police where Northstowe Karate Club is obliged to do so.
+Sanctions may include, but are not limited to, suspension, or banning from Northstowe Karate Club. Everyone must be aware that in certain circumstances where a crime has been committed, they may be subject to a criminal investigation by the police over which Northstowe Karate Club will have no control.
 
 
