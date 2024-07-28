@@ -23,7 +23,7 @@ Our complaints policy can be found [here](./complaints)
 
 Practicing any martial arts comes with a certain level of risk. By participating in classes, you agree to have read and understood (or on behalf of a student under 18 as a parent/guardian) our [assumption of risk document](./risk) and are happy to proceed without warranty or guarantee.
 
-### Photograph and Videography Policy
+### Photograph and Video Policy
 
 Details of our photo/video polices can be found [here](./photography)
 
