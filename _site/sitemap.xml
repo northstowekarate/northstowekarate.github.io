@@ -77,11 +77,6 @@
         </url>
     
         <url>
-            <loc>https://northstowekarate.com/training/</loc>
-            <lastmod>2024-07-27T16:24:08.537Z</lastmod>
-        </url>
-    
-        <url>
             <loc>https://northstowekarate.com/policies/complaints/</loc>
             <lastmod>2024-07-27T16:34:17.535Z</lastmod>
         </url>
@@ -89,6 +84,11 @@
         <url>
             <loc>https://northstowekarate.com/policies/safeguarding/policy/</loc>
             <lastmod>2024-07-27T16:35:05.917Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://northstowekarate.com/training/</loc>
+            <lastmod>2024-07-28T09:02:24.413Z</lastmod>
         </url>
     
 </urlset>
