@@ -16,7 +16,7 @@ All students who train on a regular basis will need to be members of the [Japan 
 
 ### Grading Fees
 
-To get your next belt/grade you must take a grading. This consists of you performing your techniques in front of an examiner, who will asses if you have reached the required level. Fees will vary depending on where the grading takes places and may include a training session beforehand. Kyu gradings (colour belts) are approximately £25 although this may vary.
+To get your next belt/grade you must take a grading. This consists of you performing your techniques in front of an examiner, who will asses if you have reached the required level. Fees will vary depending on where the grading takes places and may include a training session beforehand. Kyu gradings (colour belts) are approximately £25.
 
 Dan gradings (black belt) generally require examiners from JKA HQ, and can be upwards of £100.
 
