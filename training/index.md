@@ -34,7 +34,7 @@ Although each lesson will differ, training consists of 3 key elements.
 
 #### Membership Fees
 
-All students who train on a regular basis will need to be members of the Japan Karate Association[(https://jka.or.jp). Membership is £35 / year, includes a license book and allows you to grade.
+All students who train on a regular basis will need to be members of the [Japan Karate Association](https://jka.or.jp). Membership is £35 / year, includes a license book and allows you to grade.
 
 #### Grading Fees
 
