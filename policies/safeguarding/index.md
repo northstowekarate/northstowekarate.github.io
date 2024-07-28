@@ -15,6 +15,8 @@ which is available via our [website](./policy) or freely upon request.
 
 In addition please read the [BMABA's National Safeguarding Policy](/static/BMABA-Association-National-Safeguarding-Policy-2023-2024-Interim.pdf)
 
+[Escalation and Safeguarding Complaints Flow Chart](/static/Safeguarding-Escalation-Flowchart.pdf) is a useful aid for determining how to act quickly.
+
 
 ### OUR SAFEGUARDING PROCEDURES
 
