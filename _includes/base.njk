@@ -15,7 +15,7 @@ description:
     <meta name="description" content="{{ title }}">
     {% endif %}
 
-    <link href="/static/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link href="/static/bootstrap.min.css" rel="stylesheet">
     <title>{{ title }}</title>
     <style>
       img {
@@ -41,9 +41,6 @@ description:
           margin-left: auto;
           margin-right: auto;
         }
-      }
-      ul {
-        overflow: hidden;
       }
       table, th, td {
         border: 1px solid;
@@ -89,7 +86,6 @@ description:
     <div id="page-content" class="justify-content-center">
     {{ content | safe }}
     </div>
-    </div>
-    <script src="/static/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <script src="/static/bootstrap.bundle.min.js"></script>
   </body>
 </html>
