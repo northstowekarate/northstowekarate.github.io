@@ -97,11 +97,6 @@
         </url>
     
         <url>
-            <loc>https://northstowekarate.com/</loc>
-            <lastmod>2024-07-30T19:15:30.839Z</lastmod>
-        </url>
-    
-        <url>
             <loc>https://northstowekarate.com/training/</loc>
             <lastmod>2024-07-30T19:15:45.403Z</lastmod>
         </url>
@@ -129,6 +124,11 @@
         <url>
             <loc>https://northstowekarate.com/why_karate/</loc>
             <lastmod>2024-07-30T19:17:19.631Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://northstowekarate.com/</loc>
+            <lastmod>2024-07-30T19:37:24.579Z</lastmod>
         </url>
     
 </urlset>
