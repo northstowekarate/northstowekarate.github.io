@@ -5,7 +5,7 @@ description: Northstowe Karate Club trains on Wednesdays at The Cabin, Northstow
 ---
 <h2>When and where</h2>
 <p>
-From Wednesday 3rd July 2024, training will be held at <a href="https://maps.app.goo.gl/wXcMAGknwyPFEgMp6">The Cabin</a> 1830-1930. Please register your interest by <a href="/contact">contacting us</a>.
+From Wednesday 3rd July 2024, training will be held at <a href="https://maps.app.goo.gl/wXcMAGknwyPFEgMp6">The Cabin</a> 1830-1930. Please register your interest by <a href="/contact/">contacting us</a>.
 </p>
 
 <h3>Upcoming Sessions</h3>

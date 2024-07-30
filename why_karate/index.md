@@ -12,4 +12,4 @@ Karate teaches you how to defend yourself and others in life threatening situati
 Karate builds fitness, strength and coordination as well as confidence. Karate is an excellent form of exercise which is key for a healthy lifestyle.
 
 ## Values
-Karate instils values in all of it's participants. Karate begins and ends with courtesy. The rules of the dojo ([dojo kun](/dojokun)) teach the importance of improving yourself, trying hard and being faithful.
+Karate instils values in all of it's participants. Karate begins and ends with courtesy. The rules of the dojo ([dojo kun](/dojokun/)) teach the importance of improving yourself, trying hard and being faithful.
