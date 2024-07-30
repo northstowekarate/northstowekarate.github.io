@@ -102,11 +102,6 @@
         </url>
     
         <url>
-            <loc>https://northstowekarate.com/training/</loc>
-            <lastmod>2024-07-28T22:52:05.579Z</lastmod>
-        </url>
-    
-        <url>
             <loc>https://northstowekarate.com/policies/clubrules/</loc>
             <lastmod>2024-07-28T22:57:01.936Z</lastmod>
         </url>
@@ -128,7 +123,12 @@
     
         <url>
             <loc>https://northstowekarate.com/</loc>
-            <lastmod>2024-07-30T18:51:30.044Z</lastmod>
+            <lastmod>2024-07-30T18:52:28.235Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://northstowekarate.com/training/</loc>
+            <lastmod>2024-07-30T18:54:20.154Z</lastmod>
         </url>
     
 </urlset>
