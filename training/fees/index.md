@@ -8,7 +8,7 @@ The first lesson is always free, so you can try it out and see if you enjoy the 
 
 An introductory family discount is also available with up to 2 children free per adult.
 
-Payment by bank transfer is preferred. Please [contact us](/contact) for details.
+Payment by bank transfer is preferred. Please [contact us](/contact/) for details.
 
 ### Membership Fees
 

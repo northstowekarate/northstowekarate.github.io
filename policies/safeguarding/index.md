@@ -11,7 +11,7 @@ our safeguarding policy, it does aim to introduce you to our safeguarding
 mechanisms and acts as our safeguarding statement.
 
 We would ask that you please take a moment to read our safeguarding policy,
-which is available via our [website](./policy) or freely upon request.
+which is available via our [website](./policy/) or freely upon request.
 
 In addition please read the [BMABA's National Safeguarding Policy](/static/BMABA-Association-National-Safeguarding-Policy-2023-2024-Interim.pdf)
 
