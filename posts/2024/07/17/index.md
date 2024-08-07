@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: Northstowe Karate Club - Third Session
-description: For our third session we did a recap of techniques, mae geri and kihon kata
+description: 3rd session - recap of techniques, mae geri and kihon kata
 date: 2024-07-17
 ---
 ## Third session
