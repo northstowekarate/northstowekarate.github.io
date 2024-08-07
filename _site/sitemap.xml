@@ -77,11 +77,6 @@
         </url>
     
         <url>
-            <loc>https://northstowekarate.com/training/fees/</loc>
-            <lastmod>2024-07-30T19:16:00.646Z</lastmod>
-        </url>
-    
-        <url>
             <loc>https://northstowekarate.com/policies/clubrules/</loc>
             <lastmod>2024-07-30T19:16:26.433Z</lastmod>
         </url>
@@ -89,11 +84,6 @@
         <url>
             <loc>https://northstowekarate.com/policies/safeguarding/</loc>
             <lastmod>2024-07-30T19:16:51.493Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>https://northstowekarate.com/why_karate/</loc>
-            <lastmod>2024-07-30T19:17:19.631Z</lastmod>
         </url>
     
         <url>
@@ -139,6 +129,16 @@
         <url>
             <loc>https://northstowekarate.com/contact/</loc>
             <lastmod>2024-08-07T22:44:43.003Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://northstowekarate.com/why_karate/</loc>
+            <lastmod>2024-08-07T23:00:41.333Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://northstowekarate.com/training/fees/</loc>
+            <lastmod>2024-08-07T23:05:16.757Z</lastmod>
         </url>
     
 </urlset>
