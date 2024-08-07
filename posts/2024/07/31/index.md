@@ -1,7 +1,7 @@
 ---
 layout: base.njk
-title: Northstowe Karate Club - 5th Session
-description: Northstowe Karate Clubs 5th session summary and additional information
+title: We practiced kumite for the first time 
+description: We focussed on kumite this lesson with both Jodan and Chudan attacks
 date: 2024-07-31
 ---
 ## 5th session
