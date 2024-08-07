@@ -1,7 +1,7 @@
 ---
-title: What to expect
+title: What to expect for your first lesson
 layout: base.njk
-description: What to expect during a training lesson
+description: Karate consists of 3 parts - kihon (basic techniques), kumite (sparring) and kata (a coreographed sequence of techniques).
 ---
 
 ## What to expect
