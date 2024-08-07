@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Northstowe Karate Club - 6th Session
+title: The lesson focussed on gohon kumite and kihon kata
 description: Northstowe Karate Clubs 6th session summary and additional information
 date: 2024-08-07
 ---
