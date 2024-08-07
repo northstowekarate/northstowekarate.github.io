@@ -1,7 +1,7 @@
 ---
 layout: base.njk
-title: The lesson focussed on gohon kumite and kihon kata
-description: Northstowe Karate Clubs 6th session summary and additional information
+title: 6th Lesson - Sanbon kumite and Kihon Kata
+description: Our 6th lesson started off with turning followed by sanbon kumite (chudan) and Kihon kata
 date: 2024-08-07
 ---
 ## 6th session

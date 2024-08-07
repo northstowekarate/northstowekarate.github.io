@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: We practiced kumite for the first time 
+title: 5th Lesson - We practiced kumite for the first time 
 description: We focussed on kumite this lesson with both Jodan and Chudan attacks
 date: 2024-07-31
 ---
