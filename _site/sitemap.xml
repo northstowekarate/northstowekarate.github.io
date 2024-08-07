@@ -62,11 +62,6 @@
         </url>
     
         <url>
-            <loc>https://northstowekarate.com/training/faq/</loc>
-            <lastmod>2024-07-28T22:35:14.642Z</lastmod>
-        </url>
-    
-        <url>
             <loc>https://northstowekarate.com/policies/photography/</loc>
             <lastmod>2024-07-28T22:59:33.969Z</lastmod>
         </url>
@@ -102,18 +97,8 @@
         </url>
     
         <url>
-            <loc>https://northstowekarate.com/dojokun/</loc>
-            <lastmod>2024-08-07T22:37:27.218Z</lastmod>
-        </url>
-    
-        <url>
             <loc>https://northstowekarate.com/instructors/</loc>
             <lastmod>2024-08-07T22:38:57.908Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>https://northstowekarate.com/training/</loc>
-            <lastmod>2024-08-07T22:39:51.718Z</lastmod>
         </url>
     
         <url>
@@ -137,8 +122,23 @@
         </url>
     
         <url>
+            <loc>https://northstowekarate.com/dojokun/</loc>
+            <lastmod>2024-08-07T23:10:38.540Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://northstowekarate.com/training/</loc>
+            <lastmod>2024-08-07T23:12:40.562Z</lastmod>
+        </url>
+    
+        <url>
             <loc>https://northstowekarate.com/training/fees/</loc>
-            <lastmod>2024-08-07T23:05:16.757Z</lastmod>
+            <lastmod>2024-08-07T23:15:19.634Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://northstowekarate.com/training/faq/</loc>
+            <lastmod>2024-08-07T23:16:17.928Z</lastmod>
         </url>
     
 </urlset>

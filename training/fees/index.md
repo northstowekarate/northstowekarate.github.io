@@ -1,7 +1,7 @@
 ---
 title: Training Fees for Northstowe Karate Club
 layout: base.njk
-description: First lesson is free. After than you pay per session
+description: Your first lesson is always free. After than you pay per session plus an annual license fee.
 ---
 ## Fees 
 The first lesson is always free, so you can try it out and see if you enjoy the lesson. Prices are £4 per session for adults and £3 per session for children.
@@ -12,7 +12,7 @@ Payment by bank transfer is preferred. Please [contact us](/contact/) for detail
 
 ### License Fees
 
-All students who train on a regular basis will need to join the [Japan Karate Association](https://jka.or.jp) and get a license. License fees are is £35 / year, includes a license book and allows you to grade.
+All students who train on a regular basis will need to join the [Japan Karate Association](https://jka.or.jp) and get a license. License fees are is £35 / year, includes a license book, covers insurance and allows you to grade.
 
 ### Grading Fees
 
