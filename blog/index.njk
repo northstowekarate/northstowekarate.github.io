@@ -9,7 +9,7 @@ description: Find out the latest news regarding Northstowe Karate Club
 <ul>
 {%- for post in collections.blog_post | reverse -%}
 {% if atPost < 5 %}
-  <li><a href="{{ post.url }}/">{{ post.data.title }}</a></li>
+  <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
 {% set atPost = atPost + 1 %}
 {% endif %}
 {%- endfor -%}
