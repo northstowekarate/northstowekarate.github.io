@@ -1,7 +1,7 @@
 ---
-title: Dojo Kun 
+title: Dojo Kun - Rules of the Dojo
 layout: base.njk
-description: Dojo Kun - The Five precepts of JKA Shotokan Karate
+description: Dojo Kun - The Five precepts of JKA Shotokan Karate to be used both inside and outside of the dojo
 ---
 # The dojo kun
 
