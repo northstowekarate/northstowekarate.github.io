@@ -42,11 +42,6 @@
         </url>
     
         <url>
-            <loc>https://northstowekarate.com/policies/risk/</loc>
-            <lastmod>2024-07-28T10:37:00.422Z</lastmod>
-        </url>
-    
-        <url>
             <loc>https://northstowekarate.com/policies/healthandsafety/</loc>
             <lastmod>2024-07-28T11:09:56.550Z</lastmod>
         </url>
@@ -57,18 +52,8 @@
         </url>
     
         <url>
-            <loc>https://northstowekarate.com/policies/photography/</loc>
-            <lastmod>2024-07-28T22:59:33.969Z</lastmod>
-        </url>
-    
-        <url>
             <loc>https://northstowekarate.com/policies/socialmedia/</loc>
             <lastmod>2024-07-28T23:02:00.133Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>https://northstowekarate.com/policies/clubrules/</loc>
-            <lastmod>2024-07-30T19:16:26.433Z</lastmod>
         </url>
     
         <url>
@@ -107,21 +92,6 @@
         </url>
     
         <url>
-            <loc>https://northstowekarate.com/contact/</loc>
-            <lastmod>2024-08-07T22:44:43.003Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>https://northstowekarate.com/why_karate/</loc>
-            <lastmod>2024-08-07T23:00:41.333Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>https://northstowekarate.com/dojokun/</loc>
-            <lastmod>2024-08-07T23:10:38.540Z</lastmod>
-        </url>
-    
-        <url>
             <loc>https://northstowekarate.com/training/</loc>
             <lastmod>2024-08-07T23:12:40.562Z</lastmod>
         </url>
@@ -139,6 +109,36 @@
         <url>
             <loc>https://northstowekarate.com/training/whattoexpect/</loc>
             <lastmod>2024-08-07T23:19:30.392Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://northstowekarate.com/contact/</loc>
+            <lastmod>2024-08-07T23:22:00.629Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://northstowekarate.com/policies/photography/</loc>
+            <lastmod>2024-08-09T16:09:28.854Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://northstowekarate.com/why_karate/</loc>
+            <lastmod>2024-08-09T16:10:07.948Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://northstowekarate.com/policies/clubrules/</loc>
+            <lastmod>2024-08-09T16:10:34.692Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://northstowekarate.com/dojokun/</loc>
+            <lastmod>2024-08-09T16:10:49.027Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://northstowekarate.com/policies/risk/</loc>
+            <lastmod>2024-08-09T16:11:06.926Z</lastmod>
         </url>
     
 </urlset>
