@@ -1,7 +1,7 @@
 ---
 title: Safeguarding Policy
 layout: base.njk
-description: Northstowe Karate Club is committed to the safety of all of its students.
+description: Northstowe Karate Club is committed to ensuring the safety of all of its students.
 ---
 
 
