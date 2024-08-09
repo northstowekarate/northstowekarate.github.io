@@ -3,7 +3,7 @@ title: Assumption of Risk
 layout: base.njk
 description: As with any martial art, there is some level of risk involved
 ---
-# Assumption of Risk
+## Assumption of Risk
  
 Martial arts – as with all sports – carry an inherent risk of injury or harm and it is essential that you are fully aware of these dangers before taking part in our class. Please read carefully the following document and continue only if you understand the risks and are happy to proceed.
 

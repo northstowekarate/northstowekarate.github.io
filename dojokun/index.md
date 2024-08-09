@@ -3,7 +3,7 @@ title: Dojo Kun - Rules of the Dojo
 layout: base.njk
 description: Dojo Kun - The Five precepts of JKA Shotokan Karate to be used both inside and outside of the dojo
 ---
-# The dojo kun
+## The dojo kun
 
 The dojo kun are five precepts for both inside and outside of the dojo. Here they are in both Japanese and their translation: 
 
