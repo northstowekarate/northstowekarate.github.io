@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: 5th Lesson - We practiced kumite for the first time 
-description: We focused on kumite this lesson with both Jodan and Chudan attacks
+description: In tonights lesson we did kumite for the first time. We practiced attacking and defending against stepping punch to the face and to the body.
 date: 2024-07-31
 ---
 ## 5th session

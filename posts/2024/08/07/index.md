@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: 6th Lesson - Sanbon kumite and Kihon Kata
-description: Our 6th lesson started off with turning followed by sanbon kumite (chudan) and Kihon kata
+description: In tonights lesson we started off practicing how to turn. We then moved on to 3 step sparring practicing kumite again ending with kihon kata.
 date: 2024-08-07
 ---
 ## 6th session

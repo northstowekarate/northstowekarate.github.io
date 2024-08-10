@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: Northstowe Karate Club - Second Session
-description: 2nd session -  rising and outside block, finishing with kihon kata
+description: In our second session we did a quick recap and then focused on rising block, ensuring the arm is in the correct position. We ended with kihon kata.
 date: 2024-07-10
 ---
 ## Second session
