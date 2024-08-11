@@ -6,9 +6,11 @@ description: Find out historical information regarding Northstowe Karate Club in
 <h1>All Posts</h1>
 A list of all historical posts can be found here in reverse chronological order
 
-<ul>
 {%- for post in collections.blog_post | reverse -%}
-  <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
+<h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+<p>
+{{ post.data.description }}
+</p>
+
 {%- endfor -%}
-</ul>
 
