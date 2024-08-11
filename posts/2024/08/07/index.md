@@ -4,7 +4,7 @@ title: 6th Lesson - Sanbon kumite and Kihon Kata
 description: In tonights lesson we started off practicing how to turn. We then moved on to 3 step sparring practicing kumite again ending with kihon kata.
 date: 2024-08-07
 ---
-## 6th session
+# 6th session
 
 Thank you to all who attended today's lesson. I hope you enjoyed it.
 

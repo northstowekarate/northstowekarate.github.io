@@ -4,7 +4,7 @@ title: 5th Lesson - We practiced kumite for the first time
 description: In tonights lesson we did kumite for the first time. We practiced attacking and defending against stepping punch to the face and to the body.
 date: 2024-07-31
 ---
-## 5th session
+# 5th session
 
 Thank you to everyone who attended. 
 
