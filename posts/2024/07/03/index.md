@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: Northstowe Karate Clubs Opening Session
-description: Out first session focused on oi zuki, learning how to step into front stance, how to make a fist and how to punch, followed by some basic blocks
+description: Our first session focused on oi zuki, learning how to step into front stance, how to make a fist and how to punch, followed by some basic blocks
 date: 2024-07-03
 ---
 ## First session

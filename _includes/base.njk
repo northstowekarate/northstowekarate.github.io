@@ -8,14 +8,13 @@ description:
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta property="og:title" name="title" content="{{ title }}">
-    {%- if description -%}
+    {% if description %}
     <meta name="description" content="{{ description }}">
     <meta property="og:description" name="title" content="{{ description }}">
-    {%- else -%}
+    {% else %}
     <meta name="description" content="{{ title }}">
     <meta property="og:description" name="title" content="{{ title }}">
-    {%- endif -%}
-
+    {% endif %}
     <link href="/static/bootstrap.min.css" rel="stylesheet">
     <title>{{ title }}</title>
     <style>
