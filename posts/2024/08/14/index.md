@@ -2,7 +2,7 @@
 layout: base.njk
 title: 7th Lesson - First Grading (9th Kyu) Syllabus
 description: In tonight's lesson we covered the requirements for 9th Kyu grading. We also practiced sword hand in back stance, hammer fist and heian shodan.
-date: 2024-08-07
+date: 2024-08-14
 ---
 # 7th session
 
