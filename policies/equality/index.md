@@ -117,7 +117,7 @@ Community Legal Services Direct
 Telephone: 0845 345 4 345
 Website: www.clsdirect.uk
 
-##The Extent of the Policy
+## The Extent of the Policy
 ### The Club reserves the right to amend and update this Policy at any time.
 
 This policy has been approved & authorised by:
