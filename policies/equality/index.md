@@ -43,7 +43,7 @@ This occurs when a person is subjected to unwanted conduct that has the purpose 
 This occurs when a person is treated less favourably because they have bought or intend to bring proceedings or they have given or intend to give evidence.
 
 ## Unlawful Reasons for Discrimination
-###Sex
+### Sex
 It is not permissible to treat a person less favourably on the grounds of sex, marital status, civil partnership, pregnancy or maternity, gender reassignment or transgender status. This applies to men, women and those undergoing or intending to undergo gender reassignment. Sexual harassment of men and women can be found to constitute sex discrimination.
 ### Age
 It is not permissible to treat a person less favourably because of their age. This applies to people of all ages.
