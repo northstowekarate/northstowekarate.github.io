@@ -1,5 +1,7 @@
 User-agent: *
 Disallow: /policies/
+Allow: /static/*.css
+Allow: /static/*.js
 Disallow: /static/
 
 Sitemap: https://northstowekarate.com/sitemap.xml
