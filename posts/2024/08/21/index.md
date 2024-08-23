@@ -1,12 +1,12 @@
 ---
 layout: base.njk
-title: 8th Lesson - How to generate power
+title: Northstowe Karate Club 8th Lesson - How to generate power
 description: In tonight's lesson we covered how to generate power-  using the floor, kime and hip rotation. We then practiced our kata and front stance.
 date: 2024-08-14
 ---
 # 8th session
 
-A slightly more technical session tonight than usual.  We focussed on how to make strong powerful techniques - there were two key points.
+A slightly more technical session tonight than usual.  We focused on how to make strong powerful techniques - there were two key points.
 
 The first point was showing how we use the floor. If I push a wall standing on one leg, I'm in a weak position and I fall backwards. If I make a front stance facing the wall when I push, I transfer greater force onto the wall because my rear leg is pushing against the floor. We use our whole bodies to generate power but it starts from the floor.
 

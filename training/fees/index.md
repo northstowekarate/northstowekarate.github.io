@@ -1,5 +1,5 @@
 ---
-title: Northstowe Karate Club - Training Fees
+title: Northstowe Karate Club - Lesson fees and other costs
 layout: base.njk
 description: Your first lesson is always free. After that you pay per session. You'll also need to join the Japan Karate Association to continue training on a regular basis.
 ---

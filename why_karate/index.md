@@ -1,5 +1,5 @@
 ---
-title: Why should I learn Karate?
+title: Northstowe Karate Club - What are the benefits of karate?
 layout: base.njk
 description: Learning Karate with Northstowe Karate Club has numberious benefits including learning effective self defence, gaining confidence and improved fitness
 ---

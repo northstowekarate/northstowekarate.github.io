@@ -1,5 +1,5 @@
 ---
-title: Northstowe Karate Club - What to expect
+title: Northstowe Karate Club - What to expect when training
 layout: base.njk
 description: We teach traditional Shotokan Karate. Karate consists of 3 parts - kihon (basic techniques), kumite (sparring) and kata (a coreographed sequence of techniques).
 ---

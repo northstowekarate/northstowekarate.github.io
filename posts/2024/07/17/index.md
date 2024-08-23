@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Northstowe Karate Club - Third Session
+title: Northstowe Karate Club - Kihon and the first two kata
 description: In our third session we went over techniques from the previous lesson including stepping punch. We then focused on front kick and kihon kata.
 date: 2024-07-17
 ---
