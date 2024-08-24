@@ -1,11 +1,11 @@
 ---
-title: Northstowe Karate Club Dojo Kun - Rules of the dojo.
+title: Northstowe Karate Club | Dojo Kun - Rules of the dojo.
 layout: base.njk
-description: The five rules of the dojo created by Gichin Funakoshi, the founder of Shotokan Karate. Perfect character; Be sincere; Endeavour; Respect others; Self-Control.
+description: Five rules of the dojo created by Gichin Funakoshi, the founder of Shotokan Karate. Perfect character; Be sincere; Endeavour; Respect others; Self-Control.
 ---
-# The dojo kun
+# The Dojo Kun - Rules of the Dojo
 
-The dojo kun are five precepts for both inside and outside of the dojo. Here they are in both Japanese and their translation: 
+The dojo kun are five precepts for both inside and outside of the dojo. Here they are in both Japanese and their approximate translation: 
 
 * Hitotsu, Jinkaku kansei ni tsutomuru koto
   * Seek perfection of character

@@ -1,10 +1,10 @@
 ---
 layout: base.njk
-title: Northstowe Karate Club 7th Session - 9th Kyu Syllabus
-description: In tonight's lesson we covered the requirements for 9th Kyu grading. We also practiced sword hand in back stance, hammer fist and heian shodan.
+title: Northstowe Karate Club | 7th Session - 9th Kyu Syllabus
+description: In tonight's lesson we covered the requirements for 9th Kyu grading. We also practiced sword hand (shuto) in back stance, hammer fist and heian shodan.
 date: 2024-08-14
 ---
-# 7th session
+# Northstowe Karate Club's 7th session
 
 I'll be extending lessons beyond 4th September - I have the hall booked until 13th November. Note that some sessions I only have half the hall booked, so there will be limited space, and I'll ask you to prebook. I'll update the upcoming training sessions on the website shortly, so please check that out. There'll also be updates on the Facebook page and group closer to the time.
 

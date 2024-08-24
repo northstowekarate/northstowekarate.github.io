@@ -1,10 +1,10 @@
 ---
 layout: base.njk
-title: 5th Lesson - We practiced kumite for the first time 
-description: In tonight's lesson we did kumite for the first time. We practiced attacking and defending against stepping punch to the face and to the body.
+title: Northstowe Karate Club | 5th Lesson - Gohon Kumite
+description: In tonight's lesson we did kumite for the first time. We practiced attacking with stepping punch and defending against it with rising and outside blocks
 date: 2024-07-31
 ---
-# 5th session
+# Northstowe Karate Club's 5th session
 
 Thank you to everyone who attended. 
 

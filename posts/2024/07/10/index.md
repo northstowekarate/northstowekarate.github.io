@@ -1,10 +1,10 @@
 ---
 layout: base.njk
-title: Northstowe Karate Club - Our second training session
-description: In our second session we did a quick recap and then focused on rising block, ensuring the arm is in the correct position. We ended with kihon kata.
+title: Northstowe Karate Club | Our second training session
+description: In our second session we did a quick recap and then focused on rising block, ensuring the blocking arm is in the correct position. We ended with kihon kata.
 date: 2024-07-10
 ---
-# Second session
+# Northstowe Karate Club's Second session
 
 *Important Announcement*: Please let me know in advance if you're planning on attending next week (Wednesday 17th July). Only half the hall is available and we will have limited space. I will have to limit numbers. Please send me an [email](mailto:info@northstowekarate.com) if you plan on attending and I will let you know if you can attend.
 

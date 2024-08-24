@@ -1,7 +1,7 @@
 ---
-title: Northstowe Karate Club - Frequently Asked Questions
+title: Northstowe Karate Club | Frequently Asked Questions
 layout: base.njk
-description: We teach both children and adults, age 6+. Please wear loose clothing suitable for sports to your first lesson that doesn't restrict your movement.
+description: Northstowe Karate Club Frequently Asked Questions. We teach both children and adults, aged 6+. Please wear comfortable loose clothing to your first lesson.
 ---
 # Frequently Asked Questions
 
@@ -9,5 +9,5 @@ description: We teach both children and adults, age 6+. Please wear loose clothi
 You don't need a gi (karate uniform) to start. Please wear loose fitting clothes to your first session.
 
 ## What are the age requirements
-We teach both children and adults, aged 6+.
+We teach both children and adults, aged 6+. There's no upper age limit.
 
