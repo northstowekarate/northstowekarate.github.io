@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Northstowe Karate Club | 8th Lesson - Generating power
+title: 8th Lesson - Generating power
 description: In tonight's lesson we looked at how to generate speed and power - using the floor, relaxing, kime and hip rotation. We then practiced kata and front stance.
 date: 2024-08-14
 ---

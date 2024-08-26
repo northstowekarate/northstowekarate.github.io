@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Northstowe Karate Club | 6th Lesson - Sanbon kumite
+title: 6th Lesson - Sanbon kumite
 description: In tonight's lesson we started off practicing how to turn. We then moved on to 3 step sparring with jodan and chudan attacks. We then ended with kihon kata.
 date: 2024-08-07
 ---

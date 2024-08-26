@@ -1,5 +1,5 @@
 ---
-title: Northstowe Karate Club | Frequently Asked Questions
+title: Frequently Asked Questions
 layout: base.njk
 description: Northstowe Karate Club Frequently Asked Questions. We teach both children and adults, aged 6+. Please wear comfortable loose clothing to your first lesson.
 ---

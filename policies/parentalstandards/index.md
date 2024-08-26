@@ -1,5 +1,5 @@
 ---
-title: Northstowe Karate Club Parental Standards Policy
+title: Parental Standards Policy
 layout: base.njk
 description: Nothstowe Karate Club ask all parents and carers to act treat all other members with respect, be on time and respond quickly where appropriate
 ---
