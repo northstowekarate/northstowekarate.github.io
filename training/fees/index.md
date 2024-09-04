@@ -6,7 +6,7 @@ description: Your first lesson is always free, then you pay per session. You'll 
 # Northstowe Karate Club Fees 
 The first lesson is always free, so you can try it out and see if you enjoy the lesson. Prices are £4 per session for adults and £3 per session for children.
 
-An introductory family discount is also available with up to 2 children free per adult.
+I'd like for families to be able train together and understand it can be expensive when training in a large group. To combat this I'm limiting the price to £10 for groups of 3 and £12 for groups of 4.
 
 Payment by bank transfer is preferred. Please [contact us](/contact/) for details.
 
