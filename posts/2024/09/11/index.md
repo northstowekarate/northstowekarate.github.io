@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: 
+title: 2024-09-04 Lesson
 description: We recapped what we've learnt over the 10 week course, practicing our basic techniques, sanbon kumite and kihon kata
 date: 2024-09-04
 ---
