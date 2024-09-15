@@ -2,7 +2,7 @@
 layout: base.njk
 title: 10th Lesson - The finale
 description: We recapped what we've learnt over the 10 week course, practicing our basic techniques, sanbon kumite and kihon kata
-date: 2024-08-28
+date: 2024-09-04
 ---
 # Northstowe Karate Club's 10th session
 
