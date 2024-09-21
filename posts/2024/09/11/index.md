@@ -1,10 +1,10 @@
 ---
 layout: base.njk
-title: 2024-09-04 Lesson
+title: 2024-09-11 Lesson
 description:  We continued practicing our basic techniques and the first two kata kihon and heain shodan
-date: 2024-09-04
+date: 2024-09-11
 ---
-# Lesson 2024-09-04 
+# Lesson 2024-09-11 
 
 Now the initial trial is over, you'll need to join the Japan Karate Association. We affiliated with them via the JSKE. Membership is annual and is £35. This is needed to grade (get your next belt). The license book you'll get through joining will enable you to grade and will contain your grading history.
 
