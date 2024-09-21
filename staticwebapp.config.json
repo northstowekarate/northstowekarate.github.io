@@ -1,0 +1,5 @@
+{
+  "globalHeaders": {
+    "Test-Header": "custom value"
+  }
+}
