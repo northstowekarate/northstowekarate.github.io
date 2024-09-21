@@ -1,5 +1,3 @@
 {
-  "globalHeaders": {
-    "Test-Header": "custom value"
-  }
+  "trailingSlash": "auto"
 }
