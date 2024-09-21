@@ -10,8 +10,5 @@
       "appName": "northstowekarate",
       "resourceGroup": "northstowekarate-rg"
     }
-  },
-  "globalHeaders": {
-    "Strict-Transport-Security": "max-age=3600"
   }
 }
