@@ -1,0 +1,14 @@
+{
+  "$schema": "https://aka.ms/azure/static-web-apps-cli/schema",
+  "configurations": {
+    "northstowekarate": {
+      "appLocation": ".",
+      "outputLocation": "_site",
+      "appBuildCommand": "eleventy",
+      "run": "eleventy --serve",
+      "appDevserverUrl": "http://localhost:8080",
+      "appName": "northstowekarate",
+      "resourceGroup": "northstowekarate-rg"
+    }
+  }
+}
