@@ -1,5 +1,5 @@
 {
-  "trailingSlash": "auto"
+  "trailingSlash": "auto",
   "routes": [
     {
       "route": "/static/*",
