@@ -7,9 +7,9 @@ module.exports = function (eleventyConfig) {
       src,
       alt,
       classes = '',
-      widths = [480, 800],
-      formats = ['jpeg'],
-      sizes = '(max-width: 600px) 480px, 800px',
+      widths = [480, 800, 1200],
+      formats = ['webp'],
+      sizes = '(max-width: 600px) 480px, 800px, 1200px',
     ) => {
       const imageMetadata = await Image(src, {
         widths: [...widths, null],
