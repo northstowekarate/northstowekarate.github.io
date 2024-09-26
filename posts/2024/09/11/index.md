@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: 2024-09-11 Lesson
-description:  We continued practicing our basic techniques and the first two kata kihon and heain shodan
+description:  We continued practicing our basic techniques and the first two kata kihon and heian shodan
 date: 2024-09-11
 ---
 # Lesson 2024-09-11 
@@ -16,5 +16,5 @@ The license books required for grading are sent from Japan and can take a while 
 
 Everyone's looking good in their new gis! I'll hopefully do a new order soon for those who are interested once they've experience a few more lessons.
 
-We continued with practing the basic techniques in tonights lesson - stepping punch, rising block, outside block, lower block. We then continued on with kata practice - kihon kata and heian shodan - the first two kata that are similar to each other.
+We continued with practicng the basic techniques in tonight's lesson - stepping punch, rising block, outside block, lower block. We then continued on with kata practice - kihon kata and heian shodan - the first two kata that are similar to each other.
 

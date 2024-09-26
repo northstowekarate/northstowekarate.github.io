@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: 2024-09-18 Lesson
-description: We went back to basics, practicing zenkutsu dach, soto uke and oi zuki, practicing it alone and then with a partner (kumite).i
+description: We went back to basics, practicing zenkutsu dachi, soto uke and oi zuki, practicing it alone and then with a partner (kumite).i
 date: 2024-09-18
 ---
 # Lesson 2024-09-04 
