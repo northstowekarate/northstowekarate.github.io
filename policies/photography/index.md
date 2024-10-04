@@ -15,7 +15,6 @@ Before images or videos are published by the club and/or any students, parents o
 *	Where a person is considered at risk or is under the age of 18, their name is not published fully alongside any identifiable imagery or video.
 *	Images and videos must be suitable for their intended purpose and must only show participants and other club members appropriately dressed.
 *	Must not contain any obscene, foul or offensive behaviour and/or language.
-*	Where imagery or video will be used on promotional material including websites or printed literature, specific consent will be sought from those identifiable in advance.
 
 ### Videoing As A Coaching Aid
 
