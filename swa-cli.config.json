@@ -8,7 +8,7 @@
       "run": "npm run serve",
       "appDevserverUrl": "http://localhost:8080",
       "appName": "northstowekarate",
-      "resourceGroup": "northstowekarate-rg"
+      "resourceGroup": "northstowekarate"
     }
   }
 }
