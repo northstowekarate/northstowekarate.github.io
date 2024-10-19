@@ -21,7 +21,13 @@ description:
     <title>Northstowe Karate Club | {{ title }}</title>
   </head>
   <body>
-    <div class="display-1 d-flex justify-content-center">Northstowe Karate Club</div>
+    <a href="/">
+    {% image "_includes/logo.svg", "Northstowe Karate Club Logo", "header-logo" %}
+    </a>
+
+    <br />
+
+    <header class="display-1 d-flex justify-content-center">Northstowe Karate Club</header>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -86,6 +92,13 @@ description:
     <div id="page-content" class="justify-content-center">
     {{ content | safe }}
     </div>
+  <footer>
+
+    {% image "_includes/jkawfengland.webp", "JKA WF England Logo", "footer-image-1" %}
+    {% image "_includes/jske.webp", "JSKE Logo", "footer-image-1" %}
+    {% image "_includes/logo.svg", "Northstowe Karate Club Logo", "footer-image-1" %}
+
+  </footer>
   <script src="/static/bootstrap-5.3.3.bundle.min.js"></script>
   </body>
 </html>
