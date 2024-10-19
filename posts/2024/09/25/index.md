@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: 2024-09-25 Lesson Summary
-description: We went back to basics, practicing zenkutsu dachi, soto uke and oi zuki, practicing it alone and then with a partner (kumite).i
+description: A slightly more advanced lesson covering yoko geri keage, kiba dachi and heian nidan.
 date: 2024-09-25
 ---
 # Lesson Summary 2024-09-25 
