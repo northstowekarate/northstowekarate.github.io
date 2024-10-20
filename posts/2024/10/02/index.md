@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: 2024-10-02
+title: 2024-10-02 Lesson Summary and Grading Details
 description: Jodan Sanbon Kumite - Oi Zuki and Age Uke
 date: 2024-10-02
 ---

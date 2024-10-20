@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: 2024-10-16
+title: 2024-10-16 Lesson summary
 description: Mae Geri - Front Kick
 date: 2024-10-16
 ---

@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: 2024-10-09
+title: 2024-10-09 Summary
 description: Keage, Heian Nidan and Kihon Kata Bunkai
 date: 2024-10-09
 ---
