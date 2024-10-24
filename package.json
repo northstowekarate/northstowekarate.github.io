@@ -7,7 +7,7 @@
     "@11ty/eleventy-img": "^4.0.2"
   },
   "scripts": {
-    "build": "rm -rf _site ; npx @11ty/eleventy",
+    "build": "rm -rf _site ; npx @11ty/eleventy ; cp _redirects _headers _site/",
     "serve": "rm -rf _site ; npx @11ty/eleventy --serve"
   },
   "keywords": [],
