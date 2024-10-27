@@ -7,7 +7,7 @@ description: Common japensese words and prashes used in the dojo
 
 ## Beginning and Finishing The lesson
 * HAJIME MASU - let's begin
-* OWARI MASU - finish 
+* OWARI MASU - let's finish 
 * SEIZA - kneel
 * MOKUSO - close your eyes, medidate and breathe deeply, in through nose out through mouth
 * KAI MOKU - open your eyes

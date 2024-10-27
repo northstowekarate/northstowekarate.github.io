@@ -5,6 +5,9 @@ description: Northstowe Karate Club Frequently Asked Questions. We teach both ch
 ---
 # Frequently Asked Questions
 
+## It's my first lesson, what can I expect?
+This is a very common question. Please view our [what to expect](/training/whattoexpect) page for details.
+
 ## What should I wear?
 You don't need a gi (karate uniform) to start. Please wear loose fitting clothes to your first session.
 
