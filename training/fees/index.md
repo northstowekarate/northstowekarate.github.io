@@ -10,7 +10,7 @@ I'd like for families to be able train together and understand it can be expensi
 
 Payment by bank transfer is preferred. Please [contact us](/contact/) for details.
 
-## License Fees
+## Membership Fees
 
 All students who train on a regular basis will need to join the [Japan Karate Association](https://jka.or.jp) and get a license. License fees are is £35 / year, includes a license book, covers insurance and allows you to grade.
 
@@ -19,4 +19,13 @@ All students who train on a regular basis will need to join the [Japan Karate As
 To get your next belt/grade you must take a grading. This consists of you performing your techniques in front of an examiner, who will asses if you have reached the required level. Fees will vary depending on where the grading takes places and may include a training session beforehand. Kyu gradings (colour belts) are approximately £25.
 
 Dan gradings (black belt) generally require examiners from JKA HQ, and can be upwards of £100.
+
+## Funding
+Northstowe Karate Club has been awarded funding to help with the running costs of the club. The club wants to be as accessible as possible, and has allocated some of this funding towards helping those on lower incomes attend. We are able to fund up to 4 students with:
+
+* 1 year annual membership
+* A karate dogi (uniform) plus belt
+* First grading
+
+If you would like to apply, please [get in touch](/contact) for a confidential conversation. The application will be self-assessed so no evidence will be required. Unfortunately, we cannot assist with lesson fees, but may be able to reach an agreement, so please get in touch.
 
