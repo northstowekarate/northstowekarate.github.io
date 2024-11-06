@@ -20,7 +20,7 @@ Our lessons from now on will focus on the grading syllabus for 9th Kyu. You can 
 
 ## Etiquette
 
-We practice Shotokan Karate, a Japanese martial art. One of the core precepts of karate is around respect, and a lot of this comes from Japanese culture. I've added an [etiquette guide](/etiquette) to the website to help. Key points include:
+We practice Shotokan Karate, a Japanese martial art. One of the [core precepts](/dojokun) of karate is around respect, and a lot of this comes from Japanese culture. I've added an [etiquette guide](/etiquette) to the website to help. Key points include:
 * Shoes off before entering the dojo (training hall) and bow when entering / leaving
 * Refer to the instructor as Sensei
 * Say 'Oss/Osu' to answer a question with yes
