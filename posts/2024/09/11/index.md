@@ -16,5 +16,5 @@ The license books required for grading are sent from Japan and can take a while 
 
 Everyone's looking good in their new gis! I'll hopefully do a new order soon for those who are interested once they've experience a few more lessons.
 
-We continued with practicng the basic techniques in tonight's lesson - stepping punch, rising block, outside block, lower block. We then continued on with kata practice - kihon kata and heian shodan - the first two kata that are similar to each other.
+We continued with practicing the basic techniques in tonight's lesson - stepping punch, rising block, outside block, lower block. We then continued on with kata practice - kihon kata and heian shodan - the first two kata that are similar to each other.
 

@@ -9,7 +9,7 @@ description: Common japensese words and prashes used in the dojo
 * HAJIME MASU - let's begin
 * OWARI MASU - let's finish 
 * SEIZA - kneel
-* MOKUSO - close your eyes, medidate and breathe deeply, in through nose out through mouth
+* MOKUSO - close your eyes, meditate and breathe deeply, in through nose out through mouth
 * KAI MOKU - open your eyes
 * SHOMEN NI REI - bow to the front
 * SENSEI NI REI - bow to each sensei 
@@ -18,7 +18,7 @@ description: Common japensese words and prashes used in the dojo
 ## General
 * KARATE - empty hand
 * SHOTOKAN - Pine Waves Hall - SHOTO was Gichin Funakoshi Sensei's (founder of shotokan karate) pen name.
-* OSS / OSU -  Yes / I agree / I understand / I wil try my best
+* OSS / OSU -  Yes / I agree / I understand / I will try my best
 * YAME - stop / finish
 * YASUME - relax
 * HAJIME - begin
@@ -77,6 +77,6 @@ description: Common japensese words and prashes used in the dojo
 * KIBA DACHI - horse riding stance
 * HACHIJI DACHI - natural stance (feet turned out)
 * HEISOKU DACHI - feet together stance
-* SHIZENTAI - nartual position
+* SHIZENTAI - natural position
 
 
