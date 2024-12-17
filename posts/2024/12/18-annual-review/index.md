@@ -20,7 +20,7 @@ The club has official registered with the [JKA](https://jka.or.jp/en) and [JSKE]
 
 ## Grading
 
-We also attended our [first ever grading](/2024/12/07/) at [Cambridge Karate Dojo](https://cambridgekaratedojo.com) where all 4 of our members passed.
+We also attended our [first ever grading](/posts/2024/12/07/) at [Cambridge Karate Dojo](https://cambridgekaratedojo.com) where all 4 of our members passed.
 
 ## BMABA Club Colours and Safeguarding Code
 
