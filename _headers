@@ -2,4 +2,4 @@
   Strict-Transport-Security: max-age=7776000; includeSubDomains; preload
 
 /static/*
-  Cache-Control: public, max-age=432000
+  Cache-Control: public, max-age=2628000
