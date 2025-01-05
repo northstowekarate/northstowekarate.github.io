@@ -56,10 +56,10 @@ It is not permissible to treat a person less favourably because of their sexual 
 ###	Religion or Belief
 It is not permissible to treat a person less favourably because of their religious beliefs or their religion or their lack of any religion or belief.
 
-# Reasonable Adjustments
+## Reasonable Adjustments
 The Club has a duty to make reasonable adjustments to facilitate the teaching of a disabled person.  If a student has a disability and feels that any such adjustments could be made by The Club, they should contact the Designated Officer.
 
-#	Responsibility for the Implementation of this Policy
+##	Responsibility for the Implementation of this Policy
 All instructors, assistant instructors and volunteers of The Club are required to act in a way that does not subject any other students, volunteers or instructors to direct or indirect discrimination, harassment or victimisation on the grounds of their race, sex, pregnancy or maternity, marital or civil partnership status, gender reassignment, disability, religion or beliefs, age or sexual orientation.
 The co-operation of all students and instructors is essential for the success of this Policy. Senior belts are expected to follow this Policy and to try to ensure that all lower grades, volunteers and starters do the same.
 Students and clients may be held independently and individually liable for their discriminatory acts by The Club and in some circumstances their right to train may be revoked.
