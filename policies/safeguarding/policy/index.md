@@ -15,7 +15,7 @@ The purpose of this document is to set out how Northstowe Karate Club protects c
 
 This policy lays out Northstowe Karate Club's responsibilities and the reporting mechanisms, to ensure that instructors, parents, students and members of the public are confident reporting a concern and, for staff, to take appropriate action.
 
-To be clear, Safeguarding is defined as “protecting a persons’ health, wellbeing and human rights, and enabling them to live free from harm, abuse and neglect”. In martial arts, this will typically apply to children and young persons, and adults at risk.
+To be clear, Safeguarding is defined as “protecting a persons’ health, well-being and human rights, and enabling them to live free from harm, abuse and neglect”. In martial arts, this will typically apply to children and young persons, and adults at risk.
 
 ## Scope Of This Policy
 
@@ -38,7 +38,7 @@ In order to provide vulnerable groups with the best possible experience and oppo
 * Always work in an open environment avoiding any isolation, unobserved situation, encouraging an open and transparent club community.
 * Keep physical contact to an absolute minimum.
 * Never be alone with a child and / or vulnerable adult.
-* Where physical contact is essential as part of the safe and structured learning process of the art, discipline or sport being practiced, the instructor and/or teaching person must only do so with the consent of the child and/or vulnerable adult, remaining appropriate, non intrusive and ensuring that where physical contact is essential (for example, when assisting in an essential physical process for the purposes of safety, such as breakfalls) ensuring there is always two fully vetted and suitable adults present at all times.
+* Where physical contact is essential as part of the safe and structured learning process of the art, discipline or sport being practiced, the instructor and/or teaching person must only do so with the consent of the child and/or vulnerable adult, remaining appropriate, non intrusive and ensuring that where physical contact is essential (for example, when assisting in an essential physical process for the purposes of safety, such as break-falls) ensuring there is always two fully vetted and suitable adults present at all times.
 * The involvement of parents / guardians is encouraged wherever possible, provided safeguarding of children and / or vulnerable adults remains the top priority and that any adult may not be given the opportunity to cause harm, distress or abuse to any children and / or vulnerable adults present.
 * Not take photographs, videos or create any other forms of media featuring any children and / or vulnerable adults without consent from the carer, guardian or parents in advance.
 * Ensure that if the club embarks on any extra-curricular activities, safeguarding of children and / or vulnerable adults shall remain a top priority and furthermore, if classes are mixed in gender, both a vetted male and female member of the club must be present when out of the dojo.

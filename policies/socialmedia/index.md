@@ -1,7 +1,7 @@
 ---
 title: Social Media policy
 layout: base.njk
-description: Nothstowe Karate Clubs Social Media Policy
+description: Northstowe Karate Clubs Social Media Policy
 ---
 
 Northstowe Karate Club understand everyone involved in martial arts must recognise that the

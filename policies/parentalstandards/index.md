@@ -1,7 +1,7 @@
 ---
 title: Parental Standards Policy
 layout: base.njk
-description: Nothstowe Karate Club ask all parents and carers to act treat all other members with respect, be on time and respond quickly where appropriate
+description: Northstowe Karate Club ask all parents and carers to act treat all other members with respect, be on time and respond quickly where appropriate
 ---
 At Northstowe Karate Club we take our responsibility to safeguard your child seriously and their welfare is our number one priority. Accordingly, we ask all parents to ensure they follow our parental standards agreement, as set out below. Failure to do so may result in us having to ask you or your child(ren) to leave the club.
 As a parent or carer of a child at Northstowe Karate Club I/we agree that we will;

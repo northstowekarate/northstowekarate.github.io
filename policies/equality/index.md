@@ -1,7 +1,7 @@
 ---
 title: Equal Opportunities and Diversity Policy
 layout: base.njk
-description: Northstowe Karate Club are commited to providing its members equal opportunity
+description: Northstowe Karate Club are committed to providing its members equal opportunity
 ---
 
 # Northstowe Karate Club Equal Opportunities and Diversity Policy

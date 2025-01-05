@@ -1,7 +1,7 @@
 ---
 title: Complaints Policy
 layout: base.njk
-description: Northstowe Karate Club are commited to treating its members fairly and addressing complaints swiftly
+description: Northstowe Karate Club are committed to treating its members fairly and addressing complaints swiftly
 ---
 ## Northstowe Karate Club Complaints Policy
 

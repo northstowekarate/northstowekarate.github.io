@@ -128,7 +128,7 @@ description: Grading Syllabus for 10th - 1st Kyu
 ### KIHON IDŌ KIHON Moving basics (4 TIMES)
 1. SANBON REN-ZUKI (step in) - 3 punches
 2. JŌDAN AGE-UKE, GYAKU-ZUKI (step back) - rising block, reverse punch
-3. CHŪDAN SOTO-UKE in ZENKUTSU-DACHI, changing stance to KIBA-DACHI, YOKO-ENPI, YOKO-URAKEN-UCHI (step in) - outside block, elbow strike, backfist
+3. CHŪDAN SOTO-UKE in ZENKUTSU-DACHI, changing stance to KIBA-DACHI, YOKO-ENPI, YOKO-URAKEN-UCHI (step in) - outside block, elbow strike, back-fist
 4. CHŪDAN UCHI-UKE, GYAKU-ZUKI (step back) - inside block, reverse punch
 5. KŌKUTSU SHUTŌ UKE, ZENKUTSU NUKITE (step in) - sword hand block, spear hand strike
 6. CHŪDAN MAE-GERI (step in) - mid level front kick
@@ -145,7 +145,7 @@ description: Grading Syllabus for 10th - 1st Kyu
 ### KIHON IDŌ KIHON Moving basics (4 TIMES)
 1. SANBON REN-ZUKI (step in) - 3 punches
 2. JŌDAN AGE-UKE, GYAKU-ZUKI (step back) - rising block, reverse punch
-3. CHŪDAN SOTO-UKE, YOKO-ENPI, YOKO-URAKEN-UCHI (ZENKUTSU-DACHI changing stance to KIBA-DACHI), GYAKU-ZUKI (ZENKUTSU-DACHI) (step in) - outside block, elbow strike, backfist, reverse punch
+3. CHŪDAN SOTO-UKE, YOKO-ENPI, YOKO-URAKEN-UCHI (ZENKUTSU-DACHI changing stance to KIBA-DACHI), GYAKU-ZUKI (ZENKUTSU-DACHI) (step in) - outside block, elbow strike, back-fist, reverse punch
 4. CHŪDAN UCHI-UKE, GYAKU-ZUKI (step back) - inside block, reverse punch
 5. KŌKUTSU SHUTŌ-UKE, ZENKUTSU NUKITE (step in) - sword hand block, spear hand strike
 6. CHŪDAN MAE-GERI (step in) - mid level front kick

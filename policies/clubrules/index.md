@@ -1,7 +1,7 @@
 ---
 title: Club Rules
 layout: base.njk
-description: Nothstowe Karate Club Rules
+description: Northstowe Karate Club Rules
 ---
 
 
