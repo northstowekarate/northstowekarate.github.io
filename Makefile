@@ -1,7 +1,7 @@
 .PHONY: build serve
 
 build:
-	rm -rf _site ; npx @11ty/eleventy
+	rm -rf _site ; npm run build 
 serve: build
 	npx @11ty/eleventy --serve
 push:
