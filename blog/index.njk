@@ -1,33 +1,18 @@
 ---
 layout: base.njk
-title: View all of our historical posts
-description: Read our prevous blog posts and information regarding Northstowe Karate Club including lesson summaries, previous events and terminology used during lessons.
-pagination:
-  data: collections.blog_post
-  reverse: true
-  size: 5
+title: Recent blog posts
+description: Read our recent blog posts and information regarding Northstowe Karate Club including lesson summaries, previous events and terminology used during lessons.
 ---
-<h1>All Posts</h1>
+<h1>Recent Posts</h1>
 
-{%- for post in pagination.items -%}
+{%- for post in collections.blog_post -%}
+{% if loop.index0 < 5 %}
 <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
 <p>
 {{ post.data.description }}
 </p>
+{% endif %}
 
 {%- endfor -%}
 
-<nav aria-labelledby="pagination">
-  <h2>Blog Post Navigation</h2>
-  <ul class="pagination">
-    <li class="page-item">{% if pagination.href.previous %}<a class="page-link" href="{{ pagination.href.previous }}">Previous</a></li>{% endif %}
-    {%- for pageEntry in pagination.pages %}
-      {%- if ((loop.index0-pagination.pageNumber) | abs) < 3 -%}
-      <li class="page-item{%- if page.url == pagination.hrefs[ loop.index0 ] %} active{%- endif -%}"><a class="page-link" href="{{ pagination.hrefs[ loop.index0 ] }}"{% if page.url == pagination.hrefs[ loop.index0 ] %} aria-current="page"{% endif %}>{{ loop.index }}</a></li>
-      
-      {%- endif -%}
-    {%- endfor %}
-    
-    {% if pagination.href.next %}<li class="page-item"><a class="page-link" href="{{ pagination.href.next }}">Next</a></li>{% endif %}
-  </ul>
-</nav>
+You can view all of our blog posts <a href="/blog/all">here</a>
