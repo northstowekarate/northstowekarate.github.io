@@ -7,7 +7,7 @@ description: Northstowe Karate Club Frequently Asked Questions. We teach both ch
 
 ## It's my first lesson, what can I expect? 
 
-This is a very common question. For detailed information, please view our ["What to Expect" page](/training/whattoexpect). In brief, your first lesson will introduce you to the basics of karate, including fundamental stances, punches, and kicks. You'll also learn about dojo etiquette and the importance of respect and discipline in martial arts. Our instructors will ensure you feel comfortable and supported throughout the session.
+This is a very common question. For detailed information, please view our ["What to Expect" page](/training/whattoexpect/). In brief, your first lesson will introduce you to the basics of karate, including fundamental stances, punches, and kicks. You'll also learn about dojo etiquette and the importance of respect and discipline in martial arts. Our instructors will ensure you feel comfortable and supported throughout the session.
 
 ## What should I wear? 
 
