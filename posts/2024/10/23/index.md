@@ -6,7 +6,7 @@ date: 2024-10-23
 ---
 # 2024-10-23
 
-Tonight, we continued with some more advanced techniques and katas. We warmed up going through the first, 9th Kyu (orange belt), grading syllabus before moving on to side snap kick in horse riding stance (keage / kiba dachi), shuto uke / kokutsu dachi (sword hand block / back stance). We then finished off with kata performing heian nidan and kihon kata.
+Tonight, we continued with some more advanced techniques and kata. We warmed up going through the first, 9th Kyu (orange belt), grading syllabus before moving on to side snap kick in horse riding stance (keage / kiba dachi), shuto uke / kokutsu dachi (sword hand block / back stance). We then finished off with kata performing heian nidan and kihon kata.
 
 ## Funding
 
