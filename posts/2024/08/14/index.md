@@ -6,7 +6,7 @@ date: 2024-08-14
 ---
 # Northstowe Karate Club's 7th session
 
-I'll be extending lessons beyond 4th September - I have the hall booked until 13th November. Note that some sessions I only have half the hall booked, so there will be limited space, and I'll ask you to prebook. I'll update the upcoming training sessions on the website shortly, so please check that out. There'll also be updates on the Facebook page and group closer to the time.
+I'll be extending lessons beyond 4th September - I have the hall booked until 13th November. Note that some sessions I only have half the hall booked, so there will be limited space, and I'll ask you to pre-book. I'll update the upcoming training sessions on the website shortly, so please check that out. There'll also be updates on the Facebook page and group closer to the time.
 
 I'm also looking to convert the club into a unincorporated non-profit, so if anyone would like to volunteer to help with the running of the club please get in touch. I currently have 3 volunteers including myself, so I have enough to get it up and running, after which I can apply for community funding to help grow the club.
 
