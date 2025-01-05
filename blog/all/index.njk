@@ -5,7 +5,7 @@ description: Read all of our blog posts and information regarding Northstowe Kar
 ---
 <h1>All blog posts</h1>
 
-{%- for post in collections.blog_post -%}
+{%- for post in collections.blog_post | reverse -%}
 <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
 <p>
 {{ post.data.description }}
