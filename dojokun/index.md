@@ -14,6 +14,6 @@ The dojo kun are five precepts for both inside and outside of the dojo. Here the
 * Hitotsu Doryoku no seishin o yashinau koto
   * Put maximum effort into everything you do
 * Hitotsu Reigi o omonzuru koto
-  * [Respect others](/etiquette)
+  * [Respect others](/etiquette/)
 * Hitotsu Kekki no yuu o imashimuru koto
   * Develop self-control and refrain from violent behaviour

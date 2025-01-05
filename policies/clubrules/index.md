@@ -22,4 +22,4 @@ We value all those who interact with our club, and accordingly we insist on the 
 
 If you are unsure about any of the above, you should contact your instructor before taking part and discuss any concerns or questions with them. These rules may be updated from time to time; it is your responsibility to ensure you’re up to date with the latest.
 
-In addition to the above we have an [etiquette guide](/etiquette) and the [dojo kun](/dojokun/).
+In addition to the above we have an [etiquette guide](/etiquette/) and the [dojo kun](/dojokun/).

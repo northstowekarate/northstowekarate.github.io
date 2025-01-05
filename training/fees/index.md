@@ -27,5 +27,5 @@ Northstowe Karate Club has been awarded funding to help with the running costs o
 * A karate dogi (uniform) plus belt
 * First grading
 
-If you would like to apply, please [get in touch](/contact) for a confidential conversation. The application will be self-assessed so no evidence will be required. Unfortunately, we cannot assist with lesson fees, but may be able to reach an agreement, so please get in touch.
+If you would like to apply, please [get in touch](/contact/) for a confidential conversation. The application will be self-assessed so no evidence will be required. Unfortunately, we cannot assist with lesson fees, but may be able to reach an agreement, so please get in touch.
 
