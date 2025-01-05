@@ -3,6 +3,7 @@ title: Health and safety policy
 layout: base.njk
 description: Northstowe Karate Club is committed to keeping it's members safe and well
 ---
+# Health and Safety Policy
 It is the policy of Northstowe Karate Club (“the Club”) to foster a positive health and safety culture throughout the Club because we believe that high standards of health and safety are a moral and professional pre-requisite.
 
 The Club is committed to:

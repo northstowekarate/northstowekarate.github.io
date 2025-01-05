@@ -4,8 +4,7 @@ layout: base.njk
 description: Northstowe Karate Club Rules
 ---
 
-
-## CLUB RULES
+# CLUB RULES
 
 We value all those who interact with our club, and accordingly we insist on the following universal rules for the benefit of all our members and third parties. These rules are designed to be fair, simple and largely based upon common sense to ensure everyone can enjoy a safe, professional class.
 

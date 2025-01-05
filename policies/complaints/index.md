@@ -3,14 +3,14 @@ title: Complaints Policy
 layout: base.njk
 description: Northstowe Karate Club are committed to treating its members fairly and addressing complaints swiftly
 ---
-## Northstowe Karate Club Complaints Policy
+# Northstowe Karate Club Complaints Policy
 
 We take our responsibility to treat our members fairly and with 
 respect very seriously. Accordingly, whilst it’s always disappointing to 
 hear of a complaint, we welcome the opportunity to resolve your 
 concerns and improve the way in which we run our club.  
 
-### Raising A Complaint 
+## Raising A Complaint 
 
 We’re sorry you need to raise a concern with Northstowe Karate Club. Regardless of the nature of your concerns, we 
 want you to know that it will be taken seriously and dealt with as a priority. We welcome complaints via e-mail

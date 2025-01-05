@@ -3,6 +3,7 @@ title: Social Media policy
 layout: base.njk
 description: Northstowe Karate Clubs Social Media Policy
 ---
+# Social Media Policy
 
 Northstowe Karate Club understand everyone involved in martial arts must recognise that the
 responsibility to safeguard exists both in and out of the dojo. Instructors, assistant instructors and volunteers within Northstowe Karate Club must take responsibility for ensuring this happens.
