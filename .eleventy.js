@@ -7,6 +7,7 @@ module.exports = function (eleventyConfig) {
       src,
       alt,
       classes = '',
+      loading = 'lazy',
       widths = [480, 800, 1200],
       formats = ['webp'],
       sizes = '(max-width: 600px) 480px, 800px, 1200px',
@@ -21,7 +22,7 @@ module.exports = function (eleventyConfig) {
       const imageAttributes = {
         alt,
         sizes,
-        loading: "lazy",
+        loading: loading,
         decoding: "async",
         class: classes,
       };
