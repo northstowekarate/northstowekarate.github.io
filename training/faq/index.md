@@ -14,7 +14,7 @@ This is a very common question. For detailed information, please view our ["What
 You don't need a gi (karate uniform) to start. Please wear loose-fitting clothes to your first session. Comfortable athletic wear, such as a t-shirt and sweatpants, is ideal. As you progress, you may choose to invest in a gi, which can enhance your training experience and help you feel more integrated into the karate community.
 
 ## What are the age requirements? 
-We teach both children and adults, aged 8 and above. We will take students aged 6-7 on a case by case basis. There's no upper age limit, so it's never too late to start learning karate. We recommend that young children (6/7) train alongside their parents for the first few sessions to build their confidence gradually. This family-oriented approach can also strengthen bonds and create a supportive learning environment.
+We teach both children and adults, aged 8 and above. We will take students aged 6-7 on a case by case basis. There's no upper age limit, so it's never too late to start learning karate. We recommend that young children train alongside their parents for the first few sessions to build their confidence gradually. This family-oriented approach can also strengthen bonds and create a supportive learning environment.
 
 ## Will I get hurt? 
 
