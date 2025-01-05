@@ -24,7 +24,7 @@ We also attended our [first ever grading](/posts/2024/12/07/) at [Cambridge Kara
 
 ## BMABA Club Colours and Safeguarding Code
 
-As part of our commitment to excellence and quality, Northstowe Karate Club has attained the [BMABA](https://bmaba.org.uk) Club Colours Award. You can verify the clubs status [here](https://bmaba.org.uk/verify/martial-arts-club-checker/). BMABA Club Colours is the UK Martial Arts’ highest level of accreditation in terms of vetting and regulation. As part of this, we have also been awarded the [Safeguarding Code in Martial Arts](https://www.safeguardingcode.com/) by demonstrating our commitment to safeguarding of our students, ensuring best practices are in place.
+As part of our commitment to excellence and quality, Northstowe Karate Club has attained the [BMABA](https://bmaba.org.uk) Club Colours Award. You can [verify the clubs status](https://bmaba.org.uk/verify/martial-arts-club-checker/). BMABA Club Colours is the UK Martial Arts’ highest level of accreditation in terms of vetting and regulation. As part of this, we have also been awarded the [Safeguarding Code in Martial Arts](https://www.safeguardingcode.com/) by demonstrating our commitment to safeguarding of our students, ensuring best practices are in place.
 
 ## Thank you
 
