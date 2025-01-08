@@ -16,15 +16,15 @@ We then moved on to front stance, stepping punch and outside block. Kime applies
 
 ## Kumite (sparring)
 
-We then partnered up and practiced blocking each others punches using outside block to deflect the punches.
+We then partnered up and practiced blocking each others punches using outside block to deflect the punches. Kime is used here too!
 
 ## [Kata (forms)](/kata/heian/)
 
-We then went through kihon kata, the first of the kata.
+We then went through kihon kata, the first of the kata. Kime applies to kata too! 
 
 ## The three K's of karate
 
-Kihon, kumite and kata make up the foundations of karate, and tonight we practiced all 3. Kime applies to kata too! You can find out more about lessons formats on our [What to Expect page](/training/whattoexpect/)
+Kihon, kumite and kata make up the foundations of karate, and tonight we practiced all 3. You can find out more about lessons formats on our [What to Expect page](/training/whattoexpect/)
 
 ## Seiza
 
