@@ -13,7 +13,7 @@ description: Common Japanese words and phrases used in the dojo
 * KAI MOKU - open your eyes
 * SHOMEN NI REI - bow to the front
 * SENSEI NI REI - bow to each sensei 
-* OTAGANI REI - bow to each other
+* OTAGAI NI REI - bow to each other
 
 ## General
 * KARATE - empty hand
