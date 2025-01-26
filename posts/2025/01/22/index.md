@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: 2025-01-22 Lesson Summary
-description: Tonight we continued with kime and how to utilise lower body: hip and legs to generate power
+description: Tonight we continued with kime and how to utilise lower body - hip and legs to generate power
 date: 2025-01-22
 ---
 # 2025-01-22 Lesson Summary - Kime & Lower Body
