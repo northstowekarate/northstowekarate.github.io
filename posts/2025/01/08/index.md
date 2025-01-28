@@ -28,4 +28,4 @@ Kihon, kumite and kata make up the foundations of karate, and tonight we practic
 
 ## Seiza
 
-Karate begins and ends with courtesy. We start and finish each lesson by bowing to the shomen (front), the teacher and each other. We'll also start reciting the [dojo kun](/dojokun) - the 5 precepts of the dojo from next week.
+Karate begins and ends with courtesy. We start and finish each lesson by bowing to the shomen (front), the teacher and each other. We'll also start reciting the [dojo kun](/dojokun/) - the 5 precepts of the dojo from next week.
