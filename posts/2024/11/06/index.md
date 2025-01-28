@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: 2024-11-06 Lesson summary
-description: Only 4 weeks to the grading. We'll continue to focus more on the grading syllabus from now on. Tonight we practiced our basic techniques and the 9th kyu grading syllabus
+description: Only 4 weeks to the grading. We'll continue to focus more on the grading syllabus from now on. Tonight we practiced the 9th kyu grading syllabus
 date: 2024-11-06
 ---
 # 2024-11-06
