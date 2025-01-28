@@ -16,7 +16,7 @@ Well done to our top attendees: Moses and Jasper have attended the most lessons 
 
 ## Club Affiliation
 
-The club has official registered with the [JKA](https://jka.or.jp/en/) and [JSKE](https://jske.co.uk) and we have 14 official members.
+The club has official registered with the [JKA](https://www.jka.or.jp/en/) and [JSKE](https://jske.co.uk) and we have 14 official members.
 
 ## Grading
 

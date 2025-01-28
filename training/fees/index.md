@@ -12,7 +12,7 @@ Payment by bank transfer is preferred. Please [contact us](/contact/) for detail
 
 ## Membership Fees
 
-All students who train on a regular basis will need to join the [Japan Karate Association](https://jka.or.jp/en/) and get a license. License fees are is £35 / year, includes a license book, covers insurance and allows you to grade.
+All students who train on a regular basis will need to join the [Japan Karate Association](https://www.jka.or.jp/en/) and get a license. License fees are is £35 / year, includes a license book, covers insurance and allows you to grade.
 
 ## Grading Fees
 
