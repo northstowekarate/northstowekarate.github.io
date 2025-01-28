@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: 2025-01-22 Lesson Summary
-description: Tonight we continued with kime, relaxation and how to utilise lower body - hip and legs to generate power. Kime is a challenging concept and will take time to master
+description: Tonight we continued learning about kime, relaxing for speed, tensing at the end for power, and how to utilise the hips, legs and floor to generate power.
 date: 2025-01-22
 ---
 # 2025-01-22 Lesson Summary - Kime & Lower Body
