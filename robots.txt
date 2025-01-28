@@ -3,5 +3,6 @@ Disallow: /policies/
 Allow: /static/*.css
 Allow: /static/*.js
 Disallow: /static/
+Disallow: /cdn-cgi/l/email-protection
 
 Sitemap: https://northstowekarate.com/sitemap.xml
