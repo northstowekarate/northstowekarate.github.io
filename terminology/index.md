@@ -1,18 +1,18 @@
 ---
 title: Shotokan Karate Terminology
 layout: base.njk
-description: Common Japanese words and phrases used in the dojo
+description: Common Japanese words and phrases used in the dojo and their meanings, including technique names and body parts
 ---
 # Shotokan Karate Terminology
 
 ## Beginning and Finishing The lesson
 * HAJIME MASU - let's begin
-* OWARI MASU - let's finish 
+* OWARI MASU - let's finish
 * SEIZA - kneel
 * MOKUSO - close your eyes, meditate and breathe deeply, in through nose out through mouth
 * KAI MOKU - open your eyes
 * SHOMEN NI REI - bow to the front
-* SENSEI NI REI - bow to each sensei 
+* SENSEI NI REI - bow to the sensei
 * OTAGAI NI REI - bow to each other
 
 ## General
@@ -32,12 +32,12 @@ description: Common Japanese words and phrases used in the dojo
 
 ### Counting
 * ICHI / SHO - 1
-* NI - 2 
+* NI - 2
 * SAN - 3
 * SHI / YON - 4
 * GO - 5
 * ROKU - 6
-* SHICHI / NANA - 7 
+* SHICHI / NANA - 7
 * HACHI - 8
 * KU - 9
 * JYU - 10
