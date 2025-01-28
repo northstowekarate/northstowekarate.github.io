@@ -10,10 +10,9 @@ description:
     <meta property="og:title" name="title" content="{{ title }} | Northstowe Karate Club">
     {% if description %}
     <meta property="og:description" name="description" content="{{ description }}">
-    {% else %}
-    <meta name="description" content="Northstowe Karate Club | {{ title }}">
-    <meta property="og:description" name="title" content="{{ title }}">
     {% endif %}
+    <meta property="og:url" content="https://www.northstowekarate.com{{ page.url }}">
+    <meta property="og:image" content="https://www.northstowekarate.com/logo.png">
     <link href="/static/bootstrap-5.3.3.min.css" rel="stylesheet">
     <link href="/customstyles/style.css" rel="stylesheet">
     <link rel="icon" type="image/x-icon" href="/favicon.ico">
