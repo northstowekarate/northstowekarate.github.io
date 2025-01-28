@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: 2024-10-02 Lesson Summary and Grading Details
-description: Jodan Sanbon Kumite - Oi Zuki and Age Uke
+description: Jodan Sanbon Kumite - Oi Zuki and Age Uke. We practiced sanbon kumite - attacking and defending 3 consecutive stepping punches with rising and outside block
 date: 2024-10-02
 ---
 # 2024-10-02

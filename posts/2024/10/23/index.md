@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: 2024-10-23 Lesson summary
-description: We practiced the 9th Kyu Grading syllabus, keage in kiba dachi, heian nidan and kihon kata
+description: This lesson, we practiced the 9th Kyu Grading syllabus, keage in kiba dachi, heian nidan and kihon kata in preparation for the upcoming grading in December
 date: 2024-10-23
 ---
 # 2024-10-23

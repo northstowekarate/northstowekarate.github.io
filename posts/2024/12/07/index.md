@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: 2024-12-07 Grading at Cambridge Karate Dojo
-description: This was Northstowe Karate Clubs first grading. 4/4 students passed - well done!
+description: Northstowe karate club attended it's first grading. We started off with some training with Roy Tomlin Sensei and ended up with 4/4 grading passes. Well done!
 date: 2024-12-07
 ---
 # 2024-12-07 Grading

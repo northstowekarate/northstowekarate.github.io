@@ -16,7 +16,7 @@ Engaging in karate presents a lifelong challenge with numerous opportunities for
 Karate is an excellent form of physical exercise that enhances strength, flexibility, and coordination. Regular practice contributes to overall fitness and is a key component of a healthy lifestyle. The physical demands of karate ensure that practitioners stay active and fit.
 
 ## Instil Values
-Karate is rooted in strong values, beginning and ending with courtesy. The dojo kun, or rules of the dojo, emphasize the importance of self-improvement, perseverance, and loyalty. These principles are instilled in all participants, promoting personal growth and ethical behaviour.
+Karate is rooted in strong values, beginning and ending with courtesy. The dojo kun, or rules of the dojo, emphasise the importance of self-improvement, perseverance, and loyalty. These principles are instilled in all participants, promoting personal growth and ethical behaviour.
 
 ## Make Friends
 Karate provides a wonderful opportunity to meet like-minded individuals and form lasting friendships. The sense of community within the dojo fosters camaraderie and mutual support, making it a great way to connect with others.

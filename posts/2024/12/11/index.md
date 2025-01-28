@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: 2024-12-11 Lesson summary
-description: This was our last lesson of the year and we had some fun with pads and break boards
+description: This was our last lesson of the year and we had some fun. We started out with some basics but quickly moved on to working with pads and break boards.
 date: 2024-12-11
 ---
 # 2024-12-11

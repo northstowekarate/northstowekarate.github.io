@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: 2024-09-11 Lesson
-description:  We continued practicing our basic techniques and the first two kata kihon and heian shodan
+description: Everyone was looking great in their new gis. We continued practicing our basic techniques and the first two kata kihon and heian shodan. 
 date: 2024-09-11
 ---
 # Lesson 2024-09-11 
