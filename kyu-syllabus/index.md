@@ -1,7 +1,7 @@
 ---
 title: Kyu Grading Syllabus 
 layout: base.njk
-description: Grading Syllabus for 10th - 1st Kyu
+description: Defines the JSKE Kyu Grading Syllabus. Specifies all the basic techniques, sparring and kata required for each kyu grade
 ---
 # JSKE Kyu Grading Syllabus 
 
