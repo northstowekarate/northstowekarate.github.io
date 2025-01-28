@@ -1,5 +1,5 @@
 ---
-title: Shotokan Karate Terminology.
+title: Shotokan Karate Terminology
 layout: base.njk
 description: Common Japanese words and phrases used in the dojo
 ---

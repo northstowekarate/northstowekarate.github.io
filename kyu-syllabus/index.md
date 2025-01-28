@@ -1,5 +1,5 @@
 ---
-title: JSKE Kyu Grading Syllabus 
+title: Kyu Grading Syllabus 
 layout: base.njk
 description: Grading Syllabus for 10th - 1st Kyu
 ---
