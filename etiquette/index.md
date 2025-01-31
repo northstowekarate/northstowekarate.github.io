@@ -1,5 +1,5 @@
 ---
-title: Dojo Etiquette
+title: Dojo Etiquette - How to be respecful in the dojo
 layout: base.njk
 description: Being respectful to ourselves and to each other is a vital part of karate. We must treat everyone with respect and dignity.
 ---
@@ -14,7 +14,7 @@ Being respectful to ourselves and to each other it a vital part of karate. It is
   * Keep fingernails and toenails short to prevent hurting yourself or training partners
 * Remove jewellery or cover it up before the lesson to prevent hurting yourself or training partners
 * Tie long hair back
-* As you enter/leave, bow with both feet together and say "oss"
+* As you enter/leave, bow with both feet together
 * Try your best
 * Refrain from foul language and violence
 * Refer to your teacher as Sensei, never by their name alone
