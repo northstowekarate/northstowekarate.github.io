@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: 2025-01-29 Lesson Summary
-description: We had 6 new joiners this session. We went back to basics, practicing various kihon techniques. We introduced kumite concepts and then finished practices the first 4 kata
+description: We had 6 new joiners this session. We went back to basics, practicing various kihon techniques. We introduced kumite concepts and then finished with the first 4 kata
 date: 2025-01-29
 ---
 # 2025-01-29 Lesson Summary
