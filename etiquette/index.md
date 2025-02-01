@@ -1,14 +1,14 @@
 ---
-title: Dojo Etiquette - How to be respecful in the dojo
+title: Dojo Etiquette - How to be respectful in the dojo
 layout: base.njk
 description: Being respectful to ourselves and to each other is a vital part of karate. We must treat everyone with respect and dignity.
 ---
 # Dojo Etiquette
 
-Being respectful to ourselves and to each other it a vital part of karate. It is also part of the [dojo kun](/dojokun/). Here are some points on being respectful in the dojo.
+Being respectful to ourselves and to each other is a vital part of karate. It is also part of the [dojo kun](/dojokun/). Here are some points on being respectful in the dojo.
 
 * Treat everyone with respect and dignity
-* Shoes should be removed *BEFORE* entering the dojo
+* Shoes should be removed *before* entering the dojo
 * Practice good personal hygiene
   * Ensure your gi is clean and washed regularly
   * Keep fingernails and toenails short to prevent hurting yourself or training partners
@@ -19,7 +19,7 @@ Being respectful to ourselves and to each other it a vital part of karate. It is
 * Refrain from foul language and violence
 * Refer to your teacher as Sensei, never by their name alone
   * Using sensei as a title before or after the first/last name is also acceptable e.g. Sensei Simon or Apen-Sadler Sensei
-* If late, warm up if possible without interfering with the class and kneel at the edge of the dojo where the instructor can see you. You will be invited to join the class when it it safe to do so
+* If late, warm up if possible without interfering with the class and kneel at the edge of the dojo where the instructor can see you. You will be invited to join the class when it is safe to do so.
   * Never just join in a class without permission - this could be dangerous, and is also disrespectful
 * Help your senior grades / instructor(s)
   * Example - If you see a senior grade sweeping the floor before the lesson, offer to help
