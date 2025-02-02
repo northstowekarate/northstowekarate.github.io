@@ -5,4 +5,5 @@ Allow: /static/*.js
 Disallow: /static/
 Disallow: /cdn-cgi/l/email-protection
 
-Sitemap: https://northstowekarate.com/sitemap.xml
+Sitemap: https://www.northstowekarate.com/sitemap.xml
+
