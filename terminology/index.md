@@ -3,7 +3,7 @@ title: Shotokan Karate Terminology
 layout: base.njk
 description: Common Japanese words and phrases used in the dojo and their meanings, including technique names and body parts
 ---
-# Shotokan Karate Terminology
+# Shotokan Karate Words and Phrases
 
 ## Beginning and Finishing The lesson
 * HAJIME MASU - let's begin
