@@ -1,4 +1,4 @@
-.PHONY: build serve
+.PHONY: build serve push pull
 
 build:
 	rm -rf _site ; npx @11ty/eleventy
