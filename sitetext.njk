@@ -1,0 +1,7 @@
+---
+permalink: /sitemap.
+eleventyExcludeFromCollections: true
+---
+{% for page in collections.all %}
+{{ site.url }}{{ page.url | url }}
+{% endfor %}
