@@ -1,5 +1,5 @@
 ---
-title: Kyu Grading Syllabus 
+title: Kyu Grading Syllabus - Northstowe Karate Club 
 layout: base.njk
 description: Defines the JSKE Kyu Grading Syllabus. Specifies all the basic techniques, sparring and kata required for each kyu grade
 ---

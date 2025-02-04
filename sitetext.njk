@@ -1,7 +1,6 @@
 ---
-permalink: /sitemap.
+permalink: /sitemap.txt
 eleventyExcludeFromCollections: true
 ---
-{% for page in collections.all %}
-{{ site.url }}{{ page.url | url }}
+{% for page in collections.all %}{{ site.url }}{{ page.url | url }}
 {% endfor %}
