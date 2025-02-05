@@ -2,6 +2,7 @@
 title: Shotokan Karate Terminology | Northstowe Karate Club
 layout: base.njk
 description: Common Japanese words and phrases used in the dojo and their meanings, including technique names and body parts
+date: "git Last Modified"
 ---
 # Shotokan Karate Words and Phrases
 
