@@ -22,5 +22,5 @@ Kumite (sparring) is done with a partner. We practiced the steps and techniques 
 
 ## Kata
 
-We then practiced our kata. Beginners practiced the first kata (kihon kata) a.k.a. taikyoku shodan. Others practiced up to heian sandan. We practiced theses kata, in part, to help prepare for the grading. We do not have long to go! You can find [videos of the kata](/kata/heian) so you can learn an practice at home.
+We then practiced our kata. Beginners practiced the first kata (kihon kata) a.k.a. taikyoku shodan. Others practiced up to heian sandan. We practiced theses kata, in part, to help prepare for the grading. We do not have long to go! You can find [videos of the kata](/kata/heian/) so you can learn an practice at home.
 
