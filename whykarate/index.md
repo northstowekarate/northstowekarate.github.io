@@ -1,5 +1,5 @@
 ---
-title: Benefits of Learning Karate | Northstowe Karate Club
+title: Benefits of Learning Karate
 layout: base.njk
 description: Learning Karate with Northstowe Karate Club has numerous benefits including learning effective self defence, gaining confidence and improved fitness
 date: "git Last Modified"

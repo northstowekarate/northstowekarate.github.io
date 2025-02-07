@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Back Stance - 5th Feb Lesson Summary | Northstowe Karate Club
+title: Back Stance - 5th Feb Lesson Summary
 description: We practiced kokutsu dachi (back stance). Key points of back stance include the L shape, 70% weight on the back leg and s soft hip.
 date: 2025-02-05
 ---
