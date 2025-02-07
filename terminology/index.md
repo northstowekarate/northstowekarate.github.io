@@ -4,7 +4,7 @@ layout: base.njk
 description: Common Japanese words and phrases used in the dojo and their meanings, including technique names and body parts
 date: "git Last Modified"
 ---
-# Shotokan Karate Words and Phrases
+# Common Japansese Words and Phrases 
 
 ## Beginning and Finishing The lesson
 * HAJIME MASU - let's begin

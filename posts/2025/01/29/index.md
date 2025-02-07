@@ -4,7 +4,7 @@ title: 2025-01-29 Lesson Summary
 description: We had 6 new joiners this session. We went back to basics, practicing basic techniques. We introduced kumite concepts then finished with kata
 date: 2025-01-29
 ---
-# 2025-01-29 Lesson Summary - Front Stance
+# Front Stance - 29th Jan Lesson Summary
 
 ## Choku Zuki
 
