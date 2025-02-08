@@ -1,1 +1,7 @@
-{"tags": ["blog_post"]}
+{
+  "tags": [
+    "blog_post"
+  ],
+  "priority": 0.1,
+  "changeFrequency": "never"
+}

@@ -8,6 +8,8 @@ eleventyExcludeFromCollections: true
         <url>
             <loc>{{ site.url }}{{ page.url | url }}</loc>
             <lastmod>{{ page.date.toISOString() }}</lastmod>
+            <priority>{{ page.data.priority }}</lastmod>
+            <changefreq>{{ page.data.changeFrequency }}</changefreq>
         </url>
     {% endfor %}
 </urlset>
