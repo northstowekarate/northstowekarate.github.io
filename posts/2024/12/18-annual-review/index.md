@@ -3,7 +3,7 @@ layout: base.njk
 title: Northstowe Karate Club Annual Review 2024
 description: We have had 24 sessions this year, with 40+ students training once, and had a successful grading with 4/4 passes!
 date: 2024-12-18
-priority: 0.3
+priority: 0.4
 ---
 # Annual Review 2024
 
