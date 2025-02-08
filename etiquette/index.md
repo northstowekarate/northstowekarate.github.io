@@ -4,6 +4,7 @@ layout: base.njk
 description: Being respectful to ourselves and to each other is a vital part of karate. We must treat everyone with respect and dignity.
 date: "git Last Modified"
 priority: 0.6
+changeFrequency: yearly
 ---
 # Dojo Etiquette
 
