@@ -3,6 +3,8 @@ layout: base.njk
 title: 2024-11-20 Lesson summary
 description: Only 2 more lessons until the grading. We'll focus more on the grading syllabus from now on. Tonight we went through 9th - 7th Kyu Grading syllabus.
 date: 2024-11-20
+tags:
+- Lesson-Summary
 ---
 # 2024-11-20
 

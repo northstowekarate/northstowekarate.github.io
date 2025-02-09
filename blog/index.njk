@@ -18,4 +18,14 @@ changeFrequency: weekly
 
 {%- endfor -%}
 
-For more information, view our <a href="/blog/all/">historical blog posts</a>
+<h2>Post Categories</h2>
+  <ul>
+  {% for tag, tagData in collections %}
+    <li><a href="/tags/{{ tag }}">{{ tag }}</a></li>
+  {% endfor %}
+  </ul>
+
+<h2>All blog posts</h2>
+<p>
+You can also view all of our <a href="/blog/all/">historical blog posts</a>.
+<p/>

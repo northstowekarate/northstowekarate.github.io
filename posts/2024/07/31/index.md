@@ -3,6 +3,8 @@ layout: base.njk
 title: 5th Lesson - Gohon Kumite
 description: In tonight's lesson we did kumite for the first time. We practiced attacking with stepping punch and defending against it with rising and outside blocks
 date: 2024-07-31
+tags:
+- Lesson-Summary
 ---
 # Northstowe Karate Club's 5th session
 

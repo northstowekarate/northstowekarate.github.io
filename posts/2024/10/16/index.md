@@ -3,6 +3,8 @@ layout: base.njk
 title: 2024-10-16 Lesson summary
 description: We practiced Mae Geri - Front Kick. You must raise your knee first, use the ball of the foot and snap the foot back when executing front kick
 date: 2024-10-16
+tags:
+- Lesson-Summary
 ---
 # 2024-10-16
 

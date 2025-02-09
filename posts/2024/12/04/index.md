@@ -3,6 +3,8 @@ layout: base.njk
 title: 2024-12-04 Lesson summary
 description: This was our last lesson before the grading. We practiced the grading syllabus again, focusing on sanbon kumite.
 date: 2024-12-04
+tags:
+- Lesson-Summary
 ---
 # 2024-12-04
 

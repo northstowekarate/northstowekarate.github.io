@@ -3,6 +3,8 @@ layout: base.njk
 title: 2024-09-25 Lesson Summary
 description: A slightly more advanced lesson covering yoko geri keage, kiba dachi and heian nidan. With side kick you must use the edge of the foot.
 date: 2024-09-25
+tags:
+- Lesson-Summary
 ---
 # Lesson Summary 2024-09-25 
 
