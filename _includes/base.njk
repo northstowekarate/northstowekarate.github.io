@@ -1,6 +1,7 @@
 ---
 title: Northstowe Karate Club
 description:
+noindex: false
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -9,6 +10,9 @@ description:
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta property="og:title" content="{{ title }}">
     <meta property="og:site_name" content="Northstowe Karate Club">
+    {% if noindex %}
+    <meta name="robots" content="noindex">
+    {% endif %}
     {% if description %}
     <meta name="description" property="og:description" content="{{ description }}">
     {% endif %}
