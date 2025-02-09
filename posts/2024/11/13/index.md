@@ -4,7 +4,7 @@ title: 2024-11-13 Lesson summary
 description: Only 4 weeks to the grading. We'll focus more on the grading syllabus from now on. Tonight we practiced kihon kata.
 date: 2024-11-13
 tags:
-- Lesson Summary
+- Lesson-Summary
 ---
 # 2024-11-13
 
