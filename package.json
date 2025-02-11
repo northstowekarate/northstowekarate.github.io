@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": ".eleventy.js",
   "devDependencies": {
-    "@11ty/eleventy": "^2.0.1",
-    "@11ty/eleventy-img": "^4.0.2"
+    "@11ty/eleventy": "^3.0.0",
+    "@11ty/eleventy-img": "^6.0.1"
   },
   "scripts": {
     "build": "git fetch --unshallow ; rm -rf _site ; npx @11ty/eleventy ; cp _redirects _headers _site/",

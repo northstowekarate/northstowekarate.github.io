@@ -83,7 +83,7 @@ Key contacts for Northstowe Karate Club are as follows;
 
 Simon Apen-Sadler
 
-{% image "policies/safeguarding/policy/simon-apen-sadler.webp", "Simon Apen-Sadler, Safeguarding Lead" %}
+<img src="simon-apen-sadler.webp" alt="Simon Apen-Sadler, Safeguarding Lead">
 
 Email: info@northstowekarate.com
 
