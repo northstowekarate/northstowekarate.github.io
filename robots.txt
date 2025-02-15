@@ -2,6 +2,8 @@ User-agent: *
 Allow: /static/*.css
 Allow: /static/*.js
 Disallow: /static/
+Disallow: /policies/
+Disallow: /tags/
 Disallow: /cdn-cgi/l/email-protection
 
 Sitemap: https://www.northstowekarate.com/sitemap.xml
