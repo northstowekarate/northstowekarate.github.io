@@ -17,7 +17,7 @@ All students who train on a regular basis will need to join the [Japan Karate As
 
 ## Grading Fees
 
-To get your next belt/grade you must take a grading. This consists of you performing your techniques in front of an examiner, who will asses if you have reached the required level. Fees will vary depending on where the grading takes places and may include a training session beforehand. Kyu gradings (colour belts) are approximately £25.
+To get your next belt/grade, you must take a grading. This consists of you performing your techniques in front of an examiner, who will assess if you have reached the required level. Fees will vary depending on where the grading takes places and may include a training session beforehand. Kyu gradings (colour belts) are approximately £25.
 
 Dan gradings (black belt) generally require examiners from JKA HQ, and can be upwards of £100.
 
@@ -28,5 +28,5 @@ Northstowe Karate Club has been awarded funding to help with the running costs o
 * A karate dogi (uniform) plus belt
 * First grading
 
-If you would like to apply, please [get in touch](/contact/) for a confidential conversation. The application will be self-assessed so no evidence will be required. Unfortunately, we cannot assist with lesson fees, but may be able to reach an agreement, so please get in touch.
+If you would like to apply, please [get in touch](/contact/) for a confidential conversation. The application will be self-assessed, so no evidence will be required. Unfortunately, we cannot assist with lesson fees, but may be able to reach an agreement, so please get in touch.
 
