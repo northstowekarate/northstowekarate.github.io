@@ -20,6 +20,7 @@ module.exports = function (eleventyConfig) {
 			imgAttributes: {
 				loading: "lazy",
 				decoding: "async",
+        sizes: "max-width:576 200, max-width:768 600, max-width:1200 800, min-width:1200 auto"
 			},
 			pictureAttributes: {}
 		},
