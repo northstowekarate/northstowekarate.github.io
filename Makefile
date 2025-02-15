@@ -1,9 +1,11 @@
-.PHONY: build serve push pull
+.PHONY: build serve push pull clean
 
-build:
-	rm -rf _site ; npx @11ty/eleventy
+build: clean
+	npm run build
+clean:
+	rm -rf _site
 serve: build
-	npx @11ty/eleventy --serve --ignore-initial
+	npm run serve
 push:
 	git -c "core.sshCommand=ssh -i ~/.ssh/id_ed25519_northstowekarate" push -u origin main --force-with-lease
 pull:
