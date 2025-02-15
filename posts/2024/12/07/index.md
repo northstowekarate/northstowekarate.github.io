@@ -12,6 +12,6 @@ Northstowe Karate Club attended its first grading at Cambridge Karate Dojo.
 
 It started with a lesson with Sensei Roy Tomlin MBE (7th Dan JTKI / 6th Dan JKA) at 2pm - everyone was training hard in preparation for the grading. The grading then started at 3pm. A total of 68 students graded, 4 from our Club - with 68 passes. The overall standard was very high. Well done to Albert, Anish and Celeste for passing their 9th Kyu (orange belt) and Ian for passing 7th Kyu (yellow belt).
 
-<img src="20241207-grading.webp" alt="Northstowe Karate club students and instructor celebrating grading passes" class="img-fluid" loading="eager">
+<img src="20241207-grading.webp" alt="Northstowe Karate club students and instructor celebrating grading passes" class="img-fluid" loading="eager" eleventy:widths="200,600">
 
 You can find out more at the [Cambridge Karate Dojo website](https://cambridgekaratedojo.com/news/)
