@@ -4,6 +4,3 @@
     X-Robots-Tag: noindex,nofollow
 /tags/*
     X-Robots-Tag: noindex,nofollow
-/*
-  Strict-Transport-Security: max-age=7776000; includeSubDomains; preload
-
