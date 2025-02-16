@@ -1,8 +1,6 @@
 /static/*
-    X-Robots-Tag: noindex,nofollow
+  X-Robots-Tag: noindex,nofollow
 /policies/*
-    X-Robots-Tag: noindex,nofollow
+  X-Robots-Tag: noindex,nofollow
 /tags/*
-    X-Robots-Tag: noindex,nofollow
-/*
-    X-Robots-Tag: index,follow
+  X-Robots-Tag: noindex,nofollow
