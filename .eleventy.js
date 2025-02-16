@@ -8,6 +8,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("favicon.ico");
   eleventyConfig.addPassthroughCopy("b4eef191457c4b6ebf0812ce0cbb16c5.txt");
 
+  eleventyConfig.addPassthroughCopy("{,!(_site)/**/}*.webp");
+
 	eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
 		// output image formats
 		formats: ["webp"],
