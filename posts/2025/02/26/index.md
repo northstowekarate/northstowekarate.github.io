@@ -33,7 +33,7 @@ Finally, we put everything together and practiced 3 step sparring - attacking an
 * Wait for your opponent and get your timing right
 * Step back quickly
 * Keep your weight on your front foot
-* Block and counter with strengh and speed
+* Block and counter with strength and speed
 * Kiai on the final counter punch
 * Step forward when finishing 
 
