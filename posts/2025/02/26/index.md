@@ -9,7 +9,7 @@ tags:
 # Lesson Summary - 26th Feb 2025
 
 ## Basic Techniques
-We started off the lesson with a warm up followed by some basic techniques on the spot - age uke and soto uke. We then moved on to.
+We started off the lesson with a warm up followed by some basic techniques on the spot - age uke and soto uke.
 
 ## Sparring on the spot
 To simplify things, we started off practicing kumite on the spot, facing each other while one side attacked and the other would block the attack. This also helped you get the timing correct, so you were not blocking too early or too late.
@@ -25,12 +25,15 @@ Finally, we put everything together and practiced 3 step sparring - attacking an
 ### When attacking:
 * Ensure you are punching to the correct target
 * Ensure you are at the correct distance - the attacker sets the initial distance
-* Strong techniques with kiai on the final technique
+* Perform techniques with speed and power and with kiai on the final technique
 * Your front foot should be next to your opponents front foot, alternating from inside to outside
+* Step back when finishing
 
 ### When defending:
 * Wait for your opponent and get your timing right
 * Step back quickly
 * Keep your weight on your front foot
+* Block and counter with strengh and speed
 * Kiai on the final counter punch
+* Step forward when finishing 
 
