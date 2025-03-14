@@ -72,6 +72,10 @@ Your browser does not support the video tag
 ### KUMITE
 1. GOHON KUMITE (JŌDAN OI-ZUKI, CHŪDAN OI-ZUKI) - 5 step sparring
 
+<div class="video-container">
+<iframe class="video" src="https://www.youtube.com/embed/RFXpkhpO8Ec?si=qnGDUKIXrGohfjv3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 \* Examiners look predominantly for correct basic form
 
 ## 7th Kyu (Yellow)
