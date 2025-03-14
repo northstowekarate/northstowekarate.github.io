@@ -17,16 +17,47 @@ changeFrequency: yearly
 
 \* “GOREI” command (From right side in turn for each Waza)
 
+10th Kyu is usually reserved for very young students who aren't ready for 9th kyu but have demonstrated some progress.
+
 ## 9th Kyu (Orange)
 ### KIHON Idō Kihon Moving basics (4 TIMES)
 1. CHŪDAN OI-ZUKI (step in) - mid level stepping punch
 2. JŌDAN AGE-UKE (step in) - rising block
 3. CHŪDAN SOTO-UKE (step in) - outside block
 4. CHŪDAN MAE-GERI (step in) - mid level front kick
+
+Here's a short video demonstrating kihon for 9th kyu.
+
+<div class="video-container">
+<video class="video" controls>
+<source src="/media/nkc-9kyu-kihon.mp4" type="video/mp4">
+Your browser does not support the video tag
+</video>
+</div>
+
 ### KATA
 1. KIHON KATA
+
+Here's a short video demonstrating kihon kata for 9th kyu.
+
+<div class="video-container">
+<video class="video" controls>
+<source src="/media/nkc-9kyu-kihon-kata.mp4" type="video/mp4">
+Your browser does not support the video tag
+</video>
+</div>
+
 ### KUMITE
 1. SANBON KUMITE (JŌDAN OI-ZUKI, CHŪDAN OI-ZUKI) - 3 step sparring
+
+Here's a short video demonstrating sanbon for 9th kyu. Note that these are the steps for practicing at home. Kumite is performed with a partner.
+
+<div class="video-container">
+<video class="video" controls>
+<source src="/media/nkc-9kyu-sanbon-kumite.mp4" type="video/mp4">
+Your browser does not support the video tag
+</video>
+</div>
 
 ## 8th Kyu (Red)
 ### KIHON IDŌ KIHON Moving basics (4 TIMES)
