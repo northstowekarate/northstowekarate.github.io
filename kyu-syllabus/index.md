@@ -38,15 +38,6 @@ Your browser does not support the video tag
 ### KATA
 1. KIHON KATA
 
-Here's a short video demonstrating kihon kata for 9th kyu.
-
-<div class="video-container">
-<video class="video" controls>
-<source src="/media/nkc-9kyu-kihon-kata.mp4" type="video/mp4">
-Your browser does not support the video tag
-</video>
-</div>
-
 ### KUMITE
 1. SANBON KUMITE (JŌDAN OI-ZUKI, CHŪDAN OI-ZUKI) - 3 step sparring
 
