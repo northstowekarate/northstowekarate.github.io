@@ -2,7 +2,7 @@
 layout: base.njk
 title: Grading Preparation - 5th Mar 2025 Lesson Summary
 description: We've been practicing our kihon, kumite and kata over the last 2 months. Today we put all of this together and practiced everything required for the grading.
-date: 2025-03-06
+date: 2025-03-05
 tags:
 - Lesson-Summary
 ---

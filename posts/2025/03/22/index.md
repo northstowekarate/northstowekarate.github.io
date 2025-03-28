@@ -8,11 +8,11 @@ tags:
 ---
 # Grading - 22nd March 2025
 
-A total of 79 students graded this weekend from 3 clubs: Cambridge Karate Dojo, Cambridge University Karate Club and Northstowe Karate Club. All 79 students passed with 11 from Northstowe Karate Club. Special shout out to Victor and Jasper who double graded to 8th Kyu.
+A total of 79 students graded this weekend from 3 clubs: Cambridge Karate Dojo, Cambridge University Karate Club and Northstowe Karate Club. All 79 students passed with 11 from Northstowe Karate Club. Special shout out to Victor and Jasper who double graded to 8th Kyu. Congratulations to everyone who graded!
 
 The grading started with a session for advanced students 1-2pm, followed by a beginners session 2-3pm. The grading then started at 3pm.
 
-Several senior grades also were presented with their dan grades: Joe (Yondan), Simon (Yondan), Loizos (Shodan) and Salman (Shodan).
+Several senior grades also were presented with their dan grades: Joe (Yondan), Simon (Yondan), Loizos (Shodan) and Salmons (Shodan).
 
 <div class="pswp-gallery pswp-gallery--single-column" id="gallery">
   <div class="row">
