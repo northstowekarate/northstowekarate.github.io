@@ -70,12 +70,12 @@ and
 </p>
 
 
-    <script type="module">
-      import PhotoSwipeLightbox from '/static/photoswipe-5.4.4/photoswipe-lightbox.esm.js';
-      const lightbox = new PhotoSwipeLightbox({
-        gallery: '#gallery',
-        children: 'a',
-        pswpModule: () => import('/static/photoswipe-5.4.4/photoswipe.esm.js')
-      });
-      lightbox.init();
-    </script>
+<script type="module">
+  import PhotoSwipeLightbox from '/static/photoswipe-5.4.4/photoswipe-lightbox.esm.js';
+  const lightbox = new PhotoSwipeLightbox({
+    gallery: '#gallery',
+    children: 'a',
+    pswpModule: () => import('/static/photoswipe-5.4.4/photoswipe.esm.js')
+  });
+  lightbox.init();
+</script>
