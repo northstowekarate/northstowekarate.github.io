@@ -8,6 +8,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("b4eef191457c4b6ebf0812ce0cbb16c5.txt");
 
   eleventyConfig.addPassthroughCopy("{,!(_site)/**/}*.webp");
+  eleventyConfig.addPassthroughCopy("{,!(_site)/**/}*.pdf");
 
 	eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
 		// output image formats
