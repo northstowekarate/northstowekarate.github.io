@@ -6,7 +6,7 @@ date: 2025-03-05
 tags:
 - Lesson-Summary
 ---
-# Lesson Summary - 6th Mar 2025
+# Lesson Summary - 5th Mar 2025
 
 With just two and a half weeks until the grading, this will be our focus until then. There are 3 elements to grading - kihon, kumite and kata. You can find out what you have to do for your grading in the [grading syllabus](/kyu-syllabus/).
 
