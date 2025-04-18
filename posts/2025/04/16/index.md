@@ -1,7 +1,7 @@
 ---
 layout: base.njk
-title: Kihon and learning new Kata
-description: As many of you have just graded, you have new kata to learn so we went through some of them for the first time, after practicing our kihon
+title: Kihon Kata, Heian Shodan and Heian Nidan
+description: Tonight we practiced performing kihon kata, heian shodan and heian nidan. It's important to practice all the kata you know, not just your current kata.
 date: 2025-04-16
 tags:
 - Lesson-Summary
