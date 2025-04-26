@@ -11,5 +11,4 @@
 ./terminology/
 ./kyu-syllabus/
 ./blog/
-./blog/all/
 ./contact/
