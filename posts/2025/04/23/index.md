@@ -1,7 +1,7 @@
 ---
 layout: base.njk
-title: 
-description: Tonight we practiced performing kihon kata, heian shodan and heian nidan. It's important to practice all the kata you know, not just your current kata.
+title: Zanshin (awareness) and mirror-image/on the spot kata
+description: Thank you Sensei Joe for taking the lesson. The lesson focused on zanshin (awareness) and mirror-image/on the spot kata. Practice techniques on both sides.
 date: 2025-04-23
 tags:
 - Lesson-Summary
