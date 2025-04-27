@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Kihon Kata, Heian Shodan and Heian Nidan
+title: Kihon and Heian Kata - 16 Apr Lesson Summary
 description: Tonight we practiced performing kihon kata, heian shodan and heian nidan. It's important to practice all the kata you know, not just your current kata.
 date: 2025-04-16
 tags:
