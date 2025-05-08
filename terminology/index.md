@@ -12,7 +12,7 @@ changeFrequency: yearly
 * HAJIME MASU - let's begin
 * OWARI MASU - let's finish
 * SEIZA - kneel
-* MOKUSO - close your eyes, meditate and breathe deeply, in through nose out through mouth
+* MOKUSOU - close your eyes, meditate and breathe deeply, in through nose out through mouth
 * KAI MOKU - open your eyes
 * SHOMEN NI REI - bow to the front
 * SENSEI NI REI - bow to the sensei
