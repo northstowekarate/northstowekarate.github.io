@@ -16,7 +16,7 @@ Karate equips you with the skills to defend yourself and others in potentially d
 Engaging in karate presents a lifelong challenge with numerous opportunities for success, such as gradings and competitions. These achievements can significantly boost your confidence, fostering a sense of accomplishment and self-assurance.
 
 ## Stay Healthy
-Karate is an excellent form of physical exercise that enhances strength, flexibility, and coordination. Regular practice contributes to overall fitness and is a key component of a healthy lifestyle. The physical demands of karate ensure that practitioners stay active and fit.
+Karate is an excellent form of physical exercise that enhances strength, flexibility, mobility, and coordination. Regular practice contributes to overall fitness and is a key component of a healthy lifestyle. The physical demands of karate ensure that practitioners stay active and fit.
 
 ## Instil Values
 Karate is rooted in strong values, beginning and ending with courtesy. The dojo kun, or rules of the dojo, emphasise the importance of self-improvement, perseverance, and loyalty. These principles are instilled in all participants, promoting personal growth and ethical behaviour.
