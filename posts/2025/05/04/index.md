@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: Grading Prep - 4 May Lesson Summary
-description: Today we focused on the content of 1st and 7th Kyu Syllabus
+description: Today we focused on the content of 1st and 7th Kyu Syllabus including uchi uke (inside block).
 date: 2025-05-04
 tags:
 - Lesson-Summary
