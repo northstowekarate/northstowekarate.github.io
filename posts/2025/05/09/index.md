@@ -8,7 +8,7 @@ tags:
 ---
 # JKA WF England Spring Camp 2025
 
-It was a fantastic 3 days with over 8 hours of training, plus Dan grading and international license exams. We were taught by 3 of the best instructors in the world: Oishi Takeshi sensei (9th Dan), Chief Instructor of JKA; Kawasoe Masao sensei (8th Dan), Chief Instructor of JKA WF England; Naito Takeshi maestro, Chief Instructor of JKA Italy.
+It was a fantastic 3 days with over 8 hours of training, plus Dan grading and international license exams. We were taught by 3 of the best instructors in the world: Oishi Takeshi sensei (9th Dan), Chief Instructor of JKA; Kawasoe Masao sensei (8th Dan), Chief Instructor of JKA WF England; Naito Takeshi maestro (8th Dan), Chief Instructor of JKA Italy.
 
 The course itself covered many topics and ideas to take home and practice including:
 * Generate power from the floor, keeping the sole of the foot flat on the floor. Do not move you supporting foot before you move - this weakens the technique as power is generated in the wrong direction and slows you down
