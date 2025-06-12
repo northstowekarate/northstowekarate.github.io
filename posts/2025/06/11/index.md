@@ -2,7 +2,7 @@
 layout: base.njk
 title: Back to Basics - 11 June Lesson Summary
 description: We had 5 beginners tonight, so we went back to basics. Even though basic, everyone can still improve their techniques and the way they move.
-date: 2025-06-04
+date: 2025-06-11
 tags:
 - Lesson-Summary
 ---
