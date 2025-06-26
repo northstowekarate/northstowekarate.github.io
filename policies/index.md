@@ -1,3 +1,11 @@
+---
+title: Policies and Documents 
+layout: base.njk
+description: Links to Northstowe Karate Club's documents and policies
+date: "git Last Modified"
+priority: 0.8
+changeFrequency: yearly
+---
 # Northstowe Karate Club Policies and Documents
 
 * [Anti Bullying Policy](./anti-bullying-policy.pdf)
