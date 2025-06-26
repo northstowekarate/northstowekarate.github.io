@@ -16,7 +16,7 @@
 * [Data and Privacy Policy](./privacy/)
 * [Assumption of Risk](./risk/)
 * [Safeguarding Policy](./safeguarding/policy/)
-* [Safeguarding Satement](./stafeguarding/)
+* [Safeguarding Satement](./safeguarding/)
 * [Special Eductational Needs Policy](./senpolicy.pdf)
 * [Trauma Informed Coaching Policy](./ticpolicy.pdf)
 * [Transport Policy](./transport-policy.pdf)
