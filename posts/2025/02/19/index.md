@@ -7,7 +7,6 @@ tags:
 - Lesson-Summary
 ---
 # Lesson Summary - 19th Feb 2025
-## Sanbon Kumite
 ## Kihon - Basic Techniques
 We started off the lesson, practicing all the basic techniques required for 3 step sparring. We started practicing these techniques on the spot:
 * Jodan Choku Zuki - face level straight punch
