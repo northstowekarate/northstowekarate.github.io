@@ -13,6 +13,7 @@ changeFrequency: yearly
 * [Club Rules](./clubrules/)
 * [Complaints Policy](./complaints/)
 * [Concussion and Head Injury Policy](concussion-policy.pdf)
+* [Constitution](/static/NKC-Constitution.pdf)
 * [Diversity, Inclusion and Equality Policy](./equality/)
 * [Fire Saftey Policy](./fire-safety.pdf)
 * [Health and Safety](./healthandsafety/)
