@@ -29,7 +29,7 @@ changeFrequency: yearly
 Here's a short video demonstrating kihon for 9th kyu.
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qj-L7HLFddM?si=J8exbDIIP9mRD8Go" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/qj-L7HLFddM?si=J8exbDIIP9mRD8Go" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ### KATA
@@ -38,7 +38,7 @@ Here's a short video demonstrating kihon for 9th kyu.
 Here's a short video demonstrating kihon kata for 9th kyu.
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yjpZUSbfMp4?si=p5evWZ8hBpUF8xJv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/yjpZUSbfMp4?si=p5evWZ8hBpUF8xJv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ### KUMITE
@@ -47,7 +47,7 @@ Here's a short video demonstrating kihon kata for 9th kyu.
 Here's a short video demonstrating sanbon for 9th kyu. Note that these are the steps for practicing at home. Kumite is performed with a partner.
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I9uhjProxxE?si=IILwhxOgQiCW4Her" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/I9uhjProxxE?si=IILwhxOgQiCW4Her" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## 8th Kyu (Red)
