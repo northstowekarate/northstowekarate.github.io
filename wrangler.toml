@@ -2,7 +2,3 @@
 name = "northstowekarate-github-io"
 pages_build_output_dir = "_site"
 compatibility_date = "2024-08-21"
-
-[[r2_buckets]]
-bucket_name = "northstowekarate"
-binding = "MEDIA"
