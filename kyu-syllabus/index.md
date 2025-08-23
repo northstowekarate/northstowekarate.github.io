@@ -29,10 +29,7 @@ changeFrequency: yearly
 Here's a short video demonstrating kihon for 9th kyu.
 
 <div class="video-container">
-<video class="video" controls>
-<source src="/media/nkc-9kyu-kihon.mp4" type="video/mp4">
-Your browser does not support the video tag
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qj-L7HLFddM?si=J8exbDIIP9mRD8Go" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ### KATA
@@ -41,10 +38,7 @@ Your browser does not support the video tag
 Here's a short video demonstrating kihon kata for 9th kyu.
 
 <div class="video-container">
-<video class="video" controls>
-<source src="/media/nkc-9kyu-kihon-kata.mp4" type="video/mp4">
-Your browser does not support the video tag
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yjpZUSbfMp4?si=p5evWZ8hBpUF8xJv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ### KUMITE
@@ -53,10 +47,7 @@ Your browser does not support the video tag
 Here's a short video demonstrating sanbon for 9th kyu. Note that these are the steps for practicing at home. Kumite is performed with a partner.
 
 <div class="video-container">
-<video class="video" controls>
-<source src="/media/nkc-9kyu-sanbon-kumite.mp4" type="video/mp4">
-Your browser does not support the video tag
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I9uhjProxxE?si=IILwhxOgQiCW4Her" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## 8th Kyu (Red)
