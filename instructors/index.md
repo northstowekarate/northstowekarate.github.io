@@ -6,19 +6,17 @@ date: "git Last Modified"
 priority: 0.7
 changeFrequency: yearly
 ---
-<h1>Meet Our Instructors</h1>
+# Meet Our Instructors
 
-<h2>Simon Apen-Sadler</h2>
+## Simon Apen-Sadler
 <img src="image.webp" alt="Simon Apen-Sadler performing rising block" class="img-fluid w-50 float-start p-3" loading="eager">
-<p>
+
 Simon Apen-Sadler, 4th Dan JKA & JTKI, is the Chief Instructor of Northstowe Karate Club. He started training in 2000 at the age of 8 with SKA Romford, earning his Shodan in 2008 and Nidan in 2010. At university, he then started training with Jim Lewis sensei at Imperial College Shotokan Karate Club (KWF) in 2010, where he achieved Sandan in 2013 and obtained D-level Instructor, Judge, and Examiner qualifications. He achieved yondan with the JKA in 2024.
-</p>
-<p>
-Simon continues to train and develop his skills. He regularly trains at <a href="https://cambridgekaratedojo.com">Cambridge Karate Dojo</a> under the guidance of Ken Hori sensei. Notably, in April 2024, he travelled to Tokyo and Okinawa with <a href="https://jske.co.uk">JSKE</a>, training with top JKA instructors and traditional Okinawan masters.
 
-</p>
+Simon continues to train and develop his skills. He regularly trains at [Cambridge Karate Dojo](https://cambridgekaratedojo.com) under the guidance of Ken Hori sensei. Notably, in April 2024, he travelled to Tokyo and Okinawa with [JSKE](https://jske.co.uk), training with top JKA instructors and traditional Okinawan masters.
 
-<h3>Certifications</h3>
+
+### Certifications
   <ul class="overflow-hidden">
     <li>
       Fully Enhanced DBS Certification
@@ -40,7 +38,7 @@ Simon continues to train and develop his skills. He regularly trains at <a href=
     </li>
   </ul>
 
-<h3>Competition Results</h3>
+### Competition Results
   <ul class="overflow-hidden">
     <li>
       2016 KWF England Nationals Team Kata Gold Medallist Imperial College Shotokan Karate Club
@@ -53,6 +51,7 @@ Simon continues to train and develop his skills. He regularly trains at <a href=
     </li>
   </ul>
 
-<h3>BMABA Register</h3>
-Simon is registered with the BMABA (British Martial Arts and Boxing Association). You can verify instructor details on the <a href="https://bmaba.org.uk/verify/">BMABA website</a>.
+### BMABA Register
+
+Simon is registered with the BMABA (British Martial Arts and Boxing Association). You can verify instructor details on the [BMABA website](https://bmaba.org.uk/verify/).
 
