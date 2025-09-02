@@ -14,33 +14,3 @@ If you have any questions or would like to express your interest in our karate c
 
 We value your inquiries and look forward to hearing from you! Whether you're interested in registering for classes, asking about our schedules, or simply want to learn more about the benefits of karate, our team is eager to help guide you on your martial arts journey. Thank you for considering Northstowe Karate, and we can't wait to connect with you soon!
 
-## Location
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19524.850240267366!2d0.06034314999999999!3d52.2868495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d875d0a30dc935%3A0xdf1f6f7f737e8109!2sNorthstowe%20Karate%20Club!5e0!3m2!1sen!2suk!4v1756817788617!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "SportsActivityLocation",
-  "name": "Northstowe Karate Club",
-  "image": "https://www.northstowekarate.com/static/logo.png",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "The Cabin, Northstowe",
-    "addressLocality": "Cambridge",
-    "addressRegion": "Cambridgeshire",
-    "postalCode": "CB24",
-    "addressCountry": "GB"
-  },
-  "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": 52.2905,
-    "longitude": 0.0266
-  },
-  "url": "https://www.northstowekarate.com",
-  "telephone": "+44 1234 567890",
-  "openingHours": "We 18:30-19:30, Su 15:00-16:00",
-  "priceRange": "£",
-  "description": "Shotokan Karate classes for age 8+ in Northstowe, Cambridge and Cambridgeshire."
-}
-</script>
