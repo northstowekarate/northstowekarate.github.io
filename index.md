@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: Karate & Martial Arts in Northstowe, Cambridge | Shotokan Karate
-description: "Join our familiy friendly, traditional Shotokan Karate club in Northstowe, Cambridge. Classes for age 8+ — kids, teens, and adults welcome. First class free!"
+Learn effective martial arts with expert instructors at Northstowe Karate Club. Located near Cambridge, we teach shotokan karate, a traditional martial art. Age 8+
 date: "git Last Modified"
 priority: 1.0
 changeFrequency: monthly
