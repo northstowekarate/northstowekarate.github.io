@@ -1,25 +1,23 @@
 ---
-title: Northstowe Karate Club Training Schedule
+title: Training Schedule | Martial Arts for families in Northstowe, Cambridge
 layout: base.njk
-description: We train twice a week at The Cabin, Northstowe. Lessons are an hour long. Please be 5 minutes early for your first lesson. 
+description: Discover our karate training schedule in Northstowe, Cambridge. Shotokan classes for beginners to black belts.
 date: "git Last Modified"
 changeFrequency: weekly
 priority: 0.9
 ---
-<h1>Training Schedule</h1>
-<p>
-We train regularly on Wednesdays at <a href="https://maps.app.goo.gl/wXcMAGknwyPFEgMp6">The Cabin, Northstowe</a> between 1830-1930 and on Sundays 1500-1600. Please <a href="/contact/">contact us</a> to register interest and book your first lesson. Please arrive at least 5 minutes early to your first lesson so you can register your details.
-</p>
+# Northstowe Karate Club Training 
 
-<h2>Age requirements</h2>
-<p>
-We teach students from the age of 8, but will take students aged 6-7 on a case-by-case basis. Young children should train alongside a parent or guardian for the first few lessons while they gain experience in the unfamiliar environment. If a parent / guardian does not wish to train alongside their young child, they must remain close by.
-</p>
-
-<h2>How to book</h2>
+## How to book
 Please add your name to the <a rel="nofollow" href="https://northstowekarateclub-my.sharepoint.com/:x:/g/personal/info_northstowekarate_com/Eb4aqsPutnZCiLxMHJt1MOcB8qFo60KqACt7lJdUVGEWHw?e=NRJJIZ">spreadsheet</a> if you plan to attend. The spreadsheet is password protected - please <a href="/contact/">contact us</a> if you'd like to book your first lesson.
 
-<h2>Upcoming Sessions</h2>
+### Age requirements
+We teach students from the age of 8, but will take students aged 6-7 on a case-by-case basis. Young children should train alongside a parent or guardian for the first few lessons while they gain experience in the unfamiliar environment. If a parent / guardian does not wish to train alongside their young child, they must remain close by.
+
+## Regular sessions
+We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo.gl/wXcMAGknwyPFEgMp6) between 1830-1930 and on Sundays 1500-1600. Please [contact us](/contact/) to register interest and book your first lesson. Please arrive at least 5 minutes early to your first lesson so you can register your details.
+
+## Upcoming Sessions
 
 <table class="table table-bordered">
   <tbody>
@@ -39,9 +37,19 @@ Please add your name to the <a rel="nofollow" href="https://northstowekarateclub
       <td></td>
     </tr>
     <tr>
+      <td>Sunday 14th September 1500-1600</td>
+      <td>The Cabin</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Wednesday 17th September 1830-1930</td>
       <td>The Cabin</td>
       <td>Limited space - please prebook</td>
+    </tr>
+    <tr>
+      <td>Sunday 21st September 1500-1600</td>
+      <td>The Cabin</td>
+      <td></td>
     </tr>
     <tr>
       <td>Wednesday 24th September 1830-1930</td>

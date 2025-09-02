@@ -6,47 +6,38 @@ date: "git Last Modified"
 priority: 0.9
 changeFrequency: yearly
 ---
+# What to expect during a lesson
 
-<h1>What to expect during a lesson</h1>
-
-<p>
 Although each lesson will differ, training consists of 3 key elements - kihon, kumite and kata. We also emphasise the importance of respect and humility in all of our lessons.
-</p>
 
-<h2>Respect and Rules</h2>
-<p>
-Respect is a huge part of karate. Please view our <a href="/etiquette/">etiquette guide</a> on how to be respectful and also view our <a href="/policies/clubrules/">club rules</a>.
-</p>
+##Respect and Rules
 
-<h2>Kihon (basics)</h2>
-<p>
+Respect is a huge part of karate. Please view our [etiquette guide](/etiquette/) on how to be respectful and also view our [club rules](/policies/clubrules/).
+
+## Kihon (basics)
+
 Kihon consists of performing basic techniques, without a partner, multiple times to improve the effectiveness of the technique and to gain better understanding of how these techniques work. Techniques include blocking, punching and kicking. You'll start off performing single techniques. As you progress, you'll move on to more complex combinations of techniques. With repeated practice, your techniques will become more effective.
-</p>
 
 <div class="video-container">
 <iframe class="video" src="https://www.youtube.com/embed/qlahGOXesNo?si=_VcWYYWS-KSmbhpj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-<h2>Kata (forms)</h2>
-<p>
+## Kata (forms)
+
 A kata is a set of moves performed in a specific order in order to help develop technique, control of the body and timing. More advanced study of the kata leads to investigation of the techniques performed and potential application (bunkai). There are 25 Shotokan kata, with each kata providing a unique learning opportunity.
-</p>
 
 <div class="video-container">
 <iframe class="video" src="https://www.youtube.com/embed/O0ndtpxDU8s?si=OZIv_J1OqFDwuAmt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-<h2>Kumite (sparring)</h2>
-<p>
+## Kumite (sparring)
+
 Kumite is the practice of techniques with an opponent. Students will generally build up their kihon first before kumite practice is considered. This can be intimidating at first, but is built up overtime, starting in controlled conditions - where the techniques are predetermined up to freestyle where the techniques are completely free.
-</p>
  
 <div class="video-container">
 <iframe class="video" src="https://www.youtube.com/embed/RFXpkhpO8Ec?si=qnGDUKIXrGohfjv3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-<h2>Lesson themes</h2>
-<p>
+## Lesson themes
 Some lessons will have themes such as building speed or using the floor to generate power. We can practice these themes across kihon, kata and kumite.
-</p>
 
