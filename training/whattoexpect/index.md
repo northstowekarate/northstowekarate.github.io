@@ -10,7 +10,7 @@ changeFrequency: yearly
 
 Although each lesson will differ, training consists of 3 key elements - kihon, kumite and kata. We also emphasise the importance of respect and humility in all of our lessons.
 
-##Respect and Rules
+## Respect and Rules
 
 Respect is a huge part of karate. Please view our [etiquette guide](/etiquette/) on how to be respectful and also view our [club rules](/policies/clubrules/).
 
