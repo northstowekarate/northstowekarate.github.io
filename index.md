@@ -6,7 +6,7 @@ date: "git Last Modified"
 priority: 1.0
 changeFrequency: monthly
 ---
-# Northstowe Karate Club - Traditional Martial Arts in Northstowe, Cambridge
+# Northstowe Karate Club
 
 At Northstowe Karate Club, we are committed to teaching traditional Shotokan Karate in a supportive and friendly environment. Whether you are a beginner or an experienced practitioner, our club offers a place for everyone to learn, grow, and achieve their personal best.
 
