@@ -53,11 +53,11 @@ We're a family friendly club, where children (8+) and adults can both train toge
 Our teaching style balances discipline with encouragement. Classes are structured but friendly, with a focus on steady progress and personal growth. We aim to create a respectful and motivating atmosphere where students can thrive at their own pace.
 
 ### What to expect
-Although no two lessons are the same, our [lesson format](/training/whattoexpect/) is usually structured around kihon (basic techniques), kumite (sparring) and kata (forms). We build up your confidence gradually. We're a non-contact club, and you won't be expected to fight until you've learnt the basics, and even then it's under controlled conditions with known attacks and blocks until you're very experienced. Injuries are rare - please speak to the instructor if you have any concerns. There is an element of risk to all sports and exercise, including martial arts - please see our [assumption of risk document](/policies/risk/) for details.
+Although no two lessons are the same, our [lesson format](/training/what-to-expect/) is usually structured around kihon (basic techniques), kumite (sparring) and kata (forms). We build up your confidence gradually. We're a non-contact club, and you won't be expected to fight until you've learnt the basics, and even then it's under controlled conditions with known attacks and blocks until you're very experienced. Injuries are rare - please speak to the instructor if you have any concerns. There is an element of risk to all sports and exercise, including martial arts - please see our [assumption of risk document](/policies/risk/) for details.
 
 ## Benefits of Karate
 
-Karate has many [benefits](/whykarate/). While learning to defend yourself, you'll gain fitness and become healthier. You'll also become more confident, and it's a great place to make friends.
+Karate has many [benefits](/benefits-of-karate/). While learning to defend yourself, you'll gain fitness and become healthier. You'll also become more confident, and it's a great place to make friends.
 
 ## Is Karate Right for You?
 

@@ -26,7 +26,7 @@ We then went through kihon kata, the first of the kata. Kime applies to kata too
 
 ## The three K's of karate
 
-Kihon, kumite and kata make up the foundations of karate, and tonight we practiced all 3. You can find out more about lessons formats on our [What to Expect page](/training/whattoexpect/)
+Kihon, kumite and kata make up the foundations of karate, and tonight we practiced all 3. You can find out more about lessons formats on our [What to Expect page](/training/what-to-expect/)
 
 ## Seiza
 
