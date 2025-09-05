@@ -1,5 +1,5 @@
 ---
-title: Training Schedule | Martial Arts for families in Northstowe, Cambridge
+title: Training Schedule | Karate for families in Northstowe, Cambridge
 layout: base.njk
 description: Discover our karate training schedule in Northstowe, Cambridge. Shotokan classes for beginners to black belts.
 date: "git Last Modified"

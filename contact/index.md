@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Contact Us | Book Martial Arts Classes in Northstowe, Cambridge
+title: Contact Us | Book Classes or Register Interest today
 description: Contact us via email at info@northstowekarate.com if you have any questions regarding Northstowe Karate Club. Alternatively try on phone number of socials.
 date: "git Last Modified"
 priority: 0.9
