@@ -4,7 +4,7 @@ title: 2024-10-30 Lesson summary
 description: Only 5 weeks to the grading. We'll focus more on the grading syllabus from now on. Tonight we practiced our basic techniques and the 9th kyu grading syllabus
 date: 2024-10-30
 tags:
-- Lesson-Summary
+- lesson-summary
 ---
 # 2024-10-30
 

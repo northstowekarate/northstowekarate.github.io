@@ -4,7 +4,7 @@ title: Hip Rotation and Side Kicks - 25 June Lesson Summary
 description: In the first half of the class we studied hip rotation and block punch combinations. We then moved on to side snap and thrust kicks.
 date: 2025-06-25
 tags:
-- Lesson-Summary
+- lesson-summary
 ---
 # Lesson Summary - 25th June 2025
 

@@ -4,7 +4,7 @@ title: Kihon Kata - Bunkai
 description: We went through kihon kata and some basic applications of kata in small groups. We then covered some advanced applications, noting that blocks can also be strikes.
 date: 2025-06-08
 tags:
-- Lesson-Summary
+- lesson-summary
 ---
 # Lesson Summary - 8th June 2025
 

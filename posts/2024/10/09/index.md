@@ -4,7 +4,7 @@ title: 2024-10-09 Summary
 description: In tonight's lesson we looked at keage side-snap kick, Heian Nidan and Kihon Kata Bunkai. We also introduced bunkai - kata application and it's meaning
 date: 2024-10-09
 tags:
-- Lesson-Summary
+- lesson-summary
 ---
 # 2024-10-09
 

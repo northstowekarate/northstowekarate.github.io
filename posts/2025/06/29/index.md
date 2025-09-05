@@ -4,7 +4,7 @@ title: Kata Practice - 29 June Lesson Summary
 description: We practiced kihon kata, heian nidan and heian yondan, and looking at specific areas to improve upon.
 date: 2025-06-29
 tags:
-- Lesson-Summary
+- lesson-summary
 ---
 # Lesson Summary - 29th June 2025
 

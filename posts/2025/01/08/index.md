@@ -4,7 +4,7 @@ title: 2025-01-08 First Lesson of 2025
 description: Tonight was our first session back, where we went back to basics, but also covered a new topic - 'kime'.
 date: 2025-01-08
 tags:
-- Lesson-Summary
+- lesson-summary
 ---
 # 2025-01-08 Basics and Kime
 

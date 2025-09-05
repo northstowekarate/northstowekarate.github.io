@@ -4,7 +4,7 @@ title: Grading Practice - 2 July Lesson Summary
 description: We went through the kihon, kumite and kata for 9th Kyu and then practiced some more advanced kata
 date: 2025-07-02
 tags:
-- Lesson-Summary
+- lesson-summary
 ---
 # Lesson Summary - 2nd July 2025
 

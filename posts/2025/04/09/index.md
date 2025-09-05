@@ -4,7 +4,7 @@ title: Kihon and learning new Kata - 9th Apr Lesson Summary
 description: As many of you have just graded, you have new kata to learn so we went through some of them for the first time, after practicing our kihon
 date: 2025-04-09
 tags:
-- Lesson-Summary
+- lesson-summary
 ---
 # Lesson Summary - 9th Apr 2025
 

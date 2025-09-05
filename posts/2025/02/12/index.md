@@ -4,7 +4,7 @@ title: Mae Geri, Keage and Kekomi - 12th Feb Lesson Summary
 description: Tonight we practiced kicking - mae geri (front kick), yoko geri keage (side snap kick) and yoko geri kekome (side thrust kick), finishing with kata.
 date: 2025-02-12
 tags:
-- Lesson-Summary
+- lesson-summary
 ---
 # Lesson Summary - 12th Feb
 ## Mae Geri - Front kick

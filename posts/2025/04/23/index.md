@@ -4,7 +4,7 @@ title: Zanshin and mirror image kata - 23 Apr Lesson Summary
 description: Thank you Sensei Joe for taking the lesson. The lesson focused on zanshin (awareness) and mirror-image/on the spot kata. Practice techniques on both sides.
 date: 2025-04-23
 tags:
-- Lesson-Summary
+- lesson-summary
 ---
 # Lesson Summary - 23rd Apr 2025
 

@@ -4,7 +4,7 @@ title: 7th Session - 9th Kyu Syllabus
 description: In tonight's lesson we covered the requirements for 9th Kyu grading. We also practiced sword hand (shuto) in back stance, hammer fist and heian shodan.
 date: 2024-08-14
 tags:
-- Lesson-Summary
+- lesson-summary
 ---
 # Northstowe Karate Club's 7th session
 

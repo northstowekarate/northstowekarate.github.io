@@ -4,7 +4,7 @@ title: Grading Prep - Gohon and Sanbon Kumite
 description: Today, we practiced primarily gohon and sanbon kumite
 date: 2025-05-18
 tags:
-- Lesson-Summary
+- lesson-summary
 ---
 # Lesson Summary - 18th May 2025
 

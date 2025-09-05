@@ -4,7 +4,7 @@ title: Breaking Boards - Tameshiwari
 description: We continued with fun lessons over the summer break, practicing gyaku zuki - breaking boards with this technique. We ended with jumping kicks
 date: 2025-09-03
 tags:
-- Lesson-Summary
+- lesson-summary
 ---
 # Lesson Summary - 3rd September 2025
 

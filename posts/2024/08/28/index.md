@@ -4,7 +4,7 @@ title: 9th Lesson - Lower Body Power generation
 description: In tonight's lesson we looked at how to use the supporting leg to generate power using compression and expansion
 date: 2024-08-28
 tags: 
-- Lesson-Summary
+- lesson-summary
 ---
 # Northstowe Karate Club's 9th session
 

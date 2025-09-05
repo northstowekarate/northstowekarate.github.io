@@ -4,7 +4,7 @@ title: Grading preparation- 28 May Lesson Summary
 description: We practiced the kihon, kumite and kata required for your upcoming kyu grading
 date: 2025-05-28
 tags:
-- Lesson-Summary
+- lesson-summary
 ---
 # Lesson Summary - 28th May 2025
 

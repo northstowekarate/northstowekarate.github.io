@@ -4,7 +4,7 @@ title: 2024-09-18 Lesson
 description: We went back to basics, practicing zenkutsu dachi, soto uke and oi zuki, practicing it alone and then with a partner (kumite).
 date: 2024-09-18
 tags:
-- Lesson-Summary
+- lesson-summary
 ---
 # Lesson 2024-09-18 
 

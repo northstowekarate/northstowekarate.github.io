@@ -4,7 +4,7 @@ title: Sanbon Kumite, 3 step sparring - 19th Feb 2025 Lesson Summary
 description: Tonight we practiced sanbon kumite, 3 step sparring, attacking and defending against head and stomach level punches.
 date: 2025-02-19
 tags:
-- Lesson-Summary
+- lesson-summary
 ---
 # Lesson Summary - 19th Feb 2025
 ## Kihon - Basic Techniques

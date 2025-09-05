@@ -4,7 +4,7 @@ title: Kata and Fast Techniques -  2nd Apr 2025 Lesson Summary
 description: We started off making out kihon techniques faster, relaxation, pulling the front leg back and compression and expansion. We then finished with kata.
 date: 2025-04-02
 tags:
-- Lesson-Summary
+- lesson-summary
 ---
 # Lesson Summary - 2nd Apr 2025
 

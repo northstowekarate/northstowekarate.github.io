@@ -4,7 +4,7 @@ title: Sanbon Kumite - 26th Feb 2025 Lesson Summary
 description: We continued with last weeks theme of sanbon kumite, 3 step sparring, defending and attacking 3 times to the head and body. 
 date: 2025-02-26
 tags:
-- Lesson-Summary
+- lesson-summary
 ---
 # Lesson Summary - 26th Feb 2025
 

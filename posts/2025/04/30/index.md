@@ -4,7 +4,7 @@ title: Basics and Kata - 30 Apr Lesson Summary
 description: Today we started with basics choku zuki and soto uke. We then moved on to kihon kata on the spot, jumping and normal before moving on to grading kata. 
 date: 2025-04-30
 tags:
-- Lesson-Summary
+- lesson-summary
 ---
 # Lesson Summary - 30th Apr 2025
 

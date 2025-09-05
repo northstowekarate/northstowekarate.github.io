@@ -4,7 +4,7 @@ title: Heian 1-4 and Back Stance - 27 Apr Lesson Summary
 description: Today we started going through the finer points of the heian kata and back stance, which 4/5 heian kata begins with.
 date: 2025-04-27
 tags:
-- Lesson-Summary
+- lesson-summary
 ---
 # Lesson Summary - 27th Apr 2025
 

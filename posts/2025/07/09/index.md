@@ -4,7 +4,7 @@ title: NKC is 1 year old
 description: We continue practicing the grading syllabus and then had cupcakes at the end to celebreate the club being open for 1 year
 date: 2025-07-09
 tags:
-- Lesson-Summary
+- lesson-summary
 ---
 # Lesson Summary - 9th July 2025
 

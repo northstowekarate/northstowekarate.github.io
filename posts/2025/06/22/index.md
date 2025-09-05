@@ -4,7 +4,7 @@ title: Kata - 22 June Lesson Summary
 description: Today we went through kihon and heian katas 1-3. 
 date: 2025-06-22
 tags:
-- Lesson-Summary
+- lesson-summary
 ---
 # Lesson Summary - 22nd June 2025
 

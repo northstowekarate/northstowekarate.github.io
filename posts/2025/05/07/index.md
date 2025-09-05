@@ -4,7 +4,7 @@ title: Grading Prep - 7 May Lesson Summary
 description: We don't have much time until the grading, so we practiced our basic techniques, primarily on the spot
 date: 2025-05-07
 tags:
-- Lesson-Summary
+- lesson-summary
 ---
 # Lesson Summary - 7th May 2025
 

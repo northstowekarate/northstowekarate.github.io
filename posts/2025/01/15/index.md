@@ -4,7 +4,7 @@ title: 2025-01-15 Lesson Summary
 description: Tonight we continued with a focus on kime, practicing basic blocks and punches, followed by the first 3 kata.
 date: 2025-01-15
 tags:
-- Lesson-Summary
+- lesson-summary
 ---
 # 2025-01-15 Kime
 

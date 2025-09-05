@@ -4,7 +4,7 @@ title: Sharp, fast and powerful techniques - 26th March 2025 Lesson Summary
 description: Tonight we focused on generating fast, sharp techniques through relaxation with tension at the end of technique.
 date: 2025-03-26
 tags:
-- Lesson-Summary
+- lesson-summary
 ---
 # Lesson Summary - 26th Mar 2025
 

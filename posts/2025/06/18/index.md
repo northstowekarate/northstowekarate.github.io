@@ -4,7 +4,7 @@ title: Mae Geri and Yoko Geri Keage - 18 June Lesson Summary
 description: Today we focused on front snap kick and side snap kick and how snap kicks differ front thrust kicks
 date: 2025-06-18
 tags:
-- Lesson-Summary
+- lesson-summary
 ---
 # Lesson Summary - 18th June 2025
 

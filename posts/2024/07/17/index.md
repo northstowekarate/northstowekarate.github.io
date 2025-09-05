@@ -4,7 +4,7 @@ title: Kihon and the first two kata
 description: In our third session we went over techniques from the previous lesson including stepping punch and rising block. We then focused on front kick and kihon kata.
 date: 2024-07-17
 tags:
-- Lesson-Summary
+- lesson-summary
 ---
 # Northstowe Karate Club's Third session
 

@@ -4,7 +4,7 @@ title: Generating Power - 14 May Lesson Summary
 description: Today we practiced using the lower body to generate power. Key points include having both feet completely flat and hands and feet finishing together.
 date: 2025-05-14
 tags:
-- Lesson-Summary
+- lesson-summary
 ---
 # Lesson Summary - 14th May 2025
 
