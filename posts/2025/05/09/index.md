@@ -4,7 +4,7 @@ title: JKA WF England Spring Camp 2025 - 9-11 May 2025
 description: JKA WF England Spring Camp 2025 with Oishi Takeshi sensei (9th Dan), Chief instructor of the JKA; Kawasoe Masao (8th Dan); Naito Takeshi Maestro (8th Dan)
 date: 2025-05-09
 tags:
-- Gasshuku-and-Training-Courses
+- gasshuku-and-training-courses
 ---
 # JKA WF England Spring Camp 2025
 

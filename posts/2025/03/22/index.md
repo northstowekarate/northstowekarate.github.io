@@ -4,7 +4,7 @@ title: Grading at Cambridge Karate Dojo - 22nd Mar 2025
 description: We had 11 students visit Cambridge Karate Dojo. All 11 students passed, with Jasper and Victor double grading. Congratulations to everyone who graded.
 date: 2025-03-06
 tags:
-- Grading
+- grading
 ---
 # Grading - 22nd March 2025
 

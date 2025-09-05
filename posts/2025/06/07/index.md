@@ -4,7 +4,7 @@ title: Grading at Cambridge Karate Dojo - 7th June
 description: A total of 99 students trained and 75 students passed their gradings, including 10 students from Northstowe Karate Club
 date: 2025-06-07
 tags:
-- Grading
+- grading
 ---
 # Grading - 7th June 2025
 
