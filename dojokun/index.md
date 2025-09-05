@@ -1,7 +1,7 @@
 ---
 title: Dojo Kun | The 5 rules of the dojo
 layout: base.njk
-description: Five rules of the dojo created by Gichin Funakoshi, the founder of Shotokan Karate. Perfect character; Be faithful; Endeavour; Respect others; Self-Control.
+description: The 5 rules of the dojo | Perfection of character; Be faithful; Endeavour; Respect others; Avoid Violence.
 date: "git Last Modified"
 priority: 0.6
 changeFrequency: yearly
