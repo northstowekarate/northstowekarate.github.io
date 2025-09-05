@@ -1,5 +1,5 @@
 ---
-title: Shotokan Karate Terminology
+title: Terminology | Japanese terms and phrases used during karate classes
 layout: base.njk
 description: Common Japanese words and phrases used in the dojo and their meanings, including technique names and body parts
 date: "git Last Modified"

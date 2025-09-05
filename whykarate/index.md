@@ -1,5 +1,5 @@
 ---
-title: Benefits of Learning Karate
+title: Karate benefits | Self-Defense. Confidence. Fitness.
 layout: base.njk
 description: Learning Karate with Northstowe Karate Club has numerous benefits including learning effective self defence, gaining confidence and improved fitness
 date: "git Last Modified"
@@ -12,7 +12,7 @@ Karate offers a multitude of benefits that extend beyond physical fitness. Here 
 ## Learn Self-Defence
 Karate equips you with the skills to defend yourself and others in potentially dangerous situations. The techniques taught are both basic and effective, providing practical methods to protect against harm.
 
-## Build Confidence
+## Build Confidence and Focus
 Engaging in karate presents a lifelong challenge with numerous opportunities for success, such as gradings and competitions. These achievements can significantly boost your confidence, fostering a sense of accomplishment and self-assurance.
 
 ## Stay Healthy

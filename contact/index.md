@@ -8,9 +8,15 @@ changeFrequency: yearly
 ---
 # Contact Us
 
-If you have any questions or would like to register interest/join please contact us via <a href="mailto:info@northstowekarate.com">email</a> or reach out to us on [Facebook](https://www.facebook.com/profile.php?id=61560001297561) or [Instagram](https://www.instagram.com/northstowekarate). You can also contact us via phone on <a href="tel:07596922670">07596922670</a>, although you'll get a faster response via other methods.
+Ready to join Northstowe Karate or want more info? Contact us today.
 
-If you have any questions or would like to express your interest in our karate classes, please don't hesitate to reach out. You can contact us easily via <a href="mailto:info@northstowekarate.com">email</a>, where our team is ready to provide you with all the information you need. Furthermore, feel free to connect with us on our social media platforms, including <a href="https://www.facebook.com/profile.php?id=61560001297561">Facebook</a> and <a href="https://www.instagram.com/northstowekarate">Instagram</a>. We regularly update these channels with news, events, and insights into our dojo activities, making them a great way to engage with our karate community.
+The quickest way to reach us is by <a href="mailto:info@northstowekarate.com">email</a>. We’ll reply promptly with details about classes, fees, what to bring, and how to get started.
 
-We value your inquiries and look forward to hearing from you! Whether you're interested in registering for classes, asking about our schedules, or simply want to learn more about the benefits of karate, our team is eager to help guide you on your martial arts journey. Thank you for considering Northstowe Karate, and we can't wait to connect with you soon!
+You can also message us on [Facebook](https://www.facebook.com/profile.php?id=61560001297561) or [Instagram](https://www.instagram.com/northstowekarate). We post regular updates, photos, and club news—great for staying in the loop.
+
+Prefer to call? Reach us on <a href="tel:07596922670">07596922670</a>. Please note: email or social media usually gets a faster response.
+
+We welcome students of all ages and skill levels. Whether you're looking for fitness, discipline, or a fun activity for your child, our club offers a friendly, structured environment. We also welcome volunteers who want to support behind the scenes.
+
+Ask questions, register interest, or book your first session — we’re here to help. Join a growing community, build confidence, and start your martial arts journey with Northstowe Karate.
 

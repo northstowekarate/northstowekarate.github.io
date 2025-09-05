@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Kihon and Heian Kata
+title: Shotokan Kata | Kihon and Heian 1-5 
 description: Kihon kata (taikyoku shodan) is the first shotokan kata. The next 5 kata are heian from shodan to godan.
 date: "git Last Modified"
 priority: 0.4
