@@ -5,7 +5,7 @@ description: We have had 24 sessions this year, with 40+ students training once,
 date: 2024-12-18
 priority: 0.4
 tags:
-- Annual-Review
+- annual-review
 ---
 # Annual Review 2024
 
