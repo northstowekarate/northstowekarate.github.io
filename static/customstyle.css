@@ -12,4 +12,7 @@ a, a:hover, a:focus, a:active, a:visited, a:link{
     text-decoration: none;
 }
 
-
+#title-logo {
+  height: 2em;
+  width: auto;
+}
