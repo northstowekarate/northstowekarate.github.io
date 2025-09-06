@@ -29,7 +29,7 @@ Before your first class, you might want to explore:
 
 [FAQs](/training/faq/) – Answers to common questions like what to wear, what to bring, and how classes are structured
 
-[What to Expect](/training/what-to-expect) – A friendly guide to your first session, including arrival tips and class format
+[What to Expect](/training/what-to-expect/) – A friendly guide to your first session, including arrival tips and class format
 
 ## Other Questions
 
