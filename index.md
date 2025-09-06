@@ -72,7 +72,7 @@ Simon Apen-Sadler, the [chief instructor](/instructors/), has over 20 years expe
 
 ## Social media
 
-Follow us for class updates, grading news, and behind-the-scenes glimpses of club life. Got questions? We’re happy to chat—just drop us a message.
+Follow us for class updates, grading news, and behind-the-scenes glimpses of club life. Got questions? We’re happy to chat - just drop us a message.
 
 Check us out on [Facebook](https://www.facebook.com/profile.php?id=61560001297561) and [Instagram](https://www.instagram.com/northstowekarate)
 

@@ -14,5 +14,5 @@ We also use social media messaging. You can also message us on [Facebook](https:
 
 If you prefer to call us, you can reach us on <a href="tel:07596922670">07596922670</a>. Please note: email or social media usually gets a faster response. 
 
-Ask questions, register interest, or book your first session — we’re here to help. Join a growing community, build confidence, and start your martial arts journey with Northstowe Karate.
+Ask questions, register interest, or book your first session - we’re here to help. Join a growing community, build confidence, and start your martial arts journey with Northstowe Karate.
 
