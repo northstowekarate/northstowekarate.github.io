@@ -18,7 +18,7 @@ To book your first class, please contact us by email. When you get in touch, it�
 
 This helps us work with you to ensure your first session is safe, enjoyable, and tailored to your needs. We aim to reply within 2–3 days. Classes fill up quickly, so early booking is recommended.
 
-Please arrive at least 5 minutes early to your first lesson so you can register your details. 
+Please arrive at least 5 minutes early to your first lesson so you can register your details.
 
 ## Age requirements
 We teach students from the age of 8, but will take students aged 6-7 on a case-by-case basis. Young children should train alongside a parent or guardian for the first few lessons while they gain experience in the unfamiliar environment. If a parent / guardian does not wish to train alongside their young child, they must remain close by.
@@ -27,7 +27,7 @@ We teach students from the age of 8, but will take students aged 6-7 on a case-b
 
 Before your first class, you might want to explore:
 
-[FAQs](/training/faqs) – Answers to common questions like what to wear, what to bring, and how classes are structured
+[FAQs](/training/faq/) – Answers to common questions like what to wear, what to bring, and how classes are structured
 
 [What to Expect](/training/what-to-expect) – A friendly guide to your first session, including arrival tips and class format
 
@@ -37,7 +37,7 @@ If you have any questions that aren’t covered on the website, please don’t h
 
 ## How to book future sessions
 
-Please add your name to the <a rel="nofollow" href="https://northstowekarateclub-my.sharepoint.com/:x:/g/personal/info_northstowekarate_com/Eb4aqsPutnZCiLxMHJt1MOcB8qFo60KqACt7lJdUVGEWHw?e=NRJJIZ">spreadsheet</a> to book a place. 
+Please add your name to the <a rel="nofollow" href="https://northstowekarateclub-my.sharepoint.com/:x:/g/personal/info_northstowekarate_com/Eb4aqsPutnZCiLxMHJt1MOcB8qFo60KqACt7lJdUVGEWHw?e=NRJJIZ">spreadsheet</a> to book a place.
 
 The spreadsheet is password protected. You'll receive the password once you've attended your first session via email.
 
