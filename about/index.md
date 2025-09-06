@@ -13,7 +13,7 @@ Founded in 2024 by Simon Apen-Sadler [(Chief Instructor)](/instructors/), Debora
 
 We believe karate is more than physical technique — it’s a lifelong journey of character development. Our training is grounded in tradition and respect, with honour guiding how we teach, train, and support each other. Community is at the heart of everything we do.
 
-**What is budo?**
+## What is budo?
 Budo (武道), meaning “the martial way,” represents a philosophy of personal growth through martial arts. It encourages focus, resilience, and mutual respect — values we aim to instil in every student.
 
 Simon brings decades of experience and regularly trains with senior [Japan Karate Association (JKA)](https://www.jka.or.jp/en/) instructors on official JKA courses. The club is proudly affiliated with both [Japan Shotokan Karate England (JSKE)](https://jske.org.uk/) and the JKA, ensuring our teaching stays true to authentic Shotokan karate.
@@ -22,6 +22,7 @@ Simon brings decades of experience and regularly trains with senior [Japan Karat
 - Clear instruction in strong fundamentals
 - Practical self-defence techniques
 - A focus on steady personal progress
+ For more information see our [what to expect page](/training/what-to-expect/).
 
 We welcome children, teens, and adults of all experience levels. Whether you're trying karate for the first time or returning to deepen your practice, you'll find a friendly, inclusive environment where everyone is supported and challenged.
 
