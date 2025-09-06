@@ -12,7 +12,7 @@ At Northstowe Karate Club, we are committed to teaching traditional Shotokan Kar
 
 ## About the club
 
-Our club teaches traditional [Shotokan Karate](https://en.wikipedia.org/wiki/Shotokan), a Japanese martial art, in Northstowe on the outskirts of Cambridge. We are a member of [Japan Shotokan Karate England](https://jske.co.uk) and are affiliated with the [Japan Karate Association](https://www.jka.or.jp/en/), which is one of the largest and most prestigious karate organisations in the world.
+[Our club](/about/) teaches traditional [Shotokan Karate](https://en.wikipedia.org/wiki/Shotokan), a Japanese martial art, in Northstowe on the outskirts of Cambridge. We are a member of [Japan Shotokan Karate England](https://jske.co.uk) and are affiliated with the [Japan Karate Association](https://www.jka.or.jp/en/), which is one of the largest and most prestigious karate organisations in the world.
 
 Below are a few photos from recent classes, events and grading sessions.
 
