@@ -9,17 +9,18 @@ priority: 0.9
 # Northstowe Karate Club Training 
 
 ## How to book
+
 Please add your name to the <a rel="nofollow" href="https://northstowekarateclub-my.sharepoint.com/:x:/g/personal/info_northstowekarate_com/Eb4aqsPutnZCiLxMHJt1MOcB8qFo60KqACt7lJdUVGEWHw?e=NRJJIZ">spreadsheet</a> to book a place. 
 
 The spreadsheet is password protected. Please [contact us](/contact/) to register interest and book your first lesson. Please arrive at least 5 minutes early to your first lesson so you can register your details.
 
 ### Limited Space
 
-We have more students than spaces available - so please book early to avoid dissapointment.
+We have more students than spaces available - so please book early to avoid dissapointment
 
 ### Cancellation
 
-Should you need to cancel, please do so with at least 24 hours notices by removing your name from the spreadsheet and emailing the club. If you cancel or are a no-show, you will be charged for the lesson.
+Should you need to cancel, please do so with at least 24 hours notices by removing your name from the spreadsheet and emailing the club. If you cancel within 24 hours notice or are a no-show, you will be charged for the lesson.
 
 ## Age requirements
 We teach students from the age of 8, but will take students aged 6-7 on a case-by-case basis. Young children should train alongside a parent or guardian for the first few lessons while they gain experience in the unfamiliar environment. If a parent / guardian does not wish to train alongside their young child, they must remain close by.
