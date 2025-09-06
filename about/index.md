@@ -6,7 +6,7 @@ date: "git Last Modified"
 priority: 0.6
 changeFrequency: yearly
 ---
-# Northstowe Karate Club
+# About Northstowe Karate Club
 ## Tradition and Respect — Rooted in Honour, Strengthened by Community
 
 Founded in 2024 by Simon Apen-Sadler [(Chief Instructor)](/instructors/), Deborah Turner (Treasurer), and Mitali Apen-Sadler (Secretary), Northstowe Karate Club is a welcoming martial arts community based on the principles of budo karate: discipline, humility, and continuous self-improvement.
