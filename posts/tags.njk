@@ -10,18 +10,16 @@ priority: 0.1
 eleventyExcludeFromCollections: true
 title: Northstowe Karate Club Posts
 ---
-
 <h1>Tagged “{{ tag }}”</h1>
-
 <ul>
-{% set taglist = collections[ tag ] %}
-{% for post in taglist | reverse %}
+{%- set taglist = collections[ tag ] -%}
+{%- for post in taglist | reverse -%}
   <li><a href="{{ post.url }}">{{ post.data.title }}</a>
     <ul>
-      <li> 
+      <li>
         {{ post.data.description }}
       </li>
     </ul>
   </li>
-{% endfor %}
+{%- endfor -%}
 </ul>

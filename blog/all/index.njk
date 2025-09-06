@@ -18,14 +18,11 @@ changeFrequency: weekly
     </li>
   </ul>
 </li>
-
 {%- endfor -%}
 </ul>
-
 <h2>View posts by tag</h2>
   <ul>
-  {% for tag, tagData in collections %}
+  {%- for tag, tagData in collections -%}
     <li><a href="/posts/tags/{{ tag }}/">{{ tag }}</a></li>
-  {% endfor %}
+  {%- endfor -%}
   </ul>
-

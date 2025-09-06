@@ -31,7 +31,7 @@ The term &quot;Hitotsu&quot; means &quot;one&quot; or &quot;first,&quot; emphasi
 <blockquote class="blockquote">
   <p class="mb-0">The ultimate aim of karate lies not in victory nor defeat, but in the perfection of the character of its participants.</p>
   <br />
-  <footer class="blockquote-footer">Gichin Funakoshi, Founder of Shotokan Karate</footer>
+  <div class="blockquote-footer">Gichin Funakoshi, Founder of Shotokan Karate</div>
 </blockquote>
 
 For more tips on pronunciation and translation, see <a href="https://cambridgekaratedojo.com/bow-dojo-kun/">Cambridge Karate Dojo's page on the dojo kun</a>

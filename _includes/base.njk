@@ -10,12 +10,12 @@ noindex: false
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta property="og:title" content="{{ title }}">
     <meta property="og:site_name" content="Northstowe Karate Club">
-    {% if noindex %}
+    {%- if noindex -%}
     <meta name="robots" content="noindex,nofollow">
-    {% endif %}
-    {% if description %}
+    {%- endif -%}
+    {%- if description -%}
     <meta name="description" property="og:description" content="{{ description }}">
-    {% endif %}
+    {%- endif -%}
     <meta property="og:url" content="https://www.northstowekarate.com{{ page.url }}">
     <meta property="og:image" content="https://www.northstowekarate.com/static/logo.webp">
     <meta property="og:type" content="website">
@@ -64,7 +64,7 @@ noindex: false
             </li>
             <li class="nav-item dropdown">
               <button class="nav-link dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
-                Club info 
+                Club info
               </button>
               <ul class="dropdown-menu">
                 <li><a class="dropdown-item" href="/about/">About the club</a></li>

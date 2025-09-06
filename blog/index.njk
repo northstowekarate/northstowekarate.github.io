@@ -10,7 +10,7 @@ changeFrequency: weekly
 
 <ul>
 {%- for post in collections["blog-post"] | reverse -%}
-{% if loop.index0 < 8 %}
+{%- if loop.index0 < 8 -%}
   <li>
     <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
     <ul>
@@ -19,20 +19,17 @@ changeFrequency: weekly
       </li>
     </ul>
     </li>
-  {% endif %}
-
+  {%- endif -%}
 {%- endfor -%}
 </ul>
-
 <h2>All blog posts</h2>
 <p>
 You can also view all of our <a href="/blog/all/">historical blog posts</a>.
 <p/>
-
 <h2>View posts by tag</h2>
 <ul>
-{% for tag, tagData in collections %}
+{%- for tag, tagData in collections -%}
   <li><a href="/posts/tags/{{ tag }}/">{{ tag }}</a></li>
-{% endfor %}
+{%- endfor -%}
 </ul>
 
