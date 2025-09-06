@@ -8,7 +8,7 @@ changeFrequency: yearly
 ---
 # How to Book Your First Class
 
-To book your first class, please contact us by email. When you get in touch, it’s helpful if you can include:
+To book your first class, please [contact us](/contact/) email. When you get in touch, it’s helpful if you can include:
 
 * You/your childs name(s)
 * Your age(s) - we welcome children aged 8+, teens, and adults of all fitness levels.
