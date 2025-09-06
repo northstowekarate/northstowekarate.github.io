@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: Contact Us | Book Classes or Register Interest today
-description: Contact us via email at info@northstowekarate.com if you have any questions regarding Northstowe Karate Club. Alternatively try messaging us on social media.
+description: If you have any questions or want to book your first session, please contact us via email at info@northstowekarate.com or on social media.
 date: "git Last Modified"
 priority: 0.9
 changeFrequency: yearly
