@@ -9,16 +9,20 @@ changeFrequency: yearly
 # Northstowe Karate Club
 ## Tradition and Respect — Rooted in Honour, Strengthened by Community
 
-Established in 2024 by Chief Instructor [Simon Apen-Sadler](https://northstowekarate.com/instructors/), Northstowe Karate Club is built on the timeless principles of budo karate — discipline, humility, and continuous self-improvement. Our training is grounded in tradition and respect, with honour guiding our practice and community enriching our journey.
+Founded in 2024 by Chief Instructor [Simon Apen-Sadler](https://northstowekarate.com/instructors/), Northstowe Karate Club is a welcoming martial arts community based on the principles of budo karate: discipline, humility, and continuous self-improvement.
 
-Budo (武道), meaning “the martial way,” is more than physical technique — it’s a lifelong path of character development. These values are woven into every class, where students of all ages and abilities are encouraged to grow with integrity and purpose. Karate at Northstowe is not just about learning how to punch or block — it’s about cultivating focus, resilience, and mutual respect.
+We believe karate is more than physical technique — it’s a lifelong journey of character development. Our training is grounded in tradition and respect, with honour guiding how we teach, train, and support each other. Community is at the heart of everything we do.
 
-Simon brings decades of experience and regularly trains with senior [Japan Karate Association (JKA)](https://www.jka.or.jp/en/) instructors on official JKA courses. The club is proudly affiliated with both [Japan Shotokan Karate England (JSKE)](https://jske.org.uk/) and the JKA, connecting members to a respected international lineage and ensuring that our teaching remains rooted in authentic Shotokan karate.
+**What is budo?**
+Budo (武道), meaning “the martial way,” represents a philosophy of personal growth through martial arts. It encourages focus, resilience, and mutual respect — values we aim to instil in every student.
 
-Training sessions focus on:
-- Strong fundamentals
-- Effective self-defence
-- Personal progress
+Simon brings decades of experience and regularly trains with senior [Japan Karate Association (JKA)](https://www.jka.or.jp/en/) instructors on official JKA courses. The club is proudly affiliated with both [Japan Shotokan Karate England (JSKE)](https://jske.org.uk/) and the JKA, ensuring our teaching stays true to authentic Shotokan karate.
 
-Classes are structured to support steady improvement, whether you're a complete beginner or an experienced karateka. We welcome children, teens, and adults alike, and pride ourselves on creating a friendly, inclusive environment where everyone is supported and challenged. 
+**What to expect in training:**
+- Clear instruction in strong fundamentals
+- Practical self-defence techniques
+- A focus on steady personal progress
+
+We welcome children, teens, and adults of all experience levels. Whether you're trying karate for the first time or returning to deepen your practice, you'll find a friendly, inclusive environment where everyone is supported and challenged.
+
 
