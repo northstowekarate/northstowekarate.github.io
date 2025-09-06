@@ -6,27 +6,18 @@ date: "git Last Modified"
 changeFrequency: weekly
 priority: 0.9
 ---
-# Northstowe Karate Club Training 
+# Training Schedule
 
-## How to book
-
-Please add your name to the <a rel="nofollow" href="https://northstowekarateclub-my.sharepoint.com/:x:/g/personal/info_northstowekarate_com/Eb4aqsPutnZCiLxMHJt1MOcB8qFo60KqACt7lJdUVGEWHw?e=NRJJIZ">spreadsheet</a> to book a place. 
-
-The spreadsheet is password protected. Please [contact us](/contact/) to register interest and book your first lesson. Please arrive at least 5 minutes early to your first lesson so you can register your details.
+## Regular sessions
+We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo.gl/wXcMAGknwyPFEgMp6) between 1830-1930 and on Sundays 1500-1600. 
 
 ### Limited Space
 
-We have more students than spaces available - so please book early to avoid dissapointment
+We have more students than spaces available - so please book early to avoid dissapointment. Booking becomes available around 1 week before the lesson is scheduled.
 
 ### Cancellation
 
 Should you need to cancel, please do so with at least 24 hours notices by removing your name from the spreadsheet and emailing the club. If you cancel within 24 hours notice or are a no-show, you will be charged for the lesson.
-
-## Age requirements
-We teach students from the age of 8, but will take students aged 6-7 on a case-by-case basis. Young children should train alongside a parent or guardian for the first few lessons while they gain experience in the unfamiliar environment. If a parent / guardian does not wish to train alongside their young child, they must remain close by.
-
-## Regular sessions
-We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo.gl/wXcMAGknwyPFEgMp6) between 1830-1930 and on Sundays 1500-1600. 
 
 ## Upcoming Sessions
 
