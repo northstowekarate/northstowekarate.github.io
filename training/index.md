@@ -13,7 +13,7 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
 
 ### Limited Space
 
-We have more students than spaces available - so please book early to avoid dissapointment. Booking becomes available around 1 week before the lesson is scheduled.
+We have more students than spaces available - so please book early to avoid disappointment. Booking becomes available around 1 week before the lesson is scheduled.
 
 ### Cancellation
 

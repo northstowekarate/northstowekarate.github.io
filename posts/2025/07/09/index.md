@@ -1,14 +1,14 @@
 ---
 layout: base.njk
 title: NKC is 1 year old
-description: We continue practicing the grading syllabus and then had cupcakes at the end to celebreate the club being open for 1 year
+description: We continue practicing the grading syllabus and then had cupcakes at the end to celebrate the club being open for 1 year
 date: 2025-07-09
 tags:
 - lesson-summary
 ---
 # Lesson Summary - 9th July 2025
 
-We continued to prepare for the upcoming graind by going through the syllabus. Please continue to practice at home to prepare for the upcoming grading, in particular practice your kata. 
+We continued to prepare for the upcoming grading by going through the syllabus. Please continue to practice at home to prepare for the upcoming grading, in particular practice your kata. 
 
 ## Club is 1 year old
 

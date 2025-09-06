@@ -23,5 +23,5 @@ The next hour also started with punching and the course of the punch, but then m
 
 ## Grading
 
-75 students graded from Cambridge University Karate Club, Northstowe Karate Club and Cambridge Karate Dojo. The standard was very high all 75 students, includind 10 from Northstowe Karate Club, passed. Congratulations!
+75 students graded from Cambridge University Karate Club, Northstowe Karate Club and Cambridge Karate Dojo. The standard was very high all 75 students, including 10 from Northstowe Karate Club, passed. Congratulations!
 

@@ -1,5 +1,5 @@
 ---
-title: Dojo Etiquette | How to be repsecful in the dojo
+title: Dojo Etiquette | How to be respectful in the dojo
 layout: base.njk
 description: Being respectful to ourselves and to each other is a vital part of karate. We must treat everyone with respect and dignity.
 date: "git Last Modified"

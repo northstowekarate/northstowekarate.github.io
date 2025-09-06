@@ -6,7 +6,7 @@ date: "git Last Modified"
 priority: 0.4
 changeFrequency: yearly
 ---
-# Common Japansese Words and Phrases 
+# Common Japanese Words and Phrases 
 
 ## Beginning and Finishing The lesson
 * HAJIME MASU - let's begin
@@ -65,7 +65,7 @@ changeFrequency: yearly
 ### Kicks - KERI
 * MAE GERI - front kick
 * YOKO GERI KEGAGE - side snap kick
-* YOKO GERI KEKOME - side thrust kick
+* YOKO GERI KEKOMI - side thrust kick
 * MAWASHI GERI - roundhouse kick
 ### Fists - KEN
 * URAKEN - back fist

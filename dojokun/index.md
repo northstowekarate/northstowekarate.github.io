@@ -26,7 +26,7 @@ The dojo kun are five guiding principles that serve as a moral compass for marti
   * Hitotsu, Kekki no yuu o imashimuru koto
   * Refrain from violent behaviour
 
-The term &quot;Hitotsu&quot; means &quot;one&quot; or &quot;first,&quot; emphasizing that each precept is equally important. These principles encourage martial artists to strive for personal growth, integrity, and respect in all aspects of life. By adhering to the dojo kun, practitioners aim to become better individuals and contribute positively to society. This holistic approach to martial arts training helps in developing not just physical skills but also mental and moral strength.
+The term &quot;Hitotsu&quot; means &quot;one&quot; or &quot;first,&quot; emphasising that each precept is equally important. These principles encourage martial artists to strive for personal growth, integrity, and respect in all aspects of life. By adhering to the dojo kun, practitioners aim to become better individuals and contribute positively to society. This holistic approach to martial arts training helps in developing not just physical skills but also mental and moral strength.
 
 <blockquote class="blockquote">
   <p class="mb-0">The ultimate aim of karate lies not in victory nor defeat, but in the perfection of the character of its participants.</p>

@@ -10,7 +10,7 @@ changeFrequency: yearly
 
 To book your first class, please [contact us](/contact/) email. When you get in touch, it’s helpful if you can include:
 
-* You/your childs name(s)
+* You/your child's name(s)
 * Your age(s) - we welcome children aged 8+, teens, and adults of all fitness levels.
 * Your fitness level(s)
 * Any medical conditions that might affect your ability to take part in martial arts or sports

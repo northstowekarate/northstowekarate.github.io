@@ -26,4 +26,4 @@ For kihon kumite, the front foot must be inline with your opponents front foot t
 
 ## Kata
 
-We practiced heian nidan several times. A key points includea gyaku hamni - where the hips are turned at a 45 degree angle in the opposite direction.
+We practiced heian nidan several times. A key point includes gyaku hamni - where the hips are turned at a 45 degree angle in the opposite direction.
