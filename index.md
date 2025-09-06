@@ -14,7 +14,7 @@ At Northstowe Karate Club, we are committed to teaching traditional Shotokan Kar
 
 Our club teaches traditional [Shotokan Karate](https://en.wikipedia.org/wiki/Shotokan), a Japanese martial art, in Northstowe on the outskirts of Cambridge. We are a member of [Japan Shotokan Karate England](https://jske.co.uk) and are affiliated with the [Japan Karate Association](https://www.jka.or.jp/en/), which is one of the largest and most prestigious karate organisations in the world.
 
-Below are a few snapshots from recent classes and grading sessions. These moments capture the energy, focus, and camaraderie that define our club.
+Below are a few photos from recent classes, events and grading sessions.
 
 <div class="pswp-gallery pswp-gallery--single-column" id="gallery">
   <div class="row">
@@ -46,6 +46,7 @@ Below are a few snapshots from recent classes and grading sessions. These moment
 </div>
 
 ## Training Sessions
+
 We're a family friendly club, where children (8+) and adults can both train together. We will consider students aged 6-7 on a case-by-case basis. Regular [training sessions](/training/) are held on Wednesday evenings from 6.30-7.30pm and Sunday afternoons 3-4pm at [The Cabin]((https://maps.app.goo.gl/wXcMAGknwyPFEgMp6). We recommend young children train alongside their parent/guardian for the first few lessons while they gain confidence in the unfamiliar environment.
 
 ### Our Teaching Style

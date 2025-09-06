@@ -8,7 +8,7 @@ changeFrequency: yearly
 ---
 # Benefits of Karate
 
-Karate isn’t just about kicks and punches—it offers a wide range of benefits that go beyond physical fitness. At Northstowe Karate Club, students gain valuable skills that support personal growth, health, and community.
+Karate isn’t just about kicks and punches — it offers a wide range of benefits that go beyond physical fitness. At Northstowe Karate Club, students gain valuable skills that support personal growth, health, and community.
 
 ## Learn Self-Defence
 
