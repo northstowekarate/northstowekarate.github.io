@@ -10,3 +10,7 @@ directory = "_site"
 pattern = "www.northstowekarate.com"
 custom_domain = true
 
+[[routes]]
+pattern = "northstowekarate.com"
+custom_domain = true
+
