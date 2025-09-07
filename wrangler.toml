@@ -5,3 +5,7 @@ preview_urls = true
 [assets]
 directory = "_site"
 
+[[routes]]
+pattern = "www.northstowekarate.com"
+custom_domain = true
+
