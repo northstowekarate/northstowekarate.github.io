@@ -1,5 +1,6 @@
 name = "northstowekarate"
 compatibility_date = "2025-09-07"
+preview_urls = true
 
 [assets]
 directory = "_site"
