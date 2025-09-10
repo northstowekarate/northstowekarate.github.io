@@ -12,7 +12,7 @@ Although each lesson will differ, training consists of 3 key elements - kihon, k
 
 ## Respect and Rules
 
-Respect is a huge part of karate. Please view our [etiquette guide](/etiquette/) on how to be respectful and also view our [club rules](/policies/clubrules/).
+Respect is a huge part of karate. Please view our [etiquette guide](/etiquette/) on how to be respectful and also view our [club rules](/policies/club-rules/).
 
 ## Kihon (basics)
 
