@@ -16,7 +16,7 @@ We believe karate is more than physical technique — it’s a lifelong journey 
 ## What is budo?
 Budo (武道), meaning “the martial way,” represents a philosophy of personal growth through martial arts. It encourages focus, resilience, and mutual respect — values we aim to instil in every student.
 
-Simon brings decades of experience and regularly trains with senior [Japan Karate Association (JKA)](https://www.jka.or.jp/en/) instructors on official JKA courses. The club is proudly affiliated with both [Japan Shotokan Karate England (JSKE)](https://jske.org.uk/) and the JKA, ensuring our teaching stays true to authentic Shotokan karate.
+Simon brings decades of experience and regularly trains with senior [Japan Karate Association (JKA)](https://www.jka.or.jp/en/) instructors on official JKA courses. The club is proudly affiliated with both [Japan Shotokan Karate England (JSKE)](https://jske.co.uk/) and the JKA, ensuring our teaching stays true to authentic Shotokan karate.
 
 **What to expect in training:**
 - Clear instruction in strong fundamentals
