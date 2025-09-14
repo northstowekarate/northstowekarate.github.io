@@ -19,7 +19,7 @@ Simon continues to train and develop his skills. He regularly trains at [Cambrid
 ### Certifications
   <ul class="overflow-hidden">
     <li>
-      Fully Enhanced DBS Certification
+      Enhanced DBS Certification
     </li>
     <li>
       D Grade Examiner

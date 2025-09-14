@@ -21,7 +21,7 @@ This helps us work with you to ensure your first session is safe, enjoyable, and
 Please arrive at least 5 minutes early to your first lesson so you can register your details.
 
 ## Age requirements
-We teach students from the age of 8, but will take students aged 6-7 on a case-by-case basis. Young children should train alongside a parent or guardian for the first few lessons while they gain experience in the unfamiliar environment. If a parent / guardian does not wish to train alongside their young child, they must remain close by.
+We teach students from the age of 8 - students aged 6-7 may be accepted after discussion with the instructor. Young children should train alongside a parent or guardian for the first few lessons while they gain experience in the unfamiliar environment. If a parent / guardian does not wish to train alongside their young child, they must remain close by.
 
 ## Helpful Resources
 

@@ -68,7 +68,7 @@ We welcome students of all backgrounds and abilities. Whether you're looking to 
 Your first lesson is always free, and after that you [pay per session](/training/fees/). To book your first class, please [get in touch](/contact/). Please arrive 5 minutes early for your first session so you can be registered. To train regularly, you will also need to purchase an annual membership.
 
 ## Chief Instructor
-Simon Apen-Sadler, the [chief instructor](/instructors/), has over 20 years experience. He is a 4th dan black belt, is first aid qualified and has a fully enhanced DBS check.
+Simon Apen-Sadler, the [chief instructor](/instructors/), has over 20 years experience. He is a 4th dan black belt, is first aid qualified and has a enhanced DBS check.
 
 ## Social media
 

@@ -8,7 +8,7 @@ changeFrequency: yearly
 ---
 # Contact Us
 
-The quickest way to reach us is by email: <a href="mailto:info@northstowekarate.com">info@northstowekarate.com</a>. We’ll reply promptly and answer any questions you may have including details about classes, fees, what to bring, and how to get started.
+The quickest way to reach us is by email: <a href="mailto:info@northstowekarate.com">info@northstowekarate.com</a>. We’ll reply promptly and answer any questions you may have, including details about classes, fees, what to bring, and how to get started.
 
 We also use social media messaging. You can also message us on [Facebook](https://www.facebook.com/profile.php?id=61560001297561) or [Instagram](https://www.instagram.com/northstowekarate). We post regular updates, photos, and club news - great for staying in the loop.
 
