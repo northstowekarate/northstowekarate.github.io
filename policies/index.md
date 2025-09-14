@@ -8,6 +8,8 @@ changeFrequency: yearly
 ---
 # Northstowe Karate Club Policies and Documents
 
+Our club policies are designed to keep everyone safe, respected, and informed. If you have any questions about these documents or how they apply to you, please ask an instructor or contact us directly.
+
 * [Anti Bullying Policy](./anti-bullying-policy.pdf)
 * [Cancellation](./cancellation/)
 * [Club Rules](./club-rules/)

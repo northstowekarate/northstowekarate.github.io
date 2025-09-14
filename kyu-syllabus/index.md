@@ -8,6 +8,10 @@ changeFrequency: yearly
 ---
 # JSKE Kyu Grading Syllabus 
 
+Karate students progress through a series of coloured belts, known as kyu grades, by demonstrating their skills in grading exams. Each grade has specific requirements for basic techniques, kata (forms), and kumite (sparring).
+
+Gradings are held regularly throughout the year. Instructors provide support and guidance to help students prepare for each grading.
+
 ## 10th Kyu (White with Orange)
 ### KIHON - In place basics
 1. CHŪDAN CHOKU-ZUKI - mid level straight punch
