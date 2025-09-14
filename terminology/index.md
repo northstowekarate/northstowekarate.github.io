@@ -8,6 +8,8 @@ changeFrequency: yearly
 ---
 # Common Japanese Words and Phrases 
 
+If you’re ever unsure about a word or phrase, just ask your instructor or a senior student. Everyone is happy to help!
+
 ## Beginning and Finishing The lesson
 * HAJIME MASU - let's begin
 * OWARI MASU - let's finish

@@ -27,3 +27,7 @@ Simon brings decades of experience and regularly trains with senior [Japan Karat
 We welcome children, teens, and adults of all experience levels. Whether you're trying karate for the first time or returning to deepen your practice, you'll find a friendly, inclusive environment where everyone is supported and challenged.
 
 
+
+## Our Instructors
+
+Simon Apen-Sadler, our chief instructor, is a 4th dan black belt with over 20 years of experience. He is first aid qualified, holds an enhanced DBS check, and regularly trains with senior JKA instructors. Simon’s teaching philosophy is to balance discipline with encouragement, helping every student progress at their own pace.

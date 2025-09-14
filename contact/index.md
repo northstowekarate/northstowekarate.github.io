@@ -16,3 +16,7 @@ If you prefer to call us, you can reach us on <a href="tel:07596922670">07596922
 
 Ask questions, register interest, or book your first session - we’re here to help. Join a growing community, build confidence, and start your martial arts journey with Northstowe Karate.
 
+
+## Visit Us
+
+Classes are held at The Cabin, Northstowe. [See map](https://maps.app.goo.gl/wXcMAGknwyPFEgMp6) for directions.

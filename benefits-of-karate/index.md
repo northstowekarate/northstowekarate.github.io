@@ -32,3 +32,8 @@ Karate classes are a great place to make friends and connect with others who sha
 
 Karate is more than a sport - it’s a way to grow physically, mentally, and socially. Whether you're looking to stay fit, gain confidence, or be part of a positive community, karate has something to offer.
 
+
+## Suitable for All
+
+Karate is suitable for children, teens, and adults of all ages and abilities. Our club welcomes everyone, regardless of experience or fitness level.
+

@@ -55,3 +55,7 @@ Simon continues to train and develop his skills. He regularly trains at [Cambrid
 
 Simon is registered with the BMABA (British Martial Arts and Boxing Association). You can verify instructor details on the [BMABA website](https://bmaba.org.uk/verify/).
 
+
+## Teaching Philosophy
+
+Simon believes in balancing discipline with encouragement, helping every student progress at their own pace and fostering a respectful, inclusive environment.

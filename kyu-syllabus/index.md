@@ -12,6 +12,8 @@ Karate students progress through a series of coloured belts, known as kyu grades
 
 Gradings are held regularly throughout the year. Instructors provide support and guidance to help students prepare for each grading.
 
+For details on upcoming gradings and how to prepare, speak to your instructor or check our club communications.
+
 ## 10th Kyu (White with Orange)
 ### KIHON - In place basics
 1. CHŪDAN CHOKU-ZUKI - mid level straight punch

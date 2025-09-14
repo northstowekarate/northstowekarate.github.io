@@ -94,3 +94,7 @@ The Cabin, 1 The Green, Northstowe, Cambridge, CB24 1FD
   "description": "Shotokan Karate classes for age 8+ in Northstowe, Cambridge and Cambridgeshire."
 }
 </script>
+
+## For First Timers
+
+Wear comfortable sports clothing and bring a water bottle. You do not need a karate uniform (gi) until you decide to train regularly. For more details, see our [FAQ and what to expect](/training/what-to-expect/).
