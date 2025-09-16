@@ -11,9 +11,11 @@ priority: 0.9
 ## Regular sessions
 We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo.gl/wXcMAGknwyPFEgMp6) between 1830-1930 and on Sundays 1500-1600. 
 
+** Please note our Wednesday sessions are very busy and we may not have space available. We have better availability on Sundays **
+
 ### Limited Space
 
-We have more students than spaces available - so please book early to avoid disappointment. Booking becomes available around 1 week before the lesson is scheduled.
+We have more students than spaces available - so please book early to avoid disappointment. Booking becomes available around 1 week before the lesson is scheduled. 
 
 ### Cancellation
 
