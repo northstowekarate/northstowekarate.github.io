@@ -47,7 +47,7 @@ Below are a few photos from recent classes, events and grading sessions.
 
 ## Training Sessions
 
-** Please note our Wednesday sessions are very busy and we may not have space available. We have better availability on Sundays **
+**Please note our Wednesday sessions are very busy and we may not have space available. We have better availability on Sundays**
 
 We're a family friendly club, where children (8+) and adults can both train together. We will consider students aged 6-7 on a case-by-case basis. Regular [training sessions](/training/) are held on Wednesday evenings from 6.30-7.30pm and Sunday afternoons 3-4pm at [The Cabin]((https://maps.app.goo.gl/wXcMAGknwyPFEgMp6). We recommend young children train alongside their parent/guardian for the first few lessons while they gain confidence in the unfamiliar environment.
 
