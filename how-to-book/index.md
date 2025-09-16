@@ -15,6 +15,7 @@ To book your first class, please [contact us](/contact/) email. When you get in 
 * Your fitness level(s)
 * Any medical conditions that might affect your ability to take part in martial arts or sports
 * Any previous experience with karate or other martial arts
+* When you'd like to book. View our [training schedule](/training/) to see when and where we train.
 
 This helps us work with you to ensure your first session is safe, enjoyable, and tailored to your needs. We aim to reply within 2–3 days. Classes fill up quickly, so early booking is recommended.
 
