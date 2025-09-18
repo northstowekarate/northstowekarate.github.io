@@ -100,7 +100,7 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
     <tr>
       <td>Wednesday 19th November 1830-1930</td>
       <td>The Cabin</td>
-      <td></td>
+      <td>Limited space</td>
     </tr>
   </tbody>
 </table>
