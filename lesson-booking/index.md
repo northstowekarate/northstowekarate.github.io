@@ -22,7 +22,7 @@ This helps us work with you to ensure your first session is safe, enjoyable, and
 
 Please arrive at least 5 minutes early to your first lesson so you can register your details.
 
-### Booking future sessions
+## Booking future sessions
 
 Please add your name to the <a rel="nofollow" href="https://northstowekarateclub-my.sharepoint.com/:x:/g/personal/info_northstowekarate_com/Eb4aqsPutnZCiLxMHJt1MOcB8qFo60KqACt7lJdUVGEWHw?e=NRJJIZ">spreadsheet</a> to book a place.
 
