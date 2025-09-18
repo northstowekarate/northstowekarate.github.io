@@ -23,6 +23,9 @@ At Northstowe Karate Club, we are committed to teaching traditional Shotokan Kar
     <li><strong>What to Bring:</strong> Comfortable sports clothing, water bottle. No uniform needed for first lesson.</li>
     <li><strong>Contact:</strong> <a href="mailto:info@northstowekarate.com">info@northstowekarate.com</a> or <a href="/contact/">contact page</a></li>
   </ul>
+  <div style="text-align:center;">
+  <a href="/lesson-booking/" class="btn btn-primary">Book your first class today</a>
+  </div>
 </div>
 
 ## Upcoming Events & News
