@@ -19,7 +19,7 @@ At Northstowe Karate Club, we are committed to teaching traditional Shotokan Kar
     <li><strong>How to Book:</strong> <a href="/lesson-booking/">Book your first lesson here</a> (first lesson free!)</li>
     <li><strong>Who:</strong> Ages 8+ (6-7 by arrangement), adults & families welcome</li>
     <li><strong>Fees:</strong> <a href="/training/fees/">Pay per session</a> after your free first lesson. Membership required for permanent students.</li>
-    <li><strong><a href="/benefits-of-karate">Benefits:</a></strong> Improve fitness, confidence, focus, and self-defence. Make friends in a supportive club.</li>
+    <li><strong><a href="/benefits-of-karate/">Benefits:</a></strong> Improve fitness, confidence, focus, and self-defence. Make friends in a supportive club.</li>
     <li><strong>What to Bring:</strong> Comfortable sports clothing, water bottle. No uniform needed for first lesson.</li>
     <li><strong>Contact:</strong> <a href="mailto:info@northstowekarate.com">info@northstowekarate.com</a> or <a href="/contact/">contact page</a></li>
   </ul>
