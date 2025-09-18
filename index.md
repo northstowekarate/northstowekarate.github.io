@@ -60,7 +60,7 @@ Although no two lessons are the same, our [lesson format](/training/what-to-expe
 
 ## Benefits of Karate
 
-Karate has many [benefits](/benefits-of-karate/). While learning to defend yourself, you'll gain fitness and become healthier. You'll also become more confident, and it's a great place to make friends.
+Karate has many [benefits](/benefits-of-karate/). While learning to defend yourself, you'll gain fitness and become healthier. You'll also become more confident and focussed. It's also a great place to make friends.
 
 ## Is Karate Right for You?
 
