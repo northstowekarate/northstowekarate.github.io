@@ -23,32 +23,82 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
       <th scope="col"> Notes </th>
     </tr>
     <tr>
-      <td>Wednesday 3rd September 1830-1930</td>
-      <td>The Cabin</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Wednesday 10th September 1830-1930</td>
-      <td>The Cabin</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Sunday 14th September 1500-1600</td>
-      <td>The Cabin</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Wednesday 17th September 1830-1930</td>
-      <td>The Cabin</td>
-      <td>Limited space - please prebook</td>
-    </tr>
-    <tr>
       <td>Sunday 21st September 1500-1600</td>
       <td>The Cabin</td>
       <td></td>
     </tr>
     <tr>
       <td>Wednesday 24th September 1830-1930</td>
+      <td>The Cabin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Sunday 28th September 1500-1600</td>
+      <td>The Cabin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Wednesday 1st October 1830-1930</td>
+      <td>The Cabin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Sunday 5th October 1500-1600</td>
+      <td>The Cabin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Wednesday 8th October 1830-1930</td>
+      <td>The Cabin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Sunday 12th October 1500-1600</td>
+      <td>The Cabin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Wednesday 15th October 1830-1930</td>
+      <td>The Cabin</td>
+      <td>Limited space</td>
+    </tr>
+    <tr>
+      <td>Sunday 19th October 1500-1600</td>
+      <td>The Cabin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Wednesday 22nd October 1830-1930</td>
+      <td>The Cabin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Sunday 26th October 1500-1600</td>
+      <td>The Cabin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Wednesday 30th October 1830-1930</td>
+      <td>The Cabin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Wednesday 5th November 1830-1930</td>
+      <td>The Cabin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Wednesday 12th November 1830-1930</td>
+      <td>The Cabin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Sunday 16th November 1500-1600</td>
+      <td>The Cabin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Wednesday 19th November 1830-1930</td>
       <td>The Cabin</td>
       <td></td>
     </tr>
