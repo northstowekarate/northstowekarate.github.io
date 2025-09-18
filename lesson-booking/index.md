@@ -23,7 +23,7 @@ Welcome to our lesson booking page! New members are always welcome - your first 
           <li>fitness level</li>
           <li>any medical conditions</li>
           <li>previous martial arts experience</li>
-          <li>which session you'd like to attend (<a href="/training/">see schedule</a>)</li>
+          <li>which session you'd like to attend (<a href="/training/">see schedule</a>). Please note our Wednesday sessions are full and there may not be space. Our Sunday sessions have better availability</li>
         </ul>
       </li>
       <li>We'll reply within 2–3 days to confirm your booking and answer any questions.</li>
