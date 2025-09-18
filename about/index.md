@@ -10,6 +10,8 @@ changeFrequency: yearly
 
 Founded in 2024 by Simon Apen-Sadler [(Chief Instructor)](/instructors/), Deborah Turner (Treasurer), and Mitali Apen-Sadler (Secretary), Northstowe Karate Club is a welcoming martial arts community based on the principles of budo karate: discipline, humility, and continuous self-improvement.
 
+We teach traditional [Shotokan Karate](https://en.wikipedia.org/wiki/Shotokan), a Japanese martial art. We are a member of [Japan Shotokan Karate England](https://jske.co.uk) and are affiliated with the [Japan Karate Association](https://www.jka.or.jp/en/), which is one of the largest and most prestigious karate organisations in the world.
+
 ## Tradition and Respect — Rooted in Honour, Strengthened by Community
 
 We believe karate is more than physical technique — it’s a lifelong journey of character development. Our training is grounded in tradition and respect, with honour guiding how we teach, train, and support each other. Community is at the heart of everything we do.

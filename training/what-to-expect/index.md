@@ -8,7 +8,9 @@ changeFrequency: yearly
 ---
 # What to expect during a lesson
 
-Although each lesson will differ, training consists of 3 key elements - kihon, kumite and kata. We also emphasise the importance of respect and humility in all of our lessons.
+Although each lesson will differ, training consists of 3 key elements - kihon, kumite and kata. We build up your confidence gradually. We're a non-contact club, and you won't be expected to fight until you've learnt the basics, and even then it's under controlled conditions with known attacks and blocks until you're very experienced. Injuries are rare - please speak to the instructor if you have any concerns. There is an element of risk to all sports and exercise, including martial arts - please see our [assumption of risk document](/policies/risk/) for details.
+
+We strongly emphasise the importance of respect and humility in all of our lessons.
 
 ## Respect and Rules
 
