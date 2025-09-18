@@ -8,7 +8,7 @@ changeFrequency: monthly
 ---
 # Northstowe Karate Club
 
-At Northstowe Karate Club, we are committed to teaching traditional Shotokan Karate in a supportive and friendly environment. Whether you are a beginner or an experienced practitioner, our club offers a place for everyone to learn, grow, and achieve their personal best. Northstowe Karate Club is proud to serve our local community in Northstowe while being part of the wider Cambridge martial arts scene. We welcome students from across the region and train in the spirit of Shotokan Karate, with strong ties to the Cambridge area.
+At Northstowe Karate Club, we are committed to teaching traditional Shotokan Karate in a supportive and friendly environment. Whether you are a beginner or an experienced practitioner, our club offers a place for everyone to learn, grow, and achieve their personal best. Northstowe Karate Club is proud to serve our local community in Northstowe while being part of the wider Cambridge martial arts scene. We welcome students from across the region and train.
 
 ## Key information
 
