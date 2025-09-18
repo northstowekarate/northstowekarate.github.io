@@ -1,5 +1,5 @@
 ---
-title: How to book your | Northstowe Karate Club
+title: How to book | Northstowe Karate Club
 layout: base.njk
 description: To book your first class, please contact us via email or social media. Contact details are available on the contact page
 date: "git Last Modified"
