@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: Karate & Martial Arts in Northstowe, Cambridge 
-description: A family friendly karate club (8+) in Northstowe, Cambridge, teaching traditional martial arts. Build focus, fitness and confidence - join today.
+description: Join our family-friendly karate club in Northstowe (ages 8+). Learn martial arts, improve fitness, and grow confidence in every class.
 date: "git Last Modified"
 priority: 1.0
 changeFrequency: monthly
