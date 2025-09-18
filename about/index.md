@@ -22,7 +22,8 @@ Simon brings decades of experience and regularly trains with senior [Japan Karat
 - Clear instruction in strong fundamentals
 - Practical self-defence techniques
 - A focus on steady personal progress
- For more information see our [what to expect page](/training/what-to-expect/).
+
+For more information see our [what to expect page](/training/what-to-expect/).
 
 We welcome children, teens, and adults of all experience levels. Whether you're trying karate for the first time or returning to deepen your practice, you'll find a friendly, inclusive environment where everyone is supported and challenged.
 

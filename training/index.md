@@ -9,7 +9,7 @@ priority: 0.9
 # Training Schedule
 
 ## Regular sessions
-We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo.gl/wXcMAGknwyPFEgMp6) between 1830-1930 and on Sundays 1500-1600.
+We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo.gl/wXcMAGknwyPFEgMp6) between 6.30-7.30pm and on Sundays 3-4pm.
 
 **Please note our Wednesday sessions are very busy and we may not have space available. We have better availability on Sundays.**
 

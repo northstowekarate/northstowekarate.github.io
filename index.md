@@ -10,41 +10,28 @@ changeFrequency: monthly
 
 At Northstowe Karate Club, we are committed to teaching traditional Shotokan Karate in a supportive and friendly environment. Whether you are a beginner or an experienced practitioner, our club offers a place for everyone to learn, grow, and achieve their personal best. Northstowe Karate Club is proud to serve our local community in Northstowe while being part of the wider Cambridge martial arts scene. We welcome students from across the region and train in the spirit of Shotokan Karate, with strong ties to the Cambridge area.
 
-  <div style="border:2px solid #007bff; border-radius:8px; background:#f8f9fa; padding:1em; margin-bottom:1em;">
-    <strong style="font-size:1.2em; color:#007bff;">Your first lesson is always free!</strong>
-    <br>
-    <span style="font-size:1em;">How to book your first class:</span>
-    <ol style="margin-top:0.5em;">
-      <li>Contact us by <a href="mailto:info@northstowekarate.com">email</a>, <a href="https://www.facebook.com/profile.php?id=61560001297561">Facebook</a>, <a href="https://www.instagram.com/northstowekarate">Instagram</a>, or <a href="tel:07596922670">phone</a>.</li>
-      <li>Let us know your:
-        <ul style="margin-top:0.5em;">
-          <li>name</li>
-          <li>age</li> 
-          <li>fitness level</li>
-          <li>any medical conditions</li>
-          <li>previous martial arts experience</li>
-          <li>which session you'd like to attend (<a href="/training/">see schedule</a>)</li>
-        </ul>
-      </li>
-      <li>We'll reply within 2–3 days to confirm your booking and answer any questions.</li>
-      <li>Arrive 5 minutes early to register your details.</li>
-    </ol>
-    <div style="margin-top:1em;">
-      <strong>Contact options:</strong><br>
-      <a href="mailto:info@northstowekarate.com"><i class="fa fa-envelope"></i> info@northstowekarate.com</a><br>
-      <a href="https://www.facebook.com/profile.php?id=61560001297561"><i class="fab fa-facebook"></i> Northstowe Karate Club</a><br>
-      <a href="https://www.instagram.com/northstowekarate"><i class="fab fa-instagram"></i> @northstowekarate</a><br>
-      <a href="tel:07596922670"><i class="fa fa-phone"></i> 07596922670</a>
-    </div>
-  </div>
+## Key information
+
+<div style="border:2px solid #007bff; border-radius:8px; background:#e9f5ff; padding:1em; margin-bottom:1em;">
+  <ul style="margin-top:0.5em; margin-bottom:0.5em;">
+    <li><strong>When:</strong> Wednesdays 6.30-7.30pm & Sundays 3-4pm. View our <a href="/training/">training schedule</a> for more information</li>
+    <li><strong>Where:</strong> The Cabin, Northstowe (<a href="https://maps.app.goo.gl/wXcMAGknwyPFEgMp6" target="_blank">View map</a>)</li>
+    <li><strong>How to Book:</strong> <a href="/lesson-booking/">Book your first lesson here</a> (first lesson free!)</li>
+    <li><strong>Who:</strong> Ages 8+ (6-7 by arrangement), adults & families welcome</li>
+    <li><strong>Fees:</strong> <a href="/training/fees/">Pay per session</a> after your free first lesson. Membership required for permanent students.</li>
+    <li><strong><a href="/benefits-of-karate">Benefits:</a></strong> Improve fitness, confidence, focus, and self-defence. Make friends in a supportive club.</li>
+    <li><strong>What to Bring:</strong> Comfortable sports clothing, water bottle. No uniform needed for first lesson.</li>
+    <li><strong>Contact:</strong> <a href="mailto:info@northstowekarate.com">info@northstowekarate.com</a> or <a href="/contact/">contact page</a></li>
+  </ul>
+</div>
 
 ## Upcoming Events & News
 
 Stay up to date with club news, grading dates, and events:
 
-- <a href="/blog/">Latest News & Blog</a>
-- <a href="https://jske.co.uk/events/">JSKE Events Calendar</a>
-- <a href="/training/">Training Schedule</a>
+- [Latest News & Blog](/blog/)
+- [JSKE Events Calendar](https://jske.co.uk/events/)
+- [Training Schedule](/training/)
 
 ## About the club
 
