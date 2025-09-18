@@ -8,7 +8,7 @@ priority: 0.9
 ---
 # Training Schedule
 
-Find all the details about our karate training sessions here, including times and locations. Our classes are open to children (ages 8+), adults, and families—beginners are always welcome! Please [book early](/lesson-booking/), as spaces can fill up quickly. If you’re new, see our [What to Expect](/what-to-expect/) and [FAQ](/training/faq/) pages for tips on your first session.
+Find all the details about our karate training sessions here, including times and locations. Our classes are open to children (ages 8+), adults, and families—beginners are always welcome! Please [book early](/lesson-booking/), as spaces can fill up quickly. If you’re new, see our [What to Expect](/training/what-to-expect/) and [FAQ](/training/faq/) pages for tips on your first session.
 
 ## Regular sessions
 We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo.gl/wXcMAGknwyPFEgMp6) between 6.30-7.30pm and on Sundays 3-4pm.
