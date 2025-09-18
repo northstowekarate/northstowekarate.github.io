@@ -10,6 +10,42 @@ changeFrequency: monthly
 
 At Northstowe Karate Club, we are committed to teaching traditional Shotokan Karate in a supportive and friendly environment. Whether you are a beginner or an experienced practitioner, our club offers a place for everyone to learn, grow, and achieve their personal best. Northstowe Karate Club is proud to serve our local community in Northstowe while being part of the wider Cambridge martial arts scene. We welcome students from across the region and train in the spirit of Shotokan Karate, with strong ties to the Cambridge area.
 
+  <div style="border:2px solid #007bff; border-radius:8px; background:#f8f9fa; padding:1em; margin-bottom:1em;">
+    <strong style="font-size:1.2em; color:#007bff;">Your first lesson is always free!</strong>
+    <br>
+    <span style="font-size:1em;">How to book your first class:</span>
+    <ol style="margin-top:0.5em;">
+      <li>Contact us by <a href="mailto:info@northstowekarate.com">email</a>, <a href="https://www.facebook.com/profile.php?id=61560001297561">Facebook</a>, <a href="https://www.instagram.com/northstowekarate">Instagram</a>, or <a href="tel:07596922670">phone</a>.</li>
+      <li>Let us know your:
+        <ul style="margin-top:0.5em;">
+          <li>name</li>
+          <li>age</li> 
+          <li>fitness level</li>
+          <li>any medical conditions</li>
+          <li>previous martial arts experience</li>
+          <li>which session you'd like to attend (<a href="/training/">see schedule</a>)</li>
+        </ul>
+      </li>
+      <li>We'll reply within 2–3 days to confirm your booking and answer any questions.</li>
+      <li>Arrive 5 minutes early to register your details.</li>
+    </ol>
+    <div style="margin-top:1em;">
+      <strong>Contact options:</strong><br>
+      <a href="mailto:info@northstowekarate.com"><i class="fa fa-envelope"></i> info@northstowekarate.com</a><br>
+      <a href="https://www.facebook.com/profile.php?id=61560001297561"><i class="fab fa-facebook"></i> Northstowe Karate Club</a><br>
+      <a href="https://www.instagram.com/northstowekarate"><i class="fab fa-instagram"></i> @northstowekarate</a><br>
+      <a href="tel:07596922670"><i class="fa fa-phone"></i> 07596922670</a>
+    </div>
+  </div>
+
+## Upcoming Events & News
+
+Stay up to date with club news, grading dates, and events:
+
+- <a href="/blog/">Latest News & Blog</a>
+- <a href="https://jske.co.uk/events/">JSKE Events Calendar</a>
+- <a href="/training/">Training Schedule</a>
+
 ## About the club
 
 [Our club](/about/) teaches traditional [Shotokan Karate](https://en.wikipedia.org/wiki/Shotokan), a Japanese martial art, in Northstowe on the outskirts of Cambridge. We are a member of [Japan Shotokan Karate England](https://jske.co.uk) and are affiliated with the [Japan Karate Association](https://www.jka.or.jp/en/), which is one of the largest and most prestigious karate organisations in the world.

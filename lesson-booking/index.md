@@ -9,18 +9,33 @@ changeFrequency: yearly
 # Lessson Bookings 
 
 ## Booking your first class 
-To book your first class, please [contact us](/contact/). When you get in touch, it’s helpful if you can include:
-
-* You/your child's name(s)
-* Your age(s) - we welcome children aged 8+, teens, and adults of all fitness levels.
-* Your fitness level(s)
-* Any medical conditions that might affect your ability to take part in martial arts or sports
-* Any previous experience with karate or other martial arts
-* When you'd like to book. View our [training schedule](/training/) to see when and where we train.
-
-This helps us work with you to ensure your first session is safe, enjoyable, and tailored to your needs. We aim to reply within 2–3 days. Classes fill up quickly, so early booking is recommended.
-
-Please arrive at least 5 minutes early to your first lesson so you can register your details.
+ <div style="border:2px solid #007bff; border-radius:8px; background:#f8f9fa; padding:1em; margin-bottom:1em;">
+    <strong style="font-size:1.2em; color:#007bff;">Your first lesson is always free!</strong>
+    <br>
+    <span style="font-size:1em;">How to book your first class:</span>
+    <ol style="margin-top:0.5em;">
+      <li>Contact us by <a href="mailto:info@northstowekarate.com">email</a>, <a href="https://www.facebook.com/profile.php?id=61560001297561">Facebook</a>, <a href="https://www.instagram.com/northstowekarate">Instagram</a>, or <a href="tel:07596922670">phone</a>.</li>
+      <li>Let us know your:
+        <ul>
+          <li>name</li>
+          <li>age</li> 
+          <li>fitness level</li>
+          <li>any medical conditions</li>
+          <li>previous martial arts experience</li>
+          <li>which session you'd like to attend (<a href="/training/">see schedule</a>)</li>
+        </ul>
+      </li>
+      <li>We'll reply within 2–3 days to confirm your booking and answer any questions.</li>
+      <li>Arrive 5 minutes early to register your details.</li>
+    </ol>
+    <div style="margin-top:1em;">
+      <strong>Contact options:</strong><br>
+      <a href="mailto:info@northstowekarate.com"><i class="fa fa-envelope"></i> info@northstowekarate.com</a><br>
+      <a href="https://www.facebook.com/profile.php?id=61560001297561"><i class="fab fa-facebook"></i> Northstowe Karate Club</a><br>
+      <a href="https://www.instagram.com/northstowekarate"><i class="fab fa-instagram"></i> @northstowekarate</a><br>
+      <a href="tel:07596922670"><i class="fa fa-phone"></i> 07596922670</a>
+    </div>
+  </div>
 
 ## Booking future sessions
 

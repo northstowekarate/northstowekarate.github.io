@@ -1,9 +1,9 @@
 .PHONY: build serve push pull clean
 
-setup:
-	npm i
 build: clean setup
 	npm run build
+setup:
+	npm i
 clean:
 	rm -rf _site
 serve: build
