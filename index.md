@@ -47,8 +47,7 @@ Below are a few photos from recent classes, events and grading sessions.
 
 ## Training Sessions
 
-
-We're a family friendly club, where children (8+) and adults can both train together. We will consider students aged 6-7 on a case-by-case basis. Regular [training sessions](/training/) are held on Wednesday evenings from 6.30-7.30pm and Sunday afternoons 3-4pm at [The Cabin](https://maps.app.goo.gl/wXcMAGknwyPFEgMp6). We recommend young children train alongside their parent/guardian for the first few lessons while they gain confidence in the unfamiliar environment.
+We're a family friendly club, where children (8+) and adults can both train together. We will consider students aged 6-7 on a case-by-case basis. Regular [training sessions](/training/) are held on Wednesday evenings from 6.30-7.30pm and Sunday afternoons 3-4pm at [The Cabin](https://maps.app.goo.gl/wXcMAGknwyPFEgMp6). We recommend young children train alongside their parent/guardian for the first few lessons while they gain confidence in the unfamiliar environment. Go to our [book now page](/how-to-book/) to book your first lesson.
 
 **Please note our Wednesday sessions are very busy and we may not have space available. We have better availability on Sundays.**
 
@@ -68,7 +67,7 @@ Karate has many [benefits](/benefits-of-karate/). While learning to defend yours
 We welcome students of all backgrounds and abilities. Whether you're looking to improve your fitness, build confidence, or simply try something new, our inclusive approach ensures everyone feels supported. Parents and guardians are encouraged to train alongside younger children to help them settle in.
 
 ## Fees
-Your first lesson is always free, and after that you [pay per session](/training/fees/). To book your first class, please [get in touch](/contact/). Please arrive 5 minutes early for your first session so you can be registered. To train regularly, you will also need to purchase an annual membership.
+Your first lesson is always free, and after that you [pay per session](/training/fees/). Please arrive 5 minutes early for your first session so you can be registered. To train regularly, you will also need to purchase an annual membership.
 
 ## Chief Instructor
 Simon Apen-Sadler, the [chief instructor](/instructors/), has over 20 years experience. He is a 4th dan black belt, is first aid qualified and has a enhanced DBS check.

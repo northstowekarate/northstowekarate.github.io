@@ -6,8 +6,9 @@ date: "git Last Modified"
 priority: 0.8
 changeFrequency: yearly
 ---
-# How to Book Your First Class
+# Lessson Bookings 
 
+## Booking your first class 
 To book your first class, please [contact us](/contact/). When you get in touch, it’s helpful if you can include:
 
 * You/your child's name(s)
@@ -21,8 +22,11 @@ This helps us work with you to ensure your first session is safe, enjoyable, and
 
 Please arrive at least 5 minutes early to your first lesson so you can register your details.
 
-## Age requirements
-We teach students from the age of 8 - students aged 6-7 may be accepted after discussion with the instructor. Young children should train alongside a parent or guardian for the first few lessons while they gain experience in the unfamiliar environment. If a parent / guardian does not wish to train alongside their young child, they must remain close by.
+### Booking future sessions
+
+Please add your name to the <a rel="nofollow" href="https://northstowekarateclub-my.sharepoint.com/:x:/g/personal/info_northstowekarate_com/Eb4aqsPutnZCiLxMHJt1MOcB8qFo60KqACt7lJdUVGEWHw?e=NRJJIZ">spreadsheet</a> to book a place.
+
+The spreadsheet is password protected. You'll receive the password once you've attended your first session via email.
 
 ## Helpful Resources
 
@@ -34,11 +38,5 @@ Before your first class, you might want to explore:
 
 ## Other Questions
 
-If you have any questions that aren’t covered on the website, please don’t hesitate to reach out. We’re here to help and make your first step into karate as smooth as possible.
-
-## How to book future sessions
-
-Please add your name to the <a rel="nofollow" href="https://northstowekarateclub-my.sharepoint.com/:x:/g/personal/info_northstowekarate_com/Eb4aqsPutnZCiLxMHJt1MOcB8qFo60KqACt7lJdUVGEWHw?e=NRJJIZ">spreadsheet</a> to book a place.
-
-The spreadsheet is password protected. You'll receive the password once you've attended your first session via email.
+If you have any questions that aren’t covered on the website, please don’t hesitate to [reach out](/contact/). We’re here to help and make your first step into karate as smooth as possible.
 
