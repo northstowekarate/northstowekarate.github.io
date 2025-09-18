@@ -27,3 +27,7 @@ We teach both children and adults, aged 8 and above. Students aged 6-7 may be ac
 ## Will I get hurt? 
 
 Karate is a martial art, and there are some risks involved. However, injuries are rare. JKA karate is non-contact, and you won't be expected to fight until you've mastered the basics. We build up the level of fighting gradually, starting off slowly with known attacks to develop technique and confidence. Safety is our top priority, and our instructors are trained to ensure that all activities are conducted in a controlled and safe manner.
+
+## Is Karate Right for You?
+
+We welcome students of all backgrounds and abilities. Whether you're looking to improve your fitness, build confidence, or simply try something new, our inclusive approach ensures everyone feels supported. Parents and guardians are encouraged to train alongside younger children to help them settle in.
