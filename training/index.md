@@ -8,19 +8,12 @@ priority: 0.9
 ---
 # Training Schedule
 
+Find all the details about our karate training sessions here, including times and locations. Our classes are open to children (ages 8+), adults, and families—beginners are always welcome! Please check availability and book early, as spaces can fill up quickly. If you’re new, see our [What to Expect](/what-to-expect/) and [FAQ](/training/faq/) pages for tips on your first session.
+
 ## Regular sessions
 We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo.gl/wXcMAGknwyPFEgMp6) between 6.30-7.30pm and on Sundays 3-4pm.
 
-**Please note our Wednesday sessions are very busy and we may not have space available. We have better availability on Sundays.**
-
-### Limited Space
-
-We have limited space available - please book early to avoid disappointment. [Booking](/lesson-booking/) becomes available around 1 week before the lesson is scheduled.
-
-
-### Cancellation
-
-Should you need to cancel, please do so with at least 24 hours notices by removing your name from the spreadsheet and emailing the club. If you cancel within 24 hours notice or are a no-show, you will be charged for the lesson.
+**Please note our Wednesday sessions are very busy and we may not have space available. We have better availability on Sundays.** Please [book early](/lesson-booking/) to avoid disappointment.
 
 ## Upcoming Sessions
 
@@ -64,6 +57,11 @@ Should you need to cancel, please do so with at least 24 hours notices by removi
   </tbody>
 </table>
 
+### Cancellation
+
+Should you need to cancel, please do so with at least 24 hours notices by removing your name from the spreadsheet and emailing the club. If you cancel within 24 hours notice or are a no-show, you will be charged for the lesson.
+
+
 ## Locations
 ### The Cabin
 
@@ -97,7 +95,3 @@ The Cabin, 1 The Green, Northstowe, Cambridge, CB24 1FD
   "description": "Shotokan Karate classes for age 8+ in Northstowe, Cambridge and Cambridgeshire."
 }
 </script>
-
-## For First Timers
-
-Wear comfortable sports clothing and bring a water bottle. You do not need a karate uniform (gi) until you decide to train regularly. For more details, see our [FAQ and what to expect](/training/what-to-expect/).

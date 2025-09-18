@@ -18,5 +18,5 @@ E-Mail Address: info@northstowekarate.com
 
 Please feel free to raise minor matters with your instructor before or after classes too; we’re here to help. 
 ### How We Will Receive And Deal With Your Complaint 
-We will always acknowledge receipt of any complaint raised within 24 hours. From there, we will try and 
+We will always acknowledge receipt of any complaint raised within 7 days. From there, we will try and 
 respond in full to your concern or complaint within 2 working weeks. We will respond to your complaint in writing. 

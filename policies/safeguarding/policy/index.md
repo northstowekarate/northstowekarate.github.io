@@ -6,7 +6,8 @@ description: Northstowe Karate Club is committed to ensuring the safety of all o
 
 # Northstowe Karate Club - Safeguarding Policy
 
-Last Updated – [09/2024]
+Last Updated/Reviewed – [09/2025]
+
 This document must be reviewed no less than once per year.
 
 ## Purpose

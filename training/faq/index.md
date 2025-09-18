@@ -7,6 +7,7 @@ priority: 0.8
 changeFrequency: monthly
 ---
 # Frequently Asked Questions
+Here are some of our frequently asked questions to help you find our more about karate, our club, what to expect. 
 
 ## It's my first lesson, what can I expect? 
 

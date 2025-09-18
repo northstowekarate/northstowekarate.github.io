@@ -87,5 +87,5 @@ instructor or contact us on the below details;
 info@northstowekarate.com
 
 
-Policy Last Updated: July 2024
+Policy Last Updated/Reviewed: Sep 2025
 
