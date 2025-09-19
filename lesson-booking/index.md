@@ -52,7 +52,7 @@ The spreadsheet is password protected. You'll receive the password once you've a
 
 Before your first class, you might want to explore:
 
-* [FAQs](/training/faq/) – Answers to common questions like what to wear, what to bring, and how classes are structured
+* [FAQs](/faq/) – Answers to common questions like what to wear, what to bring, and how classes are structured
 * [What to Expect](/training/what-to-expect/) – A friendly guide to your first session and what you'll be doing
 * [Training Schedule](/training/) - Tells you when classes are held and when the next class will be
 
