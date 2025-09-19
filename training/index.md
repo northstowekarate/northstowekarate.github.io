@@ -102,6 +102,101 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
       <td>The Cabin</td>
       <td>Limited space</td>
     </tr>
+    <tr>
+      <td>Sunday 23rd November 1500-1600</td>
+      <td>The Cabin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Wednesday 26th November 1830-1930</td>
+      <td>The Cabin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Sunday 30th November 1500-1600</td>
+      <td>The Cabin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Wednesday 3rd December 1830-1930</td>
+      <td>The Cabin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Sunday 7th December 1500-1600</td>
+      <td>The Cabin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Wednesday 10th December 1830-1930</td>
+      <td>The Cabin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Wednesday 14th January 1830-1930</td>
+      <td>The Cabin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Sunday 18th January 1500-1600</td>
+      <td>The Cabin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Wednesday 21st January 1830-1930</td>
+      <td>The Cabin</td>
+      <td>Limited Space</td>
+    </tr>
+    <tr>
+      <td>Sunday 25th January 1500-1600</td>
+      <td>The Cabin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Wednesday 28th January 1830-1930</td>
+      <td>The Cabin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Sunday 1st February 1500-1600</td>
+      <td>The Cabin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Wednesday 4th February 1830-1930</td>
+      <td>The Cabin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Sunday 8th February 1500-1600</td>
+      <td>The Cabin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Wednesday 11th February 1830-1930</td>
+      <td>The Cabin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Sunday 15th February 1500-1600</td>
+      <td>The Cabin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Wednesday 18th February 1830-1930</td>
+      <td>The Cabin</td>
+      <td>Limited Space</td>
+    </tr>
+    <tr>
+      <td>Sunday 22nd February 1500-1600</td>
+      <td>The Cabin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Wednesday 25th February 1830-1930</td>
+      <td>The Cabin</td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 
