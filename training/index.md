@@ -14,8 +14,38 @@ Find all the details about our karate training sessions here, including times an
 We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo.gl/wXcMAGknwyPFEgMp6) between 6.30-7.30pm and on Sundays 3-4pm.
 
 ## Upcoming Sessions
-
-<table class="table table-bordered">
+<table class="table table-bordered table-responsive">
+  <tbody>
+    <tr>
+      <th scope="col"> Time and Date</th>
+      <th scope="col"> Location </th>
+      <th scope="col"> Notes </th>
+    </tr>
+    <tr>
+      <td>Sunday 21st September 1500-1600</td>
+      <td>The Cabin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Wednesday 24th September 1830-1930</td>
+      <td>The Cabin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Sunday 28th September 1500-1600</td>
+      <td>The Cabin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Wednesday 1st October 1830-1930</td>
+      <td>The Cabin</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+<details>
+  <summary>Show full training schedule</summary>
+<table class="table table-bordered table-responsive">
   <tbody>
     <tr>
       <th scope="col"> Time and Date</th>
@@ -199,6 +229,7 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
     </tr>
   </tbody>
 </table>
+</details>
 
 ### Cancellation
 
