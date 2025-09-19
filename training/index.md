@@ -16,11 +16,11 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
 ## Upcoming Sessions
 <table class="table table-bordered table-responsive">
   <tbody>
-    <tr>
+    <thead>
       <th scope="col"> Time and Date</th>
       <th scope="col"> Location </th>
       <th scope="col"> Notes </th>
-    </tr>
+    </thead>
     <tr>
       <td>Sunday 21st September 1500-1600</td>
       <td>The Cabin</td>
@@ -47,11 +47,11 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
   <summary>Show full training schedule</summary>
 <table class="table table-bordered table-responsive">
   <tbody>
-    <tr>
+    <thead>
       <th scope="col"> Time and Date</th>
       <th scope="col"> Location </th>
       <th scope="col"> Notes </th>
-    </tr>
+    </thead>
     <tr>
       <td>Sunday 21st September 1500-1600</td>
       <td>The Cabin</td>
