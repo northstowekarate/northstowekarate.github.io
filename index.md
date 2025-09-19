@@ -12,7 +12,7 @@ At Northstowe Karate Club, we are committed to teaching traditional Shotokan Kar
 
 ## Key information
 
-<div style="border:2px solid #007bff; border-radius:8px; background:#e9f5ff; padding:1em; margin-bottom:1em;">
+<div style="border:2px solid #007bff; border-radius:8px; padding:1em; margin-bottom:1em;">
   <ul style="margin-top:0.5em; margin-bottom:0.5em;">
     <li><strong>When:</strong> Wednesdays 6.30-7.30pm & Sundays 3-4pm. View our <a href="/training/">training schedule</a> for more information</li>
     <li><strong>Where:</strong> The Cabin, Northstowe (<a href="https://maps.app.goo.gl/wXcMAGknwyPFEgMp6" target="_blank">View map</a>)</li>
