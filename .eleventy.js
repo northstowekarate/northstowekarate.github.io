@@ -15,14 +15,15 @@ module.exports = function (eleventyConfig) {
 		formats: ["webp"],
 
 		// output image widths
-		widths: [200, 600, 800, "auto"],
+		widths: [320, 600, 800, 1200, 1920, "auto"],
 
 		// optional, attributes assigned on <img> nodes override these values
 		htmlOptions: {
 			imgAttributes: {
 				loading: "lazy",
 				decoding: "async",
-        sizes: "max-width:576 200, max-width:768 600, max-width:1200 800, min-width:1200 auto"
+        sizes="max-width: 576px 100vw, max-width: 768px 100vw, max-width: 1200px 100vw,
+  100vw"
 			},
 			pictureAttributes: {}
 		},

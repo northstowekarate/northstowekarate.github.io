@@ -54,16 +54,16 @@ Below are a few photos from recent classes, events and grading sessions.
     </div>
     <div class="col">
       <a href="end-of-class.webp"
-        data-pswp-width="2532"
-        data-pswp-height="1424"
+        data-pswp-width="1920"
+        data-pswp-height="1080"
         target="_blank">
           <img src="end-of-class.webp" alt="Students at the end of one of our classes" class="img-fluid" loading="eager">
       </a>
     </div>
     <div class="col">
       <a href="grading-25-03-22.webp"
-        data-pswp-width="3559"
-        data-pswp-height="2002"
+        data-pswp-width="1920"
+        data-pswp-height="1080"
         target="_blank">
           <img src="grading-25-03-22.webp" alt="Students wearing their new belts at the first class after a successful grading" class="img-fluid" loading="eager">
       </a>
