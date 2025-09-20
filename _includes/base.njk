@@ -22,7 +22,38 @@ noindex: false
     <link href="/static/bootstrap-5.3.3/bootstrap.min.css" rel="stylesheet">
     <link href="/static/photoswipe-5.4.4/photoswipe.min.css" rel="stylesheet">
     <link href="/static/fontawesome-free-7.0.1-web/css/all.min.css" rel="stylesheet">
-    <link href="/static/customstyle.css" rel="stylesheet">
+    <style>
+      .video-container {
+        aspect-ratio: 16 / 9;
+        width: 100%;
+      }
+
+      .video {
+        height: 100%;
+        width: 100%;
+      }
+
+      a, a:hover, a:focus, a:active, a:visited, a:link {
+          text-decoration: none;
+      }
+
+      .title-logo {
+        height: 3em;
+        width: auto;
+      }
+
+      .info-box {
+       border:2px solid #007bff;
+       border-radius:8px;
+       padding:1em;
+       margin-bottom:1em;
+      }
+
+      .info-box-list {
+        margin-top:0.5em;
+        margin-bottom:0.5em;
+      }
+    </style>
     <link rel="icon" type="image/x-icon" href="/favicon.ico">
     <link rel="canonical" href="https://www.northstowekarate.com{{ page.url }}">
     <title>{{ title }}</title>
