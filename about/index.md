@@ -1,5 +1,5 @@
 ---
-title: About Northstowe Karate Club | Tradition Respect Community
+title: About Northstowe Karate Club | Tradition Shotokan 
 layout: base.njk
 description: Established in 2024, Northstowe Karate Club teaches traditional shotokan karate, with a strong emphasis on budo - the martial way.
 date: "git Last Modified"
