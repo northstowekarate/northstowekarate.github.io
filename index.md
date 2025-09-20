@@ -12,8 +12,8 @@ At Northstowe Karate Club, we are committed to teaching traditional Shotokan Kar
 
 ## Key information
 
-<div style="border:2px solid #007bff; border-radius:8px; padding:1em; margin-bottom:1em;">
-  <ul style="margin-top:0.5em; margin-bottom:0.5em;">
+<div class="info-box">
+  <ul class"info-box-list">
     <li><strong>When:</strong> Wednesdays 6.30-7.30pm & Sundays 3-4pm. View our <a href="/training/">training schedule</a> for more information</li>
     <li><strong>Where:</strong> The Cabin, Northstowe (<a href="https://maps.app.goo.gl/wXcMAGknwyPFEgMp6" target="_blank">View map</a>)</li>
     <li><strong>How to Book:</strong> <a href="/lesson-booking/">Book your first lesson here</a> (first lesson free!)</li>
@@ -23,7 +23,7 @@ At Northstowe Karate Club, we are committed to teaching traditional Shotokan Kar
     <li><strong>What to Bring:</strong> Comfortable sports clothing, water bottle. No uniform needed for first lesson.</li>
     <li><strong>Contact:</strong> <a href="mailto:info@northstowekarate.com">info@northstowekarate.com</a> or <a href="/contact/">contact page</a></li>
   </ul>
-  <div style="text-align:center;">
+  <div class="text-center">
   <a href="/lesson-booking/" class="btn btn-primary">Book your first class today</a>
   </div>
 </div>

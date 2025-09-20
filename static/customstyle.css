@@ -16,3 +16,15 @@ a, a:hover, a:focus, a:active, a:visited, a:link {
   height: 3em;
   width: auto;
 }
+
+.info-box {
+ border:2px solid #007bff;
+ border-radius:8px;
+ padding:1em;
+ margin-bottom:1em;
+}
+
+.info-box-list {
+  margin-top:0.5em;
+  margin-bottom:0.5em;
+}
