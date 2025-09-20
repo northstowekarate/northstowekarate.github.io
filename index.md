@@ -49,7 +49,7 @@ Below are a few photos from recent classes, events and grading sessions.
         data-pswp-width="1920"
         data-pswp-height="1080"
         target="_blank">
-          <img src="soto-uke.webp" alt="Students performing soto-uke, led by instructor Simon Apen-Sadler" class="img-fluid" loading="eager">
+          <img src="soto-uke.webp" alt="Students performing soto-uke, led by instructor Simon Apen-Sadler" class="img-fluid" sizes="33vw"loading="eager">
       </a>
     </div>
     <div class="col">
@@ -57,7 +57,7 @@ Below are a few photos from recent classes, events and grading sessions.
         data-pswp-width="1920"
         data-pswp-height="1080"
         target="_blank">
-          <img src="end-of-class.webp" alt="Students at the end of one of our classes" class="img-fluid" loading="eager">
+          <img src="end-of-class.webp" alt="Students at the end of one of our classes" class="img-fluid" sizes="33vw" loading="eager">
       </a>
     </div>
     <div class="col">
@@ -65,7 +65,7 @@ Below are a few photos from recent classes, events and grading sessions.
         data-pswp-width="1920"
         data-pswp-height="1080"
         target="_blank">
-          <img src="grading-25-03-22.webp" alt="Students wearing their new belts at the first class after a successful grading" class="img-fluid" loading="eager">
+          <img src="grading-25-03-22.webp" alt="Students wearing their new belts at the first class after a successful grading" sizes="33vw" class="img-fluid" loading="eager">
       </a>
     </div>
   </div>
