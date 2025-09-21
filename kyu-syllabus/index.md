@@ -1,7 +1,7 @@
 ---
 title: Northstowe Karate Club Kyu Grading Syllabus
 layout: base.njk
-description: Defines the JSKE Kyu Grading Syllabus. Specifies all the basic techniques, sparring and kata required for each kyu grade
+description: Gradings are exams you take for your next belt. These are held approximately 3 times a year. This syllabus defines what you have to do for each belt.
 date: "git Last Modified"
 priority: 0.6
 changeFrequency: yearly

@@ -1,7 +1,7 @@
 ---
 title: Japanese terms and phrases used during karate classes
 layout: base.njk
-description: Common Japanese words and phrases used in the dojo and their meanings, including technique names and body parts
+description: Some common Japanese words and phrases used in the dojo and their meanings, including technique names and body parts.
 date: "git Last Modified"
 priority: 0.4
 changeFrequency: yearly

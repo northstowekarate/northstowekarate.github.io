@@ -1,7 +1,7 @@
 ---
 title: Booking your first class at Northstowe Karate Club
 layout: base.njk
-description: To book your first class, please contact us via email or social media. Contact details are available on the contact page
+description: Reach out today and book your first class. The best way to contact us is via email: info@northstowekarate.com. Alternatively contact us via social media.
 date: "git Last Modified"
 priority: 0.8
 changeFrequency: yearly
