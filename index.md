@@ -117,6 +117,7 @@ Simon Apen-Sadler, the [chief instructor](/instructors/), has over 20 years expe
   "name": "Northstowe Karate Club",
   "sport": "Shotokan Karate",
   "image": "https://www.northstowekarate.com/static/logo.png",
+  "email": "info@northstowekarate.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "The Cabin, Northstowe",
@@ -140,11 +141,6 @@ Simon Apen-Sadler, the [chief instructor](/instructors/), has over 20 years expe
       ]
     }
   ],
-  "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": 52.2905,
-    "longitude": 0.0266
-  },
   "url": "https://www.northstowekarate.com",
   "telephone": "+447596922670",
   "openingHours": "Wednesday 18:30-19:30, Sunday 15:00-16:00",
