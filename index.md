@@ -114,6 +114,7 @@ Simon Apen-Sadler, the [chief instructor](/instructors/), has over 20 years expe
   "@context": "https://schema.org",
   "@type": "SportsClub",
   "name": "Northstowe Karate Club",
+  "sport": "Shotokan Karate",
   "image": "https://www.northstowekarate.com/static/logo.png",
   "address": {
     "@type": "PostalAddress",

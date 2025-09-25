@@ -33,3 +33,31 @@ We welcome children, teens, and adults of all experience levels. Whether you're 
 ## Our Instructors
 
 Simon Apen-Sadler, our chief instructor, is a 4th dan black belt with over 20 years of experience. He is first aid qualified, holds an enhanced DBS check, and regularly trains with senior JKA instructors. Simon’s teaching philosophy is to balance discipline with encouragement, helping every student progress at their own pace.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SportsClub",
+  "name": "Northstowe Karate Club",
+  "sport": "Shotokan Karate",
+  "image": "https://www.northstowekarate.com/static/logo.png",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "The Cabin, Northstowe",
+    "addressLocality": "Cambridge",
+    "addressRegion": "Cambridgeshire",
+    "postalCode": "CB24",
+    "addressCountry": "GB"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 52.2905,
+    "longitude": 0.0266
+  },
+  "url": "https://www.northstowekarate.com",
+  "telephone": "+447596922670",
+  "openingHours": "Wednesday 18:30-19:30, Sunday 15:00-16:00",
+  "priceRange": "£",
+  "description": "Shotokan Karate classes for age 8+ in Northstowe, Cambridge and Cambridgeshire."
+}
+</script>
