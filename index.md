@@ -130,7 +130,7 @@ Simon Apen-Sadler, the [chief instructor](/instructors/), has over 20 years expe
       "@type": "Person",
       "name": "Simon Apen-Sadler",
       "jobTitle": "Chief Instructor of Northstowe Karate Club",
-      "description": "4th Dan JKA & JTKI",
+      "description": "4th Dan JKA & JTKI"
     }
   ],
   "url": "https://www.northstowekarate.com",
