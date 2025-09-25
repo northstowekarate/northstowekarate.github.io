@@ -109,3 +109,29 @@ Simon Apen-Sadler, the [chief instructor](/instructors/), has over 20 years expe
   "alternateName": "Northstowe Karate"
 }
 </script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SportsClub",
+  "name": "Northstowe Karate Club",
+  "image": "https://www.northstowekarate.com/static/logo.png",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "The Cabin, Northstowe",
+    "addressLocality": "Cambridge",
+    "addressRegion": "Cambridgeshire",
+    "postalCode": "CB24",
+    "addressCountry": "GB"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 52.2905,
+    "longitude": 0.0266
+  },
+  "url": "https://www.northstowekarate.com",
+  "telephone": "+447596922670",
+  "openingHours": "Wednesday 18:30-19:30, Sunday 15:00-16:00",
+  "priceRange": "£",
+  "description": "Shotokan Karate classes for age 8+ in Northstowe, Cambridge and Cambridgeshire."
+}
+</script>

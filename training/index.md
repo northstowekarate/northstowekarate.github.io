@@ -264,7 +264,7 @@ The Cabin, 1 The Green, Northstowe, Cambridge, CB24 1FD
   },
   "url": "https://www.northstowekarate.com",
   "telephone": "+447596922670",
-  "openingHours": "We 18:30-19:30, Su 15:00-16:00",
+  "openingHours": "Wednesday 18:30-19:30, Sunday 15:00-16:00",
   "priceRange": "£",
   "description": "Shotokan Karate classes for age 8+ in Northstowe, Cambridge and Cambridgeshire."
 }
