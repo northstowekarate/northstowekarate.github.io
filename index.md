@@ -124,6 +124,21 @@ Simon Apen-Sadler, the [chief instructor](/instructors/), has over 20 years expe
     "postalCode": "CB24",
     "addressCountry": "GB"
   },
+  "member": [
+    {
+      "@type": "Person",
+      "name": "Simon Apen-Sadler",
+      "jobTitle": "Chief Instructor",
+      "description": "4th Dan JKA & JTKI",
+      "affiliation": [
+        {
+        "@type": "SportsClub",
+        "name": "Northstowe Karate Club"
+        "url": "https://www.northstowekarate.com"
+        }
+      ]
+    }
+  ],
   "geo": {
     "@type": "GeoCoordinates",
     "latitude": 52.2905,

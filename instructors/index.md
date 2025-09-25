@@ -59,3 +59,28 @@ Simon is registered with the BMABA (British Martial Arts and Boxing Association)
 ## Teaching Philosophy
 
 Simon believes in balancing discipline with encouragement, helping every student progress at their own pace and fostering a respectful, inclusive environment.
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Simon Apen-Sadler",
+  "jobTitle": "Chief Instructor of Northstowe Karate Club",
+  "affiliation": [
+    {
+      "@type": "SportsClub",
+      "name": "Northstowe Karate Club",
+      "url": "https://www.northstowekarate.com"
+    },
+    {
+      "@type": "Organization",
+      "name": "Japan Karate Association",
+      "url": "https://www.jka.or.jp"
+    },
+    {
+      "@type": "Organization",
+      "name": "Japan Shotokan Karate England",
+      "url": "https://www.jske.co.uk"
+    }
+  ]
+}
+</script>
