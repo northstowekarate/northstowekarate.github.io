@@ -1,7 +1,7 @@
 ---
 layout: base.njk
-Northstowe Karate Club | Family friendly Karate
-title: description: Join our family-friendly karate club in Northstowe (ages 8+). Learn martial arts, improve fitness, and grow confidence in every class.
+title: Northstowe Karate Club | Family friendly Karate
+description: Join our family-friendly karate club in Northstowe (ages 8+). Learn martial arts, improve fitness, and grow confidence in every class.
 date: "git Last Modified"
 priority: 1.0
 changeFrequency: monthly
