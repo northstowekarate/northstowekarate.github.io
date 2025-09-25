@@ -5,6 +5,9 @@ description: Join our family-friendly karate club in Northstowe (ages 8+). Learn
 date: "git Last Modified"
 priority: 1.0
 changeFrequency: monthly
+headerContent: |
+  <link href="/static/photoswipe-5.4.4/photoswipe-lightbox.esm.js" rel="preload" as="script">
+  <link href="/static/photoswipe-5.4.4/photoswipe.esm.js" rel="preload" as="script">
 ---
 # Northstowe Karate Club
 
