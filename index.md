@@ -106,7 +106,8 @@ Simon Apen-Sadler, the [chief instructor](/instructors/), has over 20 years expe
   "@context": "https://schema.org",
   "@type": "WebSite",
   "name": "Northstowe Karate Club",
-  "alternateName": "Northstowe Karate"
+  "alternateName": "Northstowe Karate",
+  "url": "https://www.northstowekarate.com"
 }
 </script>
 <script type="application/ld+json">
@@ -133,7 +134,7 @@ Simon Apen-Sadler, the [chief instructor](/instructors/), has over 20 years expe
       "affiliation": [
         {
         "@type": "SportsClub",
-        "name": "Northstowe Karate Club"
+        "name": "Northstowe Karate Club",
         "url": "https://www.northstowekarate.com"
         }
       ]
