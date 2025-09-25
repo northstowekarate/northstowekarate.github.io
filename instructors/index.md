@@ -64,6 +64,6 @@ Simon believes in balancing discipline with encouragement, helping every student
   "@context": "https://schema.org",
   "@type": "Person",
   "name": "Simon Apen-Sadler",
-  "jobTitle": "Chief Instructor of Northstowe Karate Club",
+  "jobTitle": "Chief Instructor of Northstowe Karate Club"
 }
 </script>
