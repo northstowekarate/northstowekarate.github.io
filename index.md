@@ -97,3 +97,12 @@ Simon Apen-Sadler, the [chief instructor](/instructors/), has over 20 years expe
   });
   lightbox.init();
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Northstowe Karate Club",
+  "alternateName": "Northstowe Karate"
+}
+</script>
