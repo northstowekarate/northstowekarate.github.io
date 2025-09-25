@@ -7,7 +7,7 @@
     "@11ty/eleventy-img": "^6.0.4"
   },
   "scripts": {
-    "build": "git fetch --unshallow ; rm -rf _site ; npx @11ty/eleventy ; cp _redirects _headers _site/",
+    "build": "git fetch --unshallow ; rm -rf _site ; npx @11ty/eleventy && cp _redirects _headers _site/",
     "serve": "npx @11ty/eleventy --serve"
   },
   "keywords": [],
