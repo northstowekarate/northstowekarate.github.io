@@ -24,24 +24,42 @@ Every class begins with a warm-up to help prevent injury. We raise our heart rat
 
 Kihon consists of performing basic techniques, without a partner, multiple times to improve the effectiveness of the technique and to gain better understanding of how these techniques work. Techniques include blocking, punching and kicking. You'll start off performing single techniques. As you progress, you'll move on to more complex combinations of techniques. With repeated practice, your techniques will become more effective.
 
-<div class="video-container">
-<iframe class="video" src="https://www.youtube.com/embed/qlahGOXesNo?si=_VcWYYWS-KSmbhpj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-10 col-lg-6">
+      <div class="ratio ratio-16x9">
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/qlahGOXesNo?si=_VcWYYWS-KSmbhpj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
 </div>
 
 ## Kata (forms)
 
 A kata is a set of moves performed in a specific order in order to help develop technique, control of the body and timing. More advanced study of the kata leads to investigation of the techniques performed and potential application (bunkai). There are 25 Shotokan kata, with each kata providing a unique learning opportunity.
 
-<div class="video-container">
-<iframe class="video" src="https://www.youtube.com/embed/O0ndtpxDU8s?si=OZIv_J1OqFDwuAmt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-10 col-lg-6">
+      <div class="ratio ratio-16x9">
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/O0ndtpxDU8s?si=OZIv_J1OqFDwuAmt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
 </div>
 
 ## Kumite (sparring)
 
 Kumite is the practice of techniques with an opponent. Students will generally build up their kihon first before kumite practice is considered. This can be intimidating at first, but is built up overtime, starting in controlled conditions - where the techniques are predetermined up to freestyle where the techniques are completely free.
  
-<div class="video-container">
-<iframe class="video" src="https://www.youtube.com/embed/RFXpkhpO8Ec?si=qnGDUKIXrGohfjv3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-10 col-lg-6">
+      <div class="ratio ratio-16x9">
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/RFXpkhpO8Ec?si=qnGDUKIXrGohfjv3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
 </div>
 
 ## Lesson themes

@@ -34,8 +34,14 @@ For details on upcoming gradings and how to prepare, speak to your instructor or
 
 Here's a short video demonstrating kihon for 9th kyu.
 
-<div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qj-L7HLFddM?si=4WaNMN44zF5zwkP3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-10 col-lg-6">
+      <div class="ratio ratio-16x9">
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/qj-L7HLFddM?si=4WaNMN44zF5zwkP3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
 </div>
 
 ### KATA
@@ -43,8 +49,14 @@ Here's a short video demonstrating kihon for 9th kyu.
 
 Here's a short video demonstrating kihon kata for 9th kyu.
 
-<div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yjpZUSbfMp4?si=5zf9jeMtHTwClkfZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-10 col-lg-6">
+      <div class="ratio ratio-16x9">
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/yjpZUSbfMp4?si=5zf9jeMtHTwClkfZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
 </div>
 
 ### KUMITE
@@ -52,8 +64,14 @@ Here's a short video demonstrating kihon kata for 9th kyu.
 
 Here's a short video demonstrating sanbon for 9th kyu. Note that these are the steps for practicing at home. Kumite is performed with a partner.
 
-<div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I9uhjProxxE?si=5-8Dsk3sMhphu0_p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-10 col-lg-6">
+      <div class="ratio ratio-16x9">
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/I9uhjProxxE?si=5-8Dsk3sMhphu0_p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
 </div>
 
 ## 8th Kyu (Red)
@@ -69,8 +87,14 @@ Here's a short video demonstrating sanbon for 9th kyu. Note that these are the s
 ### KUMITE
 1. GOHON KUMITE (JŌDAN OI-ZUKI, CHŪDAN OI-ZUKI) - 5 step sparring
 
-<div class="video-container">
-<iframe class="video" src="https://www.youtube.com/embed/RFXpkhpO8Ec?si=qnGDUKIXrGohfjv3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-10 col-lg-6">
+      <div class="ratio ratio-16x9">
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/RFXpkhpO8Ec?si=qnGDUKIXrGohfjv3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
 </div>
 
 \* Examiners look predominantly for correct basic form
