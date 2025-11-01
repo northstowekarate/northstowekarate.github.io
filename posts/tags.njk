@@ -1,0 +1,25 @@
+---
+layout: base.njk
+pagination:
+  data: collections
+  size: 1
+  alias: tag
+permalink: /posts/tags/{{ tag }}/
+changeFrequency: weekly
+priority: 0.1
+eleventyExcludeFromCollections: true
+title: Northstowe Karate Club Posts
+---
+<h1>Tagged “{{ tag }}”</h1>
+<ul>
+{%- set taglist = collections[ tag ] -%}
+{%- for post in taglist | reverse -%}
+  <li><a href="{{ post.url }}">{{ post.data.title }}</a>
+    <ul>
+      <li>
+        {{ post.data.description }}
+      </li>
+    </ul>
+  </li>
+{%- endfor -%}
+</ul>

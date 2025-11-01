@@ -1,0 +1,31 @@
+.video-container {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+}
+
+.video {
+  height: 100%;
+  width: 100%;
+}
+
+a, a:hover, a:focus, a:active, a:visited, a:link {
+    text-decoration: none;
+}
+
+.title-logo {
+  height: 3em;
+  width: auto;
+  margin-top: 5px;
+}
+
+.info-box {
+ border:2px solid #007bff;
+ border-radius:8px;
+ padding:1em;
+ margin-bottom:1em;
+}
+
+.info-box-list {
+  margin-top:0.5em;
+  margin-bottom:0.5em;
+}

@@ -1,0 +1,21 @@
+{
+  "name": "northstowekarate-11ty",
+  "version": "1.0.0",
+  "main": ".eleventy.js",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2",
+    "@11ty/eleventy-img": "^6.0.4"
+  },
+  "scripts": {
+    "build": "git fetch --unshallow ; rm -rf _site ; npx @11ty/eleventy && cp _redirects _headers _site/",
+    "serve": "npx @11ty/eleventy --serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "sharp": "^0.34.3",
+    "wrangler": "^4.38.0"
+  }
+}

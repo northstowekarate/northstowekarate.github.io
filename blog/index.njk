@@ -1,0 +1,35 @@
+---
+layout: base.njk
+title: Northstowe Karate Club recent news and updates
+description: Read recent blog posts and information regarding Northstowe Karate Club including lesson summaries, previous events and terminology used during lessons.
+date: "git Last Modified"
+priority: 0.3
+changeFrequency: weekly
+---
+<h1>Recent Posts</h1>
+
+<ul>
+{%- for post in collections["blog-post"] | reverse -%}
+{%- if loop.index0 < 8 -%}
+  <li>
+    <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+    <ul>
+      <li>
+        {{ post.data.description }}
+      </li>
+    </ul>
+    </li>
+  {%- endif -%}
+{%- endfor -%}
+</ul>
+<h2>All blog posts</h2>
+<p>
+You can also view all of our <a href="/blog/all/">historical blog posts</a>.
+<p/>
+<h2>View posts by tag</h2>
+<ul>
+{%- for tag, tagData in collections -%}
+  <li><a href="/posts/tags/{{ tag }}/">{{ tag }}</a></li>
+{%- endfor -%}
+</ul>
+

@@ -1,0 +1,14 @@
+./
+./training/
+./training/what-to-expect/
+./benefits-of-karate/
+./training/fees/
+./training/faq/
+./instructors/
+./kata/heian/
+./etiquette/
+./dojokun/
+./terminology/
+./kyu-syllabus/
+./blog/
+./contact/

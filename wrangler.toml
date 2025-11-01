@@ -1,0 +1,17 @@
+name = "northstowekarate"
+compatibility_date = "2025-09-07"
+workers_dev = true
+preview_urls = true
+
+[assets]
+directory = "_site"
+not_found_handling = "404-page"
+
+[[routes]]
+pattern = "www.northstowekarate.com"
+custom_domain = true
+
+[[routes]]
+pattern = "northstowekarate.com"
+custom_domain = true
+
