@@ -25,10 +25,10 @@ Simon continues to train and develop his skills. He regularly trains at [Cambrid
       D Grade Examiner
     </li>
     <li>
-      D Grade Instructor
+      C Grade Instructor
     </li>
     <li>
-      D Grade Judge
+      C Grade Judge
     </li>
     <li>
       BMABA Level 2 Instructor Award
