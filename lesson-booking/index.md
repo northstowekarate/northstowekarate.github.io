@@ -6,7 +6,7 @@ date: "git Last Modified"
 priority: 0.8
 changeFrequency: yearly
 ---
-# Lessson Bookings 
+# Lesson Bookings
 Welcome to our lesson booking page! New members are always welcome - your first lesson is free and open to ages 8+ (6-7 by arrangement). After booking, you’ll receive a confirmation and details on what to bring. Please note: spaces are limited, so book early to avoid disappointment. If you need to cancel, let us know as soon as possible.
 
 ## Booking your first class 

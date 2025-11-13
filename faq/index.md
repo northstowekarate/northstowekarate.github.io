@@ -42,6 +42,6 @@ You can purchase karate dogi (uniform) through the club, although this is not re
 
 ## How Do I get my next belt?
 
-Gradings are practical assessments to check if you're ready for the next grade. These are held aroung 3 times per year. You can read the requirements for each kyu grade (color belt) in our [kyu syllabus](/kyu-syllabus/).
+Gradings are practical assessments to check if you're ready for the next grade. These are held around 3 times per year. You can read the requirements for each kyu grade (colour belt) in our [kyu syllabus](/kyu-syllabus/).
 
 

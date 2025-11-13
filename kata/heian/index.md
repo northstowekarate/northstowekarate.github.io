@@ -11,7 +11,7 @@ Kihon kata (basic kata) also known as TAIKYOKU SHODAN, is the first kata you wil
 
 * Levels of Strength
 * Change in speed of techniques
-* Contraction and expanion of the body
+* Contraction and expansion of the body
 
 ## Kihon Kata - Taikyoku Shodan
 

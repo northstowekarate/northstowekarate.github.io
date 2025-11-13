@@ -1,7 +1,7 @@
 ---
 title: About Northstowe Karate Club | Tradition Shotokan 
 layout: base.njk
-description: We are a familty friendly club teaching traditional Shotokan Karate, a Japanese martial art, affiliated to the Japan Karate Association.
+description: We are a family friendly club teaching traditional Shotokan Karate, a Japanese martial art, affiliated to the Japan Karate Association.
 date: "git Last Modified"
 priority: 0.6
 changeFrequency: yearly
