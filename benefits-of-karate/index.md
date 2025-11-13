@@ -6,7 +6,7 @@ date: "git Last Modified"
 priority: 0.8
 changeFrequency: yearly
 ---
-# Benefits of Karate
+# Benefits of Shotokan Karate
 
 Karate isn’t just about kicks and punches - it offers a wide range of benefits that go beyond physical fitness. At Northstowe Karate Club, students gain valuable skills that support personal growth, health, and community.
 

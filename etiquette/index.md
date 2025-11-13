@@ -6,7 +6,7 @@ date: "git Last Modified"
 priority: 0.6
 changeFrequency: yearly
 ---
-# Dojo Etiquette
+# Etiquette and Respect in the Dojo
 
 Being respectful to ourselves and to each other is a vital part of karate. It is also part of the [dojo kun](/dojo-kun/). Here are some points on being respectful in the dojo.
 

@@ -6,7 +6,7 @@ date: "git Last Modified"
 priority: 0.4
 changeFrequency: yearly
 ---
-# Kihon & Heian Kata
+# Basic Shotokan Karate - Kihon & Heian
 Kihon kata (basic kata) also known as TAIKYOKU SHODAN, is the first kata you will study. The next 5 kata are Heian kata, heian meaning peaceful mind, and gradually introduce new techniques and concepts. They are designed to teach you the fundamental principals of shotokan karate, including using your entire body to generate power. The core elements of kata are:
 
 * Levels of Strength
