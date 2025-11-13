@@ -1,0 +1,6 @@
+<svg height="4500" width="4500" xmlns="http://www.w3.org/2000/svg">
+  
+  <circle r="1750" cx="2250" cy="2250" fill="white" stroke="black" stroke-width="30" />
+  <circle r="1050" cx="2250" cy="1600" fill="red" />
+  Sorry, your browser does not support inline SVG.  
+</svg> 
