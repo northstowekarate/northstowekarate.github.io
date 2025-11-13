@@ -6,7 +6,7 @@ date: "git Last Modified"
 priority: 0.6
 changeFrequency: yearly
 ---
-# JSKE Kyu Grading Syllabus 
+# Kyu Grading Syllabus 
 
 Karate students progress through a series of coloured belts, known as kyu grades, by demonstrating their skills in grading exams. Each grade has specific requirements for basic techniques, kata (forms), and kumite (sparring).
 
