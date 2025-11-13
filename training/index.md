@@ -209,7 +209,7 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
     "url": "https://www.northstowekarate.com"
   },
   "image": "https://www.northstowekarate.com/static/logo.webp",
-  "url": "https://www.northstowekarate.com/training/",
+  "url": "https://www.northstowekarate.com/training/"
 }
 </script>
 
