@@ -1,7 +1,7 @@
 ---
 title: Dojo Etiquette | How to be respectful in the dojo
 layout: base.njk
-description: Being respectful to ourselves and to each other is a vital part of karate. We must treat everyone with respect and dignity. Karate begins and ends with courtesy.
+description: Being respectful to ourselves and to each other is a vital part of karate. We must treat everyone with respect. Karate begins and ends with courtesy.
 date: "git Last Modified"
 priority: 0.6
 changeFrequency: yearly
