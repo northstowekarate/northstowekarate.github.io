@@ -82,7 +82,7 @@ Simon believes in balancing discipline with encouragement, helping every student
   "knowsAbout": [
     "Shotokan Karate",
     "Martial Arts Instruction",
-    "Inclusive Teaching",
+    "Inclusive Teaching"
   ]
 }
 </script>
