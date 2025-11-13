@@ -47,7 +47,7 @@ If you’re ever unsure about a word or phrase, just ask your instructor or a se
 * HYAKU  - 100
 
 ### Concepts
-* HARA / TANDEN - center of mass / belly. True nature / energy center
+* HARA / TANDEN - centre of mass / belly. True nature / energy center
 * SASAE ASHI - supporting leg
 * KOSHI KAITEN - hip rotation
 

@@ -19,7 +19,7 @@ Should you cancel within 24 hours notice, you will be charged for the lesson fee
 
 ## Membership Fees
 
-All students who train on a regular basis will need to join the [Japan Karate Association](https://www.jka.or.jp/en/) and get a licence. The licence fee is £35 / year, includes a licence book, covers insurance and allows you to grade.
+All students who train on a regular basis will need to join the [Japan Karate Association](https://www.jka.or.jp/en/) and get a licence. The licence fee is £35 / year. It includes a licence book, covers insurance and allows you to grade.
 
 ## Grading Fees
 
