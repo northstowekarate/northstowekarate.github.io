@@ -8,7 +8,7 @@ changeFrequency: yearly
 ---
 # What to expect during a lesson
 
-Although each lesson will differ, training consists of 3 key elements - kihon, kumite and kata. We build up your confidence gradually. We're a non-contact club, and you won't be expected to fight until you've learnt the basics, and even then it's under controlled conditions with known attacks and blocks until you're very experienced. Injuries are rare - please speak to the instructor if you have any concerns. There is an element of risk to all sports and exercise, including martial arts - please see our [assumption of risk document](/policies/risk/) for details.
+Although each lesson will differ, training consists of three key elements - kihon, kumite and kata. We build up your confidence gradually. We're a non-contact club, and you won't be expected to fight until you've learned the basics, and even then it's under controlled conditions with known attacks and blocks until you're very experienced. Injuries are rare - please speak to the instructor if you have any concerns. There is an element of risk to all sports and exercise, including martial arts - please see our [assumption of risk document](/policies/risk/) for details.
 
 We strongly emphasise the importance of respect and humility in all of our lessons.
 
@@ -36,7 +36,7 @@ Kihon consists of performing basic techniques, without a partner, multiple times
 
 ## Kata (forms)
 
-A kata is a set of moves performed in a specific order in order to help develop technique, control of the body and timing. More advanced study of the kata leads to investigation of the techniques performed and potential application (bunkai). There are 25 Shotokan kata, with each kata providing a unique learning opportunity.
+A kata is a set of moves performed in a specific order to help develop technique, control of the body and timing. More advanced study of the kata leads to investigation of the techniques performed and potential application (bunkai). There are 25 Shotokan kata, with each kata providing a unique learning opportunity.
 
 <div class="container">
   <div class="row justify-content-center">
@@ -50,7 +50,7 @@ A kata is a set of moves performed in a specific order in order to help develop 
 
 ## Kumite (sparring)
 
-Kumite is the practice of techniques with an opponent. Students will generally build up their kihon first before kumite practice is considered. This can be intimidating at first, but is built up overtime, starting in controlled conditions - where the techniques are predetermined up to freestyle where the techniques are completely free.
+Kumite is the practice of techniques with an opponent. Students will generally build up their kihon first before kumite practice is considered. This can be intimidating at first, but is built up over time, starting in controlled conditions - where the techniques are predetermined up to freestyle where the techniques are completely free.
  
 <div class="container">
   <div class="row justify-content-center">
@@ -62,6 +62,6 @@ Kumite is the practice of techniques with an opponent. Students will generally b
   </div>
 </div>
 
-## Lesson themes
+## Lesson Themes
 Some lessons will have themes such as building speed or using the floor to generate power. We can practice these themes across kihon, kata and kumite.
 
