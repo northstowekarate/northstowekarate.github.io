@@ -1,12 +1,12 @@
 ---
-title: JSKE Kyu Grading Syllabus
+title: Kyu Grading Syllabus
 layout: base.njk
 description: Gradings are practical assessments where students demonstrate readiness to earn their next belt. This syllabus explains what's required at each kyu grade.
 date: "git Last Modified"
 priority: 0.6
 changeFrequency: yearly
 ---
-# Kyu Grading Syllabus 
+# JSKE Kyu Grading Syllabus 
 
 Karate students progress through a series of coloured belts, known as kyu grades, by demonstrating their skills in grading exams. Each grade has specific requirements for basic techniques, kata (forms), and kumite (sparring).
 
