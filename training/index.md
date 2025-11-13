@@ -203,11 +203,6 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
       "addressCountry": "GB"
     }
   },
-  "organizer": {
-    "@type": "SportsClub",
-    "name": "Northstowe Karate Club",
-    "url": "https://www.northstowekarate.com"
-  },
   "image": "https://www.northstowekarate.com/static/logo.webp",
   "url": "https://www.northstowekarate.com/training/"
 }
@@ -216,7 +211,6 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
 ### Cancellation
 
 Should you need to cancel, please do so with at least 24 hours' notice by removing your name from the spreadsheet and emailing the club. If you cancel within 24 hours notice or are a no-show, you will be charged for the lesson.
-
 
 ## Locations
 ### The Cabin
