@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: Northstowe Karate Club | Family friendly, Traditional Karate
-description: We're a familtiy friendly club teaching traditional shotokan karate to both children 8+ and adults. Build self-defense skills, confidence and fitness.
+description: We're a family friendly club teaching traditional shotokan karate to both children 8+ and adults. Build self-defense skills, confidence and fitness.
 date: "git Last Modified"
 priority: 1.0
 changeFrequency: monthly
