@@ -215,7 +215,7 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
 
 ### Cancellation
 
-Should you need to cancel, please do so with at least 24 hours notice by removing your name from the spreadsheet and emailing the club. If you cancel within 24 hours notice or are a no-show, you will be charged for the lesson.
+Should you need to cancel, please do so with at least 24 hours' notice by removing your name from the spreadsheet and emailing the club. If you cancel within 24 hours notice or are a no-show, you will be charged for the lesson.
 
 
 ## Locations
