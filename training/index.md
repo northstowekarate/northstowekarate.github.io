@@ -22,27 +22,27 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
       <th scope="col"> Notes </th>
     </thead>
     <tr>
-      <td>Sunday 26th October 1500-1600</td>
-      <td>The Cabin</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Wednesday 30th October 1830-1930</td>
-      <td>The Cabin</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Wednesday 5th November 1830-1930</td>
-      <td>The Cabin</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Wednesday 12th November 1830-1930</td>
-      <td>The Cabin</td>
-      <td></td>
-    </tr>
-    <tr>
       <td>Sunday 16th November 1500-1600</td>
+      <td>The Cabin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Wednesday 19th November 1830-1930</td>
+      <td>The Cabin</td>
+      <td>Limited space</td>
+    </tr>
+    <tr>
+      <td>Sunday 23rd November 1500-1600</td>
+      <td>The Cabin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Wednesday 26th November 1830-1930</td>
+      <td>The Cabin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Sunday 30th November 1500-1600</td>
       <td>The Cabin</td>
       <td></td>
     </tr>
@@ -57,26 +57,6 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
       <th scope="col"> Location </th>
       <th scope="col"> Notes </th>
     </thead>
-    <tr>
-      <td>Sunday 26th October 1500-1600</td>
-      <td>The Cabin</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Wednesday 30th October 1830-1930</td>
-      <td>The Cabin</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Wednesday 5th November 1830-1930</td>
-      <td>The Cabin</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Wednesday 12th November 1830-1930</td>
-      <td>The Cabin</td>
-      <td></td>
-    </tr>
     <tr>
       <td>Sunday 16th November 1500-1600</td>
       <td>The Cabin</td>
@@ -192,7 +172,7 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
   "@type": "EventSeries",
   "name": "Northstowe Karate Weekly Classes",
   "description": "Family Friendly Shotokan Karate classes for ages 8+ held weekly in Northstowe, led by Chief Instructor Simon Apen-Sadler.",
-  "startDate": "2025-11-05",  // First upcoming class
+  "startDate": "2024-07-03",
   "eventSchedule": [
     {
       "@type": "Schedule",
@@ -213,11 +193,11 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
   "eventStatus": "https://schema.org/EventScheduled",
   "location": {
     "@type": "Place",
-    "name": "The Cabin, 1 The Green, Northstowe",
+    "name": "The Cabin",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "The Cabin, 1 The Green",
-      "addressLocality": "Northstowe",
+      "addressLocality": "Northstowe, Cambridge",
       "addressRegion": "Cambridgeshire",
       "postalCode": "CB24 1FD",
       "addressCountry": "GB"
@@ -253,8 +233,8 @@ The Cabin, 1 The Green, Northstowe, Cambridge, CB24 1FD
   "image": "https://www.northstowekarate.com/static/logo.png",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "The Cabin, 1 The Green, Northstowe",
-    "addressLocality": "Cambridge",
+    "streetAddress": "The Cabin, 1 The Green",
+    "addressLocality": "Northstowe, Cambridge",
     "addressRegion": "Cambridgeshire",
     "postalCode": "CB24 1FD",
     "addressCountry": "GB"
