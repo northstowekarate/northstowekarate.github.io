@@ -1,7 +1,7 @@
 ---
 title: About Northstowe Karate Club | Tradition Shotokan 
 layout: base.njk
-description: We are a family friendly club teaching traditional Shotokan Karate, a Japanese martial art, affiliated to the Japan Karate Association.
+description: Train in authentic, traditional Shotokan Karate at Northstowe Karate Club - a family‑friendly community built on respect, discipline, and lifelong self‑improvement.
 date: "git Last Modified"
 priority: 0.6
 changeFrequency: yearly
@@ -18,9 +18,9 @@ At Northstowe Karate Club, we pride ourselves on being a family-friendly and inc
 
 We believe karate is for everyone - regardless of age, background, or physical ability. Our instructors foster a respectful and supportive atmosphere where diversity is celebrated and every member feels valued. From children developing coordination and focus to adults seeking fitness or self-defence skills, Northstowe Karate Club offers a space where personal growth and community spirit go hand in hand.
 
-## Tradition and Respect — Rooted in Honour, Strengthened by Community
+## Tradition, Respect and Honour
 
-We believe karate is more than physical technique — it’s a lifelong journey of character development. Our training is grounded in tradition and respect, with honour guiding how we teach, train, and support each other. Community is at the heart of everything we do.
+We believe karate is more than physical technique — it’s a lifelong journey of character development. Our training is grounded in tradition and respect, with honour guiding how we teach, train, and support each other.
 
 ## What is budo?
 Budo (武道), meaning “the martial way,” represents a philosophy of personal growth through martial arts. It encourages focus, resilience, and mutual respect — values we aim to instil in every student.
