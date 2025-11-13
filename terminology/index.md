@@ -10,7 +10,7 @@ changeFrequency: yearly
 
 If you’re ever unsure about a word or phrase, just ask your instructor or a senior student. Everyone is happy to help!
 
-## Beginning and Finishing The lesson
+## Beginning and Finishing the Lesson
 * SEIZA - kneel
 * MOKUSOU - close your eyes, meditate and breathe deeply, in through nose out through mouth
 * KAI MOKU - open your eyes

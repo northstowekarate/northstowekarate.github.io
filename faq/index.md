@@ -7,7 +7,7 @@ priority: 0.8
 changeFrequency: monthly
 ---
 # Frequently Asked Questions
-Here are some of our frequently asked questions to help you find our more about karate, our club, what to expect. 
+Here are some of our frequently asked questions to help you find out more about karate, our club, what to expect. 
 
 ## Is Karate Right for me?
 
