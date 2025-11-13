@@ -1,14 +1,14 @@
 ---
 title: Northstowe Karate Club Training Schedule
 layout: base.njk
-description: Discover our karate training schedule in Northstowe, Cambridge. Shotokan classes for beginners to black belts.
+description: We have regular sessions on Wednesdays 6.30-7-30pm and Sundays 3-4pm in Northstowe, Cambridge. Shotokan classes for all from beginner to black belt.
 date: "git Last Modified"
 changeFrequency: weekly
 priority: 0.9
 ---
 # Training Schedule
 
-Find all the details about our karate training sessions here, including times and locations. Our classes are open to children (ages 8+), adults, and families—beginners are always welcome! Please [book early](/lesson-booking/), as spaces can fill up quickly. If you’re new, see our [What to Expect](/training/what-to-expect/) and [FAQ](/faq/) pages for tips on your first session.
+Find all the details about our karate training sessions here, including times and locations. Our classes are open to children (ages 8+), adults, and families - beginners are always welcome! Please [book early](/lesson-booking/), as spaces can fill up quickly. If you’re new, see our [What to Expect](/training/what-to-expect/) and [FAQ](/faq/) pages for tips on your first session.
 
 ## Regular sessions
 We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo.gl/wXcMAGknwyPFEgMp6) between 6.30-7.30pm and on Sundays 3-4pm.
