@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: Northstowe Karate Club | Family friendly, Traditional Karate
-description: We're a family friendly club teaching traditional shotokan karate to both children 8+ and adults. Build self-defense skills, confidence and fitness.
+description: We're a family friendly club teaching traditional shotokan karate to both children 8+ and adults. Build self-defence skills, confidence and fitness.
 date: "git Last Modified"
 priority: 1.0
 changeFrequency: monthly
@@ -89,7 +89,7 @@ Although no two lessons are the same, our [lesson format](/training/what-to-expe
 
 ## Benefits of Karate
 
-Karate has many [benefits](/benefits-of-karate/). While learning to defend yourself, you'll gain fitness and become healthier. You'll also become more confident and focussed. It's also a great place to make friends.
+Karate has many [benefits](/benefits-of-karate/). While learning to defend yourself, you'll gain fitness and become healthier. You'll also become more confident and focused. It's also a great place to make friends.
 
 ## Fees
 Your first lesson is always free, and after that you [pay per session](/training/fees/). Please arrive 5 minutes early for your first session so you can be registered. To train regularly, you will also need to purchase an annual membership.
