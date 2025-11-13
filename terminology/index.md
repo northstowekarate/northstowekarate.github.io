@@ -11,8 +11,6 @@ changeFrequency: yearly
 If you’re ever unsure about a word or phrase, just ask your instructor or a senior student. Everyone is happy to help!
 
 ## Beginning and Finishing The lesson
-* HAJIME MASU - let's begin
-* OWARI MASU - let's finish
 * SEIZA - kneel
 * MOKUSOU - close your eyes, meditate and breathe deeply, in through nose out through mouth
 * KAI MOKU - open your eyes
@@ -27,7 +25,7 @@ If you’re ever unsure about a word or phrase, just ask your instructor or a se
 * YAME - stop / finish
 * YASUME - relax
 * HAJIME - begin
-* YOI - read
+* YOI - ready
 * HIDARI - left
 * MIGI - right
 * MAWATTE - turn

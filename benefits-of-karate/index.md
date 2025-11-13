@@ -1,7 +1,7 @@
 ---
 title: Benefits of Karate | Self-Defence. Confidence. Fitness.
 layout: base.njk
-description: Learning Karate with Northstowe Karate Club has numerous benefits. Karate can help you improve your confidence, focus and fitness level.
+description: Learning Karate with Northstowe Karate Club has numerous benefits. Karate can help you improve your confidence, focus and fitness.
 date: "git Last Modified"
 priority: 0.8
 changeFrequency: yearly

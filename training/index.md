@@ -110,7 +110,7 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
     <tr>
       <td>Wednesday 21st January 1830-1930</td>
       <td>The Cabin</td>
-      <td>Limited Space</td>
+      <td>Limited space</td>
     </tr>
     <tr>
       <td>Sunday 25th January 1500-1600</td>
@@ -150,7 +150,7 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
     <tr>
       <td>Wednesday 18th February 1830-1930</td>
       <td>The Cabin</td>
-      <td>Limited Space</td>
+      <td>Limited space</td>
     </tr>
     <tr>
       <td>Sunday 22nd February 1500-1600</td>
@@ -215,7 +215,7 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
 
 ### Cancellation
 
-Should you need to cancel, please do so with at least 24 hours notices by removing your name from the spreadsheet and emailing the club. If you cancel within 24 hours notice or are a no-show, you will be charged for the lesson.
+Should you need to cancel, please do so with at least 24 hours notice by removing your name from the spreadsheet and emailing the club. If you cancel within 24 hours notice or are a no-show, you will be charged for the lesson.
 
 
 ## Locations
