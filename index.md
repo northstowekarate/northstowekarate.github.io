@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: Northstowe Karate Club | Family friendly, Traditional Karate
-description: Join our family-friendly karate club in Northstowe (ages 8+). Learn martial arts, improve fitness, and grow confidence in every class.
+description: We're a familtiy friendly club teaching traditional shotokan karate to both children 8+ and adults. Build self-defense skills, confidence and fitness.
 date: "git Last Modified"
 priority: 1.0
 changeFrequency: monthly
@@ -11,7 +11,7 @@ headerContent: |
 ---
 # Northstowe Karate Club
 
-At Northstowe Karate Club, we are committed to teaching traditional Shotokan Karate in a supportive and friendly environment. Whether you are a beginner or an experienced practitioner, our club offers a place for everyone to learn, grow, and achieve their personal best. Northstowe Karate Club is proud to serve our local community in Northstowe while being part of the wider Cambridge martial arts scene.
+At Northstowe Karate Club, we are proud to teach traditional Shotokan Karate in a family‑friendly and supportive environment. Our classes welcome children, adults, and families alike, offering a place where everyone can learn, grow, and achieve their personal best. We serve the local community in Northstowe while maintaining close ties with other clubs and practitioners across the wider Cambridgeshire area. Karate has many benefits including building self-defence skills, confidence and fitness. Come and [try it out](/lesson-booking/) - your first lesson is always free.
 
 ## Key information
 
