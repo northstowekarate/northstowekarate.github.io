@@ -31,7 +31,7 @@ Dan gradings (black belt) generally require examiners from JKA HQ, and can be up
 Northstowe Karate Club has been awarded funding to help with the running costs of the club. The club wants to be as accessible as possible, and has allocated some of this funding towards helping those on lower incomes attend. We are able to support up to 4 students with:
 
 * 1 annual membership
-* A karate dogi (uniform) plus belt
+* A dogi (uniform) plus belt
 * First grading
 
 If you would like to apply, please [get in touch](/contact/) for a confidential conversation. The application is self‑assessed, so no evidence is required. Unfortunately, we cannot assist with lesson fees, but may be able to reach an agreement, so please get in touch.

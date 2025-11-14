@@ -38,7 +38,7 @@ Please visit [book a class](/lesson-booking/) to find out how to book your first
 
 ## How do I get a uniform?
 
-You can purchase karate dogi (uniform) through the club, although this is not required. We generally recommend trying a few sessions first to make sure you enjoy the lessons before committing.
+You can purchase karate gi (uniform) through the club, although this is not required. We generally recommend trying a few sessions first to make sure you enjoy the lessons before committing.
 
 ## How Do I get my next belt?
 
