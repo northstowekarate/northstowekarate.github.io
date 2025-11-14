@@ -9,13 +9,13 @@ changeFrequency: monthly
 # Training, Membership and Grading Fees
 The first lesson is always free, so you can try it out and see if you enjoy the lesson. Prices are £4 per session for adults and £3 per session for children.
 
-I'd like for families to be able train together and understand it can be expensive when training in a large group. To combat this I'm limiting the price to £10 for groups of three and £12 for groups of four.
+I'd like families to be able to train together and understand it can be expensive when training in a large group. To combat this I'm limiting the price to £10 for groups of three and £12 for groups of four.
 
 Payment by bank transfer is preferred. Please [contact us](/contact/) for details.
 
 ## Cancellation Fees
 
-Should you cancel within 24 hours notice, you will be charged for the lesson fee.
+Should you cancel with less than 24 hours notice, you will be charged for the lesson fee.
 
 ## Membership Fees
 
@@ -28,7 +28,7 @@ To get your next belt/grade, you must take a grading. This consists of you perfo
 Dan gradings (black belt) generally require examiners from JKA HQ, and can be upwards of £100.
 
 ## Funding
-Northstowe Karate Club has been awarded funding to help with the running costs of the club. The club wants to be as accessible as possible, and has allocated some of this funding towards helping those on lower incomes attend. We are able to fund up to 4 students with:
+Northstowe Karate Club has been awarded funding to help with the running costs of the club. The club wants to be as accessible as possible, and has allocated some of this funding towards helping those on lower incomes attend. We are able to support up to 4 students with:
 
 * 1 annual membership
 * A karate dogi (uniform) plus belt
