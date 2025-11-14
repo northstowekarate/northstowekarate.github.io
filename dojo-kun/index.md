@@ -1,7 +1,7 @@
 ---
 title: Dojo Kun | The 5 rules of the dojo
 layout: base.njk
-description: The 5 rules of the dojo help practitioners become better individuals by developing strong morals and provides a holistic and spiritual view to martial arts.
+description: The 5 rules of the dojo help practitioners become better individuals by developing strong morals and provides a holistic view to martial arts.
 date: "git Last Modified"
 priority: 0.6
 changeFrequency: yearly
