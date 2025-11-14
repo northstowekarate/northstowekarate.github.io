@@ -9,7 +9,7 @@ changeFrequency: monthly
 # Training, Membership and Grading Fees
 The first lesson is always free, so you can try it out and see if you enjoy the lesson. Prices are £4 per session for adults and £3 per session for children.
 
-I'd like families to be able to train together and understand it can be expensive when training in a large group. To combat this I'm limiting the price to £10 for groups of three and £12 for groups of four.
+I'd like families to be able to train together and understand it can be expensive when training in a large group. To combat this, I'm limiting the price to £10 for groups of three and £12 for groups of four.
 
 Payment by bank transfer is preferred. Please [contact us](/contact/) for details.
 
@@ -34,5 +34,5 @@ Northstowe Karate Club has been awarded funding to help with the running costs o
 * A dogi (uniform) plus belt
 * First grading
 
-If you would like to apply, please [get in touch](/contact/) for a confidential conversation. The application is self‑assessed, so no evidence is required. Unfortunately, we cannot assist with lesson fees, but may be able to reach an agreement, so please get in touch.
+If you would like to apply, please [get in touch](/contact/) for a confidential conversation. The application is self‑assessed, so no evidence is required. Unfortunately, we cannot assist with lesson fees, but we may be able to reach an agreement, so please get in touch.
 

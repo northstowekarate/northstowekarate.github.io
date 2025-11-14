@@ -32,7 +32,7 @@ For details on upcoming gradings and how to prepare, speak to your instructor or
 3. CHŪDAN SOTO-UKE (step in) - outside block
 4. CHŪDAN MAE-GERI (step in) - mid level front kick
 
-Here's a short video demonstrating kihon for 9th kyu.
+Here's a short video demonstrating the kihon required for 9th kyu.
 
 <div class="container">
   <div class="row justify-content-center">
@@ -47,7 +47,7 @@ Here's a short video demonstrating kihon for 9th kyu.
 ### KATA
 1. KIHON KATA
 
-Here's a short video demonstrating kihon kata for 9th kyu.
+Here's a short video demonstrating kihon kata.
 
 <div class="container">
   <div class="row justify-content-center">
@@ -62,7 +62,7 @@ Here's a short video demonstrating kihon kata for 9th kyu.
 ### KUMITE
 1. SANBON KUMITE (JŌDAN OI-ZUKI, CHŪDAN OI-ZUKI) - 3 step sparring
 
-Here's a short video demonstrating sanbon for 9th kyu. Note that these are the steps for practicing at home. Kumite is performed with a partner.
+Here's a short video demonstrating sanbon kumite. Note that these are the steps for practicing at home. Kumite is performed with a partner.
 
 <div class="container">
   <div class="row justify-content-center">

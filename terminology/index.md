@@ -43,7 +43,7 @@ If you’re ever unsure about a word or phrase, just ask your instructor or a se
 * SHICHI / NANA - 7
 * HACHI - 8
 * KU - 9
-* JYU - 10
+* JU - 10
 * HYAKU  - 100
 
 ### Concepts

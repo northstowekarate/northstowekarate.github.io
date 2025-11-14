@@ -40,7 +40,7 @@ Please visit [book a class](/lesson-booking/) to find out how to book your first
 
 You can purchase karate gi (uniform) through the club, although this is not required. We generally recommend trying a few sessions first to make sure you enjoy the lessons before committing.
 
-## How Do I get my next belt?
+## How do I get my next belt?
 
 Gradings are practical assessments to check if you're ready for the next grade. These are held around 3 times per year. You can read the requirements for each kyu grade (colour belt) in our [kyu syllabus](/kyu-syllabus/).
 
