@@ -64,7 +64,7 @@ If you’re ever unsure about a word or phrase, just ask your instructor or a se
 * SHUTO UKE - sword hand block
 ### Kicks - KERI
 * MAE GERI - front kick
-* YOKO GERI KEGAGE - side snap kick
+* YOKO GERI KEAGE - side snap kick
 * YOKO GERI KEKOMI - side thrust kick
 * MAWASHI GERI - roundhouse kick
 ### Fists - KEN
