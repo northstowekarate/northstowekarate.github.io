@@ -17,7 +17,7 @@ Looking for karate classes near Longstanton? **Northstowe Karate Club** offers t
 - Convenient location near Longstanton
 
 ## How to Get Here from Longstanton
-Northstowe Karate Club is just **5 minutes from Longstanton via B1050**.
+Northstowe Karate Club is just **5 minutes from Longstanton via B1050**. There's some parking on site, with additional parking available at Pathfinder Primary School, a short walk away.
 
 ### Address
 The Cabin, 1 The Green, Northstowe, CB24 1FD

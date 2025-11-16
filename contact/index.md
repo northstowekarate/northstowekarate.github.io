@@ -15,3 +15,7 @@ We also use social media messaging. You can message us on [Facebook](https://www
 If you prefer to call us, you can reach us on <a href="tel:07596922670">07596922670</a>. Please note that email or social media usually receive a faster response.
 
 Ask questions, register interest, or book your first session - we’re here to help. Join a growing community, build confidence, and start your martial arts journey with Northstowe Karate.
+
+## Finding Us
+
+You can find us easily traveling from [Willingham](/willingham-karate), [Longstanton](/longstanton-karate) or [Cambridge](/cambridge-karate).

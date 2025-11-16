@@ -84,6 +84,9 @@ Stay up to date with club news, grading dates, and events:
 
 Regular [training sessions](/training/) are held on Wednesday evenings from 6.30-7.30pm and Sunday afternoons 3-4pm at [The Cabin](https://maps.app.goo.gl/wXcMAGknwyPFEgMp6).
 
+### Find us
+You can find us easily traveling from [Willingham](/willingham-karate), [Longstanton](/longstanton-karate) or [Cambridge](/cambridge-karate).
+
 ## What to expect
 Although no two lessons are the same, our [lesson format](/training/what-to-expect/) is usually structured around kihon (basic techniques), kumite (sparring) and kata (forms).
 

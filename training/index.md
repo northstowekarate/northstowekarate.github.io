@@ -252,3 +252,5 @@ The Cabin, 1 The Green, Northstowe, Cambridge, CB24 1FD
 
 <iframe title="The Cabin" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19524.850240267366!2d0.06034314999999999!3d52.2868495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d875d0a30dc935%3A0xdf1f6f7f737e8109!2sNorthstowe%20Karate%20Club!5e0!3m2!1sen!2suk!4v1756817788617!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+### Find us
+You can find us easily traveling from [Willingham](/willingham-karate), [Longstanton](/longstanton-karate) or [Cambridge](/cambridge-karate).
