@@ -18,4 +18,4 @@ Ask questions, register interest, or book your first session - we’re here to h
 
 ## Finding Us
 
-You can find us easily traveling from [Willingham](/willingham-karate), [Longstanton](/longstanton-karate) or [Cambridge](/cambridge-karate).
+You can find us easily traveling from [Willingham](/willingham-karate/), [Longstanton](/longstanton-karate/) or [Cambridge](/cambridge-karate/).
