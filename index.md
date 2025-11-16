@@ -20,7 +20,7 @@ At Northstowe Karate Club, we are proud to teach traditional Shotokan Karate in 
     <li><strong>When:</strong> Wednesdays 6.30-7.30pm & Sundays 3-4pm. View our <a href="/training/">training schedule</a> for more information</li>
     <li><strong>Where:</strong> The Cabin, Northstowe (<a href="https://maps.app.goo.gl/wXcMAGknwyPFEgMp6" target="_blank">View map</a>)</li>
     <li><strong>How to Book:</strong> <a href="/lesson-booking/">Book your first lesson here</a> (first lesson free!)</li>
-    <li><strong>Who:</strong> Ages 8+ (6-7 by arrangement), adults & families welcome</li>
+    <li><strong>Who:</strong> Ages 8+, adults & families welcome</li>
     <li><strong>Fees:</strong> <a href="/training/fees/">Pay per session</a> after your free first lesson. Membership required for permanent students.</li>
     <li><strong><a href="/benefits-of-karate/">Benefits:</a></strong> Improve fitness, confidence, focus, and self-defence. Make friends in a supportive club.</li>
     <li><strong>What to Bring:</strong> Comfortable sports clothing, water bottle. No uniform needed for first lesson.</li>
