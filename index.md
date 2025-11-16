@@ -109,88 +109,89 @@ Simon Apen-Sadler, the [chief instructor](/instructors/), has over 20 years expe
 
 <script type="application/ld+json">
 {
-  "@id": "https://www.northstowekarate.com/#website",
   "@context": "https://schema.org",
-  "@type": "WebSite",
-  "name": "Northstowe Karate Club",
-  "alternateName": "Northstowe Karate",
-  "url": "https://www.northstowekarate.com",
-  "image": "https://www.northstowekarate.com/static/logo.webp"
-}
-</script>
-<script type="application/ld+json">
-{
-  "@id": "https://www.northstowekarate.com/#sportsclub",
-  "@context": "https://schema.org",
-  "@type": "SportsClub",
-  "name": "Northstowe Karate Club",
-  "image": "https://www.northstowekarate.com/static/logo.webp",
-  "email": "info@northstowekarate.com",
-  "address": {
-    "@id": "https://www.northstowekarate.com/#cabinaddress",
-    "@type": "PostalAddress",
-    "streetAddress": "The Cabin, 1 The Green",
-    "addressLocality": "Northstowe, Cambridge",
-    "addressRegion": "Cambridgeshire",
-    "postalCode": "CB24 1FD",
-    "addressCountry": "GB"
-  },
-  "areaServed": [
+  "@graph": [
     {
-      "@type": "Place",
-      "name": "Northstowe",
+      "@id": "https://www.northstowekarate.com/#sportsclub",
+      "@type": "SportsClub",
+      "name": "Northstowe Karate Club",
+      "image": "https://www.northstowekarate.com/static/logo.webp",
+      "email": "info@northstowekarate.com",
       "address": {
+        "@id": "https://www.northstowekarate.com/#cabinaddress",
         "@type": "PostalAddress",
+        "streetAddress": "The Cabin, 1 The Green",
+        "addressLocality": "Northstowe, Cambridge",
         "addressRegion": "Cambridgeshire",
-        "postalCode": "CB24"
-      }
+        "postalCode": "CB24 1FD",
+        "addressCountry": "GB"
+      },
+      "areaServed": [
+        {
+          "@type": "Place",
+          "name": "Northstowe",
+          "address": {
+            "@type": "PostalAddress",
+            "addressRegion": "Cambridgeshire",
+            "postalCode": "CB24"
+          }
+        },
+        {
+          "@type": "Place",
+          "name": "Longstanton",
+          "address": {
+            "@type": "PostalAddress",
+            "addressRegion": "Cambridgeshire",
+            "postalCode": "CB24"
+          }
+        },
+        {
+          "@type": "Place",
+          "name": "Willingham",
+          "address": {
+            "@type": "PostalAddress",
+            "addressRegion": "Cambridgeshire"
+          }
+        },
+        {
+          "@type": "Place",
+          "name": "Cambridge",
+          "address": {
+            "@type": "PostalAddress",
+            "addressRegion": "Cambridgeshire"
+          }
+        },
+        {
+          "@type": "Place",
+          "name": "Cambridgeshire"
+        }
+      ],
+      "member": [
+        {
+          "@type": "Person",
+          "name": "Simon Apen-Sadler",
+          "jobTitle": "Chief Instructor",
+          "description": "4th Dan JKA"
+        }
+      ],
+      "url": "https://www.northstowekarate.com",
+      "sameAs": [
+        "https://www.facebook.com/profile.php?id=61560001297561",
+        "https://instagram.com/northstowekarate"
+      ],
+      "telephone": "+447596922670",
+      "openingHours": "Wednesday 18:30-19:30, Sunday 15:00-16:00",
+      "priceRange": "£",
+      "description": "Shotokan Karate classes for age 8+ in Northstowe, Cambridge and Cambridgeshire."
     },
     {
-      "@type": "Place",
-      "name": "Longstanton",
-      "address": {
-        "@type": "PostalAddress",
-        "addressRegion": "Cambridgeshire",
-        "postalCode": "CB24"
-      }
-    },
-    {
-      "@type": "Place",
-      "name": "Willingham",
-      "address": {
-        "@type": "PostalAddress",
-        "addressRegion": "Cambridgeshire"
-      }
-    },
-    {
-      "@type": "Place",
-      "name": "Cambridge",
-      "address": {
-        "@type": "PostalAddress",
-        "addressRegion": "Cambridgeshire"
-      }
-    },
-    {
-      "@type": "Place",
-      "name": "Cambridgeshire"
+      "@id": "https://www.northstowekarate.com/#website",
+      "@type": "WebSite",
+      "name": "Northstowe Karate Club",
+      "alternateName": "Northstowe Karate",
+      "url": "https://www.northstowekarate.com",
+      "image": "https://www.northstowekarate.com/static/logo.webp"
     }
-  ],
-  "member": [
-    {
-      "@type": "Person",
-      "name": "Simon Apen-Sadler",
-      "jobTitle": "Chief Instructor",
-      "description": "4th Dan JKA"
-    }
-  ],
-  "url": "https://www.northstowekarate.com",
-  "sameAs": [
-    "https://www.facebook.com/profile.php?id=61560001297561",
-    "https://instagram.com/northstowekarate"
-  ],
-  "telephone": "+447596922670",
-  "openingHours": "Wednesday 18:30-19:30, Sunday 15:00-16:00",
-  "priceRange": "£",
-  "description": "Shotokan Karate classes for age 8+ in Northstowe, Cambridge and Cambridgeshire."
+  ]
 }
 </script>
