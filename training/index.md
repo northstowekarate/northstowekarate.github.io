@@ -193,7 +193,7 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
   "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
   "eventStatus": "https://schema.org/EventScheduled",
   "location": {
-    "$ref": "https://www.northstowekarate.com/training/#thecabin"
+    "@id": "https://www.northstowekarate.com/training/#thecabin"
   },
   "image": "https://www.northstowekarate.com/static/logo.webp",
   "url": "https://www.northstowekarate.com/training/"

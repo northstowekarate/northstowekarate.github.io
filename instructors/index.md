@@ -73,7 +73,7 @@ Simon believes in balancing discipline with encouragement, helping every student
   },
   "url": "https://www.northstowekarate.com/instructors/",
   "image": "https://www.northstowekarate.com/instructors/simon-apen-sadler.webp",
-  "description": "Simon Apen-Sadler is the Chief Instructor and founder of Northstowe Karate Club, a family friendly Shotokan dojo dedicated to inclusive, values-driven martial arts for all abilities.",
+  "description": "Simon Apen-Sadler is the Chief Instructor and founder of Northstowe Karate Club, a family friendly Shotokan dojo dedicated to inclusive, values-driven martial arts for all abilities. 4th Dan JKA. D level Examiner, C Level Instructor and Judge.",
   "address": {
     "@type": "PostalAddress",
     "addressLocality": "Northstowe",
