@@ -3,7 +3,7 @@ title: About Northstowe Karate Club | Traditional Shotokan
 layout: base.njk
 description: Learn authentic, traditional Shotokan Karate at Northstowe Karate Club. A family‑friendly community built on respect, discipline, and self‑improvement.
 date: "git Last Modified"
-priority: 0.6
+priority: 0.9
 changeFrequency: yearly
 ---
 # About Northstowe Karate Club
