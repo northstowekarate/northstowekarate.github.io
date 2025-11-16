@@ -168,6 +168,7 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
 
 <script type="application/ld+json">
 {
+  "@id": "https://www.northstowekarate.com/training/#schedule",
   "@context": "https://schema.org",
   "@type": "EventSeries",
   "name": "Northstowe Karate Weekly Classes",
@@ -192,16 +193,7 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
   "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
   "eventStatus": "https://schema.org/EventScheduled",
   "location": {
-    "@type": "Place",
-    "name": "The Cabin",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "The Cabin, 1 The Green",
-      "addressLocality": "Northstowe, Cambridge",
-      "addressRegion": "Cambridgeshire",
-      "postalCode": "CB24 1FD",
-      "addressCountry": "GB"
-    }
+    "$ref": "https://www.northstowekarate.com/training/#thecabin"
   },
   "image": "https://www.northstowekarate.com/static/logo.webp",
   "url": "https://www.northstowekarate.com/training/"
@@ -221,6 +213,7 @@ The Cabin, 1 The Green, Northstowe, Cambridge, CB24 1FD
 
 <script type="application/ld+json">
 {
+  "@id": "https://www.northstowekarate.com/training/#thecabin",
   "@context": "https://schema.org",
   "@type": "SportsActivityLocation",
   "name": "Northstowe Karate Club",

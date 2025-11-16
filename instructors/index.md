@@ -61,6 +61,7 @@ Simon is registered with the BMABA (British Martial Arts and Boxing Association)
 Simon believes in balancing discipline with encouragement, helping every student progress at their own pace and fostering a respectful, inclusive environment.
 <script type="application/ld+json">
 {
+  "@id": "https://www.northstowekarate.com/instructors/#simonapensadler",
   "@context": "https://schema.org",
   "@type": "Person",
   "name": "Simon Apen-Sadler",

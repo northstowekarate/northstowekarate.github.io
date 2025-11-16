@@ -109,6 +109,7 @@ Simon Apen-Sadler, the [chief instructor](/instructors/), has over 20 years expe
 
 <script type="application/ld+json">
 {
+  "@id": "https://www.northstowekarate.com/#website",
   "@context": "https://schema.org",
   "@type": "WebSite",
   "name": "Northstowe Karate Club",
@@ -119,12 +120,14 @@ Simon Apen-Sadler, the [chief instructor](/instructors/), has over 20 years expe
 </script>
 <script type="application/ld+json">
 {
+  "@id": "https://www.northstowekarate.com/#sportsclub",
   "@context": "https://schema.org",
   "@type": "SportsClub",
   "name": "Northstowe Karate Club",
   "image": "https://www.northstowekarate.com/static/logo.webp",
   "email": "info@northstowekarate.com",
   "address": {
+    "@id": "https://www.northstowekarate.com/#cabinaddress",
     "@type": "PostalAddress",
     "streetAddress": "The Cabin, 1 The Green",
     "addressLocality": "Northstowe, Cambridge",
@@ -132,10 +135,46 @@ Simon Apen-Sadler, the [chief instructor](/instructors/), has over 20 years expe
     "postalCode": "CB24 1FD",
     "addressCountry": "GB"
   },
-  "areaServed": {
-    "@type": "Place",
-    "name": "Cambridgeshire"
-  },
+  "areaServed": [
+    {
+      "@type": "Place",
+      "name": "Northstowe",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Cambridgeshire",
+        "postalCode": "CB24"
+      }
+    },
+    {
+      "@type": "Place",
+      "name": "Longstanton",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Cambridgeshire",
+        "postalCode": "CB24"
+      }
+    },
+    {
+      "@type": "Place",
+      "name": "Willingham",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Cambridgeshire"
+      }
+    },
+    {
+      "@type": "Place",
+      "name": "Cambridge",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Cambridgeshire"
+      }
+    },
+    {
+      "@type": "Place",
+      "name": "Cambridgeshire"
+    }
+  ],
   "member": [
     {
       "@type": "Person",
