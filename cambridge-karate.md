@@ -17,7 +17,7 @@ Looking for karate classes near Cambridge? **Northstowe Karate Club** offers tra
 - Convenient location near Cambridge
 
 ## How to Get Here from Cambridge
-Northstowe Karate Club is just **20 minutes from Cambridge via the the A14 (Junction 25 - Bar Hill) and B1050. There's some parking on site, with additional parking available at Pathfinder Primary School, a short walk away.
+Northstowe Karate Club is just **20 minutes from Cambridge** via the the A14 (Junction 25 - Bar Hill) and B1050. There's some parking on site, with additional parking available at Pathfinder Primary School, a short walk away.
 
 ### Address
 The Cabin, 1 The Green, Northstowe, CB24 1FD

@@ -17,7 +17,7 @@ Looking for karate classes near Willingham? **Northstowe Karate Club** offers tr
 - Convenient location near Willingham
 
 ## How to Get Here from Willingham
-Northstowe Karate Club is just **10 minutes from Willingham via B1050 and Station Road**. There's some parking on site, with additional parking available at Pathfinder Primary School, a short walk away.
+Northstowe Karate Club is just **10 minutes from Willingham** via B1050 and Station Road. There's some parking on site, with additional parking available at Pathfinder Primary School, a short walk away.
 
 ### Address
 The Cabin, 1 The Green, Northstowe, CB24 1FD
