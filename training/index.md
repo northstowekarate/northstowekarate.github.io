@@ -22,27 +22,22 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
       <th scope="col"> Notes </th>
     </thead>
     <tr>
-      <td>Sunday 16th November 15:00-16:00</td>
+      <td>Saturday 6th December 13:00-18:00</td>
+      <td><a href="https://cambridgekaratedojo.com">Cambridge Karate Dojo</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Sunday 7th December 15:00-16:00</td>
       <td>The Cabin</td>
       <td></td>
     </tr>
     <tr>
-      <td>Wednesday 19th November 18:30-19:30</td>
-      <td>The Cabin</td>
-      <td>Limited space</td>
-    </tr>
-    <tr>
-      <td>Sunday 23rd November 15:00-16:00</td>
+      <td>Wednesday 10th December 18:30-19:30</td>
       <td>The Cabin</td>
       <td></td>
     </tr>
     <tr>
-      <td>Wednesday 26th November 18:30-19:30</td>
-      <td>The Cabin</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Sunday 30th November 15:00-16:00</td>
+      <td>Wednesday 14th January 18:30-19:30</td>
       <td>The Cabin</td>
       <td></td>
     </tr>
@@ -57,36 +52,6 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
       <th scope="col"> Location </th>
       <th scope="col"> Notes </th>
     </thead>
-    <tr>
-      <td>Sunday 16th November 15:00-16:00</td>
-      <td>The Cabin</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Wednesday 19th November 18:30-19:30</td>
-      <td>The Cabin</td>
-      <td>Limited space</td>
-    </tr>
-    <tr>
-      <td>Sunday 23rd November 15:00-16:00</td>
-      <td>The Cabin</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Wednesday 26th November 18:30-19:30</td>
-      <td>The Cabin</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Sunday 30th November 15:00-16:00</td>
-      <td>The Cabin</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Wednesday 3rd December 18:30-19:30</td>
-      <td>The Cabin</td>
-      <td></td>
-    </tr>
     <tr>
       <td>Sunday 7th December 15:00-16:00</td>
       <td>The Cabin</td>
