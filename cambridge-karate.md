@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Karate and Martial Arts Classes Near Cambridge"
+title: Karate and Martial Arts Classes Near Cambridge
 description: "Join Northstowe Karate Club – less than 20 minutes from Cambridge. Family-friendly Shotokan Karate classes for ages 8+. Book your free trial today!"
 date: "git Last Modified"
 priority: 1.0
