@@ -22,11 +22,6 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
       <th scope="col"> Notes </th>
     </thead>
     <tr>
-      <td>Saturday 6th December 13:00-18:00</td>
-      <td><a href="https://cambridgekaratedojo.com">Cambridge Karate Dojo</a></td>
-      <td></td>
-    </tr>
-    <tr>
       <td>Sunday 7th December 15:00-16:00</td>
       <td>The Cabin</td>
       <td></td>
@@ -34,6 +29,11 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
     <tr>
       <td>Wednesday 10th December 18:30-19:30</td>
       <td>The Cabin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><em>Christmas Holidays - No Training</em></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -52,16 +52,6 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
       <th scope="col"> Location </th>
       <th scope="col"> Notes </th>
     </thead>
-    <tr>
-      <td>Sunday 7th December 15:00-16:00</td>
-      <td>The Cabin</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Wednesday 10th December 18:30-19:30</td>
-      <td>The Cabin</td>
-      <td></td>
-    </tr>
     <tr>
       <td>Wednesday 14th January 18:30-19:30</td>
       <td>The Cabin</td>
