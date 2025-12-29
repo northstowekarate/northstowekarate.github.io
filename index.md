@@ -21,7 +21,7 @@ headerContent: |
         "address": {
           "@id": "https://www.northstowekarate.com/#cabinaddress",
           "@type": "PostalAddress",
-          "streetAddress": "Northstowe Community Centre, 1 The Green, Pathfinder Way, Northstowe",
+          "streetAddress": "1 The Green, Pathfinder Way, Northstowe",
           "addressLocality": "Cambridge",
           "addressRegion": "Cambridge",
           "postalCode": "CB24 1FD",
@@ -111,7 +111,7 @@ At Northstowe Karate Club, we are proud to teach traditional Shotokan Karate in 
 <div class="info-box">
   <ul class="info-box-list">
     <li><strong>When:</strong> Wednesdays 6.30-7.30pm & Sundays 3-4pm. View our <a href="/training/">training schedule</a> for more information</li>
-    <li><strong>Where:</strong> Northstowe Community Centre (The Cabin), CB24 1FD (<a href="https://maps.app.goo.gl/wXcMAGknwyPFEgMp6" target="_blank">View map</a>)</li>
+    <li><strong>Where:</strong> Northstowe Community Centre, CB24 1FD (<a href="https://maps.app.goo.gl/wXcMAGknwyPFEgMp6" target="_blank">View map</a>)</li>
     <li><strong>How to Book:</strong> <a href="/lesson-booking/">Book your first lesson here</a> (first lesson free!)</li>
     <li><strong>Who:</strong> Ages 8+, adults & families welcome</li>
     <li><strong>Fees:</strong> <a href="/training/fees/">Pay per session</a> after your free first lesson. Membership required for permanent students.</li>
