@@ -4,6 +4,82 @@ layout: base.njk
 description: We have regular sessions on Wednesdays 6.30-7-30pm and Sundays 3-4pm in Northstowe, Cambridge. Shotokan classes for all from beginner to black belt.
 date: "git Last Modified"
 changeFrequency: weekly
+headerContent: |
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://www.northstowekarate.com/training/#schedule",
+        "@type": "EventSeries",
+        "name": "Northstowe Karate Weekly Classes",
+        "description": "Family Friendly Shotokan Karate classes for ages 8+ held weekly in Northstowe, led by Chief Instructor Simon Apen-Sadler.",
+        "startDate": "2024-07-03",
+        "eventSchedule": [
+          {
+            "@type": "Schedule",
+            "byDay": "Wednesday",
+            "startTime": "18:30",
+            "endTime": "19:30",
+            "scheduleTimezone": "Europe/London"
+          },
+          {
+            "@type": "Schedule",
+            "byDay": "Sunday",
+            "startTime": "15:00",
+            "endTime": "16:00",
+            "scheduleTimezone": "Europe/London"
+          }
+        ],
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "location": {
+          "@id": "https://www.northstowekarate.com/training/#thecabin"
+        },
+        "image": "https://www.northstowekarate.com/static/logo.webp",
+        "url": "https://www.northstowekarate.com/training/"
+      },
+      {
+        "@id": "https://www.northstowekarate.com/training/#thecabin",
+        "@context": "https://schema.org",
+        "@type": "SportsActivityLocation",
+        "name": "Northstowe Karate Club",
+        "image": "https://www.northstowekarate.com/static/logo.png",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "The Cabin, 1 The Green",
+          "addressLocality": "Northstowe",
+          "addressRegion": "Cambridge",
+          "postalCode": "CB24 1FD",
+          "addressCountry": "GB"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 52.2905,
+          "longitude": 0.0266
+        },
+        "url": "https://www.northstowekarate.com",
+        "telephone": "+447596922670",
+        "openingHours": "Wednesday 18:30-19:30, Sunday 15:00-16:00",
+        "priceRange": "£",
+        "amenityFeature": [
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Accessible entrance",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Changing facilities",
+            "value": true
+          }
+        ],
+        "description": "Shotokan Karate classes for age 8+ in Northstowe, Cambridge and Cambridgeshire."
+      }
+    ]
+  }
+  </script>
+
 priority: 0.9
 ---
 # Club Training Schedule
@@ -125,81 +201,6 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
   </tbody>
 </table>
 </details>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@id": "https://www.northstowekarate.com/training/#schedule",
-      "@type": "EventSeries",
-      "name": "Northstowe Karate Weekly Classes",
-      "description": "Family Friendly Shotokan Karate classes for ages 8+ held weekly in Northstowe, led by Chief Instructor Simon Apen-Sadler.",
-      "startDate": "2024-07-03",
-      "eventSchedule": [
-        {
-          "@type": "Schedule",
-          "byDay": "Wednesday",
-          "startTime": "18:30",
-          "endTime": "19:30",
-          "scheduleTimezone": "Europe/London"
-        },
-        {
-          "@type": "Schedule",
-          "byDay": "Sunday",
-          "startTime": "15:00",
-          "endTime": "16:00",
-          "scheduleTimezone": "Europe/London"
-        }
-      ],
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "location": {
-        "@id": "https://www.northstowekarate.com/training/#thecabin"
-      },
-      "image": "https://www.northstowekarate.com/static/logo.webp",
-      "url": "https://www.northstowekarate.com/training/"
-    },
-    {
-      "@id": "https://www.northstowekarate.com/training/#thecabin",
-      "@context": "https://schema.org",
-      "@type": "SportsActivityLocation",
-      "name": "Northstowe Karate Club",
-      "image": "https://www.northstowekarate.com/static/logo.png",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "The Cabin, 1 The Green",
-        "addressLocality": "Northstowe",
-        "addressRegion": "Cambridge",
-        "postalCode": "CB24 1FD",
-        "addressCountry": "GB"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 52.2905,
-        "longitude": 0.0266
-      },
-      "url": "https://www.northstowekarate.com",
-      "telephone": "+447596922670",
-      "openingHours": "Wednesday 18:30-19:30, Sunday 15:00-16:00",
-      "priceRange": "£",
-      "amenityFeature": [
-        {
-          "@type": "LocationFeatureSpecification",
-          "name": "Accessible entrance",
-          "value": true
-        },
-        {
-          "@type": "LocationFeatureSpecification",
-          "name": "Changing facilities",
-          "value": true
-        }
-      ],
-      "description": "Shotokan Karate classes for age 8+ in Northstowe, Cambridge and Cambridgeshire."
-    }
-  ]
-}
-</script>
 
 ### Cancellation
 
