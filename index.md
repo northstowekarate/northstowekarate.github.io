@@ -124,8 +124,8 @@ Simon Apen-Sadler, the [chief instructor](/instructors/), has over 20 years expe
         "@id": "https://www.northstowekarate.com/#cabinaddress",
         "@type": "PostalAddress",
         "streetAddress": "The Cabin, 1 The Green",
-        "addressLocality": "Northstowe, Cambridge",
-        "addressRegion": "Cambridgeshire",
+        "addressLocality": "Northstowe",
+        "addressRegion": "Cambridge",
         "postalCode": "CB24 1FD",
         "addressCountry": "GB"
       },

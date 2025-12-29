@@ -22,22 +22,27 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
       <th scope="col"> Notes </th>
     </thead>
     <tr>
-      <td>Sunday 7th December 15:00-16:00</td>
-      <td>The Cabin</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Wednesday 10th December 18:30-19:30</td>
-      <td>The Cabin</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><em>Christmas Holidays - No Training</em></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td>Wednesday 14th January 18:30-19:30</td>
+      <td>The Cabin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Sunday 18th January 15:00-16:00</td>
+      <td>The Cabin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Wednesday 21st January 18:30-19:30</td>
+      <td>The Cabin</td>
+      <td>Limited space</td>
+    </tr>
+    <tr>
+      <td>Sunday 25th January 15:00-16:00</td>
+      <td>The Cabin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Wednesday 28th January 18:30-19:30</td>
       <td>The Cabin</td>
       <td></td>
     </tr>
@@ -164,8 +169,8 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "The Cabin, 1 The Green",
-        "addressLocality": "Northstowe, Cambridge",
-        "addressRegion": "Cambridgeshire",
+        "addressLocality": "Northstowe",
+        "addressRegion": "Cambridge",
         "postalCode": "CB24 1FD",
         "addressCountry": "GB"
       },
