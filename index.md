@@ -21,11 +21,16 @@ headerContent: |
         "address": {
           "@id": "https://www.northstowekarate.com/#cabinaddress",
           "@type": "PostalAddress",
-          "streetAddress": "The Cabin, 1 The Green",
-          "addressLocality": "Northstowe",
+          "streetAddress": "Northstowe Community Centre, 1 The Green, Pathfinder Way, Northstowe",
+          "addressLocality": "Cambridge",
           "addressRegion": "Cambridge",
           "postalCode": "CB24 1FD",
           "addressCountry": "GB"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude" 52.2885, 
+          "longditude": 0.051
         },
         "areaServed": [
           {
