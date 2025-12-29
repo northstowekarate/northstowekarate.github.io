@@ -25,7 +25,7 @@ The Cabin, 1 The Green, Northstowe, CB24 1FD
 
 Find us on google maps:
 
-<iframe title="The Cabin" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19524.850240267366!2d0.06034314999999999!3d52.2868495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d875d0a30dc935%3A0xdf1f6f7f737e8109!2sNorthstowe%20Karate%20Club!5e0!3m2!1sen!2suk!4v1756817788617!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2440.596309193821!2d0.0479411!3d52.2870305!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d875d0a30dc935%3A0xdf1f6f7f737e8109!2sNorthstowe%20Karate%20Club!5e0!3m2!1sen!2suk!4v1767020089596!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## What to Expect
 Your first class is designed to be beginner‑friendly. Wear comfortable clothes, and we’ll guide you through the basics of Shotokan Karate. Parents are welcome to watch, and our safeguarding policies ensure a safe environment for all.

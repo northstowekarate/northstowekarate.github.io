@@ -99,27 +99,27 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
     </thead>
     <tr>
       <td>Wednesday 14th January 18:30-19:30</td>
-      <td>The Cabin</td>
+      <td><a href="#location-cabin">The Cabin</a></td>
       <td></td>
     </tr>
     <tr>
       <td>Sunday 18th January 15:00-16:00</td>
-      <td>The Cabin</td>
+      <td><a href="#location-cabin">The Cabin</a></td>
       <td></td>
     </tr>
     <tr>
       <td>Wednesday 21st January 18:30-19:30</td>
-      <td>The Cabin</td>
+      <td><a href="#location-cabin">The Cabin</a></td>
       <td>Limited space</td>
     </tr>
     <tr>
       <td>Sunday 25th January 15:00-16:00</td>
-      <td>The Cabin</td>
+      <td><a href="#location-cabin">The Cabin</a></td>
       <td></td>
     </tr>
     <tr>
       <td>Wednesday 28th January 18:30-19:30</td>
-      <td>The Cabin</td>
+      <td><a href="#location-cabin">The Cabin</a></td>
       <td></td>
     </tr>
   </tbody>
@@ -135,67 +135,67 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
     </thead>
     <tr>
       <td>Wednesday 14th January 18:30-19:30</td>
-      <td>The Cabin</td>
+      <td><a href="#location-cabin">The Cabin</a></td>
       <td></td>
     </tr>
     <tr>
       <td>Sunday 18th January 15:00-16:00</td>
-      <td>The Cabin</td>
+      <td><a href="#location-cabin">The Cabin</a></td>
       <td></td>
     </tr>
     <tr>
       <td>Wednesday 21st January 18:30-19:30</td>
-      <td>The Cabin</td>
+      <td><a href="#location-cabin">The Cabin</a></td>
       <td>Limited space</td>
     </tr>
     <tr>
       <td>Sunday 25th January 15:00-16:00</td>
-      <td>The Cabin</td>
+      <td><a href="#location-cabin">The Cabin</a></td>
       <td></td>
     </tr>
     <tr>
       <td>Wednesday 28th January 18:30-19:30</td>
-      <td>The Cabin</td>
+      <td><a href="#location-cabin">The Cabin</a></td>
       <td></td>
     </tr>
     <tr>
       <td>Sunday 1st February 15:00-16:00</td>
-      <td>The Cabin</td>
+      <td><a href="#location-cabin">The Cabin</a></td>
       <td></td>
     </tr>
     <tr>
       <td>Wednesday 4th February 18:30-19:30</td>
-      <td>The Cabin</td>
+      <td><a href="#location-cabin">The Cabin</a></td>
       <td></td>
     </tr>
     <tr>
       <td>Sunday 8th February 15:00-16:00</td>
-      <td>The Cabin</td>
+      <td><a href="#location-cabin">The Cabin</a></td>
       <td></td>
     </tr>
     <tr>
       <td>Wednesday 11th February 18:30-19:30</td>
-      <td>The Cabin</td>
+      <td><a href="#location-cabin">The Cabin</a></td>
       <td></td>
     </tr>
     <tr>
       <td>Sunday 15th February 15:00-16:00</td>
-      <td>The Cabin</td>
+      <td><a href="#location-cabin">The Cabin</a></td>
       <td></td>
     </tr>
     <tr>
       <td>Wednesday 18th February 18:30-19:30</td>
-      <td>The Cabin</td>
+      <td><a href="#location-cabin">The Cabin</a></td>
       <td>Limited space</td>
     </tr>
     <tr>
       <td>Sunday 22nd February 15:00-16:00</td>
-      <td>The Cabin</td>
+      <td><a href="#location-cabin">The Cabin</a></td>
       <td></td>
     </tr>
     <tr>
       <td>Wednesday 25th February 18:30-19:30</td>
-      <td>The Cabin</td>
+      <td><a href="#location-cabin">The Cabin</a></td>
       <td></td>
     </tr>
   </tbody>
@@ -207,11 +207,12 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
 Should you need to cancel, please do so with at least 24 hours' notice by removing your name from the spreadsheet and emailing the club. If you cancel within 24 hours' notice or are a no-show, you will be charged for the lesson.
 
 ## Locations
-### The Cabin
+<h3 id="location-cabin">The Cabin<h3>
 
-The Cabin, 1 The Green, Northstowe, Cambridge, CB24 1FD
+Northstowe Community Centre (The Cabin), 1 The Green, Pathfinder Way, Northstowe, Cambridge, CB24 1FD
 
-<iframe title="The Cabin" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19524.850240267366!2d0.06034314999999999!3d52.2868495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d875d0a30dc935%3A0xdf1f6f7f737e8109!2sNorthstowe%20Karate%20Club!5e0!3m2!1sen!2suk!4v1756817788617!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2440.596309193821!2d0.0479411!3d52.2870305!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d875d0a30dc935%3A0xdf1f6f7f737e8109!2sNorthstowe%20Karate%20Club!5e0!3m2!1sen!2suk!4v1767020089596!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ### Find us
 You can find us easily traveling from [Willingham](/willingham-karate/), [Longstanton](/longstanton-karate/) or [Cambridge](/cambridge-karate/).
+
