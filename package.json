@@ -15,7 +15,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "sharp": "^0.34.3",
     "wrangler": "^4.38.0"
   }
 }
