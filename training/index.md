@@ -61,9 +61,6 @@ headerContent: |
           "latitude": 52.2885, 
           "longitude": 0.051
         },
-        "parentOrganization": {
-          "@id": "https://www.northstowekarate.com/#northstowekarateclub"
-        },
         "url": "https://www.northstowekarate.com",
         "telephone": "+447596922670",
         "openingHours": "Wednesday 18:30-19:30, Sunday 15:00-16:00",
