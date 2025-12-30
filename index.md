@@ -26,7 +26,7 @@ headerContent: |
         },
         "address": {
           "@id": "https://www.northstowekarate.com/training/#thecabin"
-        }
+        },
         "sport": "Karate",
         "areaServed": "Northstowe and surrounding villages",
         "member": [
