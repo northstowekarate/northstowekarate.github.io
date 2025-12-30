@@ -18,6 +18,10 @@ headerContent: |
           "SportsClub",
           "LocalBusiness"
         ],
+        "founder": { 
+          "@id": "https://www.northstowekarate.com/instructors/#simonapensadler"
+        },
+        "foundingDate": "2024",
         "name": "Northstowe Karate Club",
         "image": "https://www.northstowekarate.com/static/logo.webp",
         "email": "info@northstowekarate.com",
@@ -52,7 +56,26 @@ headerContent: |
         "telephone": "+447596922670",
         "openingHours": "Wednesday 18:30-19:30, Sunday 15:00-16:00",
         "priceRange": "£",
-        "description": "Shotokan Karate classes for age 8+ in Northstowe, Cambridge and Cambridgeshire."
+        "description": "Shotokan Karate classes for age 8+ in Northstowe, Cambridge and Cambridgeshire.",
+        "knowsAbout": [
+          "Shotokan Karate",
+          "Martial Arts Instruction",
+          "Self-Defence",
+          "Karate for Beginners",
+          "Karate for Children"
+        ],
+        "keywords": [
+          "Karate",
+          "Shotokan",
+          "Martial Arts",
+          "Northstowe",
+          "Cambridge",
+          "Karate Classes",
+          "Karate for Kids" 
+        ],
+        "subjectOf": {
+          "@id": "https://www.northstowekarate.com/training/#schedule"
+        }
       },
       {
         "@id": "https://www.northstowekarate.com/#website",

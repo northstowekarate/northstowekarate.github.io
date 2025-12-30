@@ -44,7 +44,6 @@ headerContent: |
       },
       {
         "@id": "https://www.northstowekarate.com/training/#thecabin",
-        "@context": "https://schema.org",
         "@type": "SportsActivityLocation",
         "name": "Northstowe Community Centre (The Cabin)",
         "image": "https://www.northstowekarate.com/static/logo.png",
