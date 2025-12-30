@@ -13,71 +13,19 @@ headerContent: |
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@id": "https://www.northstowekarate.com/#sportsclub",
+        "@id": "https://www.northstowekarate.com/#northstowekarateclub",
         "@type": "SportsClub",
         "name": "Northstowe Karate Club",
         "image": "https://www.northstowekarate.com/static/logo.webp",
         "email": "info@northstowekarate.com",
-        "address": {
-          "@id": "https://www.northstowekarate.com/#cabinaddress",
-          "@type": "PostalAddress",
-          "streetAddress": "1 The Green, Pathfinder Way, Northstowe",
-          "addressLocality": "Cambridge",
-          "addressRegion": "Cambridge",
-          "postalCode": "CB24 1FD",
-          "addressCountry": "GB"
+        "location": {
+          "@id": "https://www.northstowekarate.com/training/#thecabin"
         },
-        "geo": {
-          "@type": "GeoCoordinates",
-          "latitude": 52.2885, 
-          "longitude": 0.051
-        },
-        "areaServed": [
-          {
-            "@type": "Place",
-            "name": "Northstowe",
-            "address": {
-              "@type": "PostalAddress",
-              "addressRegion": "Cambridgeshire",
-              "postalCode": "CB24"
-            }
-          },
-          {
-            "@type": "Place",
-            "name": "Longstanton",
-            "address": {
-              "@type": "PostalAddress",
-              "addressRegion": "Cambridgeshire",
-              "postalCode": "CB24"
-            }
-          },
-          {
-            "@type": "Place",
-            "name": "Willingham",
-            "address": {
-              "@type": "PostalAddress",
-              "addressRegion": "Cambridgeshire"
-            }
-          },
-          {
-            "@type": "Place",
-            "name": "Cambridge",
-            "address": {
-              "@type": "PostalAddress",
-              "addressRegion": "Cambridgeshire"
-            }
-          },
-          {
-            "@type": "Place",
-            "name": "Cambridgeshire"
-          }
-        ],
+        "sport": "Karate",
+        "areaServed": "Northstowe and surrounding villages",
         "member": [
           {
-            "@type": "Person",
-            "name": "Simon Apen-Sadler",
-            "jobTitle": "Chief Instructor",
-            "description": "4th Dan JKA"
+            "@id": "https://www.northstowekarate.com/instructors/#simonapensadler"
           }
         ],
         "url": "https://www.northstowekarate.com",

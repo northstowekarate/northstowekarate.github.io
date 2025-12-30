@@ -32,6 +32,9 @@ headerContent: |
           }
         ],
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "organizer": {
+          "@id": "https://www.northstowekarate.com/#northstowekarateclub"
+        },
         "eventStatus": "https://schema.org/EventScheduled",
         "location": {
           "@id": "https://www.northstowekarate.com/training/#thecabin"
@@ -43,13 +46,13 @@ headerContent: |
         "@id": "https://www.northstowekarate.com/training/#thecabin",
         "@context": "https://schema.org",
         "@type": "SportsActivityLocation",
-        "name": "Northstowe Karate Club",
+        "name": "Northstowe Community Centre (The Cabin)",
         "image": "https://www.northstowekarate.com/static/logo.png",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "1 The Green, Pathfinder Way, Northstowe",
-          "addressLocality": "Cambridge",
-          "addressRegion": "Cambridge",
+          "addressLocality": "Northstowe",
+          "addressRegion": "Cambridgeshire",
           "postalCode": "CB24 1FD",
           "addressCountry": "GB"
         },
@@ -57,6 +60,9 @@ headerContent: |
           "@type": "GeoCoordinates",
           "latitude": 52.2885, 
           "longitude": 0.051
+        },
+        "parentOrganization": {
+          "@id": "https://www.northstowekarate.com/#northstowekarateclub"
         },
         "url": "https://www.northstowekarate.com",
         "telephone": "+447596922670",
@@ -74,7 +80,7 @@ headerContent: |
             "value": true
           }
         ],
-        "description": "Shotokan Karate classes for age 8+ in Northstowe, Cambridge and Cambridgeshire."
+        "description": "Family Friendly Shotokan Karate classes for ages 8+ held weekly in Northstowe, led by Chief Instructor Simon Apen-Sadler."
       }
     ]
   }
