@@ -42,7 +42,14 @@ headerContent: |
           "addressCountry": "GB"
         },
         "sport": "Karate",
-        "areaServed": "Northstowe and surrounding villages",
+        "areaServed": [
+          "Northstowe", 
+          "Longstanton",
+          "Oakington",
+          "Willingham",
+          "Cambridge",
+          "Cambridgeshire"
+        ],
         "member": [
           {
             "@id": "https://www.northstowekarate.com/instructors/#simonapensadler"
@@ -72,6 +79,24 @@ headerContent: |
           "Cambridge",
           "Karate Classes",
           "Karate for Kids" 
+        ],
+        "serviceType": [
+          "Karate Instruction",
+          "Martial Arts Training", 
+          "Shotokan Karate Classes",
+          "Karate Classes",
+          "Karate for Kids" 
+        ],
+        "slogan": "Family friendly, traditional karate for children 8+ and adults",
+        "memberOf": [
+          {
+            "@type": "SportsOrganization",
+            "name": "Japan Karate Association (JKA)"
+          },
+          {
+            "@type": "SportsOrganization",
+            "name": "Japan Shotokan Karate England (JSKE)"
+          }
         ],
         "subjectOf": {
           "@id": "https://www.northstowekarate.com/training/#schedule"
