@@ -56,7 +56,7 @@ headerContent: |
         "geo": {
           "@type": "GeoCoordinates",
           "latitude": 52.2885, 
-          "longditude": 0.051
+          "longitude": 0.051
         },
         "url": "https://www.northstowekarate.com",
         "telephone": "+447596922670",
