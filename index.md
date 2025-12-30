@@ -42,7 +42,6 @@ headerContent: |
           "postalCode": "CB24 1FD",
           "addressCountry": "GB"
         },
-        "sport": "Karate",
         "areaServed": [
           "Northstowe", 
           "Longstanton",
