@@ -51,14 +51,6 @@ headerContent: |
           "Cambridge",
           "Cambridgeshire"
         ],
-        "hasCourse": {
-          "@type": "Course", 
-          "name": "Shotokan Karate Training", 
-          "description": "Ongoing karate training suitable for beginners and experienced students. New starters welcome at any time.", 
-          "provider": {
-            "@id": "https://www.northstowekarate.com/#northstowekarateclub"
-          } 
-        },
         "member": [
           {
             "@id": "https://www.northstowekarate.com/instructors/#simonapensadler"
@@ -86,13 +78,6 @@ headerContent: |
           "Martial Arts",
           "Northstowe",
           "Cambridge",
-          "Karate Classes",
-          "Karate for Kids" 
-        ],
-        "serviceType": [
-          "Karate Instruction",
-          "Martial Arts Training", 
-          "Shotokan Karate Classes",
           "Karate Classes",
           "Karate for Kids" 
         ],
