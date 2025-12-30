@@ -22,7 +22,12 @@ headerContent: |
         "image": "https://www.northstowekarate.com/static/logo.webp",
         "email": "info@northstowekarate.com",
         "location": {
-          "@id": "https://www.northstowekarate.com/training/#thecabin"
+          "@type": "PostalAddress",
+          "streetAddress": "1 The Green, Pathfinder Way, Northstowe",
+          "addressLocality": "Northstowe",
+          "addressRegion": "Cambridgeshire",
+          "postalCode": "CB24 1FD",
+          "addressCountry": "GB"
         },
         "address": {
           "@type": "PostalAddress",
