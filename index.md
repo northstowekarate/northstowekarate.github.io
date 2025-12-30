@@ -23,7 +23,8 @@ headerContent: |
         },
         "foundingDate": "2024",
         "name": "Northstowe Karate Club",
-        "image": "https://www.northstowekarate.com/static/logo.webp",
+        "image": "https://www.northstowekarate.com/static/nkc-jka-header-black-center.webp",
+        "logo": "https://www.northstowekarate.com/static/logo.webp",
         "email": "info@northstowekarate.com",
         "location": {
           "@type": "PostalAddress",
@@ -50,6 +51,14 @@ headerContent: |
           "Cambridge",
           "Cambridgeshire"
         ],
+        "hasCourse": {
+          "@type": "Course", 
+          "name": "Shotokan Karate Training", 
+          "description": "Ongoing karate training suitable for beginners and experienced students. New starters welcome at any time.", 
+          "provider": {
+            "@id": "https://www.northstowekarate.com/#northstowekarateclub"
+          } 
+        },
         "member": [
           {
             "@id": "https://www.northstowekarate.com/instructors/#simonapensadler"
