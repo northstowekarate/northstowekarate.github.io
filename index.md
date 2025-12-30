@@ -25,7 +25,13 @@ headerContent: |
           "@id": "https://www.northstowekarate.com/training/#thecabinaddress"
         },
         "address": {
-          "@id": "https://www.northstowekarate.com/training/#thecabin"
+          "@id": "https://www.northstowekarate.com/training/#thecabinaddress",
+          "@type": "PostalAddress",
+          "streetAddress": "1 The Green, Pathfinder Way, Northstowe",
+          "addressLocality": "Northstowe",
+          "addressRegion": "Cambridgeshire",
+          "postalCode": "CB24 1FD",
+          "addressCountry": "GB"
         },
         "sport": "Karate",
         "areaServed": "Northstowe and surrounding villages",
