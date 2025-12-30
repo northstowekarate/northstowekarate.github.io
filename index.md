@@ -14,7 +14,10 @@ headerContent: |
     "@graph": [
       {
         "@id": "https://www.northstowekarate.com/#northstowekarateclub",
-        "@type": "SportsClub",
+        "@type": [
+          "SportsClub",
+          "LocalBusiness"
+        ],
         "name": "Northstowe Karate Club",
         "image": "https://www.northstowekarate.com/static/logo.webp",
         "email": "info@northstowekarate.com",
