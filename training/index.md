@@ -49,6 +49,7 @@ headerContent: |
         "name": "Northstowe Community Centre (The Cabin)",
         "image": "https://www.northstowekarate.com/static/logo.png",
         "address": {
+          "@id": "https://www.northstowekarate.com/training/#thecabinaddress"
           "@type": "PostalAddress",
           "streetAddress": "1 The Green, Pathfinder Way, Northstowe",
           "addressLocality": "Northstowe",
