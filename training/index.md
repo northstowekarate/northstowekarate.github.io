@@ -60,6 +60,7 @@ headerContent: |
           "latitude": 52.2885, 
           "longitude": 0.051
         },
+        "hasMap": "https://maps.app.goo.gl/wXcMAGknwyPFEgMp6",
         "url": "https://www.northstowekarate.com",
         "telephone": "+447596922670",
         "openingHours": "Wednesday 18:30-19:30, Sunday 15:00-16:00",

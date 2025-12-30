@@ -98,6 +98,7 @@ headerContent: |
             "name": "Japan Shotokan Karate England (JSKE)"
           }
         ],
+        "hasMap": "https://maps.app.goo.gl/wXcMAGknwyPFEgMp6",
         "subjectOf": {
           "@id": "https://www.northstowekarate.com/training/#schedule"
         }
