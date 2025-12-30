@@ -22,10 +22,9 @@ headerContent: |
         "image": "https://www.northstowekarate.com/static/logo.webp",
         "email": "info@northstowekarate.com",
         "location": {
-          "@id": "https://www.northstowekarate.com/training/#thecabinaddress"
+          "@id": "https://www.northstowekarate.com/training/#thecabin"
         },
         "address": {
-          "@id": "https://www.northstowekarate.com/training/#thecabinaddress",
           "@type": "PostalAddress",
           "streetAddress": "1 The Green, Pathfinder Way, Northstowe",
           "addressLocality": "Northstowe",
