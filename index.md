@@ -22,7 +22,7 @@ headerContent: |
         "image": "https://www.northstowekarate.com/static/logo.webp",
         "email": "info@northstowekarate.com",
         "location": {
-          "@id": "https://www.northstowekarate.com/training/#thecabin"
+          "@id": "https://www.northstowekarate.com/training/#thecabinaddress"
         },
         "address": {
           "@id": "https://www.northstowekarate.com/training/#thecabin"
