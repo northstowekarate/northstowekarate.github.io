@@ -55,7 +55,7 @@ headerContent: |
         },
         "geo": {
           "@type": "GeoCoordinates",
-          "latitude" 52.2885, 
+          "latitude": 52.2885, 
           "longditude": 0.051
         },
         "url": "https://www.northstowekarate.com",
