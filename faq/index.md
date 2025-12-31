@@ -44,7 +44,13 @@ Please visit [book a class](/lesson-booking/) to find out how to book your first
 
 ## How do I get a uniform?
 
-You can purchase karate gi (uniform) through the club, although this is not required. We generally recommend trying a few sessions first to make sure you enjoy the lessons before committing.
+You can purchase karate gi (uniform) through the club, although this is not required. We generally recommend trying a few sessions first to make sure you enjoy the lessons before committing. I recomment one of the following:
+
+* [Blitz Childrens Beginner Karate gi](https://www.blitzsport.com/karate/karate-suits-uniforms/blitz-kids-lightweight-karate-gi)
+* [Blitz Adults Beginner Karate gi](https://www.blitzsport.com/karate/karate-suits-uniforms/blitz-adult-lightweight-karate-gi)
+* [Bytomic Childrens Beginner karate gi](https://www.bytomic.com/products/white-bytomic-red-label-7oz-lightweight-kids-karate-uniform)
+* [Bytomic Adult Beginner karate gi](https://www.bytomic.com/products/white-bytomic-red-label-7oz-lightweight-adult-karate-uniform)
+
 
 ## How do I get my next belt?
 
