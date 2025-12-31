@@ -210,7 +210,7 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
 Should you need to cancel, please do so with at least 24 hours' notice by removing your name from the spreadsheet and emailing the club. If you cancel within 24 hours' notice or are a no-show, you will be charged for the lesson.
 
 ## Locations
-<h3 id="location-cabin">The Cabin<h3>
+<h3 id="location-cabin">The Cabin</h3>
 
 1 The Green, Pathfinder Way, Northstowe, Cambridge, CB24 1FD
 
