@@ -86,11 +86,11 @@ p {
   gap: 1rem;
 }
 
-nav a:hover {
+.navbar-nav a:hover {
   background: rgba(0, 0, 0, 0.05);
 }
 
-.navbar .book-class {
+.navbar-nav .book-class {
   color: #003366;
   font-weight: 600;
 }
