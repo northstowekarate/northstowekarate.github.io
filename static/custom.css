@@ -82,21 +82,8 @@ p {
   padding-top: 2rem;
 }
 
-@media (max-width: 600px) {
-  h1 {
-    font-size: 1.9rem;
-  }
-  h2 {
-    font-size: 1.4rem;
-  }
-  .hero {
-    padding: 2.5rem 1rem;
-  }
-}
-
-nav a {
-  margin: 0 0.5rem;
-  display: inline-block;
+.navbar-nav {
+  gap: 1rem;
 }
 
 nav a:hover {
