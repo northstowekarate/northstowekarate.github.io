@@ -217,5 +217,5 @@ Should you need to cancel, please do so with at least 24 hours' notice by removi
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2440.596309193821!2d0.0479411!3d52.2870305!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d875d0a30dc935%3A0xdf1f6f7f737e8109!2sNorthstowe%20Karate%20Club!5e0!3m2!1sen!2suk!4v1767020089596!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ### Find us
-You can find us easily traveling from [Willingham](/willingham-karate/), [Longstanton](/longstanton-karate/) or [Cambridge](/cambridge-karate/).
+You can find us easily travelling from [Willingham](/willingham-karate/), [Longstanton](/longstanton-karate/) or [Cambridge](/cambridge-karate/).
 

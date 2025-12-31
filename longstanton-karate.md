@@ -41,4 +41,4 @@ Absolutely. We welcome new starters of all ages (8+).
 - [See our full class schedule](/training/)
 - [Check our affordable pricing](/training/fees/)
 - [Learn more about our club values](/about/)
-- [Freqently Askes Questions](/faq/)
+- [Frequently Asked Questions](/faq/)
