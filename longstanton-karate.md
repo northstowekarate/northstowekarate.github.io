@@ -16,6 +16,7 @@ Looking for karate classes near Longstanton? **Northstowe Karate Club** offers t
 - Inclusive environment for beginners and families
 - Free trial class available
 - Conveniently located near Longstanton
+- Karate has many [benefits](/benefits-of-karate) including increase confidence and fitness
 
 ## Getting Here from Longstanton
 We’re just a short drive from Longstanton via B1050. Parking is available at our venue, with additional spaces nearby. Many of our members travel from Longstanton and surrounding villages, making our club a hub for the local community.

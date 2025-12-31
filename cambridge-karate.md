@@ -15,6 +15,7 @@ Looking for karate and martial arts classes near Cambridge? **Northstowe Karate 
 - Inclusive environment for beginners and families
 - Free trial class available
 - Conveniently located near Cambridge
+- Karate has many [benefits](/benefits-of-karate) including increase confidence and fitness
 
 ## Getting Here from Cambridge
 We’re just a short drive from Cambridge via A14 and B1050. Parking is available at our venue, with additional spaces nearby. Many of our members travel from Cambridge and surrounding villages, making our club a hub for the local community.
