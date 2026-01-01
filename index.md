@@ -166,10 +166,10 @@ Our goal is simple: help every student leave each class feeling better than when
 
 ## What Parents and Students Say
 <div class="row g-4">
-  <div class="col-md-8">
+  <div class="col-md-4">
     <div class="card h-100 shadow-sm">
       <div class="card-body">
-        <p class="card-text">“We are so thankful for the new Northstowe Karate Club. Our family have never done martial arts before. My family and I really like going to an activity all together. Simon is a really great teacher and gave us a warm welcome and explained everything clearly. Karate is really hard, but the learning atmosphere has kept us coming back each week! The easy location at the Cabin in Northstowe and the low cost for the whole family have also helped us commit to the sport. Simon has organised everything so well and his emails are really helpful. I'm really happy we are all learning a new skill and exercising!”</p>
+        <p class="card-text">“We had never done martial arts before, but Simon gave us a warm welcome and explained everything clearly. Karate is challenging, but the friendly learning atmosphere keeps us coming back each week.”</p>
         <p class="text-muted small mb-0">— Family member</p>
       </div>
     </div>
@@ -180,6 +180,15 @@ Our goal is simple: help every student leave each class feeling better than when
       <div class="card-body">
         <p class="card-text">“It has been a pleasure being part of the club. We really appreciate seeing our child achieve so much and grow in both confidence and strength.”</p>
         <p class="text-muted small mb-0">— Parent of a young student</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-md-4">
+    <div class="card h-100 shadow-sm">
+      <div class="card-body">
+        <p class="card-text">“The convenient location at The Cabin and the affordable cost have made it easy for us to commit. Simon organises everything so well, and his emails are always helpful. We’re really happy to be learning a new skill and getting fitter together.”</p>
+        <p class="text-muted small mb-0">— Parent</p>
       </div>
     </div>
   </div>
