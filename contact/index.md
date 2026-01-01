@@ -16,6 +16,3 @@ If you prefer to call us, you can reach us on <a href="tel:07596922670">07596922
 
 Ask questions, register interest, or book your first session - we’re here to help. Join a growing community, build confidence, and start your martial arts journey with Northstowe Karate.
 
-## Finding Us
-
-You can find us easily travelling from [Willingham](/willingham-karate/), [Longstanton](/longstanton-karate/) or [Cambridge](/cambridge-karate/).
