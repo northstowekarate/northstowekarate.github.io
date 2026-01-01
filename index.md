@@ -80,7 +80,7 @@ headerContent: |
           "Karate Classes",
           "Karate for Kids"
         ],
-        "slogan": "Family friendly, traditional karate for children 8+ and adults",
+        "slogan": "Family‑friendly, traditional karate for ages 8+ and adults",
         "memberOf": [
           {
             "@type": "SportsOrganization",
@@ -111,7 +111,7 @@ headerContent: |
 
 <div class="hero hero-image">
   <div class="hero-content">
-    <p>Family friendly, welcoming club, teaching Shotokan Karate.</p>
+    <p>Family‑friendly, traditional karate for ages 8+ and adults.</p>
     <p>Build confidence, fitness and strength.</p>
     <p>Tradition. Respect. Honour.</p>
   </div>
