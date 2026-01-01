@@ -201,7 +201,7 @@ Shotokan Karate has a rich heritage. We teach etiquette, discipline, and focus i
 Stay up to date with club news, grading dates, and events:
 
 - [Training Schedule](/training/)
-- [Events](/calendar/)
+- [Events](/events/)
 - [Latest News & Blog](/blog/)
 
 ## About the Club
