@@ -132,13 +132,13 @@ Parents often tell us they appreciate the balance we strike: structured, traditi
 
 Every lesson is built around three principles:
 
-### 1. Clarity and Structure
+## 1. Clarity and Structure
 We break techniques down into simple, achievable steps. Beginners get clear guidance, while more experienced students are challenged appropriately.
 
-### 2. Encouragement and Confidence‑Building
+## 2. Encouragement and Confidence‑Building
 Karate can feel daunting at first, especially for children. We take time to help students settle in, celebrate small wins, and build confidence gradually.
 
-### 3. Respect and Tradition
+## 3. Respect and Tradition
 Shotokan Karate has a rich heritage. We teach etiquette, discipline, and focus in a way that feels natural and accessible - never intimidating.
 
 Our goal is simple: help every student leave each class feeling better than when they arrived.
@@ -165,8 +165,15 @@ Our goal is simple: help every student leave each class feeling better than when
 
 # What Parents and Students Say
 
-- “We are so thankful for the new Northstowe Karate Club. Our family have never done martial arts before. My two boys, my husband and I really like going to an activity all together. Simon is a really great teacher and gave us a warm welcome and explained everything clearly. Karate is really hard, but the learning atmosphere has kept us coming back each week! The easy location at the Cabin in Northstowe and the low cost for the whole family have also helped us commit to the sport. Simon has organised everything so well and his emails summarising the lessons etc are really helpful. I'm really happy we are all learning a new skill and exercising!”
-- “It has been a pleasure being part of the club. We really appreciate seeing our daughter achieve so much and grow in both confidence and strength”
+<blockquote class="blockquote">
+  <p class="mb-0">We are so thankful for the new Northstowe Karate Club. Our family have never done martial arts before. My two boys, my husband and I really like going to an activity all together. Simon is a really great teacher and gave us a warm welcome and explained everything clearly. Karate is really hard, but the learning atmosphere has kept us coming back each week! The easy location at the Cabin in Northstowe and the low cost for the whole family have also helped us commit to the sport. Simon has organised everything so well and his emails summarising the lessons etc are really helpful. I'm really happy we are all learning a new skill and exercising!</p>
+  <br />
+</blockquote>
+<br />
+<blockquote class="blockquote">
+  <p class="mb-0">It has been a pleasure being part of the club. We really appreciate seeing our daughter achieve so much and grow in both confidence and strength.</p>
+  <br />
+</blockquote>
 
 # Upcoming Events & News
 
@@ -181,7 +188,6 @@ Stay up to date with club news, grading dates, and events:
 [Our club](/about/) teaches traditional [Shotokan Karate](https://en.wikipedia.org/wiki/Shotokan), a Japanese martial art, in Northstowe on the outskirts of Cambridge. We're family‑friendly, teaching both children and adults together in a supportive and friendly environment.
 
 We are a member of [Japan Shotokan Karate England](https://jske.co.uk) and are affiliated with the [Japan Karate Association](https://www.jka.or.jp/en/), one of the largest and most prestigious karate organisations in the world. You can also find out more by reading our [Frequently Asked Questions](/faq/).
-
 
 # Training Sessions
 
