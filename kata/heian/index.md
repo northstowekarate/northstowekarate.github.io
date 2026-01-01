@@ -21,7 +21,7 @@ Kihon kata, also known as Taikyoku Shodan, is the first kata and consists of 20 
   <div class="row justify-content-center">
     <div class="col-10 col-lg-6">
       <div class="ratio ratio-16x9">
-        <iframe src="https://www.youtube.com/embed/jJsSGHYF7_s?si=7DkmVakEgDTbhFrd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/jJsSGHYF7_s?si=7DkmVakEgDTbhFrd" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </div>
     </div>
   </div>
@@ -35,7 +35,7 @@ Heian Shodan, similar in shape to heian shodan consists of 21 moves with a kiai 
   <div class="row justify-content-center">
     <div class="col-10 col-lg-6">
       <div class="ratio ratio-16x9">
-        <iframe src="https://www.youtube.com/embed/O0ndtpxDU8s?si=62jk9cbilBibkZcD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/O0ndtpxDU8s?si=62jk9cbilBibkZcD" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </div>
     </div>
   </div>
@@ -48,7 +48,7 @@ Heian Nidan, the second of the heian kata, consists of 26 moves, with kiai on mo
   <div class="row justify-content-center">
     <div class="col-10 col-lg-6">
       <div class="ratio ratio-16x9">
-        <iframe src="https://www.youtube.com/embed/4lVVkKel4dc?si=VdjiBGem9UcNgTqr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/4lVVkKel4dc?si=VdjiBGem9UcNgTqr" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
           </div>
         </div>
       </div>
@@ -61,7 +61,7 @@ Heian Sandan is the third and shortest heian kata consists of only 20 moves with
   <div class="row justify-content-center">
     <div class="col-10 col-lg-6">
       <div class="ratio ratio-16x9">
-        <iframe src="https://www.youtube.com/embed/CmUmAdxfO_o?si=QQN5iB9pNj3xwKWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/CmUmAdxfO_o?si=QQN5iB9pNj3xwKWk" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </div>
     </div>
   </div>
@@ -74,7 +74,7 @@ Heian Yondan is the 4th heian kata and consists of 27 moves with kiai on moves 1
   <div class="row justify-content-center">
     <div class="col-10 col-lg-6">
       <div class="ratio ratio-16x9">
-        <iframe src="https://www.youtube.com/embed/TtkkIxL29po?si=oMCBlJAf2Krdg8F2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/TtkkIxL29po?si=oMCBlJAf2Krdg8F2" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </div>
     </div>
   </div>
@@ -88,7 +88,7 @@ Heian Godan consists of 23 moves with kiai on moves 12 and 19. This kata introdu
   <div class="row justify-content-center">
     <div class="col-10 col-lg-6">
       <div class="ratio ratio-16x9">
-        <iframe src="https://www.youtube.com/embed/A2wBlKGn2lA?si=CjZK-YWRCRnd5p3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/A2wBlKGn2lA?si=CjZK-YWRCRnd5p3B" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </div>
     </div>
   </div>

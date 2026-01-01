@@ -32,8 +32,7 @@ date: 1980-01-01
     <link href="/static/custom.css" rel="stylesheet">
     <link rel="icon" type="image/x-icon" href="/favicon.ico">
     <link rel="canonical" href="https://www.northstowekarate.com{{ page.url }}">
-    {{ headerContent | safe }}
-
+    {{- headerContent | safe -}}
     <script>
       (function(c,l,a,r,i,t,y){
           c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
@@ -53,26 +52,26 @@ date: 1980-01-01
 
     <div id="page-content" class="justify-content-center container">
       <nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav mx-auto">
             <li class="nav-item active">
-              <a class="nav-link book-class" href="/lesson-booking/">Book a free trial</a>
+              <button type="button" class="nav-link book-class" href="/lesson-booking/">Book a free trial</button>
             </li>
             <li class="nav-item active">
-              <a class="nav-link" href="/">Home</a>
+              <button type="button" class="nav-link" href="/">Home</button>
             </li>
             <li class="nav-item active">
-              <a class="nav-link" href="/faq/">FAQ</a>
+              <button type="button" class="nav-link" href="/faq/">FAQ</button>
             </li>
 
             <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              <button type="button" class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false">
                 Club Info
-              </a>
+              </button>
               <ul class="dropdown-menu">
                 <li><a class="dropdown-item" href="/training/">Class Schedule</a></li>
                 <li><a class="dropdown-item" href="/training/fees/">Fees</a></li>
@@ -84,13 +83,13 @@ date: 1980-01-01
             </li>
 
             <li class="nav-item">
-              <a class="nav-link" href="/blog/">News</a>
+              <button type="button" class="nav-link" href="/blog/">News</button>
             </li>
 
             <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              <button type="button" class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false">
                 Karate
-              </a>
+              </button>
               <ul class="dropdown-menu">
                 <li><a class="dropdown-item" href="/benefits-of-karate/">Benefits of Karate</a></li>
                 <li><a class="dropdown-item" href="/dojo-kun/">Dojo Kun (Rules)</a></li>
@@ -105,7 +104,7 @@ date: 1980-01-01
             </li>
 
             <li class="nav-item">
-              <a class="nav-link" href="/contact/">Contact</a>
+              <button type="button" class="nav-link" href="/contact/">Contact</button>
             </li>
           </ul>
         </div>
@@ -124,13 +123,13 @@ date: 1980-01-01
         <p>
         <div class="social-icons">
           <a href="mailto:info@northstowekarate.com">
-            <i class="fa fa-envelope fa-2xl"><div style="display:none;">Email Us</div></i>
+            <div class="fa fa-envelope fa-2xl"><div style="display:none;">Email Us</div></div>
           </a>
           <a href="https://www.facebook.com/profile.php?id=61560001297561" target="_blank">
-            <i class="fab fa-facebook fa-2xl"><div style="display:none;">Find us on Facebook</div></i>
+            <div class="fab fa-facebook fa-2xl"><div style="display:none;">Find us on Facebook</div></div>
           </a>
           <a href="https://www.instagram.com/northstowekarate" target="_blank">
-            <i class="fab fa-instagram fa-2xl"><div style="display:none;">Find us on Instagram</div></i>
+            <div class="fab fa-instagram fa-2xl"><div style="display:none;">Find us on Instagram</div></div>
           </a>
         </div>
         </p>

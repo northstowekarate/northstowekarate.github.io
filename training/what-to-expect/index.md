@@ -28,7 +28,7 @@ Kihon consists of performing basic techniques, without a partner, multiple times
   <div class="row justify-content-center">
     <div class="col-10 col-lg-6">
       <div class="ratio ratio-16x9">
-        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/qlahGOXesNo?si=_VcWYYWS-KSmbhpj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/qlahGOXesNo?si=_VcWYYWS-KSmbhpj" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </div>
     </div>
   </div>
@@ -42,7 +42,7 @@ A kata is a set of moves performed in a specific order to help develop technique
   <div class="row justify-content-center">
     <div class="col-10 col-lg-6">
       <div class="ratio ratio-16x9">
-        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/O0ndtpxDU8s?si=OZIv_J1OqFDwuAmt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/O0ndtpxDU8s?si=OZIv_J1OqFDwuAmt" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </div>
     </div>
   </div>
@@ -56,7 +56,7 @@ Kumite is the practice of techniques with an opponent. Students will generally b
   <div class="row justify-content-center">
     <div class="col-10 col-lg-6">
       <div class="ratio ratio-16x9">
-        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/RFXpkhpO8Ec?si=qnGDUKIXrGohfjv3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/RFXpkhpO8Ec?si=qnGDUKIXrGohfjv3" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </div>
     </div>
   </div>

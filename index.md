@@ -18,7 +18,7 @@ headerContent: |
           "SportsClub",
           "LocalBusiness"
         ],
-        "founder": { 
+        "founder": {
           "@id": "https://www.northstowekarate.com/instructors/#simonapensadler"
         },
         "foundingDate": "2024",
@@ -43,7 +43,7 @@ headerContent: |
           "addressCountry": "GB"
         },
         "areaServed": [
-          "Northstowe", 
+          "Northstowe",
           "Longstanton",
           "Oakington",
           "Willingham",
@@ -78,7 +78,7 @@ headerContent: |
           "Northstowe",
           "Cambridge",
           "Karate Classes",
-          "Karate for Kids" 
+          "Karate for Kids"
         ],
         "slogan": "Family friendly, traditional karate for children 8+ and adults",
         "memberOf": [
@@ -126,10 +126,10 @@ At Northstowe Karate Club, we are proud to teach traditional Shotokan Karate in 
 <div class="card">
   <div class="card-body">
     <ul class="info-box-list">
-      <li><strong>When:</strong> Wednesdays 6.30-7.30pm & Sundays 3-4pm. View our <a href="/training/">training schedule</a> for more information</li>
+      <li><strong>When:</strong> Wednesdays 6.30-7.30pm &amp; Sundays 3-4pm. View our <a href="/training/">training schedule</a> for more information</li>
       <li><strong>Where:</strong> Northstowe Community Centre (The Cabin), CB24 1FD (<a href="https://maps.app.goo.gl/wXcMAGknwyPFEgMp6" target="_blank">View map</a>)</li>
       <li><strong>How to Book:</strong> <a href="/lesson-booking/">Book your first lesson here</a> (first lesson free!)</li>
-      <li><strong>Who:</strong> Ages 8+, adults & families welcome</li>
+      <li><strong>Who:</strong> Ages 8+, adults &amp; families welcome</li>
       <li><strong>Fees:</strong> <a href="/training/fees/">Pay per session</a> after your free first lesson. Membership required for permanent students.</li>
       <li><strong><a href="/benefits-of-karate/">Benefits:</a></strong> Improve fitness, confidence, focus, and self-defence. Make friends in a supportive club.</li>
       <li><strong>What to Bring:</strong> Comfortable sports clothing, water bottle. No uniform needed for first lesson.</li>
@@ -157,7 +157,7 @@ Stay up to date with club news, grading dates, and events:
 <div class="pswp-gallery" id="gallery">
   <div class="row g-3">
     <div class="col-12 col-md-4">
-      <a 
+      <a
         href="#"
         data-pswp-src="soto-uke.webp"
         data-pswp-width="1920"
@@ -167,7 +167,7 @@ Stay up to date with club news, grading dates, and events:
       </a>
     </div>
     <div class="col-12 col-md-4">
-      <a 
+      <a
         href="#"
         data-pswp-src="soto-uke.webp"
         data-pswp-width="1920"
@@ -177,7 +177,7 @@ Stay up to date with club news, grading dates, and events:
       </a>
     </div>
     <div class="col-12 col-md-4">
-      <a 
+      <a
         href="#"
         data-pswp-src="soto-uke.webp"
         data-pswp-width="1920"

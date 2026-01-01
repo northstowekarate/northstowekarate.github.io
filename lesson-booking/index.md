@@ -19,7 +19,7 @@ Welcome to our lesson booking page! New members are always welcome - your first 
       <li>Let us know your:
         <ul>
           <li>name</li>
-          <li>age</li> 
+          <li>age</li>
           <li>fitness level</li>
           <li>any medical conditions</li>
           <li>previous martial arts experience</li>

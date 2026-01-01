@@ -94,12 +94,14 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
 
 ## Upcoming Sessions
 <table class="table table-bordered table-striped table-responsive">
-  <tbody>
-    <thead>
+  <thead>
+    <tr>
       <th scope="col"> Time and Date</th>
       <th scope="col"> Location </th>
       <th scope="col"> Notes </th>
-    </thead>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td>Wednesday 14th January 18:30-19:30</td>
       <td><a href="#location-cabin">The Cabin</a></td>
@@ -130,12 +132,14 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
 <details>
   <summary>Show full training schedule</summary>
 <table class="table table-bordered table-striped table-responsive">
-  <tbody>
-    <thead>
+  <thead>
+    <tr>
       <th scope="col"> Time and Date</th>
       <th scope="col"> Location </th>
       <th scope="col"> Notes </th>
-    </thead>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td>Wednesday 14th January 18:30-19:30</td>
       <td><a href="#location-cabin">The Cabin</a></td>
@@ -214,7 +218,7 @@ Should you need to cancel, please do so with at least 24 hours' notice by removi
 
 1 The Green, Pathfinder Way, Northstowe, Cambridge, CB24 1FD
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2440.596309193821!2d0.0479411!3d52.2870305!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d875d0a30dc935%3A0xdf1f6f7f737e8109!2sNorthstowe%20Karate%20Club!5e0!3m2!1sen!2suk!4v1767020089596!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe title="Map to Northstowe Karate Club" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2440.596309193821!2d0.0479411!3d52.2870305!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d875d0a30dc935%3A0xdf1f6f7f737e8109!2sNorthstowe%20Karate%20Club!5e0!3m2!1sen!2suk!4v1767020089596!5m2!1sen!2suk" width="600" height="450" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ### Find us
 You can find us easily travelling from [Willingham](/willingham-karate/), [Longstanton](/longstanton-karate/) or [Cambridge](/cambridge-karate/).
