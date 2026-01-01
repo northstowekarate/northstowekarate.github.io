@@ -111,20 +111,18 @@ headerContent: |
 
 <div class="hero hero-image">
   <div class="hero-content">
-    <p class="display-5 fw-bold mb-3">
-      Traditional Shotokan Karate in a Friendly, Family‑Focused Club
-    </p>
-    <p class="lead mb-4">
-      For children (8+), adults, and families. First lesson free.
-    </p>
-    <a href="/lesson-booking/" class="btn btn-brown btn-lg px-4 mb-3">Book Your First Lesson </a>
+    <h1 class="display-5 fw-bold mb-3">
+      Traditional Shotokan Karate in Northstowe, Cambridge
+    </h1>
+    <p class="lead mb-4">A friendly, family-focused club helping children (8+) and adults build strength, confidence, and flexibility through disciplined karate training.</p>
+    <a href="/lesson-booking/" class="btn btn-brown btn-lg px-4 mb-3">Book a free class</a>
     <p class="fs-6 fw-semibold">
       Tradition • Respect • Honour
     </p>
   </div>
 </div>
 
-# Northstowe Karate Club
+## Northstowe Karate Club
 
 At Northstowe Karate Club, we are proud to teach traditional Shotokan Karate in a family‑friendly and supportive environment. Our classes welcome children (8+), adults, and families alike, offering a place where everyone can learn, grow, and achieve their personal best. We serve the local community in Northstowe while maintaining close ties with other clubs and practitioners across the wider Cambridgeshire area.
 
