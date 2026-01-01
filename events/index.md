@@ -27,7 +27,8 @@ JKA WF England Spring Gasshuku at Windsor Leisure Centre with Kawasoe Sensei, Iz
 There will be a joint grading at Cambridge Karate Dojo on Saturday 20th June, where (if ready) you will be able to test for your next belt.
 
 ## JKA WF England International Summer Camp - *7-9th August*
-The annual summer camp in Paisley, Scotland will 
+
+The annual summer camp in Paisley, Scotland is another chance to train with senior instructors from JKA HQ.
 
 ## Kyu Grading - *5th Dec*
 
