@@ -99,3 +99,13 @@ p {
   font-weight: 600;
 }
 
+.btn-brown {
+  background-color: #7A4F2A;
+  border-color: #7A4F2A;
+  color: #fff;
+}
+
+.btn-brown:hover {
+  background-color: #5f3d21; /* darker shade for hover */
+  border-color: #5f3d21;
+}

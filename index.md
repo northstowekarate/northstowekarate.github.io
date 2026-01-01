@@ -111,9 +111,16 @@ headerContent: |
 
 <div class="hero hero-image">
   <div class="hero-content">
-    <p>Family‑friendly, traditional karate for ages 8+ and adults.</p>
-    <p>Build confidence, fitness and strength.</p>
-    <p>Tradition. Respect. Honour.</p>
+    <p class="display-5 fw-bold mb-3">
+      Traditional Shotokan Karate in a Friendly, Family‑Focused Club
+    </p>
+    <p class="lead mb-4">
+      For children (8+), adults, and families. First lesson free.
+    </p>
+    <a href="/lesson-booking/" class="btn btn-brown btn-lg px-4 mb-3">Book Your First Lesson </a>
+    <p class="fs-6 fw-semibold">
+      Tradition • Respect • Honour
+    </p>
   </div>
 </div>
 
@@ -131,16 +138,16 @@ Parents often tell us they appreciate the balance we strike: structured, traditi
 
 ## Our Teaching Approach
 
-Every lesson is built around three principles:
+Every lesson is built around three principles that reflect our core values of **Tradition, Respect and Honour**:
 
 ### 1. Clarity and Structure
-We break techniques down into simple, achievable steps. Beginners get clear guidance, while more experienced students are challenged appropriately.
+We teach traditional Shotokan Karate with clear explanations and structured progressions. Students learn correct technique from the start, building strong foundations rooted in **tradition**.
 
 ### 2. Encouragement and Confidence‑Building
-Karate can feel daunting at first, especially for children. We take time to help students settle in, celebrate small wins, and build confidence gradually.
+We create a friendly, supportive environment where students feel safe to try, learn and grow. Everyone is encouraged to give their best and treat others with **respect**.
 
 ### 3. Respect and Tradition
-Shotokan Karate has a rich heritage. We teach etiquette, discipline, and focus in a way that feels natural and accessible - never intimidating.
+Karate is more than physical movement — it’s a way of developing character. We emphasise etiquette, discipline and doing the right thing, helping students train with **honour** both inside and outside the dojo.
 
 ## Key Information
 
@@ -150,7 +157,7 @@ Shotokan Karate has a rich heritage. We teach etiquette, discipline, and focus i
       <li><strong>When:</strong> Wednesdays 6.30–7.30pm &amp; Sundays 3–4pm. View our <a href="/training/">training schedule</a> for more information.</li>
       <li><strong>Where:</strong> Northstowe Community Centre (The Cabin), CB24 1FD (<a href="https://maps.app.goo.gl/wXcMAGknwyPFEgMp6" target="_blank" rel="noopener noreferrer">View map</a>)</li>
       <li><strong>How to Book:</strong> <a href="/lesson-booking/">Book your first lesson here</a> (first lesson free!)</li>
-      <li><strong>Who:</strong> Ages 8+, adults &amp; families welcome</li>
+      <li><strong>Who:</strong> <strong>Ages 8+</strong>, adults &amp; families welcome</li>
       <li><strong>Fees:</strong> <a href="/training/fees/">Pay per session</a> after your free first lesson. Membership required for permanent students.</li>
       <li><strong><a href="/benefits-of-karate/">Benefits:</a></strong> Improve fitness, confidence, focus, and self‑defence. Make friends in a supportive club.</li>
       <li><strong>What to Bring:</strong> Comfortable sports clothing, water bottle. No uniform needed for first lesson.</li>
@@ -192,9 +199,6 @@ Shotokan Karate has a rich heritage. We teach etiquette, discipline, and focus i
   </div>
 
 </div>
-
-
-</p>
 
 ## Upcoming Events & News
 
