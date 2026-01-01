@@ -90,6 +90,10 @@ p {
   background: rgba(0, 0, 0, 0.05);
 }
 
+.navbar-nav a:hover {
+  background: rgba(0, 0, 0, 0.05);
+}
+
 .navbar-nav .book-class {
   color: #003366;
   font-weight: 600;
