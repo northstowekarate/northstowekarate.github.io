@@ -167,7 +167,6 @@ Our goal is simple: help every student leave each class feeling better than when
 
 - “We are so thankful for the new Northstowe Karate Club. Our family have never done martial arts before. My two boys, my husband and I really like going to an activity all together. Simon is a really great teacher and gave us a warm welcome and explained everything clearly. Karate is really hard, but the learning atmosphere has kept us coming back each week! The easy location at the Cabin in Northstowe and the low cost for the whole family have also helped us commit to the sport. Simon has organised everything so well and his emails summarising the lessons etc are really helpful. I'm really happy we are all learning a new skill and exercising!”
 - “It has been a pleasure being part of the club. We really appreciate seeing our daughter achieve so much and grow in both confidence and strength”
-- “The mix of ages works so well. It feels like a proper community, not just a class.”
 
 # Upcoming Events & News
 
