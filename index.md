@@ -178,7 +178,7 @@ Our goal is simple: help every student leave each class feeling better than when
   <div class="col-md-4">
     <div class="card h-100 shadow-sm">
       <div class="card-body">
-        <p class="card-text">“It has been a pleasure being part of the club. We really appreciate seeing our daughter achieve so much and grow in both confidence and strength.”</p>
+        <p class="card-text">“It has been a pleasure being part of the club. We really appreciate seeing our child achieve so much and grow in both confidence and strength.”</p>
         <p class="text-muted small mb-0">— Parent of a young student</p>
       </div>
     </div>
