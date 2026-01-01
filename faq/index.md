@@ -10,10 +10,10 @@ changeFrequency: monthly
 Here are some of our frequently asked questions to help you find out more about karate, our club, what to expect. 
 
 ## When and where are lessons?
-We train regularly at Northstowe Community Centre (The Cabin) on Wednesday at 6.30pm and Sunday at 3pm. For more information on training times, view our [schedule](/training/).
+We train regularly at the Northstowe Community Centre. For more information on training times, view our [schedule](/training/).
 
 ## How much does it cost?
-It's around £4 per session. You can view a full breakdown of costs on our [fees](/training/fees/) page.
+You can view a full breakdown of costs on our [fees](/training/fees/) page.
 
 ## Is Karate Right for me?
 

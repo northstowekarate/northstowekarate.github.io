@@ -5,6 +5,118 @@ description: Past and Upcoming Events held by Northstowe Karate Club or Japan Sh
 date: "git Last Modified"
 priority: 0.6
 changeFrequency: weekly 
+headerContent: |
+  {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": "Northstowe Karate Club - 2026 Events",
+    "itemListElement": [
+      {
+        "@type": "Event",
+        "name": "5th JSKE Spring Course",
+        "startDate": "2026-03-14",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "location": {
+          "@type": "Place",
+          "name": "JSKE Spring Course Venue",
+          "address": "United Kingdom"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "Japan Shotokan Karate England"
+        },
+        "description": "Training course open to all grades with senior instructors including Kawasoe Sensei (8th Dan), Tomlin Sensei (7th Dan) and Hori Sensei (6th Dan)."
+      },
+      {
+        "@type": "Event",
+        "name": "Kyu Grading",
+        "startDate": "2026-03-21",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "location": {
+          "@type": "Place",
+          "name": "Cambridge Karate Dojo",
+          "address": "Cambridge, United Kingdom"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "Cambridge Karate Dojo"
+        },
+        "description": "Joint kyu grading for eligible students to test for their next belt."
+      },
+      {
+        "@type": "Event",
+        "name": "JKA WF England Spring Course",
+        "startDate": "2026-05-08",
+        "endDate": "2026-05-10",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "location": {
+          "@type": "Place",
+          "name": "Windsor Leisure Centre",
+          "address": "Windsor, United Kingdom"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "JKA WF England"
+        },
+        "description": "Spring Gasshuku with Kawasoe Sensei, Izumiya Sensei and Nemoto Sensei. Primarily for brown belt and above, but open to lower grades."
+      },
+      {
+        "@type": "Event",
+        "name": "Kyu Grading",
+        "startDate": "2026-06-20",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "location": {
+          "@type": "Place",
+          "name": "Cambridge Karate Dojo",
+          "address": "Cambridge, United Kingdom"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "Cambridge Karate Dojo"
+        },
+        "description": "Joint kyu grading for eligible students to test for their next belt."
+      },
+      {
+        "@type": "Event",
+        "name": "JKA WF England International Summer Camp",
+        "startDate": "2026-08-07",
+        "endDate": "2026-08-09",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "location": {
+          "@type": "Place",
+          "name": "Paisley, Scotland",
+          "address": "Paisley, Scotland, United Kingdom"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "JKA WF England"
+        },
+        "description": "Annual summer camp with senior instructors from JKA HQ."
+      },
+      {
+        "@type": "Event",
+        "name": "Kyu Grading",
+        "startDate": "2026-12-05",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "location": {
+          "@type": "Place",
+          "name": "Cambridge Karate Dojo",
+          "address": "Cambridge, United Kingdom"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "Cambridge Karate Dojo"
+        },
+        "description": "Joint kyu grading for eligible students to test for their next belt."
+      }
+    ]
+  }
 ---
 # Upcoming Events
 

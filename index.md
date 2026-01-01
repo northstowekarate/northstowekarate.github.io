@@ -142,8 +142,6 @@ Karate can feel daunting at first, especially for children. We take time to help
 ### 3. Respect and Tradition
 Shotokan Karate has a rich heritage. We teach etiquette, discipline, and focus in a way that feels natural and accessible - never intimidating.
 
-Our goal is simple: help every student leave each class feeling better than when they arrived.
-
 ## Key Information
 
 <div class="card">
