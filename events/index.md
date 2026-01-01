@@ -19,12 +19,13 @@ headerContent: |
         "eventStatus": "https://schema.org/EventScheduled",
         "location": {
           "@type": "Place",
-          "name": "JSKE Spring Course Venue",
-          "address": "United Kingdom"
+          "name": "Hertfordshire Sports Village",
+          "address": "Hatfield Business Park Park Office, De Havilland Campus, Mosquito Way, Hatfield AL10 9EU"
         },
         "organizer": {
           "@type": "Organization",
-          "name": "Japan Shotokan Karate England"
+          "name": "Japan Shotokan Karate England",
+          "url": "https://www.jske.co.uk"
         },
         "description": "Training course open to all grades with senior instructors including Kawasoe Sensei (8th Dan), Tomlin Sensei (7th Dan) and Hori Sensei (6th Dan)."
       },
@@ -37,11 +38,12 @@ headerContent: |
         "location": {
           "@type": "Place",
           "name": "Cambridge Karate Dojo",
-          "address": "Cambridge, United Kingdom"
+          "address": "Kelsey Kerridge Sports Centre, Queen Anne Terrace, Cambridge, CB1 1NA."
         },
         "organizer": {
           "@type": "Organization",
-          "name": "Cambridge Karate Dojo"
+          "name": "Cambridge Karate Dojo",
+          "url": "https://www.cambridgekaratedojo.com"
         },
         "description": "Joint kyu grading for eligible students to test for their next belt."
       },
@@ -55,7 +57,7 @@ headerContent: |
         "location": {
           "@type": "Place",
           "name": "Windsor Leisure Centre",
-          "address": "Windsor, United Kingdom"
+          "address": "Clewer Ave, Stovell Rd, Windsor SL4 5JB"
         },
         "organizer": {
           "@type": "Organization",
@@ -72,7 +74,7 @@ headerContent: |
         "location": {
           "@type": "Place",
           "name": "Cambridge Karate Dojo",
-          "address": "Cambridge, United Kingdom"
+          "address": "Kelsey Kerridge Sports Centre, Queen Anne Terrace, Cambridge, CB1 1NA."
         },
         "organizer": {
           "@type": "Organization",
