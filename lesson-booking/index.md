@@ -15,7 +15,7 @@ Welcome to our lesson booking page! New members are always welcome - your first 
     <br>
     <span>How to book your first class:</span>
     <ol class="info-box-list">
-      <li>Contact us by <a href="mailto:info@northstowekarate.com">email</a>, <a href="https://www.facebook.com/profile.php?id=61560001297561">Facebook</a> or <a href="https://www.instagram.com/northstowekarate">Instagram</a>.</li>
+      <li>Contact us by <a href="mailto:info@northstowekarate.com">email</a> (preferred), <a href="https://www.facebook.com/profile.php?id=61560001297561">Facebook</a> or <a href="https://www.instagram.com/northstowekarate">Instagram</a>.</li>
       <li>Let us know your:
         <ul>
           <li>name</li>
