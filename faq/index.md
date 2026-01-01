@@ -1,7 +1,7 @@
 ---
-title: Northstowe Karate Club Frequently Asked Questions
 layout: base.njk
-description: Find answers to common questions about Northstowe Karate Club and Shotokan karate, including what to expect, and how to join.
+title: "Northstowe Karate Club FAQ | Frequently Asked Questions"
+description: "Find answers to common questions about Northstowe Karate Club, Shotokan Karate, and how to join classes."
 date: "git Last Modified"
 priority: 0.8
 changeFrequency: monthly

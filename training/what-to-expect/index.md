@@ -1,7 +1,7 @@
 ---
-title: What to expect from karate lessons
 layout: base.njk
-description: We teach traditional Shotokan Karate. Karate has 3 core parts - kihon (basic techniques), kumite (sparring) and kata (choreographed techniques).
+title: "What to Expect from Karate Lessons | Northstowe Karate Club"
+description: "Learn traditional Shotokan Karate, including kihon (basic techniques), kumite (sparring), and kata (choreographed patterns)."
 date: "git Last Modified"
 priority: 0.9
 changeFrequency: yearly

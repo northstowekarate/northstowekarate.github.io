@@ -1,7 +1,7 @@
 ---
-title: JKA Kyu Grading Syllabus
 layout: base.njk
-description: Gradings are practical assessments where students demonstrate readiness to earn their next belt. This syllabus explains what's required at each kyu grade.
+title: "JKA Kyu Grading Syllabus | Belt Requirements"
+description: "Our JKA kyu grading syllabus outlines the requirements for each belt and how to demonstrate readiness for promotion."
 date: "git Last Modified"
 priority: 0.6
 changeFrequency: yearly

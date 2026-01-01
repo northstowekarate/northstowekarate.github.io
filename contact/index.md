@@ -1,7 +1,7 @@
 ---
 layout: base.njk
-title: Contact Us | Book Classes or Find Out More Today
-description: If you have any questions or want to book your first session, please contact us via email at info@northstowekarate.com or on social media.
+title: "Contact Northstowe Karate Club | Book Classes or Ask Questions"
+description: "Contact Northstowe Karate Club to book your first class or ask questions. Reach us via email or social media."
 date: "git Last Modified"
 priority: 0.9
 changeFrequency: yearly

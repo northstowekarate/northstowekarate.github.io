@@ -1,7 +1,7 @@
 ---
 layout: base.njk
-title: Northstowe Karate Club | Family friendly, Traditional Karate
-description: Join a family-friendly traditional Shotokan Karate in Northstowe near Cambridge. Classes for children 8+ and adults. Build confidence, fitness and self‑defence
+title: "Family-Friendly Traditional Karate | Northstowe Karate Club"
+description: "Join family-friendly Shotokan Karate classes in Northstowe near Cambridge. Classes for ages 8+. Build confidence, fitness, and self-defense."
 date: "git Last Modified"
 priority: 1.0
 changeFrequency: monthly
@@ -122,13 +122,9 @@ headerContent: |
   </div>
 </div>
 
-## Northstowe Karate Club
+## Karate classes for children and adults
 
-At Northstowe Karate Club, we are proud to teach traditional Shotokan Karate in a family‑friendly and supportive environment. Our classes welcome children (8+), adults, and families alike, offering a place where everyone can learn, grow, and achieve their personal best. We serve the local community in Northstowe while maintaining close ties with other clubs and practitioners across the wider Cambridgeshire area.
-
-Karate offers many benefits, including building self‑defence skills, confidence and fitness. Come and [try it out](/lesson-booking/) - your first lesson is always free.
-
-## Why Choose Northstowe Karate?
+Our classes teach traditional Shotokan Karate in a friendly, structured environment where students of all ages can learn and grow. Children (8+), adults, and families train together in a supportive setting that encourages confidence, fitness, and respect. We welcome students from Northstowe and the surrounding Cambridge area.
 
 Karate is more than a martial art - it’s a way of developing confidence, discipline, and resilience in a supportive community. At Northstowe Karate Club, we focus on helping every student progress at their own pace. Whether someone is completely new or returning after a break, we make sure they feel welcome from the moment they step through the door.
 
@@ -144,10 +140,47 @@ We teach traditional Shotokan Karate with clear explanations and structured prog
 ### 2. Encouragement and Confidence‑Building
 We create a friendly, supportive environment where students feel safe to try, learn and grow. Everyone is encouraged to give their best and treat others with **respect**.
 
-### 3. Respect and Tradition
-Karate is more than physical movement — it’s a way of developing character. We emphasise etiquette, discipline and doing the right thing, helping students train with **honour** both inside and outside the dojo.
+### 3. Respect, Discipline and Character 
+Karate is more than physical movement - it’s a way of developing character. We emphasise etiquette, discipline and doing the right thing, helping students train with **honour** both inside and outside the dojo.
+
+
+## What parents and students say about our classes
+
+We’re proud of the positive experiences our students and their families share.
+
+<div class="row g-4">
+  <div class="col-md-4">
+    <div class="card h-100 shadow-sm">
+      <div class="card-body">
+        <p class="card-text">“We had never done martial arts before, but Simon gave us a warm welcome and explained everything clearly. Karate is challenging, but the friendly learning atmosphere keeps us coming back each week.”</p>
+        <p class="text-muted small mb-0">- Family member</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-md-4">
+    <div class="card h-100 shadow-sm">
+      <div class="card-body">
+        <p class="card-text">“It has been a pleasure being part of the club. We really appreciate seeing our child achieve so much and grow in both confidence and strength.”</p>
+        <p class="text-muted small mb-0">- Parent of a young student</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-md-4">
+    <div class="card h-100 shadow-sm">
+      <div class="card-body">
+        <p class="card-text">“The convenient location at The Cabin and the affordable cost have made it easy for us to commit. Simon organises everything so well, and his emails are always helpful. We’re really happy to be learning a new skill and getting fitter together.”</p>
+        <p class="text-muted small mb-0">- Parent</p>
+      </div>
+    </div>
+  </div>
+
+</div>
 
 ## Key Information
+
+Here’s everything you need to know before booking your first class.
 
 <div class="card">
   <div class="card-body">
@@ -162,40 +195,9 @@ Karate is more than physical movement — it’s a way of developing character. 
       <li><strong>Contact:</strong> <a href="mailto:info@northstowekarate.com">info@northstowekarate.com</a> or our <a href="/contact/">contact page</a></li>
     </ul>
     <div class="text-center">
-      <a href="/lesson-booking/" class="btn btn-brown">Book your first class today</a>
+      <a href="/lesson-booking/" class="btn btn-brown">Book a free class</a>
     </div>
   </div>
-</div>
-
-## What Parents and Students Say
-<div class="row g-4">
-  <div class="col-md-4">
-    <div class="card h-100 shadow-sm">
-      <div class="card-body">
-        <p class="card-text">“We had never done martial arts before, but Simon gave us a warm welcome and explained everything clearly. Karate is challenging, but the friendly learning atmosphere keeps us coming back each week.”</p>
-        <p class="text-muted small mb-0">— Family member</p>
-      </div>
-    </div>
-  </div>
-
-  <div class="col-md-4">
-    <div class="card h-100 shadow-sm">
-      <div class="card-body">
-        <p class="card-text">“It has been a pleasure being part of the club. We really appreciate seeing our child achieve so much and grow in both confidence and strength.”</p>
-        <p class="text-muted small mb-0">— Parent of a young student</p>
-      </div>
-    </div>
-  </div>
-
-  <div class="col-md-4">
-    <div class="card h-100 shadow-sm">
-      <div class="card-body">
-        <p class="card-text">“The convenient location at The Cabin and the affordable cost have made it easy for us to commit. Simon organises everything so well, and his emails are always helpful. We’re really happy to be learning a new skill and getting fitter together.”</p>
-        <p class="text-muted small mb-0">— Parent</p>
-      </div>
-    </div>
-  </div>
-
 </div>
 
 ## Upcoming Events & News

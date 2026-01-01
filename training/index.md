@@ -1,7 +1,7 @@
 ---
-title: Northstowe Karate Club Training Schedule
 layout: base.njk
-description: We have regular sessions on Wednesdays 6.30-7-30pm and Sundays 3-4pm in Northstowe, Cambridge. Shotokan classes for all from beginner to black belt.
+title: "Northstowe Karate Club Training Schedule"
+description: "Join Shotokan Karate classes in Northstowe for beginners to black belts. Sessions on Wednesdays 6:30–7:30pm and Sundays 3–4pm."
 date: "git Last Modified"
 changeFrequency: weekly
 headerContent: |

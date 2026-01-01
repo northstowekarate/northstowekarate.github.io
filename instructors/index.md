@@ -1,7 +1,7 @@
 ---
 layout: base.njk
-title: Northstowe Karate Club Instructors
-description: Find out more about our instructors. Simon Apen-Sadler is the Chief Instructor of Northstowe Karate Club and has over 20 years karate experience.
+title: "Meet Our Instructors | Northstowe Karate Club"
+description: "Meet our instructors. Chief Instructor Simon Apen-Sadler has over 20 years of Shotokan Karate experience."
 date: "git Last Modified"
 priority: 0.7
 headerContent: |

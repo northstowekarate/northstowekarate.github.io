@@ -1,7 +1,8 @@
 ---
 layout: base.njk
-title: Basic Shotokan Kata | Kihon and Heian 1-5
-description: The first 6 shotokan kata, are designed to teach you the fundamentals of shotokan karate, including using your entire body to generate power.
+title: "Basic Shotokan Kata | Kihon and Heian 1-5"
+description: "Learn the first 6 Shotokan kata, designed to teach fundamental techniques and whole-body power generation."
+
 date: "git Last Modified"
 priority: 0.4
 changeFrequency: yearly

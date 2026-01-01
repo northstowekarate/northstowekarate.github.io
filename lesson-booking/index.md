@@ -1,7 +1,7 @@
 ---
-title: Booking your first class at Northstowe Karate Club
 layout: base.njk
-description: Reach out today and book your first class or find out more information - your first lesson is free. Contact us is via email or social media.
+title: "Book Your First Class | Northstowe Karate Club"
+description: "Book your first class at Northstowe Karate Club for free or contact us to learn more via email or social media."
 date: "git Last Modified"
 priority: 0.8
 changeFrequency: yearly

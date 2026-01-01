@@ -1,7 +1,7 @@
 ---
-title: Fees | How much does karate cost?
 layout: base.njk
-description: Your first lesson is always free, then you pay per session. You'll also need to join the Japan Karate Association to continue training on a regular basis.
+title: "Karate Fees | Northstowe Karate Club"
+description: "Your first lesson is free. Pay per session thereafter and join the Japan Karate Association to continue regular training."
 date: "git Last Modified"
 priority: 0.9
 changeFrequency: monthly

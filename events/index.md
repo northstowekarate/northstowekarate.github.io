@@ -1,7 +1,7 @@
 ---
-title: Northstowe Karate Club Events
 layout: base.njk
-description: Past and Upcoming Events held by Northstowe Karate Club or Japan Shotokan Karate England or Japan Karate Association.
+title: "Northstowe Karate Club Events | Past & Upcoming"
+description: "Explore past and upcoming events hosted by Northstowe Karate Club, Japan Shotokan Karate England, and the Japan Karate Association."
 date: "git Last Modified"
 priority: 0.6
 changeFrequency: weekly 
