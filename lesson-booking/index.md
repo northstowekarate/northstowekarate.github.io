@@ -36,7 +36,7 @@ Welcome to our lesson booking page! New members are always welcome - your first 
       <a href="https://www.instagram.com/northstowekarate"><i class="fab fa-instagram"></i> @northstowekarate</a><br>
     </div>
     <div class="text-center">
-      <a href="mailto:info@northstowekarate.com?subject=Book%20a%20Free%20Trial&body=Hi%2C%0A%0AI'm%20interested%20in%20booking%20a%20free%20trial%20karate%20lesson.%0A%0APreferred%20date(s):%20%3CPlease%20note%3A%20Wednesday%20sessions%20are%20often%20full.%20Sunday%20classes%20are%20quieter%20and%20ideal%20for%20beginners.%3E%0A%0AMy%20details%3A%0AName%3A%20%3Cname%3E%0AAge%3A%20%3Cage%3E%20%2F%20Adult%0APrevious%20martial%20arts%20experience%3A%20%3CNone%20%2F%20brief%20details%3E%0AOther%3A%20%3CAny%20medical%20conditions%2C%20fitness%20levels%2C%20or%20questions%3E%0A%0AThanks%20very%20much!" class="btn btn-primary">Email us now and book your first class today</a>
+      <a href="mailto:info@northstowekarate.com?subject=Book%20a%20Free%20Trial&body=Hi%2C%0A%0AI'm%20interested%20in%20booking%20a%20free%20trial%20karate%20lesson.%0A%0APreferred%20date(s):%20%3CPlease%20note%3A%20Wednesday%20sessions%20are%20often%20full.%20Sunday%20classes%20are%20quieter%20and%20ideal%20for%20beginners.%3E%0A%0AMy%20details%3A%0AName%3A%20%3Cname%3E%0AAge%3A%20%3Cage%3E%20%2F%20Adult%0APrevious%20martial%20arts%20experience%3A%20%3CNone%20%2F%20brief%20details%3E%0AOther%3A%20%3CAny%20medical%20conditions%2C%20fitness%20levels%2C%20or%20questions%3E%0A%0AThanks%20very%20much!" class="btn btn-brown">Email us now and book your first class today</a>
 
     </div>
   </div>

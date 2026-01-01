@@ -164,7 +164,7 @@ Karate is more than physical movement — it’s a way of developing character. 
       <li><strong>Contact:</strong> <a href="mailto:info@northstowekarate.com">info@northstowekarate.com</a> or our <a href="/contact/">contact page</a></li>
     </ul>
     <div class="text-center">
-      <a href="/lesson-booking/" class="btn btn-primary">Book your first class today</a>
+      <a href="/lesson-booking/" class="btn btn-brown">Book your first class today</a>
     </div>
   </div>
 </div>
