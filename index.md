@@ -127,7 +127,7 @@ At Northstowe Karate Club, we are proud to teach traditional Shotokan Karate in 
   <div class="card-body">
     <ul class="info-box-list">
       <li><strong>When:</strong> Wednesdays 6.30-7.30pm &amp; Sundays 3-4pm. View our <a href="/training/">training schedule</a> for more information</li>
-      <li><strong>Where:</strong> Northstowe Community Centre (The Cabin), CB24 1FD (<a href="https://maps.app.goo.gl/wXcMAGknwyPFEgMp6" target="_blank">View map</a>)</li>
+      <li><strong>Where:</strong> Northstowe Community Centre (The Cabin), CB24 1FD (<a href="https://maps.app.goo.gl/wXcMAGknwyPFEgMp6" target="_blank" rel="noopener noreferrer">View map</a>)</li>
       <li><strong>How to Book:</strong> <a href="/lesson-booking/">Book your first lesson here</a> (first lesson free!)</li>
       <li><strong>Who:</strong> Ages 8+, adults &amp; families welcome</li>
       <li><strong>Fees:</strong> <a href="/training/fees/">Pay per session</a> after your free first lesson. Membership required for permanent students.</li>
@@ -152,43 +152,6 @@ Stay up to date with club news, grading dates, and events:
 ## About the club
 
 [Our club](/about/) teaches traditional [Shotokan Karate](https://en.wikipedia.org/wiki/Shotokan), a Japanese martial art, in Northstowe on the outskirts of Cambridge. We are a member of [Japan Shotokan Karate England](https://jske.co.uk) and are affiliated with the [Japan Karate Association](https://www.jka.or.jp/en/), which is one of the largest and most prestigious karate organisations in the world. You can also find out more by reading our [Frequently Asked Questions](/faq/).
-
-<!---
-<div class="pswp-gallery" id="gallery">
-  <div class="row g-3">
-    <div class="col-12 col-md-4">
-      <a
-        href="#"
-        data-pswp-src="soto-uke.webp"
-        data-pswp-width="1920"
-        data-pswp-height="1080"
-        target="_blank">
-          <img src="soto-uke.webp" alt="Students performing soto-uke, led by instructor Simon Apen-Sadler" class="img-fluid" sizes="33vw" loading="eager">
-      </a>
-    </div>
-    <div class="col-12 col-md-4">
-      <a
-        href="#"
-        data-pswp-src="soto-uke.webp"
-        data-pswp-width="1920"
-        data-pswp-height="1080"
-        target="_blank">
-          <img src="soto-uke.webp" alt="Students at the end of one of our classes" class="img-fluid" sizes="33vw" loading="eager">
-      </a>
-    </div>
-    <div class="col-12 col-md-4">
-      <a
-        href="#"
-        data-pswp-src="soto-uke.webp"
-        data-pswp-width="1920"
-        data-pswp-height="1080"
-        target="_blank">
-          <img src="soto-uke.webp" alt="Students wearing their new belts at the first class after a successful grading" sizes="33vw" class="img-fluid" loading="eager">
-      </a>
-    </div>
-  </div>
-</div>
---->
 
 ## Training Sessions
 
