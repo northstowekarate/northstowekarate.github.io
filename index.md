@@ -133,6 +133,23 @@ headerContent: |
     <p class="fs-6 fw-semibold">
       Tradition • Respect • Honour
     </p>
+    <div class="social-icons">
+      <a href="mailto:info@northstowekarate.com">
+        <div class="fa fa-envelope fa-2xl"><div style="display:none;">Email Us</div></div>
+      </a>
+      <a href="https://www.facebook.com/profile.php?id=61560001297561" target="_blank" rel="noopener noreferrer">
+        <div class="fab fa-facebook fa-2xl"><div style="display:none;">Find us on Facebook</div></div>
+      </a>
+      <a href="https://www.instagram.com/northstowekarate" target="_blank" rel="noopener noreferrer">
+        <div class="fab fa-instagram fa-2xl"><div style="display:none;">Find us on Instagram</div></div>
+      </a>
+      <a href="https://youtube.com/@northstowekarate" target="_blank" rel="noopener noreferrer">
+        <div class="fab fa-youtube fa-2xl"><div style="display:none;">Find us on Youtube</div></div>
+      </a>
+      <a href="https://linkedin.com/company/northstowekarate" target="_blank" rel="noopener noreferrer">
+        <div class="fab fa-linkedin fa-2xl"><div style="display:none;">Find us on LinkedIn</div></div>
+      </a>
+    </div>
   </div>
 
 </div>
