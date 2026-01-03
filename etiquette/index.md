@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: "Dojo Etiquette | How to Be Respectful in the Dojo"
-description: "Respect is at the heart of karate. Learn dojo etiquette and the importance of courtesy in training."
+description: Karate begins and ends with courtesy. Learn dojo etiquette and the importance of respect both in and out of the dojo.
 date: "git Last Modified"
 priority: 0.6
 changeFrequency: yearly
