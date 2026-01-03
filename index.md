@@ -213,6 +213,10 @@ We’re proud of the positive experiences our students and their families share.
 
 </div>
 
+## Still have questions?
+
+Check out our [FAQ page](/faq/) to see our frequently asked questions. If that doesn't answer your question, please [reach out to us](/contact/).
+
 <script type="module">
   import PhotoSwipeLightbox from '/static/photoswipe-5.4.4/photoswipe-lightbox.esm.js';
   const lightbox = new PhotoSwipeLightbox({
