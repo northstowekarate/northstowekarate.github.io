@@ -51,8 +51,9 @@ p {
 .hero {
   position: relative;
   width: 100%;
-  height: 60vh; /* or 100vh for full screen */
-  min-height: 320px;
+  min-height: 60vh; /* ensures it's tall enough on large screens */
+  height: auto; /* allows content to expand */
+
   overflow: hidden;
 }
 
