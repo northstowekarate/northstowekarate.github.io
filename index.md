@@ -127,6 +127,10 @@ headerContent: |
       Family-friendly karate classes for ages 8+ and adults. Build <strong>confidence</strong>, <strong>strength</strong>, and <strong>discipline</strong> in a safe, welcoming environment.
     </p>
 
+    <p class="fs-6 fw-semibold">
+      Regular sessions: Wedneday 6.30pm-7.30pm &amp; Sunday 3-4pm at Northstowe Community Centre (The Cabin), CB24 1FD
+    </p>
+
     <!-- Call-to-Action -->
     <a href="/lesson-booking/" class="btn btn-brown btn-lg px-4 mb-3">Book a free class</a>
     <!-- Slogan -->
