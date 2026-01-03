@@ -169,7 +169,7 @@ headerContent: |
       <li><strong>🕒 When:</strong> Wednesdays 6.30–7.30pm &amp; Sundays 3–4pm. View our <a href="/training/">training schedule</a> for more information.</li>
       <li><strong>📍 Where:</strong> Northstowe Community Centre (The Cabin), CB24 1FD (<a href="https://maps.app.goo.gl/wXcMAGknwyPFEgMp6" target="_blank" rel="noopener noreferrer">View map</a>)</li>
       <li><strong>👪 Ages:</strong> 8+ | Adults &amp; families welcome</li>
-      <li><strong>💰 Fees:</strong> After your first free session, you <a href="/training/fees/">pay per session</a>. Membership required for permanent students.</li>
+      <li><strong>💰 Fees:</strong> First lesson free. £3-4 per persion per session. Membership required for permanent students. See our <a href="/training/fees/">fees page</a> for full details.</li>
       <li><strong>Why Karate?</strong> Karate has numerous <a href="/benefits-of-karate/">benefits</a>. Improve fitness, confidence, focus, and self‑defence.</li>
       <li><strong>What to Bring:</strong> Comfortable sports clothing, water bottle. No uniform needed for first lesson.</li>
       <li><strong><a href="/faq/">FAQ</a>:</strong> View frequently asked questions</li>
