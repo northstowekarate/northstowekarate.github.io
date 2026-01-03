@@ -109,17 +109,32 @@ headerContent: |
   </script>
 ---
 
-<div class="hero hero-image">
-  <div class="hero-content">
+<div class="hero">
+  <img
+    src="/static/belt.webp"
+    sizes="(max-width: 576px) 100vw, (max-width: 992px) 100vw, 100vw"
+    alt="Karate class at The Cabin in Northstowe"
+    class="hero-image"
+  >
+  <div class="hero-content text-center">
+    <!-- Headline -->
     <h1 class="display-5 fw-bold mb-3">
-      Traditional Shotokan Karate in Northstowe, Cambridge
+      Karate Classes in Northstowe, Cambridge
     </h1>
-    <p class="lead mb-4">A friendly, family-focused club helping children (8+) and adults build strength, confidence, and flexibility through disciplined karate training.</p>
+
+    <!-- Supporting Text -->
+    <p class="lead mb-4">
+      Family-friendly karate classes for ages 8+ and adults. Build <strong>confidence</strong>, <strong>strength</strong>, and <strong>discipline</strong> in a safe, welcoming environment.
+    </p>
+
+    <!-- Call-to-Action -->
     <a href="/lesson-booking/" class="btn btn-brown btn-lg px-4 mb-3">Book a free class</a>
+    <!-- Slogan -->
     <p class="fs-6 fw-semibold">
       Tradition • Respect • Honour
     </p>
   </div>
+
 </div>
 
 ## Karate classes for children and adults

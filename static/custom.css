@@ -48,35 +48,45 @@ p {
 
 /* Hero css */
 
-.hero-image {
+.hero {
   position: relative;
-  background: url('/static/belt.webp') center/cover no-repeat;
-  padding: 4rem 1rem;
-  text-align: center;
-  color: white;
+  width: 100%;
+  height: 60vh; /* or 100vh for full screen */
+  min-height: 320px;
+  overflow: hidden;
 }
 
-.hero-image::before {
-  content: "";
+.hero img.hero-image {
   position: absolute;
   inset: 0;
-  background: rgba(0, 0, 0, 0.35);
+  width: 100%;
+  height: 100%;
+  object-fit: cover;       /* Fill and crop like background-size: cover */
+  object-position: center; /* Center the crop */
   z-index: 0;
 }
 
-.hero-image h1 {
-  font-size: 2.4rem;
-  margin-bottom: 0.5rem;
-}
-
-.hero-image p {
-  font-size: 1.2rem;
-}
-
-.hero-image .hero-content {
-  position: relative;
+.hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.35); /* Overlay for readability */
   z-index: 1;
 }
+
+.hero-content {
+  position: relative;
+  z-index: 2;
+  color: white;
+  text-align: center;
+  padding: 2rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* Vertical center */
+  align-items: center;     /* Horizontal center */
+}
+
 
 .page-content {
   padding-top: 2rem;
