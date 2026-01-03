@@ -5,6 +5,126 @@ description: "Find answers to common questions about Northstowe Karate Club, Sho
 date: "git Last Modified"
 priority: 0.8
 changeFrequency: monthly
+headerContent: |
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "When and where are lessons?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "We train at the Northstowe Community Centre (The Cabin), CB24 1FD. See our schedule for up-to-date days and times: https://www.northstowekarate.com/training/"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How much does it cost?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Your first class is free. After that, we offer pay-per-session with membership for regular students. Full details: https://www.northstowekarate.com/training/fees/"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is karate right for me?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes—our inclusive classes welcome all backgrounds and abilities. Whether you want fitness, confidence or to try something new, you’ll be supported. Parents can train alongside younger children to help them settle."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "It's my first lesson—what can I expect?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "You’ll learn basic stances, punches and kicks, plus dojo etiquette, respect and discipline. Our instructors ensure you feel comfortable throughout. Details: https://www.northstowekarate.com/training/what-to-expect/"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What should I wear?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No uniform is needed to start. Wear comfortable sports clothing (e.g., T‑shirt and track pants). You can get a gi later if you wish."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What should I bring?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No special equipment is required—just bring a water bottle."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are the age requirements?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "We teach ages 8+ (children and adults). Ages 6–7 may be accepted after discussion with the instructor. There’s no upper age limit. Young children can train with a parent to build confidence."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Will I get hurt?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Safety is our priority. JKA karate training is non‑contact for beginners and sparring is introduced gradually with control and known attacks. Injuries are rare and sessions are supervised by experienced instructors."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do I join?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Book your first class here: https://www.northstowekarate.com/lesson-booking/. We’re often full, so please book in advance."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do I get a uniform?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A gi is optional at first—try a few sessions before buying. You can purchase through the club or from reputable suppliers."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do I get my next belt?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Gradings (belt tests) are held around three times per year to assess readiness. See kyu requirements here: https://www.northstowekarate.com/kyu-syllabus/."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why learn karate?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Karate improves fitness, confidence, focus and self‑defence skills within a supportive community. Learn more: https://www.northstowekarate.com/benefits-of-karate/."
+        }
+      }
+    ],
+    "about": {
+      "@type": "SportsClub",
+      "name": "Northstowe Karate Club",
+      "url": "https://www.northstowekarate.com"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Northstowe Karate Club",
+      "url": "https://www.northstowekarate.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.northstowekarate.com/static/logo.webp"
+      }
+    }
+  }
+  </script>
+
 ---
 # Frequently Asked Questions
 Here are some of our frequently asked questions to help you find out more about karate, our club, what to expect. 
@@ -13,7 +133,7 @@ Here are some of our frequently asked questions to help you find out more about 
 We train regularly at the Northstowe Community Centre. For more information on training times, view our [schedule](/training/).
 
 ## How much does it cost?
-You can view a full breakdown of costs on our [fees](/training/fees/) page.
+Your first class is free. After that, we offer pay-per-session plus annual membership. You can view a full breakdown of costs on our [fees](/training/fees/) page.
 
 ## Is Karate Right for me?
 
@@ -21,7 +141,7 @@ We welcome students of all backgrounds and abilities. Whether you're looking to 
 
 ## It's my first lesson, what can I expect? 
 
-This is a very common question. For detailed information, please view our ["What to Expect" page](/training/what-to-expect/). In brief, your first lesson will introduce you to the basics of karate, including fundamental stances, punches, and kicks. You'll also learn about dojo etiquette and the importance of respect and discipline in martial arts. Our instructors will ensure you feel comfortable and supported throughout the session.
+For detailed information, please view our ["What to Expect" page](/training/what-to-expect/). In brief, your first lesson will introduce you to the basics of karate, including fundamental stances, punches, and kicks. You'll also learn about dojo etiquette and the importance of respect and discipline in martial arts. Our instructors will ensure you feel comfortable and supported throughout the session.
 
 ## What should I wear? 
 
@@ -56,4 +176,6 @@ You can purchase karate gi (uniform) through the club, although this is not requ
 
 Gradings are practical assessments to check if you're ready for the next grade. These are held around 3 times per year. You can read the requirements for each kyu grade (colour belt) in our [kyu syllabus](/kyu-syllabus/).
 
+## Why learn karate?
 
+Karate improves fitness, confidence, focus and self‑defence skills within a supportive community.You can learn more on our [benefits of karate page](https://www.northstowekarate.com/benefits-of-karate/).

@@ -137,11 +137,32 @@ headerContent: |
 
 </div>
 
+## Key Information
+
+<div class="card">
+  <div class="card-body">
+    <ul class="info-box-list">
+      <li><strong>🕒 When:</strong> Wednesdays 6.30–7.30pm &amp; Sundays 3–4pm. View our <a href="/training/">training schedule</a> for more information.</li>
+      <li><strong>📍 Where:</strong> Northstowe Community Centre (The Cabin), CB24 1FD (<a href="https://maps.app.goo.gl/wXcMAGknwyPFEgMp6" target="_blank" rel="noopener noreferrer">View map</a>)</li>
+      <li><strong>👪 Ages:</strong> 8+ | Adults &amp; families welcome</li>
+      <li><strong>💰 Fees:</strong> <a href="/training/fees/">Pay per session</a> after your free first lesson. Membership required for permanent students.</li>
+      <li><strong>Why Karate?</strong> Karate has numerous <a href="/benefits-of-karate/">benefits</a>. Improve fitness, confidence, focus, and self‑defence.</li>
+      <li><strong>What to Bring:</strong> Comfortable sports clothing, water bottle. No uniform needed for first lesson.</li>
+      <li><strong><a href="/faq/">FAQ</a>:</strong> View frequently asked questions</li>
+      <li><strong>Contact:</strong> Email us at <a href="mailto:info@northstowekarate.com">info@northstowekarate.com</a> or view our <a href="/contact/">contact page</a> alternative contact options</li>
+    </ul>
+    <p class="mb-3"><em>All instructors are DBS-checked.</em></p>
+    <div class="text-center">
+      <a href="/lesson-booking/" class="btn btn-brown btn-lg mb-3 px-4">Book a free class</a>
+    </div>
+  </div>
+</div>
+
 ## Karate classes for children and adults
 
 Our classes teach traditional Shotokan Karate in a friendly, structured environment where students of all ages can learn and grow. Children (8+), adults, and families train together in a supportive setting that encourages confidence, fitness, and respect. We welcome students from Northstowe and the surrounding Cambridge area.
 
-Karate is more than a martial art - it’s a way of developing confidence, discipline, and resilience in a supportive community. At Northstowe Karate Club, we focus on helping every student progress at their own pace. Whether someone is completely new or returning after a break, we make sure they feel welcome from the moment they step through the door.
+Karate is more than a martial art - it’s a way of developing confidence, discipline, fitness, strengh and resilience in a supportive community. At Northstowe Karate Club, we focus on helping every student progress at their own pace. Whether someone is completely new or returning after a break, we make sure they feel welcome from the moment they step through the door.
 
 Parents often tell us they appreciate the balance we strike: structured, traditional training delivered in a friendly, encouraging environment. Students learn to work hard, support each other, and take pride in their achievements - skills that carry far beyond the dojo.
 
@@ -157,7 +178,6 @@ We create a friendly, supportive environment where students feel safe to try, le
 
 ### 3. Respect, Discipline and Character 
 Karate is more than physical movement - it’s a way of developing character. We emphasise etiquette, discipline and doing the right thing, helping students train with **honour** both inside and outside the dojo.
-
 
 ## What parents and students say about our classes
 
@@ -192,62 +212,6 @@ We’re proud of the positive experiences our students and their families share.
   </div>
 
 </div>
-
-## Key Information
-
-Here’s everything you need to know before booking your first class.
-
-<div class="card">
-  <div class="card-body">
-    <ul class="info-box-list">
-      <li><strong>When:</strong> Wednesdays 6.30–7.30pm &amp; Sundays 3–4pm. View our <a href="/training/">training schedule</a> for more information.</li>
-      <li><strong>Where:</strong> Northstowe Community Centre (The Cabin), CB24 1FD (<a href="https://maps.app.goo.gl/wXcMAGknwyPFEgMp6" target="_blank" rel="noopener noreferrer">View map</a>)</li>
-      <li><strong>How to Book:</strong> <a href="/lesson-booking/">Book your first lesson here</a> (first lesson free!)</li>
-      <li><strong>Who:</strong> <strong>Ages 8+</strong>, adults &amp; families welcome</li>
-      <li><strong>Fees:</strong> <a href="/training/fees/">Pay per session</a> after your free first lesson. Membership required for permanent students.</li>
-      <li><strong><a href="/benefits-of-karate/">Benefits:</a></strong> Improve fitness, confidence, focus, and self‑defence. Make friends in a supportive club.</li>
-      <li><strong>What to Bring:</strong> Comfortable sports clothing, water bottle. No uniform needed for first lesson.</li>
-      <li><strong>Contact:</strong> <a href="mailto:info@northstowekarate.com">info@northstowekarate.com</a> or our <a href="/contact/">contact page</a></li>
-    </ul>
-    <div class="text-center">
-      <a href="/lesson-booking/" class="btn btn-brown">Book a free class</a>
-    </div>
-  </div>
-</div>
-
-## Upcoming Events & News
-
-Stay up to date with club news, grading dates, and events:
-
-- [Training Schedule](/training/)
-- [Events](/events/)
-- [Latest News & Blog](/blog/)
-
-## About the Club
-
-[Our club](/about/) teaches traditional [Shotokan Karate](https://en.wikipedia.org/wiki/Shotokan), a Japanese martial art, in Northstowe on the outskirts of Cambridge. We're family‑friendly, teaching both children and adults together in a supportive and friendly environment.
-
-We are a member of [Japan Shotokan Karate England](https://jske.co.uk) and are affiliated with the [Japan Karate Association](https://www.jka.or.jp/en/), one of the largest and most prestigious karate organisations in the world. You can also find out more by reading our [Frequently Asked Questions](/faq/).
-
-## Training Sessions
-
-Regular [training sessions](/training/) are held on Wednesday evenings from 6.30–7.30pm and Sunday afternoons 3–4pm at [The Cabin](https://maps.app.goo.gl/wXcMAGknwyPFEgMp6).
-
-## What to Expect
-
-Although no two lessons are the same, our [lesson format](/training/what-to-expect/) is usually structured around kihon (basic techniques), kumite (sparring) and kata (forms).
-
-## Benefits of Karate
-
-Karate has many [benefits](/benefits-of-karate/). While learning to defend yourself, you'll gain fitness and become healthier. You'll also become more confident and focused. It's also a great place to make friends.
-
-## Fees
-
-Your first lesson is always free, and after that you [pay per session](/training/fees/). Please arrive 5 minutes early for your first session so you can be registered. To train regularly, you will also need to purchase an annual membership.
-
-## Chief Instructor
-
-Simon Apen‑Sadler, the [chief instructor](/instructors/), has over 20 years’ experience. He is a 4th‑dan black belt, is first‑aid qualified and has an enhanced DBS check.
 
 <script type="module">
   import PhotoSwipeLightbox from '/static/photoswipe-5.4.4/photoswipe-lightbox.esm.js';
