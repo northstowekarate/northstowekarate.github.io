@@ -11,7 +11,7 @@ New members (both **children 8+ and adults**) are always welcome - your first le
 
 After booking, you’ll receive a **reply from us** with all the details and what to bring within a few days. **Spaces are limited**, so book early to secure your spot. If you need to cancel, please [let us know](/contact/) as soon as possible.
 
-<iframe width="640px" height="480px" src="https://forms.microsoft.com/Pages/ResponsePage.aspx?id=3s3spjqgdUSy3GyjZkmAVgDWhhqLNiVKjObZ-2GEPr5UNE9BNEtSREdWVDZDRk84NlRYNFpHSU1INC4u&embed=true" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+<iframe width="640" height="480" title="Free trial Booking form" src="https://forms.microsoft.com/Pages/ResponsePage.aspx?id=3s3spjqgdUSy3GyjZkmAVgDWhhqLNiVKjObZ-2GEPr5UNE9BNEtSREdWVDZDRk84NlRYNFpHSU1INC4u&embed=true" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
 ## Booking future sessions
 

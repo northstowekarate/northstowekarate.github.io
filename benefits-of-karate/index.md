@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: "Benefits of Karate at Northstowe | Self-Defense, Confidence & Fitness"
+title: Karate Training Benefits - Fitness, Confidence and Discipline
 description: "Karate at Northstowe Karate Club improves confidence, focus, fitness, and self-defense skills for all ages."
 date: "git Last Modified"
 priority: 0.8
