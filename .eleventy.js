@@ -1,4 +1,5 @@
 const { eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
+const CleanCSS = require("clean-css");
 
 // Only one module.exports per configuration file, please!
 module.exports = function (eleventyConfig) {
@@ -28,6 +29,11 @@ module.exports = function (eleventyConfig) {
 			pictureAttributes: {}
 		},
 	});
+
+  eleventyConfig.addFilter("cssmin", function (code) {
+		return new CleanCSS({}).minify(code).styles;
+	});
+
 };
 
 
