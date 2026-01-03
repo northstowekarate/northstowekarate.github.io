@@ -153,7 +153,7 @@ headerContent: |
       <a href="https://linkedin.com/company/northstowekarate" target="_blank" rel="noopener noreferrer">
         <div class="fab fa-linkedin fa-2xl"><div style="display:none;">Find us on LinkedIn</div></div>
       </a>
-      <a href="https://g.page/r/CQmBfnN_bx_fEBM/review" target="_blank" rel="noopener noreferrer">
+      <a href="https://share.google/J2lpG59uhIJCd814h" target="_blank" rel="noopener noreferrer">
         <div class="fab fa-google fa-2xl"><div style="display:none;">Find us on Google</div></div>
       </a>
     </div>
