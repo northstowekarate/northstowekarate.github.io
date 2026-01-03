@@ -145,7 +145,7 @@ headerContent: |
       <li><strong>🕒 When:</strong> Wednesdays 6.30–7.30pm &amp; Sundays 3–4pm. View our <a href="/training/">training schedule</a> for more information.</li>
       <li><strong>📍 Where:</strong> Northstowe Community Centre (The Cabin), CB24 1FD (<a href="https://maps.app.goo.gl/wXcMAGknwyPFEgMp6" target="_blank" rel="noopener noreferrer">View map</a>)</li>
       <li><strong>👪 Ages:</strong> 8+ | Adults &amp; families welcome</li>
-      <li><strong>💰 Fees:</strong> <a href="/training/fees/">Pay per session</a> after your free first lesson. Membership required for permanent students.</li>
+      <li><strong>💰 Fees:</strong> After your first free session, you <a href="/training/fees/">pay per session</a>. Membership required for permanent students.</li>
       <li><strong>Why Karate?</strong> Karate has numerous <a href="/benefits-of-karate/">benefits</a>. Improve fitness, confidence, focus, and self‑defence.</li>
       <li><strong>What to Bring:</strong> Comfortable sports clothing, water bottle. No uniform needed for first lesson.</li>
       <li><strong><a href="/faq/">FAQ</a>:</strong> View frequently asked questions</li>
@@ -162,7 +162,7 @@ headerContent: |
 
 Our classes teach traditional Shotokan Karate in a friendly, structured environment where students of all ages can learn and grow. Children (8+), adults, and families train together in a supportive setting that encourages confidence, fitness, and respect. We welcome students from Northstowe and the surrounding Cambridge area.
 
-Karate is more than a martial art - it’s a way of developing confidence, discipline, fitness, strengh and resilience in a supportive community. At Northstowe Karate Club, we focus on helping every student progress at their own pace. Whether someone is completely new or returning after a break, we make sure they feel welcome from the moment they step through the door.
+Karate is more than a martial art - it’s a way of developing confidence, discipline, fitness, strength and resilience in a supportive community. At Northstowe Karate Club, we focus on helping every student progress at their own pace. Whether someone is completely new or returning after a break, we make sure they feel welcome from the moment they step through the door.
 
 Parents often tell us they appreciate the balance we strike: structured, traditional training delivered in a friendly, encouraging environment. Students learn to work hard, support each other, and take pride in their achievements - skills that carry far beyond the dojo.
 
