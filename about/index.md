@@ -22,6 +22,12 @@ We believe karate is for everyone - regardless of age, background, or physical a
 
 We believe karate is more than physical technique — it’s a lifelong journey of character development. Our training is grounded in tradition and respect, with honour guiding how we teach, train, and support each other.
 
+Our teaching approach reflects these values and is built around three principles:
+
+- **Clarity and structure** — we teach traditional Shotokan Karate with clear explanations and structured progressions so students build strong fundamentals from the start.
+- **Encouragement and confidence‑building** — we create a friendly, supportive environment where students feel safe to try, learn and grow.
+- **Respect, discipline and character** — karate develops character; we emphasise etiquette and discipline so students train with **honour** both inside and outside the dojo.
+
 ## What is budo?
 Budo (武道), meaning “the martial way,” represents a philosophy of personal growth through martial arts. It encourages focus, resilience, and mutual respect — values we aim to instil in every student.
 
