@@ -109,6 +109,11 @@ p {
   font-weight: 600;
 }
 
+/* Ensure the navbar CTA button keeps accessible white text when using btn and btn-brown */
+.navbar-nav .btn-brown.book-class {
+  color: #fff;
+}
+
 .btn-brown {
   background-color: #7A4F2A;
   border-color: #7A4F2A;
