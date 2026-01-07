@@ -167,4 +167,4 @@ Our club will attend a mix of local, national and international events. Below ar
 })();
 </script>
 
-<p class="small text-muted">Event data is maintained centrally in the training schedule data. For weekly lessons see the <a href="/training/">training schedule</a>.</p>
+<p class="small text-muted"> For weekly lessons see the <a href="/training/">training schedule</a>.</p>
