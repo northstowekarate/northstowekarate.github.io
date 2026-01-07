@@ -114,6 +114,7 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
       <table class="table table-sm table-striped" id="upcoming-table">
         <thead>
           <tr>
+            <th scope="col">Name</th>
             <th scope="col">Date</th>
             <th scope="col">Time</th>
             <th scope="col">Location</th>
@@ -131,6 +132,7 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
       <table class="table table-sm table-striped" id="more-table">
         <thead>
           <tr>
+            <th scope="col">Name</th>
             <th scope="col">Date</th>
             <th scope="col">Time</th>
             <th scope="col">Location</th>
@@ -248,31 +250,42 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
   const N = cfg.upcomingCount;
   const startIndex = nextRoutine ? 1 : 0;
   const upcoming = routine.slice(startIndex, startIndex + N);
-  const upcomingTbody = document.getElementById('upcoming-tbody');
-  upcomingTbody.innerHTML = upcoming.length ? upcoming.map(ev => `
-    <tr class="${ev.highlight ? 'event-row' : ''}">
-      <td>${ev.eventLink ? `<a href="${ev.eventLink}">${formatDate(ev.date)}</a>` : formatDate(ev.date)}</td>
-      <td>${formatTime(ev.date)}</td>
-      <td>${ev.locationLink ? `<a href="${ev.locationLink}">${ev.location}</a>` : ev.location}</td>
-      <td>${ev.notes || ''}</td>
-    </tr>
-  `).join('') : `<tr><td colspan="4" class="small text-muted">No more sessions scheduled in the short term.</td></tr>`;
 
-  // Remaining routine events into more-table
-  const more = routine.slice(startIndex + N);
-  const moreTbody = document.getElementById('more-tbody');
-  if(more.length){
-    moreTbody.innerHTML = more.map(ev => `
+  // If there are no routine sessions at all, hide the upcoming section
+  const upcomingSection = document.getElementById('upcoming-lessons');
+  if(routine.length === 0){
+    upcomingSection.style.display = 'none';
+  } else {
+    upcomingSection.style.display = '';
+    const upcomingTbody = document.getElementById('upcoming-tbody');
+    upcomingTbody.innerHTML = upcoming.length ? upcoming.map(ev => `
       <tr class="${ev.highlight ? 'event-row' : ''}">
-        <td>${ev.eventLink ? `<a href="${ev.eventLink}">${formatDate(ev.date)}</a>` : formatDate(ev.date)}</td>
+        <td>${ev.eventLink ? `<a href="${ev.eventLink}">${ev.label}</a>` : ev.label}</td>
+        <td>${formatDate(ev.date)}</td>
         <td>${formatTime(ev.date)}</td>
         <td>${ev.locationLink ? `<a href="${ev.locationLink}">${ev.location}</a>` : ev.location}</td>
         <td>${ev.notes || ''}</td>
       </tr>
-    `).join('');
-    document.getElementById('more-events').open = false;
-  } else {
-    document.getElementById('more-events').style.display = 'none';
+    `).join('') : `<tr><td colspan="5" class="small text-muted">No upcoming sessions scheduled in the short term.</td></tr>`;
+
+    // Remaining routine events into more-table
+    const more = routine.slice(startIndex + N);
+    const moreTbody = document.getElementById('more-tbody');
+    if(more.length){
+      moreTbody.innerHTML = more.map(ev => `
+        <tr class="${ev.highlight ? 'event-row' : ''}">
+          <td>${ev.eventLink ? `<a href="${ev.eventLink}">${ev.label}</a>` : ev.label}</td>
+          <td>${formatDate(ev.date)}</td>
+          <td>${formatTime(ev.date)}</td>
+          <td>${ev.locationLink ? `<a href="${ev.locationLink}">${ev.location}</a>` : ev.location}</td>
+          <td>${ev.notes || ''}</td>
+        </tr>
+      `).join('');
+      document.getElementById('more-events').style.display = '';
+      document.getElementById('more-events').open = false;
+    } else {
+      document.getElementById('more-events').style.display = 'none';
+    }
   }
 })();
 </script>
