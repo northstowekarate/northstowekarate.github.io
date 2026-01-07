@@ -192,16 +192,7 @@ Parents often tell us they appreciate the balance we strike: structured, traditi
 
 ## Our Teaching Approach
 
-Every lesson is built around three principles that reflect our core values of **Tradition, Respect and Honour**:
-
-### 1. Clarity and Structure
-We teach traditional Shotokan Karate with clear explanations and structured progressions. Students learn correct technique from the start, building strong foundations rooted in **tradition**.
-
-### 2. Encouragement and Confidence‑Building
-We create a friendly, supportive environment where students feel safe to try, learn and grow. Everyone is encouraged to give their best and treat others with **respect**.
-
-### 3. Respect, Discipline and Character 
-Karate is more than physical movement - it’s a way of developing character. We emphasise etiquette, discipline and doing the right thing, helping students train with **honour** both inside and outside the dojo.
+We teach with a focus on clarity, encouragement, and respect — values that shape every lesson. For the full teaching approach and how it works in practice, see our [About page](/about/).
 
 ## What parents and students say about our classes
 
