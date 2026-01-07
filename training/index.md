@@ -100,7 +100,7 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
   
   <h2>Upcoming events</h2>
   <p>
-  See our <a href="/events/">events page</a> for more details.
+  See our <a href="/events/">events page</a> for more for a full list of events.
   </p>
   <div id="special-events" class="mb-3" aria-live="polite"></div>
 </section>
@@ -193,15 +193,35 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
   const specialSection = document.getElementById('upcoming-events');
   const specialEl = document.getElementById('special-events');
   if(specialEvents.length){
-    specialSection.style.display = '';
-    specialEl.innerHTML = specialEvents.map(ev => `
-      <div class="card p-3 mb-2 event-highlight">
-        <div><strong>${linkLabel(ev)}</strong> ${badgeHtml(ev)}</div>
-        <div class="small text-muted">${formatDate(ev.date)} — ${formatTime(ev.date)} | ${ev.locationLink ? `<a href="${ev.locationLink}">${ev.location}</a>` : ev.location}</div>
-        ${ev.notes ? `<div class="mt-1 text-danger small">${ev.notes}</div>` : ''}
-        ${ev.eventLink ? `<div class="mt-2"><a class="btn btn-brown btn-sm" href="${ev.eventLink}">Event details</a></div>` : ''}
-      </div>
-    `).join('');
+    // Decide whether to show only the next special event or all specials within the next 3 months
+    const nextSpecial = specialEvents[0];
+    const cutoff = new Date(); cutoff.setMonth(cutoff.getMonth() + 3);
+
+    if(nextSpecial && nextSpecial.date <= cutoff){
+      // Show all special events within the next 3 months
+      const within = specialEvents.filter(ev => ev.date <= cutoff);
+      specialSection.style.display = '';
+      specialEl.innerHTML = within.map(ev => `
+        <div class="card p-3 mb-2 event-highlight">
+          <div><strong>${linkLabel(ev)}</strong> ${badgeHtml(ev)}</div>
+          <div class="small text-muted">${formatDate(ev.date)}${(ev.datetime && ev.datetime.includes('T')) ? ' — ' + formatTime(ev.date) : ''} | ${ev.locationLink ? `<a href="${ev.locationLink}">${ev.location}</a>` : ev.location}</div>
+          ${ev.notes ? `<div class="mt-1 text-danger small">${ev.notes}</div>` : ''}
+          ${ev.eventLink ? `<div class="mt-2"><a class="btn btn-brown btn-sm" href="${ev.eventLink}">Event details</a></div>` : ''}
+        </div>
+      `).join('');
+    } else {
+      // Show only the next special event as a single card (keeps training page concise)
+      specialSection.style.display = '';
+      const ev = nextSpecial;
+      specialEl.innerHTML = `
+        <div class="card p-3 mb-2 event-highlight">
+          <div><strong>${linkLabel(ev)}</strong> ${badgeHtml(ev)}</div>
+          <div class="small text-muted">${formatDate(ev.date)}${(ev.datetime && ev.datetime.includes('T')) ? ' — ' + formatTime(ev.date) : ''} | ${ev.locationLink ? `<a href="${ev.locationLink}">${ev.location}</a>` : ev.location}</div>
+          ${ev.notes ? `<div class="mt-1 text-danger small">${ev.notes}</div>` : ''}
+          ${ev.eventLink ? `<div class="mt-2"><a class="btn btn-brown btn-sm" href="${ev.eventLink}">Event details</a></div>` : '<div class="mt-2"><a class="btn btn-link" href="/events/">See all events</a></div>'}
+        </div>
+      `;
+    }
   } else {
     specialSection.style.display = 'none';
     specialEl.innerHTML = '';
