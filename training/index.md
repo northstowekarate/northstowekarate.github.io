@@ -143,34 +143,24 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
   </details>
 </section>
 
-<script id="training-data" type="application/json">
-[
-  {"id":"Northstowe Karate Club Training","datetime":"2026-01-14T18:30:00","label":"Wednesday 14 Jan 18:30–19:30","location":"The Cabin","locationLink":"#location-cabin","notes":"","type":"lesson"},
-  {"id":"Northstowe Karate Club Training","datetime":"2026-01-18T15:00:00","label":"Sunday 18 Jan 15:00–16:00","location":"The Cabin","locationLink":"#location-cabin","notes":"","type":"lesson"},
-  {"id":"Northstowe Karate Club Training","datetime":"2026-01-21T18:30:00","label":"Wednesday 21 Jan 18:30–19:30","location":"The Cabin","locationLink":"#location-cabin","notes":"Limited space","type":"lesson"},
-  {"id":"Northstowe Karate Club Training","datetime":"2026-01-25T15:00:00","label":"Sunday 25 Jan 15:00–16:00","location":"The Cabin","locationLink":"#location-cabin","notes":"","type":"lesson"},
-  {"id":"Northstowe Karate Club Training","datetime":"2026-01-28T18:30:00","label":"Wednesday 28 Jan 18:30–19:30","location":"The Cabin","locationLink":"#location-cabin","notes":"","type":"lesson"},
-  {"id":"Northstowe Karate Club Training","datetime":"2026-02-01T15:00:00","label":"Sunday 1 Feb 15:00–16:00","location":"The Cabin","locationLink":"#location-cabin","notes":"","type":"lesson"},
-  {"id":"Northstowe Karate Club Training","datetime":"2026-02-04T18:30:00","label":"Wednesday 4 Feb 18:30–19:30","location":"The Cabin","locationLink":"#location-cabin","notes":"","type":"lesson"},
-  {"id":"Northstowe Karate Club Training","datetime":"2026-02-08T15:00:00","label":"Sunday 8 Feb 15:00–16:00","location":"The Cabin","locationLink":"#location-cabin","notes":"","type":"lesson"},
-  {"id":"Northstowe Karate Club Training","datetime":"2026-02-11T18:30:00","label":"Wednesday 11 Feb 18:30–19:30","location":"The Cabin","locationLink":"#location-cabin","notes":"","type":"lesson"},
-  {"id":"Northstowe Karate Club Training","datetime":"2026-02-15T15:00:00","label":"Sunday 15 Feb 15:00–16:00","location":"The Cabin","locationLink":"#location-cabin","notes":"","type":"lesson"},
-  {"id":"Northstowe Karate Club Training","datetime":"2026-02-18T18:30:00","label":"Wednesday 18 Feb 18:30–19:30","location":"The Cabin","locationLink":"#location-cabin","notes":"Limited space","type":"lesson"},
-  {"id":"Northstowe Karate Club Training","datetime":"2026-02-22T15:00:00","label":"Sunday 22 Feb 15:00–16:00","location":"The Cabin","locationLink":"#location-cabin","notes":"","type":"lesson"},
-  {"id":"Northstowe Karate Club Training","datetime":"2026-02-25T18:30:00","label":"Wednesday 25 Feb 18:30–19:30","location":"The Cabin","locationLink":"#location-cabin","notes":"","type":"lesson"},
-  {"id":"5th JSKE Spring Course - 2026-03-14","datetime":"2026-03-14","label":"JSKE Spring Course","location":"University of Hertfordshire Sports Village","notes":"This is a fantastic opportunity for <em>all grades</em> to train with senior instructors including Kawasoe sensei 8th Dan, Tomlin sensei 7th Dan and Hori sensei 6th Dan.","type":"event","highlight":true, "locationLink":"https://maps.app.goo.gl/sZ71xCYXJVMWFpax7", "eventLink":"https://jske.co.uk/events/"},
-  {"id":"Grading at Cambridge Karate Dojo - 2026-03-21-1300","datetime":"2026-03-21T13:00:00","label":"Grading Day — All Grades","location":"Cambridge Karate Dojo","locationLink":"https://maps.app.goo.gl/U4deyuiXhWkr169A9","notes":"Grading — bring gi and licence","type":"grading","highlight":true},
-  {"id":"JK WF England Spring Camp - 2026-05-08","datetime":"2026-05-08","label":"JKA WF Englang Spring Camp 2026","location":"Windsor Leisure Centre","locationLink":"https://maps.app.goo.gl/gaCfrptYV93ivfce8","notes":"3 day training camp in Windsor with Kawasoe Sensei, Izumiya Sensei and Nemoto Sensei. This is another excellent opportunity to train with Kawasoe sensei, as well as instructors from JKA HQ. It's primarily aimed at brown belt and above but lower grades can also attend.","type":"gasshuku","highlight":true}
-]
-</script>
+<!-- training data moved to _data/upcoming-lessons.json and is served at /static/data/upcoming-lessons.json -->
 
 <script>
-(function(){
+(async function(){
   const cfg = { upcomingCount: 4, locale: 'en-GB', timeZone: 'Europe/London' };
-  const raw = document.getElementById('training-data').textContent.trim();
-  let events = JSON.parse(raw || '[]')
-    .map(e => ({...e, date: new Date(e.datetime)}))
-    .filter(e => !isNaN(e.date));
+  // Load events from global JSON
+  let events = [];
+  try{
+    const resp = await fetch('/static/data/upcoming-lessons.json', {cache: 'no-cache'});
+    if(resp.ok){
+      const data = await resp.json();
+      events = (data || []).map(e => ({...e, date: new Date(e.datetime)})).filter(e => !isNaN(e.date));
+    } else {
+      console.error('Failed to fetch events JSON:', resp.status);
+    }
+  } catch(err){
+    console.error('Error fetching events JSON:', err);
+  }
 
   events.sort((a,b) => a.date - b.date);
 
