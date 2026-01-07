@@ -63,7 +63,7 @@ headerContent: |
         "hasMap": "https://maps.app.goo.gl/wXcMAGknwyPFEgMp6",
         "url": "https://www.northstowekarate.com",
         "telephone": "+447596922670",
-        "openingHours": "Wednesday 18:30-19:30, Sunday 15:00-16:00",
+        "openingHours": "Wednesday 18:30-1930, Sunday 15:00-16:00",
         "priceRange": "£",
         "amenityFeature": [
           {
@@ -100,7 +100,7 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
   
   <h2>Upcoming events</h2>
   <p>
-  See our <a href="/events/">events page</a> for more for a full list of events.
+  See our <a href="/events/">events page</a> for a full list of events.
   </p>
   <div id="special-events" class="mb-3" aria-live="polite"></div>
 </section>
