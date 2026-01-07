@@ -33,4 +33,17 @@ headerContent: |
 
 # JKA WF England Spring Camp — 8 May 2026
 
-Annual spring camp with senior instructors. This is primarily aimed at brown belt and above but lower grades may also attend.
+**Overview:**
+A three-day Gasshuku run by JKA WF England featuring senior instructors including Kawasoe Sensei, Izumiya Sensei and Nemoto Sensei. The camp focuses on intensive training, advanced techniques and group kata work.
+
+**Dates & schedule:**
+- **8–10 May 2026** — Typical daily timetable runs from Friday Evening until Sunday Lunchtime with breaks.
+
+**Who should attend:**
+Primarily aimed at brown belt and above, but lower grades are welcome and can benefit from the structured classes — check specific session guidance from the organisers.
+
+**Logistics & accommodation:**
+Windsor Leisure Centre is the venue; there are nearby hotels. Check organisers for accommodation recommendations and travel details.
+
+**Registration & links:**
+Regisration opens closer to the time.

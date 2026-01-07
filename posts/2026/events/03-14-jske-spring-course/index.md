@@ -33,4 +33,20 @@ headerContent: |
 
 # 5th JSKE Spring Course — 14 Mar 2026
 
-This is a great opportunity for students of all grades to train with senior instructors including Kawasoe Sensei, Tomlin Sensei and Hori Sensei. For more information see the event [organiser's page](https://jske.co.uk/events/)
+**Overview:**
+A one-day training course open to all grades run by Japan Shotokan Karate England. Expect a mix of kihon, kata and kumite sessions led by Kawasoe Sensei (8th Dan), Tomlin Sensei (7th Dan) and Hori Sensei (6th Dan).
+
+**Typical schedule (TBC):**
+- 09:30 — Doors open / registration
+- 10:00–12:30 — Morning training
+- 12:30–13:30 — Lunch break
+- 13:30–16:00 — Afternoon training
+
+**Who should attend:**
+Open to beginners through senior grades — instructors tailor sessions to provide useful technical detail at multiple levels.
+
+**Travel & facilities:**
+University of Hertfordshire Sports Village has on-site parking and refreshments.
+
+**Registration & further information:**
+Booking will open closer to the time.
