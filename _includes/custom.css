@@ -119,3 +119,37 @@ p {
   background-color: #5f3d21; /* darker shade for hover */
   border-color: #5f3d21;
 }
+
+/* Highlighted events (eg. gradings) */
+.badge-brown {
+  background-color: #7A4F2A;
+  color: #fff;
+}
+
+.event-highlight {
+  border-left: 6px solid #7A4F2A;
+  padding-left: 0.75rem;
+  background: #fffaf2;
+}
+
+.event-item {
+  background: #fffaf2;
+  padding: 0.5rem;
+  border-radius: 0.25rem;
+  margin-bottom: 0.5rem;
+}
+
+/* Table row highlight for special events */
+.table .event-row {
+  background: #fffaf2;
+}
+
+/* Make badge consistent */
+.badge-brown {
+  background-color: #7A4F2A;
+  color: #fff;
+  padding: 0.35em 0.5em;
+  border-radius: 0.35rem;
+}
+
+

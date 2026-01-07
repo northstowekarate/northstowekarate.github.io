@@ -4,8 +4,9 @@ title: "Northstowe Karate Club Events | Past & Upcoming"
 description: "Explore past and upcoming events hosted by Northstowe Karate Club, Japan Shotokan Karate England, and the Japan Karate Association."
 date: "git Last Modified"
 priority: 0.6
-changeFrequency: weekly 
+changeFrequency: weekly
 headerContent: |
+  <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "ItemList",
@@ -119,7 +120,10 @@ headerContent: |
       }
     ]
   }
+  </script>
+
 ---
+
 # Upcoming Events
 
 Our club will attend various events both at the club and international level. Key events are listed below - for a full list see [JSKE Events Page](https://www.jske.co.uk/events).
