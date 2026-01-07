@@ -94,16 +94,19 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
 
 <section id="upcoming-events" class="mb-4" style="display:none;">
 
-
+  <h2>Next session</h2>
   <!-- Next session (routine lesson) -->
   <div id="next-session" class="mb-3" aria-live="polite" aria-atomic="true"></div>
   
   <h2>Upcoming events</h2>
+  <p>
+  See our <a href="/events/">events page</a> for more details.
+  </p>
   <div id="special-events" class="mb-3" aria-live="polite"></div>
 </section>
 
 <section id="upcoming-lessons" class="mb-4">
-  <h2>Next session</h2>
+
 
   <div>
     <h3 class="h5">Upcoming sessions</h3>
@@ -155,7 +158,7 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
   {"id":"Northstowe Karate Club Training","datetime":"2026-02-18T18:30:00","label":"Wednesday 18 Feb 18:30–19:30","location":"The Cabin","locationLink":"#location-cabin","notes":"Limited space","type":"lesson"},
   {"id":"Northstowe Karate Club Training","datetime":"2026-02-22T15:00:00","label":"Sunday 22 Feb 15:00–16:00","location":"The Cabin","locationLink":"#location-cabin","notes":"","type":"lesson"},
   {"id":"Northstowe Karate Club Training","datetime":"2026-02-25T18:30:00","label":"Wednesday 25 Feb 18:30–19:30","location":"The Cabin","locationLink":"#location-cabin","notes":"","type":"lesson"},
-  {"id":"5th JSKE Spring Course - 2026-03-14","datetime":"2026-03-14","label":"JSKE Spring Course","location":"University of Hertfordshire Sports Village","notes":"This is a fantastic opportunity for <em>all grades</em> to train with senior instructors including Kawasoe sensei 8th Dan, Tomlin sensei 7th Dan and Hori sensei 6th Dan.","type":"grading","highlight":true, "locationLink":"https://maps.app.goo.gl/sZ71xCYXJVMWFpax7", "eventLink":"https://jske.co.uk/events/"},
+  {"id":"5th JSKE Spring Course - 2026-03-14","datetime":"2026-03-14","label":"JSKE Spring Course","location":"University of Hertfordshire Sports Village","notes":"This is a fantastic opportunity for <em>all grades</em> to train with senior instructors including Kawasoe sensei 8th Dan, Tomlin sensei 7th Dan and Hori sensei 6th Dan.","type":"event","highlight":true, "locationLink":"https://maps.app.goo.gl/sZ71xCYXJVMWFpax7", "eventLink":"https://jske.co.uk/events/"},
   {"id":"Grading at Cambridge Karate Dojo - 2026-03-21-1300","datetime":"2026-03-21T13:00:00","label":"Grading Day — All Grades","location":"Cambridge Karate Dojo","locationLink":"https://maps.app.goo.gl/U4deyuiXhWkr169A9","notes":"Grading — bring gi and licence","type":"grading","highlight":true},
   {"id":"JK WF England Spring Camp - 2026-05-08","datetime":"2026-05-08","label":"JKA WF Englang Spring Camp 2026","location":"Windsor Leisure Centre","locationLink":"https://maps.app.goo.gl/gaCfrptYV93ivfce8","notes":"3 day training camp in Windsor with Kawasoe Sensei, Izumiya Sensei and Nemoto Sensei. This is another excellent opportunity to train with Kawasoe sensei, as well as instructors from JKA HQ. It's primarily aimed at brown belt and above but lower grades can also attend.","type":"gasshuku","highlight":true}
 ]
@@ -187,6 +190,7 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
   function badgeHtml(ev){
     if(!ev) return '';
     if(ev.type === 'grading') return `<span class="badge badge-brown ms-2">Grading</span>`;
+      if(ev.type === 'gasshuku') return `<span class="badge badge-brown ms-2">Gasshuku</span>`;
     if(ev.highlight) return `<span class="badge bg-warning text-dark ms-2">Event</span>`;
     return '';
   }
