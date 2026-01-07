@@ -21,7 +21,7 @@ Our club will attend a mix of local, national and international events. Below ar
 (async function(){
   const el = document.getElementById('events-list');
   try{
-    const resp = await fetch('/static/data/upcoming-lessons.json',{cache:'no-cache'});
+    const resp = await fetch('/static/data/upcoming-events.json',{cache:'no-cache'});
     if(!resp.ok) throw new Error('Failed to fetch events JSON: '+resp.status);
     const data = await resp.json();
     const now = new Date();

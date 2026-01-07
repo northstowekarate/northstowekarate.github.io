@@ -145,7 +145,7 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
   </details>
 </section>
 
-<!-- training data moved to _data/upcoming-lessons.json and is served at /static/data/upcoming-lessons.json -->
+<!-- training data is served from /static/data/upcoming-events.json (canonical source for events and sessions) -->
 
 <script>
 (async function(){
@@ -153,7 +153,7 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
   // Load events from global JSON
   let events = [];
   try{
-    const resp = await fetch('/static/data/upcoming-lessons.json', {cache: 'no-cache'});
+    const resp = await fetch('/static/data/upcoming-events.json', {cache: 'no-cache'});
     if(resp.ok){
       const data = await resp.json();
       events = (data || []).map(e => ({...e, date: new Date(e.datetime)})).filter(e => !isNaN(e.date));
