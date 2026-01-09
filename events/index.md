@@ -11,7 +11,7 @@ changeFrequency: weekly
 
 # Upcoming Events
 
-Our club will attend various events both at the club and international level. Key events are listed below - for a full list see [JSKE Events Page](https://www.jske.co.uk/events).
+Our club will attend various events both at the club and international level. Key events are listed below - for a full list see [JSKE Events Page](https://jske.co.uk/events).
 
 Our club will attend a mix of local, national and international events. Below are brief summaries of upcoming events.
 

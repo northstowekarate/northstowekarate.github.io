@@ -23,7 +23,7 @@ headerContent: |
     "organizer": {
       "@type": "Organization",
       "name": "Japan Shotokan Karate England",
-      "url": "https://www.jske.co.uk"
+      "url": "https://jske.co.uk"
     },
     "description": "Training course open to all grades with senior instructors including Kawasoe Sensei (8th Dan), Tomlin Sensei (7th Dan) and Hori Sensei (6th Dan).",
     "url": "https://www.northstowekarate.com/posts/2026/03-14-jske-spring-course/"
