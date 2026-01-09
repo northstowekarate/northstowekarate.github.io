@@ -8,13 +8,13 @@ changeFrequency: yearly
 ---
 # What to expect during a lesson
 
-Although each lesson will differ, training consists of three key elements - kihon, kumite and kata. We build up your confidence gradually. We're a non-contact club, and you won't be expected to fight until you've learned the basics, and even then it's under controlled conditions with known attacks and blocks until you're very experienced. Injuries are rare - please speak to the instructor if you have any concerns. There is an element of risk to all sports and exercise, including martial arts - please see our [assumption of risk document](/policies/risk/) for details.
+Although each lesson will differ, training consists of three key elements - kihon, kumite and kata. We build up your confidence gradually. We're a non-contact club, and you won't be expected to fight until you've learned the basics, and even then it's under controlled conditions with known attacks and blocks until you're very experienced. Injuries are rare - please speak to the instructor if you have any concerns. There is an element of risk to all sports and exercise, including martial arts - please see our [assumption of risk document](/policies/risk/assumption-of-risk.pdf) for details.
 
 We strongly emphasise the importance of respect and humility in all of our lessons.
 
 ## Respect and Rules
 
-Respect is a huge part of karate. Please view our [etiquette guide](/etiquette/) on how to be respectful and also view our [club rules](/policies/club-rules/).
+Respect is a huge part of karate. Please view our [etiquette guide](/etiquette/) on how to be respectful and also view our [club rules](/policies/club-rules/club-rules.pdf).
 
 ## Warm Up
 
