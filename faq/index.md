@@ -109,9 +109,7 @@ headerContent: |
       }
     ],
     "about": {
-      "@type": "SportsClub",
-      "name": "Northstowe Karate Club",
-      "url": "https://www.northstowekarate.com"
+      "$ref": "https://www.northstowekarate.com/#northstowekarateclube
     },
     "publisher": {
       "@type": "Organization",
