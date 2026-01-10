@@ -108,9 +108,7 @@ headerContent: |
         }
       }
     ],
-    "about": {
-      "$ref": "https://www.northstowekarate.com/#northstowekarateclub"
-    },
+    "about": "https://www.northstowekarate.com/#northstowekarateclub",
     "publisher": {
       "@type": "Organization",
       "name": "Northstowe Karate Club",
