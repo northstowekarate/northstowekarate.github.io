@@ -10,6 +10,7 @@ headerContent: |
   {
     "@context": "https://schema.org",
     "@type": "FAQPage",
+    "@id": "https://www.northstowekarate.com/faq#faq"
     "mainEntity": [
       {
         "@type": "Question",
@@ -110,13 +111,7 @@ headerContent: |
     ],
     "about": "https://www.northstowekarate.com/#northstowekarateclub",
     "publisher": {
-      "@type": "Organization",
-      "name": "Northstowe Karate Club",
-      "url": "https://www.northstowekarate.com",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://www.northstowekarate.com/static/logo.webp"
-      }
+      "@id": "https://www.northstowekarate.com/#northstowekarateclub"
     }
   }
   </script>
