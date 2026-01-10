@@ -10,7 +10,7 @@ headerContent: |
   {
     "@context": "https://schema.org",
     "@type": "FAQPage",
-    "@id": "https://www.northstowekarate.com/faq#faq"
+    "@id": "https://www.northstowekarate.com/faq#faq",
     "mainEntity": [
       {
         "@type": "Question",
