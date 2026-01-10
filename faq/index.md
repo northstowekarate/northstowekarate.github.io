@@ -109,7 +109,7 @@ headerContent: |
       }
     ],
     "about": {
-      "$ref": "https://www.northstowekarate.com/#northstowekarateclube
+      "$ref": "https://www.northstowekarate.com/#northstowekarateclub"
     },
     "publisher": {
       "@type": "Organization",
