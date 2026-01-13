@@ -120,7 +120,7 @@ headerContent: |
     </p>
     <!-- Class Details -->
     <p class="fs-6 fw-semibold">
-      Regular sessions: Wedneday 6.30pm-7.30pm &amp; Sunday 3-4pm at Northstowe Community Centre (The Cabin), CB24 1FD
+      Regular sessions: Wednesday 6.30pm-7.30pm &amp; Sunday 3-4pm at Northstowe Community Centre (The Cabin), CB24 1FD
     </p>
 
     <!-- Call-to-Action -->
