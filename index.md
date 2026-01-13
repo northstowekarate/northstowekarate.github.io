@@ -116,11 +116,11 @@ headerContent: |
 
     <!-- Supporting Text -->
     <p class="lead mb-4">
-      Family-friendly karate classes for ages 8+ and adults. Build <strong>confidence</strong>, <strong>strength</strong>, and <strong>focus</strong> in a safe, welcoming environment.
+      Family-friendly Shotokan Karate classes for ages 8+ and adults — safe, supportive training that builds confidence, focus, and fitness. First lesson free.
     </p>
     <!-- Class Details -->
     <p class="fs-6 fw-semibold">
-      Regular sessions: Wednesday 6.30pm-7.30pm &amp; Sunday 3-4pm at Northstowe Community Centre (The Cabin), CB24 1FD
+      Regular sessions: Wednesday 6.30pm–7.30pm &amp; Sunday 3–4pm at Northstowe Community Centre (The Cabin), CB24 1FD
     </p>
 
     <!-- Call-to-Action -->
@@ -167,10 +167,22 @@ headerContent: |
       <li><strong><a href="/faq/">FAQ</a>:</strong> View frequently asked questions</li>
       <li><strong>Contact:</strong> Email us at <a href="mailto:info@northstowekarate.com">info@northstowekarate.com</a> or view our <a href="/contact/">contact page</a> alternative contact options</li>
     </ul>
-    <p class="mb-3"><em>All <a href="/instructors/">instructors</a> are DBS-checked.</em></p>
     <div class="text-center">
       <a href="/lesson-booking/" class="btn btn-brown btn-lg mb-3 px-4">Book a free class</a>
+      <p class="small text-muted mb-0">First lesson free • DBS-checked <a href="/instructors">instructors</a> • Age 8+</p>
     </div>
+  </div>
+</div>
+
+<div class="card mt-3 border-primary">
+  <div class="card-body">
+    <h4 class="h5">For parents ✅</h4>
+    <ul class="mb-0">
+      <li><strong>Safe & supervised:</strong> All <a href="/instructors">instructors</a> are DBS-checked and we follow safeguarding good practice.</li>
+      <li><strong>Age-appropriate classes:</strong> Suitable for ages 8+, beginners welcome — no uniform required for the first lesson.</li>
+      <li><strong>Progress & reward:</strong> Structured belt gradings help build focus, resilience, and self-esteem.</li>
+      <li><strong>Practical:</strong> First lesson free — bring comfortable clothes and a water bottle.</li>
+    </ul>
   </div>
 </div>
 

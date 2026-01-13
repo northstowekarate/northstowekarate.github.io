@@ -10,6 +10,14 @@ changeFrequency: yearly
 
 Karate isn’t just about kicks and punches - it offers a wide range of benefits that go beyond physical fitness. At Northstowe Karate Club, students gain valuable skills that support personal growth, health, and community.
 
+## Why it’s great for children and teens
+
+- **Confidence & resilience:** Short-term goals (belt gradings) and small wins build self-belief and grit.
+- **Coordination & fitness:** Improves balance, strength and overall health through regular activity.
+- **Social skills & teamwork:** Cooperative activities, partner work, and class structure help children make friends and develop social confidence.
+- **Safety & respect:** Emphasis on respect, boundaries, and practical self-defence in a controlled environment.
+- **Clear progression:** Regular gradings and visible achievements keep children motivated and proud of progress.
+
 ## Build Confidence and Focus
 
 Karate gives you clear goals to work towards, like belt gradings and competitions. Achieving these milestones builds confidence and helps you stay focused, both in and out of the dojo.
@@ -34,4 +42,17 @@ Karate teaches practical techniques to help you protect yourself and others. You
 
 ## Suitable for All
 
-Karate is suitable for children, teens, and adults of all ages and abilities. Our club welcomes everyone, regardless of experience or fitness level.
+Karate is suitable for children (8+), teens, and adults of all ages and abilities. Our club welcomes everyone, regardless of experience or fitness level.
+
+## Parent FAQs
+
+**Is my child too young?**
+We teach children from age 8 with age-appropriate drills and expectations.
+
+**What about safety?**
+Instructors are DBS-checked and classes are supervised with an emphasis on safe practice and respect.
+
+**Do beginners join?**
+Yes — we welcome beginners. No uniform needed for the first lesson; just comfortable sportswear and a water bottle.
+
+See our full [FAQ](/faq/) for more details.
