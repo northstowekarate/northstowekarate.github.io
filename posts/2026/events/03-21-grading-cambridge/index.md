@@ -17,8 +17,8 @@ headerContent: |
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "Cambridge Karate Dojo",
-      "address": "Kelsey Kerridge Sports Centre, Queen Anne Terrace, Cambridge, CB1 1NA"
+      "name": "Cambridge University Sports Centre",
+      "address": "Philippa Fawcett Dr, Cambridge CB3 0AS"
     },
     "organizer": {
       "@type": "Organization",
@@ -35,6 +35,10 @@ headerContent: |
 
 ## **Overview:**
 A joint kyu grading for eligible students from our club and partner dojos. This is the formal assessment for belts and will be run by Cambridge Karate Dojo officials.
+
+## Location
+
+Please note the grading will be at *Cambridge University Sports Centre, Philippa Fawcett Dr, Cambridge CB3 0AS*.
 
 ## **Schedule**
 * Higher grade training starts at 1pm
