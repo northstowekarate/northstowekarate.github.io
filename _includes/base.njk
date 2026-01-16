@@ -35,13 +35,6 @@ date: 1980-01-01
     <link rel="icon" type="image/x-icon" href="/favicon.ico">
     <link rel="canonical" href="https://www.northstowekarate.com{{ page.url }}">
     {{- headerContent | safe -}}
-    <script>
-      (function(c,l,a,r,i,t,y){
-          c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-          t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i+"?ref=bwt";
-          y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-      })(window, document, "clarity", "script", "tgc3ofcdja");
-    </script>
     <title>{{ title }}</title>
   </head>
   <body>
@@ -148,6 +141,88 @@ date: 1980-01-01
         <p><a href="/policies/">Club Documents and Policies</a></p>
       </div>
     </footer>
+    <div id="cookie-banner">
+      <div class="container">
+        <p>We use cookies to improve your experience and analyze site usage. <a href="/policies/privacy/privacy-policy.pdf">Learn more</a>.</p>
+        <div class="cookie-buttons">
+          <button id="cookie-reject">Reject</button>
+          <button id="cookie-accept">Accept</button>
+        </div>
+      </div>
+    </div>
     <script src="/static/bootstrap-5.3.3/bootstrap.bundle.min.js"></script>
+    <script>
+      // Cookie consent management
+      const COOKIE_CONSENT_KEY = 'nkc-cookie-consent';
+      const COOKIE_EXPIRY_DAYS = 365;
+
+      function setCookieConsent(accepted) {
+        const expiryDate = new Date();
+        expiryDate.setDate(expiryDate.getDate() + COOKIE_EXPIRY_DAYS);
+        document.cookie = `${COOKIE_CONSENT_KEY}=${accepted ? 'accepted' : 'rejected'}; path=/; expires=${expiryDate.toUTCString()}`;
+        document.getElementById('cookie-banner').classList.remove('show');
+        if (accepted) {
+          loadGoogleAnalytics();
+        }
+      }
+
+      function getCookieConsent() {
+        const cookies = document.cookie.split('; ');
+        for (let cookie of cookies) {
+          const [key, value] = cookie.split('=');
+          if (key === COOKIE_CONSENT_KEY) {
+            return value === 'accepted';
+          }
+        }
+        return null;
+      }
+
+      function loadGoogleAnalytics() {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-5FVDSR42B3', {
+          'anonymize_ip': true
+        });
+        const script = document.createElement('script');
+        script.async = true;
+        script.src = 'https://www.googletagmanager.com/gtag/js?id=G-5FVDSR42B3';
+        document.head.appendChild(script);
+      }
+
+      function loadClarity(c,l,a,r,i,t,y){
+          c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+          t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i+"?ref=bwt";
+          y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+      }
+      function initCookieBanner() {
+        const consent = getCookieConsent();
+        if (consent === null) {
+          // Show banner if no consent decision yet
+          document.getElementById('cookie-banner').classList.add('show');
+        } else if (consent === true) {
+          // Load GA if previously accepted
+          loadGoogleAnalytics();
+          loadClarity(window, document, "clarity", "script", "tgc3ofcdja");
+
+        }
+      }
+
+      // Event listeners
+      document.getElementById('cookie-accept').addEventListener('click', function() {
+        setCookieConsent(true);
+      });
+
+      document.getElementById('cookie-reject').addEventListener('click', function() {
+        setCookieConsent(false);
+      });
+
+      // Initialize on page load
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', initCookieBanner);
+      } else {
+        initCookieBanner();
+      }
+    </script>
   </body>
 </html>
