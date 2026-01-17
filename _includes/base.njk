@@ -152,6 +152,13 @@ date: 1980-01-01
     </div>
     <script src="/static/bootstrap-5.3.3/bootstrap.bundle.min.js"></script>
     <script>
+      (function(c,l,a,r,i,t,y){
+          c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+          t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i+"?ref=bwt";
+          y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+      })(window, document, "clarity", "script", "tgc3ofcdja");
+    </script>
+    <script>
       // Cookie consent management
       const COOKIE_CONSENT_KEY = 'nkc-cookie-consent';
       const COOKIE_EXPIRY_DAYS = 365;
@@ -163,7 +170,9 @@ date: 1980-01-01
         document.getElementById('cookie-banner').classList.remove('show');
         if (accepted) {
           loadGoogleAnalytics();
-          loadClarity(window, document, "clarity", "script", "tgc3ofcdja");
+          setClarity(true);
+        } else {
+          setClarity(false);
         }
       }
 
@@ -191,21 +200,29 @@ date: 1980-01-01
         document.head.appendChild(script);
       }
 
-      function loadClarity(c,l,a,r,i,t,y){
-          c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-          t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i+"?ref=bwt";
-          y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+      function setClarity(consentStatus) {
+        if (window.clarity && typeof window.clarity === 'function') {
+          window.clarity('consentv2', {
+            ad_Storage: consentStatus ? 'granted' : 'denied',
+            analytics_Storage: consentStatus ? 'granted' : 'denied'
+          });
+        }
       }
       function initCookieBanner() {
         const consent = getCookieConsent();
         if (consent === null) {
           // Show banner if no consent decision yet
           document.getElementById('cookie-banner').classList.add('show');
+          // Inform Clarity: no consent yet
+          setClarity(false);
         } else if (consent === true) {
           // Load GA if previously accepted
           loadGoogleAnalytics();
-          loadClarity(window, document, "clarity", "script", "tgc3ofcdja");
-
+          // Inform Clarity: consent granted
+          setClarity(true);
+        } else {
+          // Consent explicitly denied
+          setClarity(false);
         }
       }
 
