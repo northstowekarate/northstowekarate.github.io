@@ -42,6 +42,50 @@ Our lawful bases for processing your personal data include:
 
 We do not share, sell, or distribute your data to third parties unless required by law or necessary to fulfil our contractual obligations to you. In such cases, we ensure all third parties respect your personal data and comply with all relevant data protection laws.
 
+## Website & Analytics
+
+### Cookies and Tracking Technologies
+
+Our website uses cookies and similar technologies to enhance your experience and understand how visitors use our site. We only place non-essential cookies with your explicit consent.
+
+#### Types of Cookies We Use
+
+**Essential Cookies** (no consent required):
+- **Session cookie**: Maintains your session while browsing
+- **Consent cookie** (`nkc-cookie-consent`): Remembers your cookie preferences for 365 days
+
+**Analytics & Tracking** (consent required):
+- **Microsoft Clarity**: Tracks user sessions, clicks, scroll behavior, and mouse movements to help us understand user experience and improve our website
+- **Google Analytics**: Collects anonymous data about visitor behavior, including pages visited, time on site, and user interactions
+
+#### Data Processors
+
+We use the following third-party data processors:
+
+- **Microsoft Clarity** (Microsoft Corporation): Processes behavioral analytics data. Microsoft is certified under the Data Privacy Framework and has committed to GDPR compliance.
+- **Google Analytics** (Google LLC): Processes website analytics data. Google is certified under the Data Privacy Framework and has committed to GDPR compliance via Data Processing Agreement.
+
+Both processors store data on servers outside the EEA but have appropriate safeguards in place (Standard Contractual Clauses and Privacy Shield equivalents).
+
+#### Data Retention
+
+- **Clarity cookies**: 13 months
+- **Google Analytics data**: 14 months (default retention setting)
+- **Consent cookie**: 365 days
+
+After the retention period, data is automatically deleted or anonymized.
+
+#### Your Cookie Preferences
+
+When you first visit our site, a banner appears asking for your consent. You can:
+- **Accept all cookies**: Essential and analytics cookies are enabled
+- **Reject all cookies**: Only essential cookies are used; analytics tools operate in limited/no-consent mode
+- **Withdraw consent**: You can change your preferences at any time by clearing your cookies or contacting us
+
+### Cookie Banner and Consent Management
+
+Our cookie banner appears on all pages and provides clear options to accept or reject analytics cookies. Your choice is stored in the `nkc-cookie-consent` cookie for 365 days. To reset your preferences, clear your browser cookies or contact us.
+
 ## Your Rights
 
 As a data subject, you have the following rights under the GDPR:
