@@ -57,6 +57,7 @@ Training is mandatory for those wishing to grade.
 
 The fee is £25. For those only training, the fee is £15.
 
-**Eligibility & preparation:**
+## **Eligibility & preparation**
+
 Only students who have completed the required syllabus and minimum time-in-grade should enter — speak to your instructor to confirm eligibility. Bring your gi, licence, water and any protective equipment your instructor advises.
 
