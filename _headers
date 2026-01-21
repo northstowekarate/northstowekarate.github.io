@@ -1,8 +1,4 @@
-/static/*
-  X-Robots-Tag: noindex,nofollow
 /policies/*
-  X-Robots-Tag: noindex,nofollow
-/tags/*
   X-Robots-Tag: noindex,nofollow
 /sitemap.xml
   Content-Type: application/xml
