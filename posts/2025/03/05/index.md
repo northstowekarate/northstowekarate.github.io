@@ -8,7 +8,7 @@ tags:
 ---
 # Lesson Summary - 5th Mar 2025
 
-With just two and a half weeks until the grading, this will be our focus until then. There are 3 elements to grading - kihon, kumite and kata. You can find out what you have to do for your grading in the [grading syllabus](/kyu-syllabus/).
+With just two and a half weeks until the grading, this will be our focus until then. There are 3 elements to grading - kihon, kumite and kata. You can find out what you have to do for your grading in the [grading syllabus](/syllabus/).
 
 ## Kihon
 We started off practicing our basic techniques - stepping punch, rising block, outside block and mae geri. We also went through gedan barai, shuto uke. Some of you also practiced side kicks. Key points to note:

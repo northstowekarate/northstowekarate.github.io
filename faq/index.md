@@ -97,7 +97,7 @@ headerContent: |
         "name": "How do I get my next belt?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Gradings (belt tests) are held around three times per year to assess readiness. See kyu requirements here: https://www.northstowekarate.com/kyu-syllabus/."
+          "text": "Gradings (belt tests) are held around three times per year to assess readiness. See kyu requirements here: https://www.northstowekarate.com/syllabus/."
         }
       },
       {
@@ -165,7 +165,7 @@ You can purchase karate gi (uniform) through the club, although this is not requ
 
 ## How do I get my next belt?
 
-Gradings are practical assessments to check if you're ready for the next grade. These are held around 3 times per year. You can read the requirements for each kyu grade (colour belt) in our [kyu syllabus](/kyu-syllabus/).
+Gradings are practical assessments to check if you're ready for the next grade. These are held around 3 times per year. You can read the requirements for each kyu grade (colour belt) in our [syllabus](/syllabus/).
 
 ## Why learn karate?
 
