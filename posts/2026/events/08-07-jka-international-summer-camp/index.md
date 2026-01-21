@@ -5,7 +5,8 @@ description: Annual summer camp with senior instructors from JKA HQ.
 date: 2026-08-07
 tags:
 - gasshuku-and-training-courses
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections:
+- blog_post
 headerContent: |
   <script type="application/ld+json">
   {

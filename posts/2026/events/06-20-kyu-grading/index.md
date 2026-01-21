@@ -5,7 +5,8 @@ description: Joint kyu grading for eligible students to test for their next belt
 date: 2026-06-20
 tags:
 - gasshuku-and-training-courses
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections:
+- blog_post
 headerContent: |
   <script type="application/ld+json">
   {

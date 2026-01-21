@@ -5,7 +5,8 @@ description: Joint grading hosted at the Cambridge Karate Dojo. Bring gi and lic
 date: 2026-03-21
 tags:
 - gasshuku-and-training-courses
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections:
+- blog_post
 headerContent: |
   <script type="application/ld+json">
   {

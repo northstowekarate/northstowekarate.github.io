@@ -5,7 +5,8 @@ description: 3 day training camp in Windsor with Kawasoe Sensei, Izumiya Sensei 
 date: 2026-05-08
 tags:
 - gasshuku-and-training-courses
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections:
+- blog_post
 headerContent: |
   <script type="application/ld+json">
   {

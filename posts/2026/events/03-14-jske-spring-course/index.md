@@ -5,7 +5,8 @@ description: Training course open to all grades with senior instructors includin
 date: 2026-03-14
 tags:
 - gasshuku-and-training-courses
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections:
+- blog_post
 headerContent: |
   <script type="application/ld+json">
   {
