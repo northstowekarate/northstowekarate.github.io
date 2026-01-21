@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: Kyu Grading — 20 Jun 2026
-description: Joint kyu grading for eligible students to test for their next belt.
+description: Kyu grading hosted by Cambridge Karate Dojo that offers the change to train with Roy Tomlin sensei followed by a kyu grading.
 date: 2026-06-20
 tags:
 - gasshuku-and-training-courses

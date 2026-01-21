@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: JKA WF England Spring Camp — 8 May 2026
-description: 3 day training camp in Windsor with Kawasoe Sensei, Izumiya Sensei and Nemoto Sensei.
+description: This ia a 3 day training camp where you can train with senior instructors including Kawasoe Sensei, Izumiya Sensei and Nemoto Sensei.
 date: 2026-05-08
 tags:
 - gasshuku-and-training-courses

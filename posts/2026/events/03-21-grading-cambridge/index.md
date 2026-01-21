@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: Grading — Cambridge — 21 Mar 2026
-description: Joint grading hosted at the Cambridge Karate Dojo. Bring gi and licence.
+description: Training with Sensei Roy Tomlin, followed by a grading hosted by Cambridge Karate Dojo at the Cambridge Univeristy Sports Centre.
 date: 2026-03-21
 tags:
 - gasshuku-and-training-courses

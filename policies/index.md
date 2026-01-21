@@ -15,7 +15,7 @@ Our club policies are designed to keep everyone safe, respected, and informed. I
 * [Club Rules](./club-rules/club-rules.pdf)
 * [Complaints Policy](./complaints/complaints-policy.pdf)
 * [Concussion and Head Injury Policy](concussion/concussion-policy.pdf)
-* [Constitution](/static/NKC-Constitution.pdf)
+* [Constitution](/policies/NKC-Constitution.pdf)
 * [Diversity, Inclusion and Equality Policy](./equality/equality-policy.pdf)
 * [Fire Safety Policy](./fire-safety/fire-safety-policy.pdf)
 * [Health and Safety](./health-and-safety/health-and-safety-policy.pdf)
