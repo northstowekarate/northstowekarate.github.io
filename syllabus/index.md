@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: "JKA & JSKE Grading Syllabus | Requirements for each belt/level"
-description: "Our JKA kyu grading syllabus outlines the requirements for each belt and how to demonstrate readiness for promotion."
+description: "Our JKA grading syllabus outlines the requirements for each belt and how to demonstrate readiness for promotion."
 date: "git Last Modified"
 priority: 0.6
 changeFrequency: yearly
