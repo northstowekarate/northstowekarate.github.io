@@ -16,6 +16,8 @@ For details on upcoming gradings and how to prepare, speak to your instructor or
 
 The [Kyu / Dan Grading Syllabus](/static/JKA-Grading-Syllabus.pdf) is also available in PDF format. The Kyu Syllabus is also available below, with english translations.
 
+In addition, you can view the [requirements for JKA Qualifications](/static/List-of-the-requirements-for-qualification-test-examinee.pdf) in PDF format.
+
 ## Kyu Grading Syllabus
 
 ### 10th Kyu (White with Orange)
