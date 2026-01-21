@@ -49,9 +49,9 @@ headerContent: |
         "image": "https://www.northstowekarate.com/static/logo.png",
         "address": {
           "@type": "PostalAddress",
-          "streetAddress": "1 The Green, Pathfinder Way, Northstowe",
+          "streetAddress": "1 The Green",
           "addressLocality": "Northstowe",
-          "addressRegion": "Cambridgeshire",
+          "addressRegion": "Cambridge",
           "postalCode": "CB24 1FD",
           "addressCountry": "GB"
         },
@@ -297,7 +297,7 @@ Should you need to cancel, please do so with at least 24 hours' notice by removi
 ## Locations
 <h3 id="location-cabin">The Cabin</h3>
 
-1 The Green, Pathfinder Way, Northstowe, Cambridge, CB24 1FD
+1 The Green, Northstowe, Cambridge, CB24 1FD
 
 Parking is available outside. Additional parking can be found nearby at either Pathfinder Primary School or Longstanton Park and Ride.
 

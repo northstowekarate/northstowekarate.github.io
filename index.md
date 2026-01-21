@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: "Family-Friendly Traditional Karate | Northstowe Karate Club"
-description: "Join family-friendly Shotokan Karate classes in Northstowe near Cambridge. Classes for ages 8+. Build confidence, fitness, and self-defense."
+description: "Join family-friendly Shotokan Karate classes in Northstowe near Cambridge. Classes for ages 8+. Build confidence, fitness, and self-defence."
 date: "git Last Modified"
 priority: 1.0
 changeFrequency: monthly
@@ -28,9 +28,9 @@ headerContent: |
         "email": "info@northstowekarate.com",
         "address": {
           "@type": "PostalAddress",
-          "streetAddress": "1 The Green, Pathfinder Way, Northstowe",
+          "streetAddress": "1 The Green",
           "addressLocality": "Northstowe",
-          "addressRegion": "Cambridgeshire",
+          "addressRegion": "Cambridge",
           "postalCode": "CB24 1FD",
           "addressCountry": "GB"
         },
@@ -162,7 +162,7 @@ headerContent: |
       <li><strong>📍 Where:</strong> Northstowe Community Centre (The Cabin), CB24 1FD (<a href="https://maps.app.goo.gl/wXcMAGknwyPFEgMp6" target="_blank" rel="noopener noreferrer">View map</a>)</li>
       <li><strong>👪 Ages:</strong> 8+ | Adults &amp; families welcome</li>
       <li><strong>💰 Fees:</strong> First lesson free. £3-4 per person per session. Membership required for permanent students. See our <a href="/training/fees/">fees page</a> for full details.</li>
-      <li><strong>Why Northstowe Karate Club?</strong> Traiing at Northstowe Karate Club has numerous <a href="/benefits-of-karate/">benefits</a>. Improve fitness, confidence, focus, and self‑defence.</li>
+      <li><strong>Why Northstowe Karate Club?</strong> Training at Northstowe Karate Club has numerous <a href="/benefits-of-karate/">benefits</a>. Improve fitness, confidence, focus, and self‑defence.</li>
       <li><strong>What to Bring:</strong> Comfortable sports clothing, water bottle. No uniform needed for first lesson.</li>
       <li><strong><a href="/faq/">FAQ</a>:</strong> View frequently asked questions</li>
       <li><strong>Contact:</strong> Email us at <a href="mailto:info@northstowekarate.com">info@northstowekarate.com</a> or view our <a href="/contact/">contact page</a> alternative contact options</li>

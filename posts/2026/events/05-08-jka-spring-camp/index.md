@@ -46,4 +46,4 @@ Primarily aimed at brown belt and above, but lower grades are welcome and can be
 Windsor Leisure Centre is the venue; there are nearby hotels. Check organisers for accommodation recommendations and travel details.
 
 **Registration & links:**
-Regisration opens closer to the time.
+Registration opens closer to the time.

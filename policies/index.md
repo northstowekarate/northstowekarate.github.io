@@ -31,4 +31,4 @@ Our club policies are designed to keep everyone safe, respected, and informed. I
 * [Special Educational Needs Policy](./sen/sen-policy.pdf)
 * [Trauma Informed Coaching Policy](./trauma-informed-coaching/trauma-informed-coaching-policy.pdf)
 * [Transport Policy](./transport/transport-policy.pdf)
-* [Whistleblowing Policy](./whistleblowing/whistleblowing-policy.pdf)
+* [Whistle-blowing Policy](./whistleblowing/whistleblowing-policy.pdf)
