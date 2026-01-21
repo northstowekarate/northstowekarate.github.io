@@ -14,7 +14,9 @@ Gradings are held regularly throughout the year. Instructors provide support and
 
 For details on upcoming gradings and how to prepare, speak to your instructor or check our club communications.
 
-The [Kyu / Dan Grading Syllabus](/static/JKA-Grading-Syllabus.pdf) is also available in PDF format.
+The [Kyu / Dan Grading Syllabus](/static/JKA-Grading-Syllabus.pdf) is also available in PDF format. The Kyu Syllabus is also available below, with english translations.
+
+## Kyu Grading Syllabus
 
 ### 10th Kyu (White with Orange)
 #### KIHON - In place basics
