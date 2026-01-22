@@ -178,9 +178,9 @@ headerContent: |
   <div class="card-body">
     <h4 class="h5">For parents ✅</h4>
     <ul class="mb-0">
-      <li><strong>Safe & supervised:</strong> All <a href="/instructors">instructors</a> are DBS-checked and we follow safeguarding good practice.</li>
+      <li><strong>Safe &amp; supervised:</strong> All <a href="/instructors">instructors</a> are DBS-checked and we follow safeguarding good practice.</li>
       <li><strong>Age-appropriate classes:</strong> Suitable for ages 8+, beginners welcome — no uniform required for the first lesson.</li>
-      <li><strong>Progress & reward:</strong> Structured belt gradings help build focus, resilience, and self-esteem.</li>
+      <li><strong>Progress &amp; reward:</strong> Structured belt gradings help build focus, resilience, and self-esteem.</li>
       <li><strong>Practical:</strong> First lesson free — bring comfortable clothes and a water bottle.</li>
     </ul>
   </div>

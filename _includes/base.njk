@@ -47,36 +47,47 @@ date: 1980-01-01
 
     <div id="page-content" class="justify-content-center container">
       <nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
-        <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav mx-auto">
-            <li class="nav-item active">
+            <li class="nav-item">
               <a class="nav-link" href="/">Home</a>
             </li>
 
             <li class="nav-item dropdown">
-              <button type="button" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
-                About &amp; Classes
-              </button>
-              <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="/benefits-of-karate/">Benefits - Why Northstowe Karate Club?</a></li>
-                <li><a class="dropdown-item" href="/training/">Class Timetable</a></li>
-                <li><a class="dropdown-item" href="/training/fees/">Fees</a></li>
-                <li><a class="dropdown-item" href="/training/what-to-expect/">What to expect</a></li>
+              <a class="nav-link dropdown-toggle" id="aboutDropdown" aria-haspopup="true" href="#" data-bs-toggle="dropdown">
+                About
+              </a>
+              <ul class="dropdown-menu" aria-labelledby="aboutDropdown">
                 <li><a class="dropdown-item" href="/about/">About the club</a></li>
+                <li><a class="dropdown-item" href="/benefits-of-karate/">Benefits - Why Northstowe Karate Club?</a></li>
                 <li><a class="dropdown-item" href="/instructors/">Instructors</a></li>
-                <li><a class="dropdown-item" href="/events/">Events</a></li>
               </ul>
             </li>
 
             <li class="nav-item dropdown">
-              <button type="button" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
-                Karate Resources
-              </button>
-              <ul class="dropdown-menu">
+              <a class="nav-link dropdown-toggle" id="trainingAndClasses" aria-haspopup="true" href="#" data-bs-toggle="dropdown">
+                Training &amp; Classes
+              </a>
+              <ul class="dropdown-menu" aria-labelledby="trainingAndClasses">
+                <li><a class="dropdown-item" href="/training/">Class Timetable</a></li>
+                <li><a class="dropdown-item" href="/training/fees/">Fees</a></li>
+                <li><a class="dropdown-item" href="/training/what-to-expect/">What to expect</a></li>
+              </ul>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="/events/">Events</a>
+            </li>
+
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" id="studentResources" aria-haspopup="true" href="#" data-bs-toggle="dropdown">
+                Student Resources
+              </a>
+              <ul class="dropdown-menu" aria-labelledby="studentResources">
                 <li><a class="dropdown-item" href="/dojo-kun/">Dojo Kun (Rules)</a></li>
                 <li><a class="dropdown-item" href="/etiquette/">Etiquette</a></li>
                 <li><a class="dropdown-item" href="/kata/heian/">Kihon and Heian Kata</a></li>
@@ -85,7 +96,7 @@ date: 1980-01-01
               </ul>
             </li>
 
-            <li class="nav-item active">
+            <li class="nav-item">
               <a class="nav-link" href="/faq/">FAQ</a>
             </li>
 
@@ -97,7 +108,7 @@ date: 1980-01-01
               <a class="nav-link" href="/contact/">Contact</a>
             </li>
 
-            <li class="nav-item active">
+            <li class="nav-item">
               <a class="nav-link btn btn-brown book-class d-block d-lg-inline-block w-100 w-lg-auto text-center ms-lg-2" href="/lesson-booking/" aria-label="Book a free class">Book a free class</a>
             </li>
           </ul>
@@ -145,8 +156,8 @@ date: 1980-01-01
       <div class="container">
         <p>We use cookies to improve your experience and analyze site usage. <a href="/policies/privacy/privacy-policy.pdf">Learn more</a>.</p>
         <div class="cookie-buttons">
-          <button id="cookie-reject">Reject</button>
-          <button id="cookie-accept">Accept</button>
+          <button id="cookie-reject" type="button">Reject</button>
+          <button id="cookie-accept" type="button">Accept</button>
         </div>
       </div>
     </div>
