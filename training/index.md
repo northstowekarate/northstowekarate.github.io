@@ -242,9 +242,9 @@ If you would like to apply, please [get in touch](/contact/) for a confidential 
   const specialSection = document.getElementById('upcoming-events');
   const specialEl = document.getElementById('special-events');
   if(specialEvents.length){
-    // Decide whether to show only the next special event or all specials within the next 3 months
+    // Decide whether to show only the next special event or all specials within the next month
     const nextSpecial = specialEvents[0];
-    const cutoff = new Date(); cutoff.setMonth(cutoff.getMonth() + 3);
+    const cutoff = new Date(); cutoff.setMonth(cutoff.getMonth() + 1);
 
     if(nextSpecial && nextSpecial.date <= cutoff){
       // Show all special events within the next 3 months
