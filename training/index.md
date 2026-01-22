@@ -91,6 +91,13 @@ priority: 0.9
 
 We train regularly at [The Cabin, Northstowe](https://maps.app.goo.gl/wXcMAGknwyPFEgMp6) **Wednesdays 6.30-7.30pm** and on **Sundays 3-4pm**.
 
+## Fees at a glance
+There are no monthly minimums — you only pay for the sessions you attend.
+
+The first lesson is always free, so you can try it out and see if you enjoy the lesson. Prices are £4 per session for adults and £3 per session for children.
+
+There are some additional fees such as membership. You can find out more about [our fees](#fees) below.
+
 <section id="upcoming-events" class="mb-4" style="display:none;">
 
   <h2>Next session</h2>
@@ -143,10 +150,10 @@ We train regularly at [The Cabin, Northstowe](https://maps.app.goo.gl/wXcMAGknwy
 </section>
 
 
-## Fees
+<h2 id="#fees">Fees<h2>
 ### Lesson Fees
 
-There are no contracts and no monthly minimums — you only pay for the sessions you attend.
+There are no monthly minimums — you only pay for the sessions you attend.
 
 The first lesson is always free, so you can try it out and see if you enjoy the lesson. Prices are £4 per session for adults and £3 per session for children.
 
