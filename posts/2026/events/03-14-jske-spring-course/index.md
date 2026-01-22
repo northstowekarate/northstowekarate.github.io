@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: 5th JSKE Spring Course — 14 Mar 2026
-description: Training course open to all grades with senior instructors including Kawasoe Sensei (8th Dan), Tomlin Sensei (7th Dan) and Hori Sensei (6th Dan).
+description: Training course open to all grades with senior instructors including Roy Tomlin Sensei (7th Dan) and Ken Hori Sensei (6th Dan).
 date: 2026-03-14
 tags:
 - gasshuku-and-training-courses
@@ -26,7 +26,7 @@ headerContent: |
       "name": "Japan Shotokan Karate England",
       "url": "https://jske.co.uk"
     },
-    "description": "Training course open to all grades with senior instructors including Kawasoe Sensei (8th Dan), Tomlin Sensei (7th Dan) and Hori Sensei (6th Dan).",
+    "description": "Training course open to all grades with senior instructors including Roy Tomlin Sensei (7th Dan) and Ken Hori Sensei (6th Dan).",
     "url": "https://www.northstowekarate.com/posts/2026/03-14-jske-spring-course/"
   }
   </script>
@@ -35,7 +35,7 @@ headerContent: |
 # 5th JSKE Spring Course — 14 Mar 2026
 
 **Overview:**
-A one-day training course open to all grades run by Japan Shotokan Karate England. Expect a mix of kihon, kata and kumite sessions led by Kawasoe Sensei (8th Dan), Tomlin Sensei (7th Dan) and Hori Sensei (6th Dan).
+A one-day training course open to all grades run by Japan Shotokan Karate England. Expect a mix of kihon, kata and kumite sessions led by Roy Tomlin Sensei (7th Dan) and Ken Hori Sensei (6th Dan).
 
 **Typical schedule (TBC):**
 - 09:30 — Doors open / registration
