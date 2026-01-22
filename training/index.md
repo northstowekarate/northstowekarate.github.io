@@ -150,8 +150,7 @@ There are some additional fees such as membership. You can find out more about [
 </section>
 
 
-<h2 id="#fees">Fees<h2>
-### Lesson Fees
+<h2 id="fees">Fees</h2>
 
 There are no monthly minimums — you only pay for the sessions you attend.
 
