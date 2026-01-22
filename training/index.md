@@ -87,7 +87,7 @@ priority: 0.9
 ---
 # Karate Classes & Fees at Northstowe Karate Club
 
-## Regular training sessions
+## Regular Classes 
 
 We train regularly at [The Cabin, Northstowe](https://maps.app.goo.gl/wXcMAGknwyPFEgMp6) **Wednesdays 6.30-7.30pm** and on **Sundays 3-4pm**.
 
