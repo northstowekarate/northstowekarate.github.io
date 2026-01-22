@@ -89,7 +89,7 @@ priority: 0.9
 
 ## Regular training sessions
 
-We train regularly at [The Cabin, Northstowe](https://maps.app.goo.gl/wXcMAGknwyPFEgMp6) *Wednesdays 6.30-7.30pm* and on *Sundays 3-4pm*.
+We train regularly at [The Cabin, Northstowe](https://maps.app.goo.gl/wXcMAGknwyPFEgMp6) **Wednesdays 6.30-7.30pm** and on **Sundays 3-4pm**.
 
 <section id="upcoming-events" class="mb-4" style="display:none;">
 
