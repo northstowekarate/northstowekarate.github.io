@@ -1,7 +1,7 @@
 ---
 layout: base.njk
-title: "Northstowe Karate Club Training Schedule"
-description: "Join Shotokan Karate classes in Northstowe for beginners to black belts. Sessions on Wednesdays 6:30–7:30pm and Sundays 3–4pm."
+title: "Karate Classes & Pricing at Northstowe Karate Club"
+description: "Join Shotokan Karate classes in Northstowe for beginners to black belts. Sessions on Wednesdays 6:30–7:30pm and Sundays 3–4pm. First lesson free."
 date: "git Last Modified"
 changeFrequency: weekly
 headerContent: |
@@ -85,12 +85,11 @@ headerContent: |
 
 priority: 0.9
 ---
-# Club Training Schedule
+# Karate Classes & Fees in Northstowe
 
-Find all the details about our karate training sessions here, including times and locations. Our classes are open to children (ages 8+), adults, and families - beginners are always welcome! Please [book early](/lesson-booking/), as spaces can fill up quickly. If you’re new, see our [What to Expect](/training/what-to-expect/) and [FAQ](/faq/) pages for tips on your first session.
+## Regular training sessions
 
-## Regular sessions
-We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo.gl/wXcMAGknwyPFEgMp6) between 6.30-7.30pm and on Sundays 3-4pm.
+We train regularly at [The Cabin, Northstowe](https://maps.app.goo.gl/wXcMAGknwyPFEgMp6) *Wednesdays 6.30-7.30pm* and on *Sundays 3-4pm*.
 
 <section id="upcoming-events" class="mb-4" style="display:none;">
 
@@ -106,8 +105,6 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
 </section>
 
 <section id="upcoming-lessons" class="mb-4">
-
-
   <div>
     <h3 class="h5">Upcoming sessions</h3>
     <div class="table-responsive">
@@ -145,8 +142,52 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
   </details>
 </section>
 
-<!-- training data is served from /static/data/upcoming-events.json (canonical source for events and sessions) -->
 
+## Fees
+### Lesson Fees
+
+There are no contracts and no monthly minimums — you only pay for the sessions you attend.
+
+The first lesson is always free, so you can try it out and see if you enjoy the lesson. Prices are £4 per session for adults and £3 per session for children.
+
+I'd like families to be able to train together and understand it can be expensive when training in a large group. To combat this, I'm limiting the price to £10 for groups of three and £12 for groups of four.
+
+Payment by bank transfer is preferred. Please [contact us](/contact/) for details.
+
+#### Cancellation
+
+Should you need to cancel, please do so with at least 24 hours' notice by removing your name from the spreadsheet and emailing the club. If you cancel within 24 hours' notice or are a no-show, you will be charged for the lesson.
+
+### Membership Fees
+
+All students who train on a regular basis will need to join the [Japan Karate Association](https://www.jka.or.jp/en/) and get a licence. The licence fee is £35 / year. It includes a licence book, covers insurance and allows you to grade.
+
+### Grading Fees
+
+To get your next belt/grade, you must take a grading. This consists of you performing your techniques in front of an examiner, who will assess if you have reached the required level. Fees will vary depending on where the grading takes place and may include a training session beforehand. Kyu gradings (colour belts) are approximately £25.
+
+Dan gradings (black belt) generally require examiners from JKA HQ, and can be upwards of £100.
+
+## Locations
+<h3 id="location-cabin">The Cabin</h3>
+
+1 The Green, Northstowe, Cambridge, CB24 1FD
+
+Parking is available outside. Additional parking can be found nearby at either Pathfinder Primary School or Longstanton Park and Ride.
+
+<iframe title="Map to Northstowe Karate Club" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2440.596309193821!2d0.0479411!3d52.2870305!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d875d0a30dc935%3A0xdf1f6f7f737e8109!2sNorthstowe%20Karate%20Club!5e0!3m2!1sen!2suk!4v1767020089596!5m2!1sen!2suk" width="600" height="450" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+## Funding
+Northstowe Karate Club has been awarded funding to help with the running costs of the club. The club wants to be as accessible as possible, and has allocated some of this funding towards helping those on lower incomes attend. We are able to support up to 4 students with:
+
+* 1 annual membership
+* A dogi (uniform) plus belt
+* First grading
+
+If you would like to apply, please [get in touch](/contact/) for a confidential conversation. The application is self‑assessed, so no evidence is required. Unfortunately, we cannot assist with lesson fees, but we may be able to reach an agreement, so please get in touch.
+
+
+<!-- training data is served from /static/data/upcoming-events.json (canonical source for events and sessions) -->
 <script>
 (async function(){
   const cfg = { upcomingCount: 4, locale: 'en-GB', timeZone: 'Europe/London' };
@@ -289,17 +330,3 @@ We train regularly on Wednesdays at [The Cabin, Northstowe](https://maps.app.goo
   }
 })();
 </script>
-
-### Cancellation
-
-Should you need to cancel, please do so with at least 24 hours' notice by removing your name from the spreadsheet and emailing the club. If you cancel within 24 hours' notice or are a no-show, you will be charged for the lesson.
-
-## Locations
-<h3 id="location-cabin">The Cabin</h3>
-
-1 The Green, Northstowe, Cambridge, CB24 1FD
-
-Parking is available outside. Additional parking can be found nearby at either Pathfinder Primary School or Longstanton Park and Ride.
-
-<iframe title="Map to Northstowe Karate Club" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2440.596309193821!2d0.0479411!3d52.2870305!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d875d0a30dc935%3A0xdf1f6f7f737e8109!2sNorthstowe%20Karate%20Club!5e0!3m2!1sen!2suk!4v1767020089596!5m2!1sen!2suk" width="600" height="450" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-

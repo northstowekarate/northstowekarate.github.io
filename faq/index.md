@@ -25,7 +25,7 @@ headerContent: |
         "name": "How much does it cost?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Your first class is free. After that, we offer pay-per-session with membership for regular students. Full details: https://www.northstowekarate.com/training/fees/"
+          "text": "Your first class is free. After that, we offer pay-per-session with membership for regular students. Full details: https://www.northstowekarate.com/training/"
         }
       },
       {
