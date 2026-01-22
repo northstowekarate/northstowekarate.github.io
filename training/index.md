@@ -85,7 +85,7 @@ headerContent: |
 
 priority: 0.9
 ---
-# Karate Classes & Fees in Northstowe
+# Karate Classes & Fees at Northstowe Karate Club
 
 ## Regular training sessions
 
