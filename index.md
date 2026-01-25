@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: "Family-Friendly Traditional Karate | Northstowe Karate Club"
+title: "Karate Classes in Northstowe – Shotokan Karate for Families"
 description: "Join family-friendly Shotokan Karate classes in Northstowe near Cambridge. Classes for ages 8+. Build confidence, fitness, and self-defence."
 date: "git Last Modified"
 priority: 1.0
