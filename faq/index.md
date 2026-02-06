@@ -65,7 +65,7 @@ headerContent: |
         "name": "What are the age requirements?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "We teach ages 8+ (children and adults). Ages 6–7 may be accepted after discussion with the instructor. There’s no upper age limit. Young children can train with a parent to build confidence."
+          "text": "We teach ages 8+ (children and adults). There’s no upper age limit. Young children can train with a parent to build confidence."
         }
       },
       {
@@ -143,7 +143,7 @@ You don't need a gi (karate uniform) to start. Please wear loose-fitting clothes
 You don't need any special equipment. We recommend you bring a water bottle to ensure you stay hydrated throughout the lesson.
 
 ## What are the age requirements? 
-We teach both children and adults, aged 8 and above. Students aged 6-7 may be accepted after discussion with the instructor. There's no upper age limit, so it's never too late to start learning karate. We recommend that young children train alongside their parents for the first few sessions to build their confidence gradually. This family-oriented approach can also strengthen bonds and create a supportive learning environment.
+We teach both children and adults, aged 8 and above. There's no upper age limit, so it's never too late to start learning karate. We recommend that young children train alongside their parents for the first few sessions to build their confidence gradually. This family-oriented approach can also strengthen bonds and create a supportive learning environment.
 
 ## Will I get hurt? 
 

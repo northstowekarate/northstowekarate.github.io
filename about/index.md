@@ -16,7 +16,7 @@ We teach traditional [Shotokan Karate](https://en.wikipedia.org/wiki/Shotokan), 
 
 At Northstowe Karate Club, we pride ourselves on being a family-friendly and inclusive community where everyone aged 8 and above is welcome to train, learn, and grow together. Whether you're a complete beginner or have years of experience, our classes are designed to support mixed abilities, ensuring that each student progresses at their own pace in a safe and encouraging environment. Families often train side by side, building confidence, discipline, and fitness while sharing a unique and rewarding journey.
 
-We believe karate is for everyone - regardless of age, background, or physical ability. Our instructors foster a respectful and supportive atmosphere where diversity is celebrated and every member feels valued. From children developing coordination and focus to adults seeking fitness or self-defence skills, Northstowe Karate Club offers a space where personal growth and community spirit go hand in hand.
+We believe karate is for everyone - regardless of background, or physical ability. Our instructors foster a respectful and supportive atmosphere where diversity is celebrated and every member feels valued. From children developing coordination and focus to adults seeking fitness or self-defence skills, Northstowe Karate Club offers a space where personal growth and community spirit go hand in hand.
 
 ## Tradition, Respect and Honour
 

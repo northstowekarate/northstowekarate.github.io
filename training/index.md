@@ -215,6 +215,11 @@ If you would like to apply, please [get in touch](/contact/) for a confidential 
 
   const now = new Date();
   const future = events.filter(e => e.date >= now);
+  
+  // Parse endDatetime if present
+  future.forEach(e => {
+    if(e.endDatetime) e.endDate = new Date(e.endDatetime);
+  });
 
   // Separate special events (gradings) from routine lessons
   const specialEvents = future.filter(e => e.type === 'grading' || e.highlight);
@@ -253,7 +258,7 @@ If you would like to apply, please [get in touch](/contact/) for a confidential 
       specialEl.innerHTML = within.map(ev => `
         <div class="card p-3 mb-2 event-highlight">
           <div><strong>${linkLabel(ev)}</strong> ${badgeHtml(ev)}</div>
-          <div class="small text-muted">${formatDate(ev.date)}${(ev.datetime && ev.datetime.includes('T')) ? ' — ' + formatTime(ev.date) : ''} | ${ev.locationLink ? `<a href="${ev.locationLink}">${ev.location}</a>` : ev.location}</div>
+          <div class="small text-muted">${formatDate(ev.date)}${(ev.datetime && ev.datetime.includes('T')) ? ' — ' + formatTime(ev.date) + (ev.endDate ? ' to ' + formatTime(ev.endDate) : '') : ''} | ${ev.locationLink ? `<a href="${ev.locationLink}">${ev.location}</a>` : ev.location}</div>
           ${ev.notes ? `<div class="mt-1 text-danger small">${ev.notes}</div>` : ''}
           ${ev.eventLink ? `<div class="mt-2"><a class="btn btn-brown btn-sm" href="${ev.eventLink}">Event details</a></div>` : ''}
         </div>
@@ -265,7 +270,7 @@ If you would like to apply, please [get in touch](/contact/) for a confidential 
       specialEl.innerHTML = `
         <div class="card p-3 mb-2 event-highlight">
           <div><strong>${linkLabel(ev)}</strong> ${badgeHtml(ev)}</div>
-          <div class="small text-muted">${formatDate(ev.date)}${(ev.datetime && ev.datetime.includes('T')) ? ' — ' + formatTime(ev.date) : ''} | ${ev.locationLink ? `<a href="${ev.locationLink}">${ev.location}</a>` : ev.location}</div>
+          <div class="small text-muted">${formatDate(ev.date)}${(ev.datetime && ev.datetime.includes('T')) ? ' — ' + formatTime(ev.date) + (ev.endDate ? ' to ' + formatTime(ev.endDate) : '') : ''} | ${ev.locationLink ? `<a href="${ev.locationLink}">${ev.location}</a>` : ev.location}</div>
           ${ev.notes ? `<div class="mt-1 text-danger small">${ev.notes}</div>` : ''}
           ${ev.eventLink ? `<div class="mt-2"><a class="btn btn-brown btn-sm" href="${ev.eventLink}">Event details</a></div>` : '<div class="mt-2"><a class="btn btn-link" href="/events/">See all events</a></div>'}
         </div>
@@ -284,7 +289,7 @@ If you would like to apply, please [get in touch](/contact/) for a confidential 
         <strong>Next session:</strong>
         <div class="mt-1">
           ${nextRoutine.eventLink ? `<a href="${nextRoutine.eventLink}">${nextRoutine.label}</a>` : `${nextRoutine.label}`} ${badgeHtml(nextRoutine)}
-          <div class="small text-muted">${formatDate(nextRoutine.date)} — ${formatTime(nextRoutine.date)}</div>
+          <div class="small text-muted">${formatDate(nextRoutine.date)} — ${formatTime(nextRoutine.date)}${nextRoutine.endDate ? ' to ' + formatTime(nextRoutine.endDate) : ''}</div>
           ${nextRoutine.notes ? `<div class="text-danger small mt-1">${nextRoutine.notes}</div>` : ''}
           <div class="mt-2"><a class="btn btn-brown btn-sm" href="/lesson-booking/" role="button">Book a free class</a></div>
         </div>
@@ -309,7 +314,7 @@ If you would like to apply, please [get in touch](/contact/) for a confidential 
       <tr class="${ev.highlight ? 'event-row' : ''}">
         <td>${ev.eventLink ? `<a href="${ev.eventLink}">${ev.label}</a>` : ev.label}</td>
         <td>${formatDate(ev.date)}</td>
-        <td>${formatTime(ev.date)}</td>
+        <td>${formatTime(ev.date)}${ev.endDate ? ' – ' + formatTime(ev.endDate) : ''}</td>
         <td>${ev.locationLink ? `<a href="${ev.locationLink}">${ev.location}</a>` : ev.location}</td>
         <td>${ev.notes || ''}</td>
       </tr>
@@ -323,7 +328,7 @@ If you would like to apply, please [get in touch](/contact/) for a confidential 
         <tr class="${ev.highlight ? 'event-row' : ''}">
           <td>${ev.eventLink ? `<a href="${ev.eventLink}">${ev.label}</a>` : ev.label}</td>
           <td>${formatDate(ev.date)}</td>
-          <td>${formatTime(ev.date)}</td>
+          <td>${formatTime(ev.date)}${ev.endDate ? ' – ' + formatTime(ev.endDate) : ''}</td>
           <td>${ev.locationLink ? `<a href="${ev.locationLink}">${ev.location}</a>` : ev.location}</td>
           <td>${ev.notes || ''}</td>
         </tr>
