@@ -162,7 +162,7 @@ headerContent: |
       <li><strong>📍 Where:</strong> Northstowe Community Centre (The Cabin), CB24 1FD (<a href="https://maps.app.goo.gl/wXcMAGknwyPFEgMp6" target="_blank" rel="noopener noreferrer">View map</a>)</li>
       <li><strong>👪 Ages:</strong> 8+ | Adults &amp; families welcome</li>
       <li><strong>💰 Fees:</strong> First lesson free. £3-4 per person per session. Membership required for permanent students. See our <a href="/training/#fees">fees page</a> for full details.</li>
-      <li><strong>Why Northstowe Karate Club?</strong> Training at Northstowe Karate Club has numerous <a href="/benefits-of-karate/">benefits</a>. Improve fitness, confidence, focus, and self‑defence.</li>
+      <li><strong>Why train with us?</strong> Training at Northstowe Karate Club has numerous <a href="/benefits-of-karate/">benefits</a>. Improve fitness, confidence, focus, and self‑defence.</li>
       <li><strong>What to Bring:</strong> Comfortable sports clothing, water bottle. No uniform needed for first lesson.</li>
       <li><strong><a href="/faq/">FAQ</a>:</strong> View frequently asked questions</li>
       <li><strong>Contact:</strong> Email us at <a href="mailto:info@northstowekarate.com">info@northstowekarate.com</a> or view our <a href="/contact/">contact page</a> alternative contact options</li>
@@ -182,6 +182,7 @@ headerContent: |
       <li><strong>Age-appropriate classes:</strong> Suitable for ages 8+, beginners welcome — no uniform required for the first lesson.</li>
       <li><strong>Progress &amp; reward:</strong> Structured belt gradings help build focus, resilience, and self-esteem.</li>
       <li><strong>Practical:</strong> First lesson free — bring comfortable clothes and a water bottle.</li>
+      <li><strong>Confidence:</strong> Many of our students start out shy or unsure — we help them grow in confidence week by week.</li>
     </ul>
   </div>
 </div>
@@ -232,9 +233,9 @@ We’re proud of the positive experiences our students and their families share.
 
 </div>
 
-## Chief Instrucor
+## Chief Instructor
 
-Simon Apen-Sadler is the Chief Instructor of Northstowe Karate Club. He is a 4th Dan black belt with over 25 years experience and has an enhanced DBS check. You can find out more on our [instructors page](/instructors)
+Simon Apen-Sadler is the Chief Instructor of Northstowe Karate Club. He is a 4th Dan black belt, with over 25 years experience and has an enhanced DBS check. Affiliated with the Japan Karate Association (JKA) and JSKE. You can find out more on our [instructors page](/instructors).
 
 ## Still have questions?
 
