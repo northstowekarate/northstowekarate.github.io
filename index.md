@@ -232,6 +232,10 @@ We’re proud of the positive experiences our students and their families share.
 
 </div>
 
+## Chief Instrucor
+
+Simon Apen-Sadler is the Chief Instructor of Northstowe Karate Club. He is a 4th Dan black belt with over 25 years experience and has an enhanced DBS check. You can find out more on our [instructors page](/instructors)
+
 ## Still have questions?
 
 Check out our [FAQ page](/faq/) to see our frequently asked questions. If that doesn't answer your question, please [reach out to us](/contact/).

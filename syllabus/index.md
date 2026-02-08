@@ -14,8 +14,6 @@ Gradings are held regularly throughout the year. Instructors provide support and
 
 For details on upcoming gradings and how to prepare, speak to your instructor or check our club communications.
 
-The [Kyu / Dan Grading Syllabus](/static/JKA-Grading-Syllabus.pdf) is also available in PDF format. The Kyu Syllabus is also available below, with english translations.
-
 In addition, you can view the [requirements for JKA Qualifications](/static/List-of-the-requirements-for-qualification-test-examinee.pdf) in PDF format.
 
 ## Kyu Grading Syllabus
@@ -224,3 +222,122 @@ Here's a short video demonstrating sanbon kumite. Note that these are the steps 
 1.  JIYŪ IPPON KUMITE (JODAN OI-ZUKI, CHŪDAN OI-ZUKI, CHŪDAN MAE-GERI, CHŪDAN YOKO-GERI KEKOMI, MAWASHI-GERI, right) - semi freestyle sparring
 
 * Examiners look for ease and naturalness of execution, for speedy and powerful kime, and for smooth, instantaneous, dynamic elasticity of delivery.
+
+## Dan Grading Syllabus (Black Belt)
+
+### 1st Dan - Shodan
+#### Ido Kihon Moving Basics
+1. SANBON RENZUKI (step in)
+2. JOUDAN AGEUKE, GYAKUZUKI (step back)
+3. CHUUDAN SOTOUKE, YOKOENPI, YOKOURAKEN UCHI, GYAKUZUKI (ZENKUTSUDACHI changing stance to KIBADACHI changing stance to ZENKUTSU DACHI) (step in)
+4. CHUUDAN UCHIUKE, KIZAMIZUKI, GYAKUZUKI (KOUKUTSUDACHI to ZENKUTSUDACHI) (step back)
+5. KOUKUTSU SHUTOU UKE, ZENKUTSU NUKITE (step in)
+6. MAEGERI (On the spot) ,MAE GERI(step in)
+7. MAWASHIGERI (step in)
+8. YOKOGERI KEAGE (in KIBA DACHI, right and left) (step in)
+9. YOKOGERI KEKOMI (ZENKUTSUDACHI)
+#### Kata
+* Choice of BASSAI DAI, KANKU DAI, ENPI or JION 
+#### Kumite - JIYU IPPON KUMITE
+* (JOUDAN JUNZUKI, CHUUDAN JUNZUKI, CHUUDAN MAEGERI, CHUUDAN YOKOGERI KEKOMI, JOUDAN MAWASHIGERI) – right and left
+  * Inform your choice of JOUDAN or CHUUDAN for MAWASHIGERI
+
+### 2nd Dan - Nidan
+#### IDO KIHON Moving basics
+1. CHUUDAN JUNZUKI (step in)
+2. JOUDAN JYUNZUKI, CHUUDAN GYAKUZUKI (step in)
+3. SANBON RENZUKI (step in)
+4. AGEUKE, SOTOUKE (with same arm), GYAKUZUKI (step back)
+5. UCHIUKE, KIZAMIZUKI, GYAKUZUKI
+(KOKUTSUDACHI to ZENKUTSUDACHI) (step in)
+6. KOUKUTSHU SHUTOUUKE, ZENKUTSU NUKITE (step back)
+7. MAEGERI (On the spot), MAEGERI(step in)
+8. YOKOGERI KEAGE, YOKOGERI KEKOMI (KIBADACHI, alternate feet)
+9. YOKOGERI KEKOMI (ZENKUTSUDACHI) (step in)
+10. MAWASHIGERI, YOKOURAKENUCHI, CHUUDAN GYAKUZUKI (step in)
+#### Kata
+* Student’s favorite KATA
+#### KUMITE
+* JIYU KUMITE (free kumite)
+
+### 3rd Dan - Sandan
+#### Kihon IDO KIHON Moving basics free KAMAE
+1. KIZAMIZUKI, JOUDAN JUNZUKI, CHUUDAN GYAKUZUKI (step in)
+2. AGEUKE, SOTOUKE (with same arm), GYAKUZUKI (step back)
+3. UCHIUKE, KIZAMIZUKI, GYAKUZUKI (KOKUTSUDACHI to ZENKUTSUDACHI)
+(step in)
+4. KOUKUTSU SHUTOUUKE, KIZAMIMAEGERI, ZENKUTSU NUKITE (step back)
+5. MAEGERI・GYAKUZUKI, YOKOGERI KEKOMI・GYAKUZUKI,
+MAWASHIGERI・GYAKUZUKI (step in)
+6. USHIROGERI (step in)
+7. MAEGERI, YOKOGERI KEKOMI, USHIROGERI
+(ZENKUTSUDACHI same feet right and left)
+#### Kata
+*  Student’s favorite KATA (Question and Answer Session)
+#### Kumite
+* JIYU KUMITE
+
+### 4th Dan - Yondan
+#### IDO KIHON Moving basics free KAMAE
+1. KIZAMIZUKI, SANBON RENZUKI (step in)
+2. AGEUKE, SOTOUKE (with same arm), GYAKUZUKI (step back)
+3. UCHIUKE, KIZAMIZUKI, GYAKUZUKI (KOKUTSUDACHI to ZENKUTSUDACHI)
+(step in)
+4. KOUKUTSU SHUTOUUKE, KIZAMIMAEGERI, ZENKUTSU NUKITE (step back)
+5. MAEGERI, JUNZUKI, GYAKUZUKI (step in)
+6. KIZAMIMAWASHIGERI, YOKOGERI KEKOMI, GYAKUZUKI (step in)
+7. MAEGERI, YOKOGERI KEKOMI, USHIROGERI
+(ZENKUTSUDACHI same feet right and left)
+#### Kata
+* Student’s favorite KATA (Question and Answer Session)
+#### Kumite
+* JIYU KUMITE
+### 5th Dan - Godan
+#### IDO KIHON Moving basics free KAMAE
+1. KIZAMIZUKI, SANBON RENZUKI (step in)
+2. AGEUKE, SOTOUKE (with same arm), GYAKUZUKI (step back)
+3. UCHIUKE, KIZAMIZUKI, GYAKUZUKI (KOKUTSUDACHI to ZENKUTSUDACHI)
+(step in)
+4. KOUKUTSU SHUTOUUKE, KIZAMIMAEGERI, ZENKUTSU NUKITE (step back)
+5. MAEGERI, JOUDAN JUNZUKI, CHUUDAN GYAKUZUKI (step in)
+6. YOKOGERI KEKOMI, GYAKUZUKI (step in)
+7. MAWASHIGERI, GYAKUZUKI (step in)
+8. MAEGERI, YOKOGERI KEKOMI, MAWASHIGERI, GYAKUZUKI (step in)
+#### Kata
+* Kata specified by examiner
+  * Chosen from HEIAN SHODAN to TEKKI SANDAN, with (Question and Answer Session)
+* Student’s favorite KATA (Question and Answer Session)
+#### Kumite
+* JIYU KUMITE
+### 6th Dan - Rokudan
+
+#### Kihon
+* Specified by examiner
+#### Kata
+* Specified by examiner from HEIAN SHODAN to TEKKI SANDAN BASSAIDAI, KANKUUDAI, ENPI, or JION (Question and Answer Session)
+* Student’s favorite KATA (Question and Answer Session)
+#### Kumite
+* JIYU KUMITE
+#### Additional
+- Question and Answer Session on technique
+- Submit a report on technique on the exam day (Submitted one week in advance)
+### 7th Dan - Nanadan
+#### Kihon
+* Specified by examiner
+#### Kata
+* Student’s favorite KATA (Question and Answer Session)
+#### Kumite
+* JIYU KUMITE
+#### Additional
+- Question and Answer Session on technique
+- Submit a report on technique on the exam day (Submitted one week in advance)
+### 8th, 9th, 10th Dan
+* Recommendation by SHIHANKAI
+
+### Notes
+(Note) ＜from 2nd Dan to 7th Dan＞
+General KUMITE for men / women the age of 60 and above are required JIYUU KUMITE or
+JIYUU IPPON KUMITE (JODAN JUNZUKI, CHUDAN JUNZUKI, CHUDAN MAEGERI, CHUDAN
+YOKOGERI KEKOMI, MAWASHIGERI) right
+※Inform JOUDAN or CHUDAN as for MAWASHIGERI
+
