@@ -16,7 +16,7 @@ For details on upcoming gradings and how to prepare, speak to your instructor or
 
 In addition, you can view the [requirements for JKA Qualifications](/static/List-of-the-requirements-for-qualification-test-examinee.pdf) in PDF format.
 
-## Kyu Grading Syllabus
+## JSKE Kyu Grading Syllabus
 
 ### 10th Kyu (White with Orange)
 #### KIHON - In place basics
@@ -223,7 +223,7 @@ Here's a short video demonstrating sanbon kumite. Note that these are the steps 
 
 * Examiners look for ease and naturalness of execution, for speedy and powerful kime, and for smooth, instantaneous, dynamic elasticity of delivery.
 
-## Dan Grading Syllabus (Black Belt)
+## JKA Dan Grading Syllabus (Black Belt)
 
 ### 1st Dan - Shodan
 #### Ido Kihon Moving Basics
