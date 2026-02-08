@@ -123,6 +123,10 @@ headerContent: |
       Regular sessions: Wednesday 6.30pm–7.30pm &amp; Sunday 3–4pm at Northstowe Community Centre (The Cabin), CB24 1FD
     </p>
 
+    <p class="fs-6 fw-semibold">
+      Beginner-friendly • DBS-checked instructors • Ages 8+
+    </p>
+
     <!-- Call-to-Action -->
     <a href="/lesson-booking/" class="btn btn-brown btn-lg px-4 mb-3">Book a free class</a>
     <!-- Slogan -->
