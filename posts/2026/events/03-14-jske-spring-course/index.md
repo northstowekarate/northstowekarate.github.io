@@ -38,10 +38,10 @@ headerContent: |
 A one-day training course open to all grades run by Japan Shotokan Karate England. Expect a mix of kihon, kata and kumite sessions led by Roy Tomlin Sensei (7th Dan) and Ken Hori Sensei (6th Dan).
 
 **Typical schedule (TBC):**
-- 09:30 — Doors open / registration
-- 10:00–12:30 — Morning training
-- 12:30–13:30 — Lunch break
-- 13:30–16:00 — Afternoon training
+- 11:00 — Doors open / registration
+- 11:20–13:00 — Morning training
+- 13:00–13:45 — Lunch break
+- 13:45–15:15 — Afternoon training
 
 **Who should attend:**
 Open to beginners through senior grades — instructors tailor sessions to provide useful technical detail at multiple levels.
