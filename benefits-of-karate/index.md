@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: "Northstowe Karate Club Benefits: Focus, Confidence and Discipline"
+title: "Benefits | Why Join Us? | Learn Focus, Confidence and Discipline"
 description: "Karate at Northstowe Karate Club improves confidence, focus, fitness, and self-defence skills for all ages."
 date: "git Last Modified"
 priority: 0.8
