@@ -22,18 +22,6 @@ headerContent: |
             "startTime": "18:30",
             "endTime": "19:30",
             "scheduleTimezone": "Europe/London",
-            "location": {
-              "@type": "Place",
-              "name": "Northstowe Community Centre (The Cabin)",
-              "address": {
-                "@type": "PostalAddress",
-                "streetAddress": "1 The Green",
-                "addressLocality": "Northstowe",
-                "addressRegion": "Cambridge",
-                "postalCode": "CB24 1FD",
-                "addressCountry": "GB"
-              }
-            }
           },
           {
             "@type": "Schedule",
@@ -41,18 +29,6 @@ headerContent: |
             "startTime": "15:00",
             "endTime": "16:00",
             "scheduleTimezone": "Europe/London",
-                      "location": {
-              "@type": "Place",
-              "name": "Northstowe Community Centre (The Cabin)",
-              "address": {
-                "@type": "PostalAddress",
-                "streetAddress": "1 The Green",
-                "addressLocality": "Northstowe",
-                "addressRegion": "Cambridge",
-                "postalCode": "CB24 1FD",
-                "addressCountry": "GB"
-              }
-            }
           }
         ],
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
