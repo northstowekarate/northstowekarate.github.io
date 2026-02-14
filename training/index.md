@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: "Karate Classes & Pricing at Northstowe Karate Club"
+title: "Northstowe Karate Class Schedule"
 description: "Join Shotokan Karate classes in Northstowe for beginners to black belts. Sessions on Wednesdays 6:30–7:30pm and Sundays 3–4pm. First lesson free."
 date: "git Last Modified"
 changeFrequency: weekly
@@ -85,7 +85,7 @@ headerContent: |
 
 priority: 0.9
 ---
-# Karate Classes & Fees at Northstowe Karate Club
+# Karate Classes at Northstowe Karate Club
 
 ## Regular Classes 
 
@@ -96,7 +96,7 @@ There are no monthly minimums — you only pay for the sessions you attend.
 
 The first lesson is always free, so you can try it out and see if you enjoy the lesson. Prices are £4 per session for adults and £3 per session for children.
 
-There are some additional fees such as membership. You can find out more about [our fees](#fees) below.
+There are some additional fees such as membership. You can find out more on our [fees](/training/fees/) page.
 
 <section id="upcoming-events" class="mb-4" style="display:none;">
 
@@ -149,31 +149,6 @@ There are some additional fees such as membership. You can find out more about [
   </details>
 </section>
 
-
-<h2 id="fees">Fees</h2>
-
-There are no monthly minimums — you only pay for the sessions you attend.
-
-The first lesson is always free, so you can try it out and see if you enjoy the lesson. Prices are £4 per session for adults and £3 per session for children.
-
-I'd like families to be able to train together and understand it can be expensive when training in a large group. To combat this, I'm limiting the price to £10 for groups of three and £12 for groups of four.
-
-Payment by bank transfer is preferred. Please [contact us](/contact/) for details.
-
-#### Cancellation
-
-Should you need to cancel, please do so with at least 24 hours' notice by removing your name from the spreadsheet and emailing the club. If you cancel within 24 hours' notice or are a no-show, you will be charged for the lesson.
-
-### Membership Fees
-
-All students who train on a regular basis will need to join the [Japan Karate Association](https://www.jka.or.jp/en/) and get a licence. The licence fee is £35 / year. It includes a licence book, covers insurance and allows you to grade.
-
-### Grading Fees
-
-To get your next belt/grade, you must take a grading. This consists of you performing your techniques in front of an examiner, who will assess if you have reached the required level. Fees will vary depending on where the grading takes place and may include a training session beforehand. Kyu gradings (colour belts) are approximately £25.
-
-Dan gradings (black belt) generally require examiners from JKA HQ, and can be upwards of £100.
-
 ## Locations
 <h3 id="location-cabin">The Cabin</h3>
 
@@ -182,16 +157,6 @@ Dan gradings (black belt) generally require examiners from JKA HQ, and can be up
 Parking is available outside. Additional parking can be found nearby at either Pathfinder Primary School or Longstanton Park and Ride.
 
 <iframe title="Map to Northstowe Karate Club" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2440.596309193821!2d0.0479411!3d52.2870305!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d875d0a30dc935%3A0xdf1f6f7f737e8109!2sNorthstowe%20Karate%20Club!5e0!3m2!1sen!2suk!4v1767020089596!5m2!1sen!2suk" width="600" height="450" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-## Funding
-Northstowe Karate Club has been awarded funding to help with the running costs of the club. The club wants to be as accessible as possible, and has allocated some of this funding towards helping those on lower incomes attend. We are able to support up to 4 students with:
-
-* 1 annual membership
-* A dogi (uniform) plus belt
-* First grading
-
-If you would like to apply, please [get in touch](/contact/) for a confidential conversation. The application is self‑assessed, so no evidence is required. Unfortunately, we cannot assist with lesson fees, but we may be able to reach an agreement, so please get in touch.
-
 
 <!-- training data is served from /static/data/upcoming-events.json (canonical source for events and sessions) -->
 <script>
