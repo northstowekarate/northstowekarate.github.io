@@ -21,14 +21,14 @@ headerContent: |
             "byDay": "Wednesday",
             "startTime": "18:30",
             "endTime": "19:30",
-            "scheduleTimezone": "Europe/London",
+            "scheduleTimezone": "Europe/London"
           },
           {
             "@type": "Schedule",
             "byDay": "Sunday",
             "startTime": "15:00",
             "endTime": "16:00",
-            "scheduleTimezone": "Europe/London",
+            "scheduleTimezone": "Europe/London"
           }
         ],
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
