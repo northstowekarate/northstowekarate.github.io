@@ -91,6 +91,8 @@ priority: 0.9
 
 We train regularly at [The Cabin, Northstowe](https://maps.app.goo.gl/wXcMAGknwyPFEgMp6) **Wednesdays 6.30-7.30pm** and on **Sundays 3-4pm**.
 
+Still unsure? You can find out more about our typical class structure on our [what to expect page](/training/what-to-expect/).
+
 ## Fees at a glance
 There are no monthly minimums — you only pay for the sessions you attend.
 
