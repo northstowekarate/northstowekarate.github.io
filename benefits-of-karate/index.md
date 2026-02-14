@@ -1,12 +1,12 @@
 ---
 layout: base.njk
-title: "Benefits | Why Join Us? | Learn Focus, Confidence and Discipline"
+title: "Why Join Us? | Learn Focus, Confidence and Discipline"
 description: "Karate at Northstowe Karate Club improves confidence, focus, fitness, and self-defence skills for all ages."
 date: "git Last Modified"
 priority: 0.8
 changeFrequency: yearly
 ---
-# Benefits of Joining Northstowe Karate Club
+# Why Join Northstowe Karate Club
 
 Karate isn’t just about kicks and punches - it offers a wide range of benefits that go beyond physical fitness. At Northstowe Karate Club, students gain valuable skills that support personal growth, health, and community.
 
