@@ -17,6 +17,15 @@ The first lesson is always free, so you can try it out and see if you enjoy the 
 ### Group Discounts
 Families can train together at a discounted rate, as training as a large familiy can be expensive. Max £10 for a family of 3, and £12 for a family of 4. 
 
+## Dogi (Karate Uniforms)
+
+Beginner uniforms can be bought through the club and range from £15-£25, based on size. You do not have to purchase through the club. Our only requirement is that the dogi is **white**. We usually recommend one of the following:
+
+* [Blitz Children's Beginner Karate gi](https://www.blitzsport.com/karate/karate-suits-uniforms/blitz-kids-lightweight-karate-gi)
+* [Blitz Adults Beginner Karate gi](https://www.blitzsport.com/karate/karate-suits-uniforms/blitz-adult-lightweight-karate-gi)
+* [Bytomic Children's Beginner karate gi](https://www.bytomic.com/products/white-bytomic-red-label-7oz-lightweight-kids-karate-uniform)
+* [Bytomic Adult Beginner karate gi](https://www.bytomic.com/products/white-bytomic-red-label-7oz-lightweight-adult-karate-uniform)
+
 ## Gradings
 
 To get your next belt/grade, you must take a grading. This consists of you performing your techniques in front of an examiner, who will assess if you have reached the required level. Fees will vary depending on where the grading takes place and may include a training session beforehand. Kyu gradings (colour belts) are approximately £25.
