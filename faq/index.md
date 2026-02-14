@@ -124,7 +124,7 @@ Here are some of our frequently asked questions to help you find out more about 
 We train regularly at the Northstowe Community Centre. For more information on training times, view our [schedule](/training/).
 
 ## How much does it cost?
-Your first class is free. After that, we offer pay-per-session plus annual membership. You can view a full breakdown of costs on our [fees](/training/) page.
+Your first class is free. After that, we offer pay-per-session plus annual membership. You can view a full breakdown of costs on our [fees](/training/fees/) page.
 
 ## Is Karate Right for me?
 
