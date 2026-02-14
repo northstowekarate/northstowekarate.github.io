@@ -201,7 +201,7 @@ Parents often tell us they appreciate the balance we strike: structured, traditi
 
 ## Our Teaching Approach
 
-We teach with a focus on clarity, encouragement, and respect — values that shape every lesson. For the full teaching approach and how it works in practice, see our [About page](/about/).
+We teach with a focus on tradition and respect — values that shape every lesson. For the full teaching approach and how it works in practice, see our [About page](/about/).
 
 ## What parents and students say about our classes
 
