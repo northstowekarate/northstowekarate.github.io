@@ -1,7 +1,7 @@
 ---
 layout: base.njk
-title: "Contact Us | Book Classes or Ask Questions"
-description: "Contact Northstowe Karate Club to book your first class or ask questions. Reach us via email or social media."
+title: "Contact Northstowe Karate Club | Book Classes near Cambridge"
+description: "Contact Northstowe Karate Club to book your first class or ask questions. Serving Northstowe, Cambridge, and surrounding areas."
 date: "git Last Modified"
 priority: 0.9
 changeFrequency: yearly

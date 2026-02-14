@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: "Northstowe Karate Class Schedule"
+title: "Northstowe Karate Class Schedule | Kids & Adults"
 description: "Join Shotokan Karate classes in Northstowe for beginners to black belts. Sessions on Wednesdays 6:30–7:30pm and Sundays 3–4pm. First lesson free."
 date: "git Last Modified"
 changeFrequency: weekly
@@ -21,14 +21,38 @@ headerContent: |
             "byDay": "Wednesday",
             "startTime": "18:30",
             "endTime": "19:30",
-            "scheduleTimezone": "Europe/London"
+            "scheduleTimezone": "Europe/London",
+            "location": {
+              "@type": "Place",
+              "name": "Northstowe Community Centre (The Cabin)",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "1 The Green",
+                "addressLocality": "Northstowe",
+                "addressRegion": "Cambridge",
+                "postalCode": "CB24 1FD",
+                "addressCountry": "GB"
+              }
+            }
           },
           {
             "@type": "Schedule",
             "byDay": "Sunday",
             "startTime": "15:00",
             "endTime": "16:00",
-            "scheduleTimezone": "Europe/London"
+            "scheduleTimezone": "Europe/London",
+                      "location": {
+              "@type": "Place",
+              "name": "Northstowe Community Centre (The Cabin)",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "1 The Green",
+                "addressLocality": "Northstowe",
+                "addressRegion": "Cambridge",
+                "postalCode": "CB24 1FD",
+                "addressCountry": "GB"
+              }
+            }
           }
         ],
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
