@@ -116,19 +116,21 @@ headerContent: |
 
     <!-- Supporting Text -->
     <p class="lead mb-4">
-      Family-friendly Shotokan Karate classes for ages 8+ and adults — safe, supportive training that builds confidence, focus, and fitness. First lesson free.
+      Family-friendly Shotokan Karate classes for ages 8+ and adults — taught by experienced instructors in a safe, supportive environment that builds confidence, focus, and fitness. First lesson free.
     </p>
+    
     <!-- Class Details -->
     <p class="fs-6 fw-semibold">
       Regular sessions: Wednesday 6.30pm–7.30pm &amp; Sunday 3–4pm at Northstowe Community Centre (The Cabin), CB24 1FD
     </p>
 
     <p class="fs-6 fw-semibold">
-      Beginner-friendly • DBS-checked instructors • Ages 8+
+      Beginner-friendly - no experience needed • DBS-checked instructors • Ages 8+
     </p>
 
     <!-- Call-to-Action -->
     <a href="/lesson-booking/" class="btn btn-brown btn-lg px-4 mb-3">Book a free class</a>
+
     <!-- Slogan -->
     <p class="fs-6 fw-semibold">
       Tradition • Respect • Honour
