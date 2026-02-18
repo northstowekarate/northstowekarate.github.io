@@ -61,4 +61,4 @@ University of Hertfordshire Sports Village has on-site parking and refreshments.
 ## Registration & further information
 [Sign up today!](https://forms.gle/HB6mMkPKf3sj2yE2A)
 
-For more information checkout the [JSKE event page](https://jske.co.uk/private-jske-joint-training-course-with-dan-grading-assessment-14th-march-2026/)
+For more information, visit the [JSKE event page](https://jske.co.uk/private-jske-joint-training-course-with-dan-grading-assessment-14th-march-2026/)
