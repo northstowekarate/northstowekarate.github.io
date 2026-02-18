@@ -50,6 +50,9 @@ A one-day training course open to all grades run by Japan Shotokan Karate Englan
 ## Who should attend
 Open to all JSKE members, from beginners through senior grades — instructors tailor sessions to provide useful technical detail at multiple levels. You must have a valid license.
 
+### Grading Assessment
+Those wishing to grade this year should make every effort to attend. There will be a grading assessment. You will be able to get advice from senior grades about your readiness for taking a dan grade.
+
 ## Travel & facilities
 University of Hertfordshire Sports Village has on-site parking and refreshments.
 
@@ -57,3 +60,5 @@ University of Hertfordshire Sports Village has on-site parking and refreshments.
 
 ## Registration & further information
 [Sign up today!](https://forms.gle/HB6mMkPKf3sj2yE2A)
+
+For more information checkout the [JSKE event page](https://jske.co.uk/private-jske-joint-training-course-with-dan-grading-assessment-14th-march-2026/)
