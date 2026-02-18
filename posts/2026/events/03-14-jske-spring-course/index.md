@@ -32,24 +32,28 @@ headerContent: |
   </script>
 ---
 
-# 5th JSKE Spring Course — 14 Mar 2026
+# JSKE Joint Training Course with Dan Grading Assessment — 14 Mar 2026
 
-**Overview:**
+## Overview
 A one-day training course open to all grades run by Japan Shotokan Karate England. Expect a mix of kihon, kata and kumite sessions led by Roy Tomlin Sensei (7th Dan) and Ken Hori Sensei (6th Dan).
 
-**Typical schedule (TBC):**
+## Schedule
 - 11:00 — Doors open / registration
-- 11:20–13:00 — Morning training
-- 13:00–13:45 — Lunch break
-- 13:45–15:15 — Afternoon training
+- 11:30–13:00 — Morning training
+- 13:00–14:00 — Lunch break
+- 14:00–15:30 — Afternoon training
 
-**Who should attend:**
-Open to beginners through senior grades — instructors tailor sessions to provide useful technical detail at multiple levels.
+## Fees
+* £10 for [advanced booking](https://forms.gle/HB6mMkPKf3sj2yE2A)
+* £15 on the door
 
-**Travel & facilities:**
+## Who should attend
+Open to all JSKE members, from beginners through senior grades — instructors tailor sessions to provide useful technical detail at multiple levels. You must have a valid license.
+
+## Travel & facilities
 University of Hertfordshire Sports Village has on-site parking and refreshments.
 
 <iframe title="Map to University of Hertforshire Sports Village" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2469.49142803625!2d-0.252698823328005!3d51.760622671871985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48763c60e2757d05%3A0x113654ac382f54cf!2sHertfordshire%20Sports%20Village!5e0!3m2!1sen!2suk!4v1768938034566!5m2!1sen!2suk" width="600" height="450" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-**Registration & further information:**
-Booking will open closer to the time.
+## Registration & further information
+[Sign up today!](https://forms.gle/HB6mMkPKf3sj2yE2A)
