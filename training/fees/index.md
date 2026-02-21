@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: "Our Fees - First Lesson Free. £3-4 per class. No monthy fees"
-description: "Join Shotokan Karate classes in Northstowe for beginners to black belts. Sessions on Wednesdays 6:30–7:30pm and Sundays 3–4pm. First lesson free."
+description: "Other fees include annual membership (£35), uniforms (£15-£25). Gradings are typically held 3 times per year and are approx £25."
 date: "git Last Modified"
 changeFrequency: weekly
 priority: 0.9
@@ -28,11 +28,11 @@ Beginner uniforms can be bought through the club and range from £15-£25, based
 
 ## Gradings
 
-To get your next belt/grade, you must take a grading. This consists of you performing your techniques in front of an examiner, who will assess if you have reached the required level. Fees will vary depending on where the grading takes place and may include a training session beforehand. Kyu gradings (colour belts) are approximately £25.
+To get your next belt/grade, you must take a grading. This consists of you performing your techniques in front of an examiner, who will assess if you have reached the required level. Fees will vary depending on where the grading takes place and may include a training session beforehand. Kyu gradings (colour belts) are approximately £25. There are generally 3 gradings per year.
 
 ### Dan gradings
 
-Dan gradings (black belt) generally require examiners from JKA HQ, and can be upwards of £100. These are typically held at national and internation courses in Windsor and Paisley.
+Dan gradings (black belt) generally require examiners from JKA HQ, and can be upwards of £100. These are typically held at national and internation courses, often in Windsor and Paisley.
 
 ## Funding
 Northstowe Karate Club has been awarded funding to help with the running costs of the club. The club wants to be as accessible as possible, and has allocated some of this funding towards helping those on lower incomes attend. We are able to support up to 4 students with:
