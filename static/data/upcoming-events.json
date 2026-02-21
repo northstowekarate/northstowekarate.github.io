@@ -20,6 +20,86 @@
     "type": "lesson"
   },
   {
+    "id": "Northstowe Karate Club Training",
+    "datetime": "2026-03-01T15:00:00",
+    "endDatetime": "2026-03-01T16:00:00",
+    "label": "Training",
+    "location": "The Cabin",
+    "locationLink": "#location-cabin",
+    "notes": "",
+    "type": "lesson"
+  },
+  {
+    "id": "Northstowe Karate Club Training",
+    "datetime": "2026-03-04T18:30:00",
+    "endDatetime": "2026-03-04T20:00:00",
+    "label": "Training",
+    "location": "The Cabin",
+    "locationLink": "#location-cabin",
+    "notes": "",
+    "type": "lesson"
+  },
+  {
+    "id": "Northstowe Karate Club Training",
+    "datetime": "2026-03-08T15:00:00",
+    "endDatetime": "2026-03-08T16:00:00",
+    "label": "Training",
+    "location": "The Cabin",
+    "locationLink": "#location-cabin",
+    "notes": "",
+    "type": "lesson"
+  },
+  {
+    "id": "Northstowe Karate Club Training",
+    "datetime": "2026-03-11T18:30:00",
+    "endDatetime": "2026-03-11T20:00:00",
+    "label": "Training",
+    "location": "The Cabin",
+    "locationLink": "#location-cabin",
+    "notes": "",
+    "type": "lesson"
+  },
+  {
+    "id": "Northstowe Karate Club Training",
+    "datetime": "2026-03-15T15:00:00",
+    "endDatetime": "2026-03-15T16:00:00",
+    "label": "Training",
+    "location": "The Cabin",
+    "locationLink": "#location-cabin",
+    "notes": "",
+    "type": "lesson"
+  },
+  {
+    "id": "Northstowe Karate Club Training",
+    "datetime": "2026-03-18T18:30:00",
+    "endDatetime": "2026-03-18T20:00:00",
+    "label": "Training",
+    "location": "The Cabin",
+    "locationLink": "#location-cabin",
+    "notes": "Limited space - half hall",
+    "type": "lesson"
+  },
+  {
+    "id": "Northstowe Karate Club Training",
+    "datetime": "2026-03-22T15:00:00",
+    "endDatetime": "2026-03-22T16:00:00",
+    "label": "Training",
+    "location": "The Cabin",
+    "locationLink": "#location-cabin",
+    "notes": "",
+    "type": "lesson"
+  },
+  {
+    "id": "Northstowe Karate Club Training",
+    "datetime": "2026-03-25T18:30:00",
+    "endDatetime": "2026-03-25T20:00:00",
+    "label": "Training",
+    "location": "The Cabin",
+    "locationLink": "#location-cabin",
+    "notes": "",
+    "type": "lesson"
+  },
+  {
     "id": "5th JSKE Spring Course - 2026-03-14",
     "datetime": "2026-03-14T11:00:00",
     "endDatetime": "2026-03-14T15:30:00",
