@@ -73,5 +73,5 @@ Gradings happen several times per year. A grading is essentially a formal exam w
 
 ## Events
 
-We also have severl courses and events throughout the year that allow students to train with senior instructors and learn about advanced concepts.
+We also have severl [courses and events](/events/) throughout the year that allow students to train with senior instructors and learn about advanced concepts.
 
