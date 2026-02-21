@@ -198,6 +198,29 @@ Parking is available outside. Additional parking can be found nearby at either P
   const formatDate = d => d.toLocaleDateString(cfg.locale, { weekday: 'short', day: 'numeric', month: 'short', timeZone: cfg.timeZone });
   const formatTime = d => d.toLocaleTimeString(cfg.locale, { hour: '2-digit', minute: '2-digit', timeZone: cfg.timeZone });
 
+  const formatDateTime = (start, end) => {
+    const startDate = new Date(start);
+    const endDate = end ? new Date(end) : null;
+
+    const startFmt = startDate.toLocaleDateString('en-GB', {
+      weekday: 'short', day: 'numeric', month: 'short', timeZone: 'Europe/London'
+    });
+    const startTime = start.includes('T') ? startDate.toLocaleTimeString('en-GB', {
+      hour: '2-digit', minute: '2-digit', timeZone: 'Europe/London'
+    }) : '';
+
+    const endFmt = endDate ? endDate.toLocaleDateString('en-GB', {
+      weekday: 'short', day: 'numeric', month: 'short', timeZone: 'Europe/London'
+    }) : '';
+    const endTime = endDate && end.includes('T') ? endDate.toLocaleTimeString('en-GB', {
+      hour: '2-digit', minute: '2-digit', timeZone: 'Europe/London'
+    }) : '';
+
+    return endDate && (startDate.toDateString() !== endDate.toDateString())
+      ? `${startFmt} ${startTime ? 'at ' + startTime : ''} — ${endFmt} ${endTime ? 'at ' + endTime : ''}`
+      : `${startFmt}${startTime ? ' at ' + startTime : ''}${endTime ? ' — ' + endTime : ''}`;
+  };
+
   function badgeHtml(ev){
     if(!ev) return '';
     if(ev.type === 'grading') return `<span class="badge badge-brown ms-2">Grading</span>`;
@@ -225,7 +248,7 @@ Parking is available outside. Additional parking can be found nearby at either P
       specialEl.innerHTML = within.map(ev => `
         <div class="card p-3 mb-2 event-highlight">
           <div><strong>${linkLabel(ev)}</strong> ${badgeHtml(ev)}</div>
-          <div class="small text-muted">${formatDate(ev.date)}${(ev.datetime && ev.datetime.includes('T')) ? ' — ' + formatTime(ev.date) + (ev.endDate ? ' to ' + formatTime(ev.endDate) : '') : ''} | ${ev.locationLink ? `<a href="${ev.locationLink}">${ev.location}</a>` : ev.location}</div>
+          <div class="small text-muted">${formatDateTime(ev.datetime, ev.endDatetime)} | ${ev.locationLink ? `<a href="${ev.locationLink}">${ev.location}</a>` : ev.location}</div>
           ${ev.notes ? `<div class="mt-1 text-danger small">${ev.notes}</div>` : ''}
           ${ev.eventLink ? `<div class="mt-2"><a class="btn btn-brown btn-sm" href="${ev.eventLink}">Event details</a></div>` : ''}
         </div>
@@ -237,7 +260,7 @@ Parking is available outside. Additional parking can be found nearby at either P
       specialEl.innerHTML = `
         <div class="card p-3 mb-2 event-highlight">
           <div><strong>${linkLabel(ev)}</strong> ${badgeHtml(ev)}</div>
-          <div class="small text-muted">${formatDate(ev.date)}${(ev.datetime && ev.datetime.includes('T')) ? ' — ' + formatTime(ev.date) + (ev.endDate ? ' to ' + formatTime(ev.endDate) : '') : ''} | ${ev.locationLink ? `<a href="${ev.locationLink}">${ev.location}</a>` : ev.location}</div>
+          <div class="small text-muted">${formatDateTime(ev.datetime, ev.endDatetime)} | ${ev.locationLink ? `<a href="${ev.locationLink}">${ev.location}</a>` : ev.location}</div>
           ${ev.notes ? `<div class="mt-1 text-danger small">${ev.notes}</div>` : ''}
           ${ev.eventLink ? `<div class="mt-2"><a class="btn btn-brown btn-sm" href="${ev.eventLink}">Event details</a></div>` : '<div class="mt-2"><a class="btn btn-link" href="/events/">See all events</a></div>'}
         </div>
@@ -256,7 +279,7 @@ Parking is available outside. Additional parking can be found nearby at either P
         <strong>Next session:</strong>
         <div class="mt-1">
           ${nextRoutine.eventLink ? `<a href="${nextRoutine.eventLink}">${nextRoutine.label}</a>` : `${nextRoutine.label}`} ${badgeHtml(nextRoutine)}
-          <div class="small text-muted">${formatDate(nextRoutine.date)} — ${formatTime(nextRoutine.date)}${nextRoutine.endDate ? ' to ' + formatTime(nextRoutine.endDate) : ''}</div>
+          <div class="small text-muted">${formatDateTime(nextRoutine.datetime, nextRoutine.endDatetime)}</div>
           ${nextRoutine.notes ? `<div class="text-danger small mt-1">${nextRoutine.notes}</div>` : ''}
           <div class="mt-2"><a class="btn btn-brown btn-sm" href="/lesson-booking/" role="button">Book a free class</a></div>
         </div>

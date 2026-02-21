@@ -34,13 +34,34 @@ Our club will attend a mix of local, national and international events. Below ar
     if(!items.length){ el.innerHTML = '<p class="small text-muted">No upcoming events scheduled at the moment.</p>'; return; }
 
     el.innerHTML = items.map(ev => {
-      const date = ev.date;
-      const fmt = date.toLocaleDateString('en-GB',{weekday:'short', day:'numeric', month:'short', timeZone:'Europe/London'});
-      const time = ev.datetime && ev.datetime.includes('T') ? date.toLocaleTimeString('en-GB',{hour:'2-digit', minute:'2-digit', timeZone:'Europe/London'}) : '';
-      const badge = ev.type === 'grading' ? '<span class="badge badge-brown ms-2">Grading</span>' : (ev.type === 'gasshuku' ? '<span class="badge badge-brown ms-2">Gasshuku</span>' : (ev.highlight ? '<span class="badge bg-warning text-dark ms-2">Event</span>' : ''));
+      const startDate = new Date(ev.datetime);
+      const endDate = ev.endDatetime ? new Date(ev.endDatetime) : null;
+
+      const startFmt = startDate.toLocaleDateString('en-GB', {
+        weekday: 'short', day: 'numeric', month: 'short', timeZone: 'Europe/London'
+      });
+      const startTime = ev.datetime.includes('T') ? startDate.toLocaleTimeString('en-GB', {
+        hour: '2-digit', minute: '2-digit', timeZone: 'Europe/London'
+      }) : '';
+
+      const endFmt = endDate ? endDate.toLocaleDateString('en-GB', {
+        weekday: 'short', day: 'numeric', month: 'short', timeZone: 'Europe/London'
+      }) : '';
+      const endTime = endDate && ev.endDatetime.includes('T') ? endDate.toLocaleTimeString('en-GB', {
+        hour: '2-digit', minute: '2-digit', timeZone: 'Europe/London'
+      }) : '';
+
+      const dateDisplay = endDate && (startDate.toDateString() !== endDate.toDateString())
+        ? `${startFmt} ${startTime ? 'at ' + startTime : ''} — ${endFmt} ${endTime ? 'at ' + endTime : ''}`
+        : `${startFmt}${startTime ? ' at ' + startTime : ''}${endTime ? ' — ' + endTime : ''}`;
+
+      const badge = ev.type === 'grading' ? '<span class="badge badge-brown ms-2">Grading</span>' :
+        (ev.type === 'gasshuku' ? '<span class="badge badge-brown ms-2">Gasshuku</span>' :
+        (ev.highlight ? '<span class="badge bg-warning text-dark ms-2">Event</span>' : ''));
+
       return `<div class="card p-3 mb-3 event-item">
         <div><strong>${ev.eventLink ? `<a href="${ev.eventLink}">${ev.label}</a>` : ev.label}</strong> ${badge}</div>
-        <div class="small text-muted mt-1">${fmt}${time ? ' — '+time : ''} ${ev.location ? '| ' + (ev.locationLink ? `<a href="${ev.locationLink}">${ev.location}</a>` : ev.location) : ''}</div>
+        <div class="small text-muted mt-1">${dateDisplay} ${ev.location ? '| ' + (ev.locationLink ? `<a href="${ev.locationLink}">${ev.location}</a>` : ev.location) : ''}</div>
         ${ev.notes ? `<div class="mt-2 small">${ev.notes}</div>` : ''}
         ${ev.eventLink ? `<div class="mt-2"><a class="btn btn-brown btn-sm" href="${ev.eventLink}">Event details</a></div>` : ''}
       </div>`;
