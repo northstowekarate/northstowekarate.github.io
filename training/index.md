@@ -217,8 +217,8 @@ Parking is available outside. Additional parking can be found nearby at either P
     }) : '';
 
     return endDate && (startDate.toDateString() !== endDate.toDateString())
-      ? `${startFmt} ${startTime ? 'at ' + startTime : ''} — ${endFmt} ${endTime ? 'at ' + endTime : ''}`
-      : `${startFmt}${startTime ? ' at ' + startTime : ''}${endTime ? ' — ' + endTime : ''}`;
+      ? `${startFmt} ${startTime ? + startTime : ''} — ${endFmt} ${endTime ? endTime : ''}`
+      : `${startFmt}${startTime ? startTime : ''}${endTime ? ' — ' + endTime : ''}`;
   };
 
   function badgeHtml(ev){

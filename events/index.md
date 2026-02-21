@@ -52,8 +52,8 @@ Our club will attend a mix of local, national and international events. Below ar
       }) : '';
 
       const dateDisplay = endDate && (startDate.toDateString() !== endDate.toDateString())
-        ? `${startFmt} ${startTime ? 'at ' + startTime : ''} — ${endFmt} ${endTime ? 'at ' + endTime : ''}`
-        : `${startFmt}${startTime ? ' at ' + startTime : ''}${endTime ? ' — ' + endTime : ''}`;
+        ? `${startFmt} ${startTime ? startTime : ''} — ${endFmt} ${endTime ? endTime : ''}`
+        : `${startFmt}${startTime ? startTime : ''}${endTime ? ' — ' + endTime : ''}`;
 
       const badge = ev.type === 'grading' ? '<span class="badge badge-brown ms-2">Grading</span>' :
         (ev.type === 'gasshuku' ? '<span class="badge badge-brown ms-2">Gasshuku</span>' :
