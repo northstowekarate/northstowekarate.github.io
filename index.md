@@ -53,7 +53,7 @@ headerContent: |
           "https://instagram.com/northstowekarate"
         ],
         "telephone": "+447596922670",
-        "openingHours": "Wednesday 18:30-19:30, Sunday 15:00-16:00",
+        "openingHours": "Wednesday 18:30-20:00, Sunday 15:00-16:00",
         "priceRange": "£",
         "description": "Shotokan Karate classes for age 8+ in Northstowe, Cambridge and Cambridgeshire.",
         "knowsAbout": [
@@ -121,7 +121,7 @@ headerContent: |
     
     <!-- Class Details -->
     <p class="fs-6 fw-semibold">
-      Regular sessions: Wednesday 6.30pm–7.30pm &amp; Sunday 3–4pm at Northstowe Community Centre (The Cabin), CB24 1FD
+      Regular sessions: Wednesday 6.30pm–8pm &amp; Sunday 3–4pm at Northstowe Community Centre (The Cabin), CB24 1FD
     </p>
 
     <p class="fs-6 fw-semibold">
@@ -164,7 +164,7 @@ headerContent: |
 <div class="card">
   <div class="card-body">
     <ul class="info-box-list">
-      <li><strong>🕒 When:</strong> Wednesdays 6.30–7.30pm &amp; Sundays 3–4pm. View our <a href="/training/">training schedule</a> for more information.</li>
+      <li><strong>🕒 When:</strong> Wednesdays 6.30–8pm &amp; Sundays 3–4pm. View our <a href="/training/">training schedule</a> for more information.</li>
       <li><strong>📍 Where:</strong> Northstowe Community Centre (The Cabin), CB24 1FD (<a href="https://maps.app.goo.gl/wXcMAGknwyPFEgMp6" target="_blank" rel="noopener noreferrer">View map</a>)</li>
       <li><strong>👪 Ages:</strong> Children (8+), Adults &amp; families welcome, from complete beginners to advanced</li>
       <li><strong>💰 Fees:</strong> First lesson free. £3-4 per person per session. Membership required for permanent students. See our <a href="/training/#fees">fees page</a> for full details.</li>

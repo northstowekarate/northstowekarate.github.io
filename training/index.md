@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: "Northstowe Karate Class Schedule | Kids & Adults"
-description: "Join Shotokan Karate classes in Northstowe for beginners to black belts. Sessions on Wednesdays 6:30–7:30pm and Sundays 3–4pm. First lesson free."
+description: "Join Shotokan Karate classes in Northstowe for beginners to black belts. Sessions on Wednesdays 6:30–8pm and Sundays 3–4pm. First lesson free."
 date: "git Last Modified"
 changeFrequency: weekly
 headerContent: |
@@ -20,7 +20,7 @@ headerContent: |
             "@type": "Schedule",
             "byDay": "Wednesday",
             "startTime": "18:30",
-            "endTime": "19:30",
+            "endTime": "20:00",
             "scheduleTimezone": "Europe/London"
           },
           {
@@ -63,7 +63,7 @@ headerContent: |
         "hasMap": "https://maps.app.goo.gl/wXcMAGknwyPFEgMp6",
         "url": "https://www.northstowekarate.com",
         "telephone": "+447596922670",
-        "openingHours": "Wednesday 18:30-1930, Sunday 15:00-16:00",
+        "openingHours": "Wednesday 18:30-20:00, Sunday 15:00-16:00",
         "priceRange": "£",
         "amenityFeature": [
           {
@@ -89,7 +89,7 @@ priority: 0.9
 
 ## Regular Classes 
 
-We train regularly at [The Cabin, Northstowe](https://maps.app.goo.gl/wXcMAGknwyPFEgMp6) **Wednesdays 6.30-7.30pm** and on **Sundays 3-4pm**.
+We train regularly at [The Cabin, Northstowe](https://maps.app.goo.gl/wXcMAGknwyPFEgMp6) **Wednesdays 6.30-8pm** and on **Sundays 3-4pm**.
 
 Still unsure? You can find out more about our typical class structure on our [what to expect page](/training/what-to-expect/).
 
