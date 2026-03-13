@@ -47,7 +47,7 @@ Please note the grading will be at *Cambridge University Sports Centre, Philippa
 
 Free parking is available in [Car Park 8](https://www.sport.cam.ac.uk/about-us/car-parking). Please do not use the main car park as the max stay is 3 hours.
 
-## **Expected Schedule**
+## **Schedule**
 * Purple & above training starts at 1pm
 * Green and below training starts at 2pm
 * The grading starts at 3pm
