@@ -45,6 +45,8 @@ Please note the grading will be at *Cambridge University Sports Centre, Philippa
 
 <iframe title="Map to Cambridge University Sports Centre"src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19559.362589202145!2d0.047490074316403806!3d52.208495400000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8774861d9ffdf%3A0xb73d0c1fc075bba2!2sSports%20Centre%20and%20Gym%2C%20University%20of%20Cambridge!5e0!3m2!1sen!2suk!4v1768936658391!5m2!1sen!2suk" width="600" height="450" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+Free parking is available in [Car Park 8](https://www.sport.cam.ac.uk/about-us/car-parking). Please do not use the main car park as the max stay is 3 hours.
+
 ## **Expected Schedule**
 * Purple & above training starts at 1pm
 * Green and below training starts at 2pm
