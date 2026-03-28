@@ -152,7 +152,7 @@ There are some additional fees such as membership. You can find out more on our 
 </section>
 
 ## Locations
-<h3 id="location-cabin">The Unity Centre</h3>
+<h3 id="location-unity-centre">The Unity Centre</h3>
 
 1 The Green, Northstowe, Cambridge, CB24 1FD
 
