@@ -17,7 +17,7 @@ headerContent: |
         "name": "When and where are lessons?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "We train at the Northstowe Community Centre (The Cabin), CB24 1FD. See our schedule for up-to-date days and times: https://www.northstowekarate.com/training/"
+          "text": "We train at the Northstowe Community Centre (The Unity Centre), CB24 1FD. See our schedule for up-to-date days and times: https://www.northstowekarate.com/training/"
         }
       },
       {

@@ -105,7 +105,7 @@ headerContent: |
   <img
     src="/static/belt.webp"
     sizes="(max-width: 576px) 100vw, (max-width: 992px) 100vw, 100vw"
-    alt="Karate class at The Cabin in Northstowe"
+    alt="Karate class at The Unity Centre in Northstowe"
     class="hero-image"
   >
   <div class="hero-content text-center">
@@ -121,7 +121,7 @@ headerContent: |
     
     <!-- Class Details -->
     <p class="fs-6 fw-semibold">
-      Regular sessions: Wednesday 6.30pm–8pm &amp; Sunday 3–4pm at Northstowe Community Centre (The Cabin), CB24 1FD
+      Regular sessions: Wednesday 6.30pm–8pm &amp; Sunday 3–4pm at Northstowe Community Centre (The Unity Centre), CB24 1FD
     </p>
 
     <p class="fs-6 fw-semibold">
@@ -165,9 +165,9 @@ headerContent: |
   <div class="card-body">
     <ul class="info-box-list">
       <li><strong>🕒 When:</strong> Wednesdays 6.30–8pm &amp; Sundays 3–4pm. View our <a href="/training/">training schedule</a> for more information.</li>
-      <li><strong>📍 Where:</strong> Northstowe Community Centre (The Cabin), CB24 1FD (<a href="https://maps.app.goo.gl/wXcMAGknwyPFEgMp6" target="_blank" rel="noopener noreferrer">View map</a>)</li>
+      <li><strong>📍 Where:</strong> Northstowe Community Centre (The Unity Centre), CB24 1FD (<a href="https://maps.app.goo.gl/wXcMAGknwyPFEgMp6" target="_blank" rel="noopener noreferrer">View map</a>)</li>
       <li><strong>👪 Ages:</strong> Children (8+), Adults &amp; families welcome, from complete beginners to advanced</li>
-      <li><strong>💰 Fees:</strong> First lesson free. £3-4 per person per session. Membership required for permanent students. See our <a href="/training/#fees">fees page</a> for full details.</li>
+      <li><strong>💰 Fees:</strong> First lesson free. £5 per person per session. Family discounts available. Membership required for permanent students. See our <a href="/training/#fees">fees page</a> for full details.</li>
       <li><strong>Why train with us?</strong> Training at Northstowe Karate Club has numerous <a href="/benefits-of-karate/">benefits</a>. Improve fitness, confidence, focus, and self‑defence.</li>
       <li><strong>What to Bring:</strong> Comfortable sports clothing, water bottle. No uniform needed for first lesson.</li>
       <li><strong><a href="/faq/">FAQ</a>:</strong> View frequently asked questions</li>
@@ -231,7 +231,7 @@ We’re proud of the positive experiences our students and their families share.
   <div class="col-md-4">
     <div class="card h-100 shadow-sm">
       <div class="card-body">
-        <p class="card-text">“The convenient location at The Cabin and the affordable cost have made it easy for us to commit. Simon organises everything so well, and his emails are always helpful. We’re really happy to be learning a new skill and getting fitter together.”</p>
+        <p class="card-text">“The convenient location at The Unity Centre and the affordable cost have made it easy for us to commit. Simon organises everything so well, and his emails are always helpful. We’re really happy to be learning a new skill and getting fitter together.”</p>
         <p class="text-muted small mb-0">- Parent</p>
       </div>
     </div>

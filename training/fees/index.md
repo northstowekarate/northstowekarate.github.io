@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: "Our Fees - First Lesson Free. £3-4 per class. No monthy fees"
+title: "Our Fees - First Lesson Free. £5 per class. No monthy fees"
 description: "Other fees include annual membership (£35), uniforms (£15-£25). Gradings are typically held 3 times per year and are approx £25."
 date: "git Last Modified"
 changeFrequency: weekly
@@ -12,10 +12,10 @@ priority: 0.9
 
 There are no monthly minimums — you only pay for the sessions you attend.
 
-The first lesson is always free, so you can try it out and see if you enjoy the lesson. Prices are £4 per session for adults and £3 per session for children.
+The first lesson is always free, so you can try it out and see if you enjoy the lesson. Prices are £5 per session.
 
 ### Group Discounts
-Families can train together at a discounted rate, as training as a large familiy can be expensive. Max £10 for a family of 3, and £12 for a family of 4. 
+Families can train together at a discounted rate, as training as a large familiy can be expensive. £4 per person for family groups of 3 or more.
 
 ## Dogi (Karate Uniforms)
 

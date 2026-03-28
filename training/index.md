@@ -45,7 +45,7 @@ headerContent: |
       {
         "@id": "https://www.northstowekarate.com/training/#thecabin",
         "@type": "SportsActivityLocation",
-        "name": "Northstowe Community Centre (The Cabin)",
+        "name": "Northstowe Community Centre (The Unity Centre)",
         "image": "https://www.northstowekarate.com/static/logo.png",
         "address": {
           "@type": "PostalAddress",
@@ -89,14 +89,14 @@ priority: 0.9
 
 ## Regular Classes 
 
-We train regularly at [The Cabin, Northstowe](https://maps.app.goo.gl/wXcMAGknwyPFEgMp6) **Wednesdays 6.30-8pm** and on **Sundays 3-4pm**.
+We train regularly at [The Unity Centre, Northstowe](https://maps.app.goo.gl/wXcMAGknwyPFEgMp6) **Wednesdays 6.30-8pm** and on **Sundays 3-4pm**.
 
 Still unsure? You can find out more about our typical class structure on our [what to expect page](/training/what-to-expect/).
 
 ## Fees at a glance
 There are no monthly minimums — you only pay for the sessions you attend.
 
-The first lesson is always free, so you can try it out and see if you enjoy the lesson. Prices are £4 per session for adults and £3 per session for children.
+The first lesson is always free, so you can try it out and see if you enjoy the lesson. Prices are £5 per session - group discounts available for families.
 
 There are some additional fees such as membership. You can find out more on our [fees](/training/fees/) page.
 
@@ -152,7 +152,7 @@ There are some additional fees such as membership. You can find out more on our 
 </section>
 
 ## Locations
-<h3 id="location-cabin">The Cabin</h3>
+<h3 id="location-cabin">The Unity Centre</h3>
 
 1 The Green, Northstowe, Cambridge, CB24 1FD
 
