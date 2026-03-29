@@ -281,6 +281,7 @@ Parking is available outside. Additional parking can be found nearby at either P
           ${nextRoutine.eventLink ? `<a href="${nextRoutine.eventLink}">${nextRoutine.label}</a>` : `${nextRoutine.label}`} ${badgeHtml(nextRoutine)}
           <div class="small text-muted">${formatDateTime(nextRoutine.datetime, nextRoutine.endDatetime)}</div>
           ${nextRoutine.notes ? `<div class="text-danger small mt-1">${nextRoutine.notes}</div>` : ''}
+          ${nextRoutine.location ? `<div class="small text-muted">${nextRoutine.location}</div>`: ''}
           <div class="mt-2"><a class="btn btn-brown btn-sm" href="/lesson-booking/" role="button">Book a free class</a></div>
         </div>
       </div>`;
