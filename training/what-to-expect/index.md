@@ -10,7 +10,7 @@ changeFrequency: yearly
 
 ## Lessons
 
-Although each lesson will differ, training consists of three key elements - kihon, kumite and kata. We build up your confidence gradually. We're a non-contact club, and you won't be expected to fight until you've learned the basics, and even then it's under controlled conditions with known attacks and blocks until you're very experienced. Injuries are rare - please speak to the instructor if you have any concerns. There is an element of risk to all sports and exercise, including martial arts - please see our [assumption of risk document](/policies/risk/assumption-of-risk.pdf) for details.
+Although each lesson will differ, training consists of three key elements - kihon, kumite and kata. We build up your confidence gradually. We're a light contact club, and you won't be expected to fight until you've learned the basics, and even then it's under controlled conditions with known attacks and blocks until you're very experienced. Injuries are rare - please speak to the instructor if you have any concerns. There is an element of risk to all sports and exercise, including martial arts - please see our [assumption of risk document](/policies/risk/assumption-of-risk.pdf) for details.
 
 We strongly emphasise the importance of respect and humility in all of our lessons.
 

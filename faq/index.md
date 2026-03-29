@@ -73,7 +73,7 @@ headerContent: |
         "name": "Will I get hurt?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Safety is our priority. JKA karate training is non‑contact for beginners and sparring is introduced gradually with control and known attacks. Injuries are rare and sessions are supervised by experienced instructors."
+          "text": "Safety is our priority. JKA karate training is light contact only for beginners and sparring is introduced gradually with control and known attacks. Injuries are rare and sessions are supervised by experienced instructors."
         }
       },
       {
@@ -147,7 +147,7 @@ We teach both children and adults, aged 8 and above. There's no upper age limit,
 
 ## Will I get hurt? 
 
-Karate is a martial art, and there are some risks involved. However, injuries are rare. JKA karate is non-contact, and you won't be expected to fight until you've mastered the basics. We build up the level of fighting gradually, starting off slowly with known attacks to develop technique and confidence. Safety is our top priority, and our instructors are trained to ensure that all activities are conducted in a controlled and safe manner.
+Karate is a martial art, and there are some risks involved. However, injuries are rare. JKA karate is light contact only - you won't be expected to fight until you've mastered the basics. We build up the level of fighting gradually, starting off slowly with known attacks to develop technique and confidence. Safety is our top priority, and our instructors are trained to ensure that all activities are conducted in a controlled and safe manner.
 
 ## How do I join?
 
