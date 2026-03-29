@@ -279,9 +279,8 @@ Parking is available outside. Additional parking can be found nearby at either P
         <strong>Next session:</strong>
         <div class="mt-1">
           ${nextRoutine.eventLink ? `<a href="${nextRoutine.eventLink}">${nextRoutine.label}</a>` : `${nextRoutine.label}`} ${badgeHtml(nextRoutine)}
-          <div class="small text-muted">${formatDateTime(nextRoutine.datetime, nextRoutine.endDatetime)}</div>
+          <div class="small text-muted">${formatDateTime(nextRoutine.datetime, nextRoutine.endDatetime)}${nextRoutine.locationLink ? ` | <a href="${nextRoutine.locationLink}">${nextRoutine.location}</a>`: nextRoutine.location ? ` | ${nextRoutine.location}` : ''}</div>
           ${nextRoutine.notes ? `<div class="text-danger small mt-1">${nextRoutine.notes}</div>` : ''}
-          ${nextRoutine.location ? `<div class="small text-muted">${nextRoutine.location}</div>`: ''}
           <div class="mt-2"><a class="btn btn-brown btn-sm" href="/lesson-booking/" role="button">Book a free class</a></div>
         </div>
       </div>`;
