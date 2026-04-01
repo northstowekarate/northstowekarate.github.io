@@ -5,8 +5,6 @@ description: Training course open to all grades with senior instructors includin
 date: 2026-03-14
 tags:
 - gasshuku-and-training-courses
-eleventyExcludeFromCollections:
-- blog_post
 headerContent: |
   <script type="application/ld+json">
   {
@@ -37,28 +35,4 @@ headerContent: |
 ## Overview
 A one-day training course open to all grades run by Japan Shotokan Karate England. Expect a mix of kihon, kata and kumite sessions led by Roy Tomlin Sensei (7th Dan) and Ken Hori Sensei (6th Dan).
 
-## Schedule
-- 11:00 — Doors open / registration
-- 11:30–13:00 — Morning training
-- 13:00–14:00 — Lunch break
-- 14:00–15:30 — Afternoon training
-
-## Fees
-* £10 for [advanced booking](https://forms.gle/HB6mMkPKf3sj2yE2A)
-* £15 on the door
-
-## Who should attend
-Open to all JSKE members, from beginners through senior grades — instructors tailor sessions to provide useful technical detail at multiple levels. You must have a valid license.
-
-### Grading Assessment
-Those wishing to grade this year should make every effort to attend. There will be a grading assessment. You will be able to get advice from senior grades about your readiness for taking a dan grade.
-
-## Travel & facilities
-University of Hertfordshire Sports Village has on-site parking and refreshments.
-
-<iframe title="Map to University of Hertforshire Sports Village" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2469.49142803625!2d-0.252698823328005!3d51.760622671871985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48763c60e2757d05%3A0x113654ac382f54cf!2sHertfordshire%20Sports%20Village!5e0!3m2!1sen!2suk!4v1768938034566!5m2!1sen!2suk" width="600" height="450" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-## Registration & further information
-[Sign up today!](https://forms.gle/HB6mMkPKf3sj2yE2A)
-
-For more information, visit the [JSKE event page](https://jske.co.uk/private-jske-joint-training-course-with-dan-grading-assessment-14th-march-2026/)
+This was a fantasic event, held by two top JKA instructors - Roy Tomlin sensei and Ken Hori sensei. The first session we went through kihon and kumite with Ken sensei. The second session we focussed on the brown belt kata - bassai dai, jion and kanku dai.
