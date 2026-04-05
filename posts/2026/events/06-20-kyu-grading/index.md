@@ -5,8 +5,7 @@ description: Kyu grading hosted by Cambridge Karate Dojo that offers the change 
 date: 2026-06-20
 tags:
 - gasshuku-and-training-courses
-eleventyExcludeFromCollections:
-- blog_post
+eleventyExcludeFromCollections: true
 headerContent: |
   <script type="application/ld+json">
   {

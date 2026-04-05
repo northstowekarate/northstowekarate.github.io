@@ -5,8 +5,7 @@ description: This ia a 3 day training camp where you can train with senior instr
 date: 2026-05-08
 tags:
 - gasshuku-and-training-courses
-eleventyExcludeFromCollections:
-- blog_post
+eleventyExcludeFromCollections: true
 headerContent: |
   <script type="application/ld+json">
   {

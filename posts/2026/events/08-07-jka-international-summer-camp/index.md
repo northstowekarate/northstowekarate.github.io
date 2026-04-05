@@ -5,8 +5,7 @@ description: This 3 day camp is fantastic opportunity to train with some of the 
 date: 2026-08-07
 tags:
 - gasshuku-and-training-courses
-eleventyExcludeFromCollections:
-- blog_post
+eleventyExcludeFromCollections: true
 headerContent: |
   <script type="application/ld+json">
   {

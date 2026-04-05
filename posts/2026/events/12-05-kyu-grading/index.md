@@ -5,8 +5,7 @@ description: This is an opportunity to train with Roy Tomlin sensei followed by 
 date: 2026-12-05
 tags:
 - gasshuku-and-training-courses
-eleventyExcludeFromCollections:
-- blog_post
+eleventyExcludeFromCollections: true
 headerContent: |
   <script type="application/ld+json">
   {
