@@ -42,8 +42,7 @@ A three-day Gasshuku run by JKA WF England featuring senior instructors includin
 **Who should attend:**
 Primarily aimed at brown belt and above, but lower grades are welcome and can benefit from the structured classes — check specific session guidance from the organisers.
 
-**Logistics & accommodation:**
-Windsor Leisure Centre is the venue; there are nearby hotels. Check organisers for accommodation recommendations and travel details.
+## Details
 
-**Registration & links:**
-Registration opens closer to the time.
+<img class="img-fluid w-50 p-3" sizes="50vw" src="./JKA-WF-England-Windsor-May-2026-poster.png" alt="JKA WF England Poster">
+
