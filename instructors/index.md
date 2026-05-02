@@ -16,7 +16,7 @@ headerContent: |
       "@id": "https://www.northstowekarate.com/#northstowekarateclub"
     },
     "url": "https://www.northstowekarate.com/instructors/",
-    "image": "https://www.northstowekarate.com/instructors/simon-apen-sadler.webp",
+    "image": "https://www.northstowekarate.com/instructors/simon-apen-sadler-2.webp",
     "description": "Simon Apen-Sadler is the Chief Instructor and founder of Northstowe Karate Club, a family friendly Shotokan dojo dedicated to inclusive, values-driven martial arts for all abilities. 4th Dan JKA. D level Examiner, C Level Instructor and Judge.",
     "knowsAbout": [
       "Shotokan Karate",
@@ -36,12 +36,15 @@ changeFrequency: yearly
 # Meet Our Instructors
 
 ## Simon Apen-Sadler
-<img src="simon-apen-sadler.webp" alt="Simon Apen-Sadler performing rising block" class="img-fluid w-50 float-start p-3" sizes="50vw" loading="eager">
+<div class="instructor-content">
+  <img id="simon-instructor-photo" src="simon-apen-sadler-2.webp" alt="Simon Apen-Sadler performing rising block" class="img-fluid float-end w-50 ms-3">
+  <div>
+    Simon Apen-Sadler, 4th Dan JKA, is the Chief Instructor of Northstowe Karate Club. He started training in 2000 at the age of 8 with SKA Romford, earning his Shodan in 2008 and Nidan in 2010. At university, he then started training with Jim Lewis sensei at Imperial College Shotokan Karate Club (KWF) in 2010, where he achieved Sandan in 2013 and obtained D-level Instructor, Judge, and Examiner qualifications. He achieved yondan with the JKA in 2024.
 
-Simon Apen-Sadler, 4th Dan JKA, is the Chief Instructor of Northstowe Karate Club. He started training in 2000 at the age of 8 with SKA Romford, earning his Shodan in 2008 and Nidan in 2010. At university, he then started training with Jim Lewis sensei at Imperial College Shotokan Karate Club (KWF) in 2010, where he achieved Sandan in 2013 and obtained D-level Instructor, Judge, and Examiner qualifications. He achieved yondan with the JKA in 2024.
+    Simon continues to train and develop his skills. He regularly trains at [Cambridge Karate Dojo](https://cambridgekaratedojo.com) under the guidance of Ken Hori sensei. Notably, in April 2024, he travelled to Tokyo and Okinawa with [JSKE](https://jske.co.uk), training with top JKA instructors and traditional Okinawan masters.
+  </div>
 
-Simon continues to train and develop his skills. He regularly trains at [Cambridge Karate Dojo](https://cambridgekaratedojo.com) under the guidance of Ken Hori sensei. Notably, in April 2024, he travelled to Tokyo and Okinawa with [JSKE](https://jske.co.uk), training with top JKA instructors and traditional Okinawan masters.
-
+</div>
 
 ### Certifications
   <ul class="overflow-hidden">
@@ -81,7 +84,6 @@ Simon continues to train and develop his skills. He regularly trains at [Cambrid
 ### BMABA Register
 
 Simon is registered with the BMABA (British Martial Arts and Boxing Association). You can verify instructor details on the [BMABA website](https://bmaba.org.uk/verify/).
-
 
 ## Teaching Philosophy
 
