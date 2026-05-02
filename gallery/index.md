@@ -10,33 +10,23 @@ priority: 0.9
 
 <div class="pswp-gallery" id="my-gallery">
   <div class="gallery-grid">
-    <a href="age-uke.webp" 
-      data-pswp-width="1500" 
-      data-pswp-height="1000" 
-      target="_blank">
-      <img src="age-uke.webp" alt="Class practicing rising block - age uke." />
+    <a href="seiza.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
+      <img src="seiza.webp" alt="Gallery image seiza" />
     </a>
-    <a href="choku-zuki.webp" 
-      data-pswp-width="1500" 
-      data-pswp-height="1000" 
-      data-cropped="true" 
-      target="_blank">
+    <a href="seiza2.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
+      <img src="seiza2.webp" alt="Gallery image seiza2" />
+    </a>
+    <a href="warm-up.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
+      <img src="warm-up.webp" alt="Gallery image warm-up" />
+    </a>
+    <a href="warm-up-stretch.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
+      <img src="warm-up-stretch.webp" alt="Gallery image warm-up-stretch" />
+    </a>
+    <a href="warm-up-kiba.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
+      <img src="warm-up-kiba.webp" alt="Gallery image warm-up-kiba" />
+    </a>
+    <a href="choku-zuki.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
       <img src="choku-zuki.webp" alt="Class practicing straight punch - choku zuki." />
-    </a>
-    <a href="heian-nidan-12.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
-      <img src="heian-nidan-12.webp" alt="Gallery image heian-nidan-12" />
-    </a>
-    <a href="heian-nidan-6.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
-      <img src="heian-nidan-6.webp" alt="Gallery image heian-nidan-6" />
-    </a>
-    <a href="heian-shodan-first-move.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
-      <img src="heian-shodan-first-move.webp" alt="Gallery image heian-shodan-first-move" />
-    </a>
-    <a href="mae-geri-1.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
-      <img src="mae-geri-1.webp" alt="Gallery image mae-geri-1" />
-    </a>
-    <a href="mae-geri-demonstration.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
-      <img src="mae-geri-demonstration.webp" alt="Gallery image mae-geri-demonstration" />
     </a>
     <a href="oi-zuki-2.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
       <img src="oi-zuki-2.webp" alt="Gallery image oi-zuki-2" />
@@ -46,6 +36,18 @@ priority: 0.9
     </a>
     <a href="oi-zuki-stepping.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
       <img src="oi-zuki-stepping.webp" alt="Gallery image oi-zuki-stepping" />
+    </a>
+    <a href="age-uke.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
+      <img src="age-uke.webp" alt="Class practicing rising block - age uke." />
+    </a>
+    <a href="soto-uke.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
+      <img src="soto-uke.webp" alt="Gallery image soto-uke" />
+    </a>
+    <a href="mae-geri-demonstration.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
+      <img src="mae-geri-demonstration.webp" alt="Gallery image mae-geri-demonstration" />
+    </a>
+    <a href="mae-geri-1.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
+      <img src="mae-geri-1.webp" alt="Gallery image mae-geri-1" />
     </a>
     <a href="sanbon-kumite-1.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
       <img src="sanbon-kumite-1.webp" alt="Gallery image sanbon-kumite-1" />
@@ -68,26 +70,17 @@ priority: 0.9
     <a href="sanbon-kumite-7.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
       <img src="sanbon-kumite-7.webp" alt="Gallery image sanbon-kumite-7" />
     </a>
-    <a href="seiza.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
-      <img src="seiza.webp" alt="Gallery image seiza" />
-    </a>
-    <a href="seiza2.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
-      <img src="seiza2.webp" alt="Gallery image seiza2" />
-    </a>
-    <a href="soto-uke.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
-      <img src="soto-uke.webp" alt="Gallery image soto-uke" />
-    </a>
-    <a href="warm-up-kiba.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
-      <img src="warm-up-kiba.webp" alt="Gallery image warm-up-kiba" />
-    </a>
-    <a href="warm-up-stretch.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
-      <img src="warm-up-stretch.webp" alt="Gallery image warm-up-stretch" />
-    </a>
-    <a href="warm-up.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
-      <img src="warm-up.webp" alt="Gallery image warm-up" />
-    </a>
     <a href="yoi.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
       <img src="yoi.webp" alt="Gallery image yoi" />
+    </a>
+    <a href="heian-shodan-first-move.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
+      <img src="heian-shodan-first-move.webp" alt="Gallery image heian-shodan-first-move" />
+    </a>
+    <a href="heian-nidan-6.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
+      <img src="heian-nidan-6.webp" alt="Gallery image heian-nidan-6" />
+    </a>
+    <a href="heian-nidan-12.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
+      <img src="heian-nidan-12.webp" alt="Gallery image heian-nidan-12" />
     </a>
   </div>
 </div>
