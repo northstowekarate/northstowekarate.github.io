@@ -34,6 +34,14 @@ headerContent: |
 
 Kyu grading hosted by [Cambridge Karate Dojo](https://cambridgekaratedojo.com). Grading will consist of a 1 hour training session with Sensei Roy Tomlin, 7th Dan to help prepare for your grading, followed grading assessment.
 
+## Readiness
+
+I will assess your readiness to grade in the upcoming weeks. 
+
+## Fees
+
+To train the fee is £15. To grade the fee is £25 - this includes the training fee, which is compulsory.
+
 ## Event Details
 
 * 1-2pm - training for purple belt and above
