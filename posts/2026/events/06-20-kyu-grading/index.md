@@ -40,7 +40,7 @@ I will assess your readiness to grade in the upcoming weeks.
 
 ## Fees
 
-To train the fee is £15. To grade the fee is £25 - this includes the training fee, which is compulsory.
+The training fee is £15. The grading fee is £25 - this includes the training fee, which is compulsory.
 
 ## Event Details
 
