@@ -32,7 +32,7 @@ headerContent: |
 
 # Kyu Grading — 20 Jun 2026
 
-Kyu grading hosted by [Cambridge Karate Dojo](https://cambridgekaratedojo.com). Grading will consiste of a 1 hour training session with Sensei Roy Tomlin, 7th Dan to help prepare for your grading, followed grading assessment.
+Kyu grading hosted by [Cambridge Karate Dojo](https://cambridgekaratedojo.com). Grading will consist of a 1 hour training session with Sensei Roy Tomlin, 7th Dan to help prepare for your grading, followed grading assessment.
 
 ## Event Details
 

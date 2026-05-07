@@ -35,4 +35,4 @@ headerContent: |
 ## Overview
 A one-day training course open to all grades run by Japan Shotokan Karate England. Expect a mix of kihon, kata and kumite sessions led by Roy Tomlin Sensei (7th Dan) and Ken Hori Sensei (6th Dan).
 
-This was a fantasic event, held by two top JKA instructors - Roy Tomlin sensei and Ken Hori sensei. The first session we went through kihon and kumite with Ken sensei. The second session we focussed on the brown belt kata - bassai dai, jion and kanku dai.
+This was a fantastic event, held by two top JKA instructors - Roy Tomlin sensei and Ken Hori sensei. The first session we went through kihon and kumite with Ken sensei. The second session we focused on the brown belt kata - bassai dai, jion and kanku dai.

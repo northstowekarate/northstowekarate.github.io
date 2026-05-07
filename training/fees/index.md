@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: "Our Fees - First Lesson Free. £5 per class. No monthy fees"
+title: "Our Fees - First Lesson Free. £5 per class. No monthly fees"
 description: "Other fees include annual membership (£35), uniforms (£15-£25). Gradings are typically held 3 times per year and are approx £25."
 date: "git Last Modified"
 changeFrequency: weekly
@@ -15,7 +15,7 @@ There are no monthly minimums — you only pay for the sessions you attend.
 The first lesson is always free, so you can try it out and see if you enjoy the lesson. Prices are £5 per session.
 
 ### Group Discounts
-Families can train together at a discounted rate, as training as a large familiy can be expensive. £4 per person for family groups of 3 or more.
+Families can train together at a discounted rate, as training as a large family can be expensive. £4 per person for family groups of 3 or more.
 
 ## Dogi (Karate Uniforms)
 
@@ -32,7 +32,7 @@ To get your next belt/grade, you must take a grading. This consists of you perfo
 
 ### Dan gradings
 
-Dan gradings (black belt) generally require examiners from JKA HQ, and can be upwards of £100. These are typically held at national and internation courses, often in Windsor and Paisley.
+Dan gradings (black belt) generally require examiners from JKA HQ, and can be upwards of £100. These are typically held at national and international courses, often in Windsor and Paisley.
 
 ## Funding
 Northstowe Karate Club has been awarded funding to help with the running costs of the club. The club wants to be as accessible as possible, and has allocated some of this funding towards helping those on lower incomes attend. We are able to support up to 4 students with:
