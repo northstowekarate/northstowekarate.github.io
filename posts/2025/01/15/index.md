@@ -20,5 +20,5 @@ We broke these 4 techniques down, practicing kime with choku zuki by tensing at 
 We finished the session practicing kihon kata, heian shodan and heian nidan. You can find out more about the first 6 kata on our [kihon and heian kata page](/kata/heian/)
 
 ## Dojo Kun
-The dojo kun are the 5 dojo precepts. They are traditionally said at the end of every lessons to remind ourselves of the expectations of karateka (people who do karate) - both in and outside the dojo.
+The dojo kun are the 5 dojo precepts. They are traditionally said at the end of every lesson to remind ourselves of the expectations of karateka (people who do karate) - both in and outside the dojo.
 

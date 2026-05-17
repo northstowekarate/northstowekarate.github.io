@@ -8,7 +8,7 @@ tags:
 ---
 # Lesson Summary - 19th Feb 2025
 ## Kihon - Basic Techniques
-We started off the lesson, practicing all the basic techniques required for 3 step sparring. We started practicing these techniques on the spot:
+We started off the lesson, practicing all the basic techniques required for 3-step sparring. We started practicing these techniques on the spot:
 * Jodan Choku Zuki - face level straight punch
 * Chudan Choku Zuki - middle level straight punch
 * Gedan Barai - lower sweep

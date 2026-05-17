@@ -13,12 +13,12 @@ Front kick is the most basic of kicks. There are 3 key points to front kick:
 * The snap (hiki ashi) - as you kick, the leg must come back immediately
 * Foot position - the ankle must be tight, with the ball of the foot (koshi) pushed forward and toes back. The foot should remain parallel to the floor
 
-Additionally the support leg should be stable and bent the the supporting foot completely flat on the floor.
+Additionally, the support leg should be stable and bent with the supporting foot completely flat on the floor.
 
 ## Yoko Geri Keage - Side snap kick
-Similar to mae geri, keage is a snap kick - the foot returns quickly. This kick is to the side and you kick with the outer edge of the foot. Key points of keage are:
+Similar to mae geri, keage is a snap kick - the foot returns quickly. This kick is to the side, and you kick with the outer edge of the foot. Key points of keage are:
 * Raise the knee first, with the sole of the foot almost touching your supporting leg and the toes pointing towards the front
-* The foot position - you must kick with the outer edge of the foot. To do this you must rotated your hips, otherwise your foot will be angled and you will kick with the toes, which will break
+* The foot position - you must kick with the outer edge of the foot. To do this you must rotate your hips, otherwise your foot will be angled, and you will kick with the toes, which will break
 * The snap back (hiki ashi), the foot returns in the same direction immediately after executing the kick. Place your foot down - do not fall.
 
 ## Yoko Geri Kekomi

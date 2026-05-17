@@ -8,7 +8,7 @@ tags:
 ---
 # 2024-10-16
 
-Tonight, we focused on mae-geri front kick. The key points of mae geri are:
+Tonight, we focused on mae geri, front kick. The key points of mae geri are:
 
 * Raise the foot, not the knee. You want to keep the leg as bent as possible to create more power
 * The toes must be back, with the foot pointed forward. You kick with the ball of the foot

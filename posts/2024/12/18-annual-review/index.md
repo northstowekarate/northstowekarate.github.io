@@ -19,7 +19,7 @@ Well done to our top attendees: Moses and Jasper have attended the most lessons 
 
 ## Club Affiliation
 
-The club has official registered with the [JKA](https://www.jka.or.jp/en/) and [JSKE](https://jske.co.uk) and we have 14 official members.
+The club has official registered with the [JKA](https://www.jka.or.jp/en/) and [JSKE](https://jske.co.uk), and we have 14 official members.
 
 ## Grading
 
@@ -27,13 +27,13 @@ We also attended our [first ever grading](/posts/2024/12/07/) at [Cambridge Kara
 
 ## BMABA Club Colours and Safeguarding Code
 
-As part of our commitment to excellence and quality, Northstowe Karate Club has attained the [BMABA](https://bmaba.org.uk) Club Colours Award. You can [verify the clubs status](https://bmaba.org.uk/verify/martial-arts-club-checker/). BMABA Club Colours is the UK Martial Arts’ highest level of accreditation in terms of vetting and regulation. As part of this, we have also been awarded the [Safeguarding Code in Martial Arts](https://www.safeguardingcode.com/) by demonstrating our commitment to safeguarding of our students, ensuring best practices are in place.
+As part of our commitment to excellence and quality, Northstowe Karate Club has attained the [BMABA](https://bmaba.org.uk) Club Colours Award. You can [verify the club's status](https://bmaba.org.uk/verify/martial-arts-club-checker/). BMABA Club Colours is the UK Martial Arts’ highest level of accreditation in terms of vetting and regulation. As part of this, we have also been awarded the [Safeguarding Code in Martial Arts](https://www.safeguardingcode.com/) by demonstrating our commitment to safeguarding of our students, ensuring best practices are in place.
 
 ## Thank you
 
-A special thank you to my wife Mitali, Club secretary and Deborah, Treasurer who help with the running of the club behind the scenes.
+A special thank you to my wife Mitali, club secretary and Deborah, Treasurer who help with the running of the club behind the scenes.
 
-I'd also like to thank JSKE, and in particular, Sensei Ken Hori, for all of the advice and support they have given the club.
+I'd also like to thank JSKE, and in particular, Sensei Ken Hori, for all the advice and support they have given the club.
 
 A big thank you to all of our members who help make the club a success. 
 

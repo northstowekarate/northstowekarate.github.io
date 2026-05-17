@@ -14,7 +14,7 @@ We primarily focused on zenkutsu dachi (front stance). The feet should be should
 
 We practiced stepping both forwards and backwards, tensing at the end of the step to achieve kime. We tense our whole body - legs, arms, chest and back, even though we were not performing a technique. 
 
-This is challenging and feels weak - we must practices this until it is strong. If feels much stronger when performing techniques because we are using too much of our upper body.
+This is challenging and feels weak - we must practice this until it is strong. It feels much stronger when performing techniques because we are using too much of our upper body.
 
 We practiced straightening the rear leg to drive us forward. This is how we use the floor to generate power.
 
@@ -23,9 +23,9 @@ We practiced straightening the rear leg to drive us forward. This is how we use 
 We started learning about hip rotation. There are two hip positions:
 
 * Shomen (front), where the hips are facing directly forwards
-* Hamni, where the hips are facing at a 45 degree angle
+* Hamni, where the hips are facing at a 45-degree angle
 
-We practiced both of these positions stepping forward, stepping back and transitioning between the two in place. We will continue to practice this in future, as it is a fundamental part of Shotokan Karate, and one of the key methods of generating power by using the floor.
+We practiced both of these positions stepping forward, stepping back and transitioning between the two in place. We will continue to practice this in the future, as it is a fundamental part of Shotokan Karate, and one of the key methods of generating power by using the floor.
 
 ## Kata
 

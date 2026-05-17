@@ -34,11 +34,11 @@ There have been several national and international events this year.
 
 In May, Mitali and I attended the JKA WF England Spring Camp with Oishi Takeshi sensei (9th Dan), Chief Instructor of JKA; Kawasoe Masao sensei (8th Dan), Chief Instructor of JKA WF England; and Naito Takeshi sensei (8th Dan), Chief Instructor of JKA Italy. I earned my D Instructor, Judge, and Examiner qualifications.
 
-In November I attended a training course in Windsor with Kawasoe Masao sensei (8th Dan), Chief Instructor of JKA WF England, where I earned my C Instructor and Judge qualifications. I also attended the JKA Malta Gasshuku with Sensei Shimizu (6th Dan, JKA Honbu), Sensei Roy Tomlin MBE, Sensei Ken Hori, and Sensei Dario Chircop (5th Dan, JKA Malta). Training on the beach was a unique experience.
+In November, I attended a training course in Windsor with Kawasoe Masao sensei (8th Dan), Chief Instructor of JKA WF England, where I earned my C Instructor and Judge qualifications. I also attended the JKA Malta Gasshuku with Sensei Shimizu (6th Dan, JKA Honbu), Sensei Roy Tomlin MBE, Sensei Ken Hori, and Sensei Dario Chircop (5th Dan, JKA Malta). Training on the beach was a unique experience.
 
 ## Looking Ahead
 
-In 2026 we’ll continue focusing on strong basics, confidence, and community. We’re excited to welcome new students, support our current members on their karate journey, and take part in more national and international events.
+In 2026, we’ll continue focusing on strong basics, confidence, and community. We’re excited to welcome new students, support our current members on their karate journey, and take part in more national and international events.
 
 Events for 2026 (including grading dates) are now on the [JSKE website](https://jske.co.uk/events/).
 

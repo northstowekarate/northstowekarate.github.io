@@ -39,7 +39,7 @@ A three-day Gasshuku run by JKA WF England featuring senior instructors includin
 - **8–10 May 2026** — Typical daily timetable runs from Friday Evening until Sunday Lunchtime with breaks.
 
 **Who should attend:**
-Primarily aimed at brown belt and above, but lower grades are welcome and can benefit from the structured classes — check specific session guidance from the organisers.
+Primarily aimed at brown belt and above, but lower grades are welcome and can benefit from the structured classes — check specific session guidance from the organizers.
 
 ## Details
 

@@ -12,4 +12,4 @@ tags:
 
 This lesson we practiced the first 3 [kata](/kata/heian/). It's important to practice kata, even one you know well, to ensure you get better at performing it. Make each technique big and strong, applying ideas from previous lessons to your kata. We'll keep practicing until you know them well.
 
-For your gradings you will be generally asked to perform your kata. However, they may ask you to perform an additional, previous kata.
+For your grading you will be generally asked to perform your kata. However, they may ask you to perform an additional, previous kata.

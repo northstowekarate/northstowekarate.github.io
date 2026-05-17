@@ -16,7 +16,7 @@ Tonight, we started with 5 basic techniques on the spot with everyone counting t
 
 We'll continue to practice this.
 
-We then moved on to kumite. We practiced this both with and without a partner.
+We then moved on to kumite - practicing this both with and without a partner.
 
-We ran out of time so only practiced kihon kata once - we will do more of this next week!
+We then practiced kihon kata once - we will do more of this next week!
 

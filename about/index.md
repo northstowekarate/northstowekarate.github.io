@@ -10,13 +10,13 @@ changeFrequency: yearly
 
 Founded in 2024 by Simon Apen-Sadler [(Chief Instructor)](/instructors/), Deborah Turner (Treasurer), and Mitali Apen-Sadler (Secretary), Northstowe Karate Club is a welcoming martial arts community based on the principles of budo karate: discipline, humility, and continuous self-improvement.
 
-We teach traditional [Shotokan Karate](https://en.wikipedia.org/wiki/Shotokan), a Japanese martial art. We are a member of [Japan Shotokan Karate England](https://jske.co.uk) and are affiliated with the [Japan Karate Association](https://www.jka.or.jp/en/), which is one of the largest and most prestigious karate organisations in the world.
+We teach traditional [Shotokan Karate](https://en.wikipedia.org/wiki/Shotokan), a Japanese martial art. We are a member of [Japan Shotokan Karate England](https://jske.co.uk) and are affiliated with the [Japan Karate Association](https://www.jka.or.jp/en/), which is one of the largest and most prestigious karate organizations in the world.
 
 ## Family Friendly
 
 At Northstowe Karate Club, we pride ourselves on being a family-friendly and inclusive community where everyone aged 8 and above is welcome to train, learn, and grow together. Whether you're a complete beginner or have years of experience, our classes are designed to support mixed abilities, ensuring that each student progresses at their own pace in a safe and encouraging environment. Families often train side by side, building confidence, discipline, and fitness while sharing a unique and rewarding journey.
 
-We believe karate is for everyone - regardless of background, or physical ability. Our instructors foster a respectful and supportive atmosphere where diversity is celebrated and every member feels valued. From children developing coordination and focus to adults seeking fitness or self-defence skills, Northstowe Karate Club offers a space where personal growth and community spirit go hand in hand.
+We believe karate is for everyone - regardless of background, or physical ability. Our instructors foster a respectful and supportive atmosphere where diversity is celebrated, and every member feels valued. From children developing coordination and focus to adults seeking fitness or self-defence skills, Northstowe Karate Club offers a space where personal growth and community spirit go hand in hand.
 
 ## Tradition, Respect and Honour
 
@@ -24,9 +24,9 @@ We believe karate is more than physical technique — it’s a lifelong journey 
 
 Our teaching approach reflects these values and is built around three principles:
 
-- **Clarity and structure** — we teach traditional Shotokan Karate with clear explanations and structured progressions so students build strong fundamentals from the start.
+- **Clarity and structure** — we teach traditional Shotokan Karate with clear explanations and structured progressions, so students build strong fundamentals from the start.
 - **Encouragement and confidence‑building** — we create a friendly, supportive environment where students feel safe to try, learn and grow.
-- **Respect, discipline and character** — karate develops character; we emphasise etiquette and discipline so students train with **honour** both inside and outside the dojo.
+- **Respect, discipline and character** — karate develops character; we emphasize etiquette and discipline, so students train with **honour** both inside and outside the dojo.
 
 ## What is budo?
 Budo (武道), meaning “the martial way,” represents a philosophy of personal growth through martial arts. It encourages focus, resilience, and mutual respect — values we aim to instil in every student.

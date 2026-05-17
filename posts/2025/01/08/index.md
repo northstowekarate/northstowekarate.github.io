@@ -14,11 +14,11 @@ We went back to basics practicing, choku zuki (straight punch), oi zuki (steppin
 
 We started off with straight punch, practicing kime - relaxing throughout the technique so that we can move quickly, tensing at the end and immediately relaxing to generate power. This instantaneous tensing then relaxing is kime.
 
-We then moved on to front stance, stepping punch and outside block. Kime applies to all techniques, including these ones.
+We then moved on to front stance, stepping punch and outside block. Kime applies to all techniques, including these.
 
 ## Kumite (sparring)
 
-We then partnered up and practiced blocking each others punches using outside block to deflect the punches. Kime is used here too!
+We then partnered up and practiced blocking each other's punches using outside block to deflect the punches. Kime is used here too!
 
 ## [Kata (forms)](/kata/heian/)
 

@@ -9,7 +9,7 @@ tags:
 # Lesson Summary - 26th Feb 2025
 
 ## Basic Techniques
-We started off the lesson with a warm up followed by some basic techniques on the spot - age uke and soto uke.
+We started off the lesson with a warm-up followed by some basic techniques on the spot - age uke and soto uke.
 
 ## Sparring on the spot
 To simplify things, we started off practicing kumite on the spot, facing each other while one side attacked and the other would block the attack. This also helped you get the timing correct, so you were not blocking too early or too late.
@@ -18,7 +18,7 @@ To simplify things, we started off practicing kumite on the spot, facing each ot
 Next, we moved on to practicing the steps and techniques involved in sanbon kumite - stepping forward and punching 3 times, stepping backwards and blocking 3 times.
 
 ## Putting it all together
-Finally, we put everything together and practiced 3 step sparring - attacking and blocking 3 times to the face and body.
+Finally, we put everything together and practiced 3-step sparring - attacking and blocking 3 times to the face and body.
 
 ## Sanbon Kumite - Key Points
 * Start and finish with rei (bowing)

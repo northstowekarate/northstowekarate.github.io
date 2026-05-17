@@ -20,10 +20,10 @@ In addition, you can view the [requirements for JKA Qualifications](/static/List
 
 ### 10th Kyu (White with Orange)
 #### KIHON - In place basics
-1. CHŪDAN CHOKU-ZUKI - mid level straight punch
+1. CHŪDAN CHOKU-ZUKI - mid-level straight punch
 2. JŌDAN AGE-UKE - rising block
 3. CHŪDAN SOTO-UKE - outside block
-4. CHŪDAN MAE-GERI (HEISOKU-DACHI・GEDAN KAKIWAKE) - mid level front kick
+4. CHŪDAN MAE-GERI (HEISOKU-DACHI・GEDAN KAKIWAKE) - mid-level front kick
 
 * “GOREI” command (From right side in turn for each Waza)
 
@@ -31,10 +31,10 @@ In addition, you can view the [requirements for JKA Qualifications](/static/List
 
 ### 9th Kyu (Orange)
 #### KIHON Idō Kihon Moving basics (4 TIMES)
-1. CHŪDAN OI-ZUKI (step in) - mid level stepping punch
+1. CHŪDAN OI-ZUKI (step in) - mid-level stepping punch
 2. JŌDAN AGE-UKE (step in) - rising block
 3. CHŪDAN SOTO-UKE (step in) - outside block
-4. CHŪDAN MAE-GERI (step in) - mid level front kick
+4. CHŪDAN MAE-GERI (step in) - mid-level front kick
 
 Here's a short video demonstrating the kihon required for 9th kyu.
 
@@ -64,7 +64,7 @@ Here's a short video demonstrating kihon kata.
 </div>
 
 #### KUMITE
-1. SANBON KUMITE (JŌDAN OI-ZUKI, CHŪDAN OI-ZUKI) - 3 step sparring
+1. SANBON KUMITE (JŌDAN OI-ZUKI, CHŪDAN OI-ZUKI) - 3-step sparring
 
 Here's a short video demonstrating sanbon kumite. Note that these are the steps for practicing at home. Kumite is performed with a partner.
 
@@ -80,16 +80,16 @@ Here's a short video demonstrating sanbon kumite. Note that these are the steps 
 
 ### 8th Kyu (Red)
 #### KIHON IDŌ KIHON Moving basics (4 TIMES)
-1. CHŪDAN OI-ZUKI (step in) - mid level stepping punch
+1. CHŪDAN OI-ZUKI (step in) - mid-level stepping punch
 2. JŌDAN AGE-UKE (step in) - rising block
 3. CHŪDAN SOTO-UKE (step in) - outside block
 4. GEDAN BARAI (step in) - lower sweep
 5. KŌKUTSU SHUTŌ-UKE (step in) - sword hand block
-6. CHŪDAN MAE-GERI (step in) - mid level front kick
+6. CHŪDAN MAE-GERI (step in) - mid-level front kick
 #### KATA
 1. HEIAN SHODAN
 #### KUMITE
-1. GOHON KUMITE (JŌDAN OI-ZUKI, CHŪDAN OI-ZUKI) - 5 step sparring
+1. GOHON KUMITE (JŌDAN OI-ZUKI, CHŪDAN OI-ZUKI) - 5-step sparring
 
 <div class="container">
   <div class="row justify-content-center">
@@ -105,66 +105,66 @@ Here's a short video demonstrating sanbon kumite. Note that these are the steps 
 
 ### 7th Kyu (Yellow)
 #### KIHON IDŌ KIHON Moving basics (4 TIMES)
-1. CHŪDAN OI-ZUKI (step in) - mid level stepping punch
+1. CHŪDAN OI-ZUKI (step in) - mid-level stepping punch
 2. JŌDAN AGE-UKE (step back) - rising block
 3. CHŪDAN SOTO-UKE (step in) - outside block
 4. CHŪDAN UCHI-UKE (step back) - inside block
 5. KŌKUTSU SHUTŌ-UKE (step in) - sword hand block
-6. CHŪDAN MAE-GERI (step in) - mid level front kick
+6. CHŪDAN MAE-GERI (step in) - mid-level front kick
 7. YOKO-GERI KEAGE (in KIBA DACHI, stepping in, right and left) - side snap kick
 #### KATA
 1. HEIAN NIDAN
 #### KUMITE
-1. GOHON KUMITE (JŌDAN OI-ZUKI, CHŪDAN OI-ZUKI) - 5 step sparring
+1. GOHON KUMITE (JŌDAN OI-ZUKI, CHŪDAN OI-ZUKI) - 5-step sparring
 
 ### 6th Kyu (Green)
 #### KIHON IDŌ KIHON Moving basics (4 TIMES)
-1. CHŪDAN OI-ZUKI (step in) - mid level stepping punch
+1. CHŪDAN OI-ZUKI (step in) - mid-level stepping punch
 2. JŌDAN AGE-UKE, GYAKU-ZUKI (step back) - rising block, reverse punch
 3. CHŪDAN SOTO-UKE, GYAKU-ZUKI (step in) - outside block, reverse punch
 4. CHŪDAN UCHI-UKE (step back) - inside block
 5. KŌKUTSU SHUTŌ-UKE (step in) - sword hand block
-6. CHŪDAN MAE-GERI (step in) - mid level front kick
+6. CHŪDAN MAE-GERI (step in) - mid-level front kick
 7. YOKO-GERI KEAGE (in KIBA-DACHI, right and left) (step in) - side snap kick
 8. YOKO-GERI KEKOMI (in KIBA-DACHI, right and left) (step in) - side thrust kick
 #### KATA
 1. HEIAN SANDAN
 #### KUMITE
-1. KIHON IPPON KUMITE (JŌDAN OI-ZUKI, CHŪDAN OI-ZUKI – right and left) - one step sparring
+1. KIHON IPPON KUMITE (JŌDAN OI-ZUKI, CHŪDAN OI-ZUKI – right and left) - one-step sparring
 
 ### 5th Kyu (Purple)
 #### KIHON IDŌ KIHON Moving basics (4 TIMES)
-1. CHŪDAN OI-ZUKI (step in) - mid level stepping punch
+1. CHŪDAN OI-ZUKI (step in) - mid-level stepping punch
 2. JŌDAN AGE-UKE, GYAKU-ZUKI (step back) - rising block, reverse punch
 3. CHŪDAN SOTO-UKE, GYAKU-ZUKI (step in) - outside block, reverse punch
 4. CHŪDAN UCHI-UKE, GYAKU-ZUKI (step back) - inside block, reverse punch
 5. KŌKUTSU SHUTŌ-UKE (step in) - sword hand block
-6. CHŪDAN MAE-GERI (step in) - mid level front kick
+6. CHŪDAN MAE-GERI (step in) - mid-level front kick
 7. YOKO-GERI KEAGE (in KIBA-DACHI, right and left) (step in) - side snap kick
 8. YOKO-GERI KEKOMI (in KIBA-DACHI, right and left) (step in) - side thrust kick
 #### KATA 
 1.  HEIAN YONDAN
 #### KUMITE 
-1.  KIHON IPPON KUMITE (JŌDAN OI-ZUKI, CHŪDAN OI-ZUKI, CHŪDAN MAE-GERI – right and left) - one step sparring
+1.  KIHON IPPON KUMITE (JŌDAN OI-ZUKI, CHŪDAN OI-ZUKI, CHŪDAN MAE-GERI – right and left) - one-step sparring
 
 * Examiners look for correct pivoting of the hips during renzoku-waza, and clear grasp of the hand techniques
 
 ### 4th Kyu (Purple with White)
 #### KIHON IDŌ KIHON Moving basics (4 TIMES)
-1. CHŪDAN OI-ZUKI (step in) - mid level stepping punch
+1. CHŪDAN OI-ZUKI (step in) - mid-level stepping punch
 2. JŌDAN AGE-UKE, GYAKU ZUKI (step back) - rising block, reverse punch
 3. CHŪDAN SOTO-UKE, GYAKU ZUKI (step in) - outside block, reverse punch
 4. CHŪDAN UCHI-UKE, GYAKU ZUKI (step back) - inside block, reverse punch
 5. KŌKUTSU SHUTŌ-UKE, ZENKUTSU NUKITE (step in) - sword hand block, spear hand strike
-6. CHŪDAN MAE-GERI (step in) - mid level front kick
-7. REN GERI (GEDAN KAKIWAKE CHŪDAN, JŌDAN) (step in) (TWICE) - mid level then face level front kicks
+6. CHŪDAN MAE-GERI (step in) - mid-level front kick
+7. REN GERI (GEDAN KAKIWAKE CHŪDAN, JŌDAN) (step in) (TWICE) - mid-level then face level front kicks
 8. MAWASHI-GERI (JIYŪ KAMAE) (step in) - roundhouse kick
 9. YOKO-GERI KEAGE (in KIBA-DACHI, right and left) (step in) - side snap kick
 10. YOKO-GERI KEKOMI (in KIBA-DACHI, right and left) (step in) - side thrust kick
 #### KATA 
 1.  HEIAN GODAN
 #### KUMITE 
-1.  KIHON IPPON KUMITE (JŌDAN OI-ZUKI, CHŪDAN OI-ZUKI, CHŪDAN MAE-GERI – right and left) - one step sparring
+1.  KIHON IPPON KUMITE (JŌDAN OI-ZUKI, CHŪDAN OI-ZUKI, CHŪDAN MAE-GERI – right and left) - one-step sparring
 
 * Examiners are looking for appropriate degree of strength and sharpness of execution in each technique (Kihon, Kata and Kumite)
 
@@ -175,7 +175,7 @@ Here's a short video demonstrating sanbon kumite. Note that these are the steps 
 3. CHŪDAN SOTO-UKE in ZENKUTSU-DACHI, changing stance to KIBA-DACHI, YOKO-ENPI (step in) - outside block, side elbow strike
 4. CHŪDAN UCHI-UKE, GYAKU-ZUKI (step back) - inside block, reverse punch
 5. KŌKUTSU SHUTŌ UKE, ZENKUTSU NUKITE (step in) - sword hand block, spear hand strike
-6. CHŪDAN MAE-GERI (step in) - mid level front kick
+6. CHŪDAN MAE-GERI (step in) - mid-level front kick
 7. REN GERI (GEDAN KAKIWAKE CHŪDAN, JŌDAN) (step in) (TWICE) - two level kicks
 8. MAWASHI-GERI (JIYŪ KAMAE) (step in) - roundhouse kick
 9. YOKO-GERI KEAGE (in KIBA-DACHI, right and left) (step in) - side snap kick
@@ -183,7 +183,7 @@ Here's a short video demonstrating sanbon kumite. Note that these are the steps 
 #### KATA 
 1.  TEKKI SHODAN
 #### KUMITE 
-1.  KIHON IPPON KUMITE (JŌDAN OI-ZUKI, CHŪDAN OI-ZUKI, CHŪDAN MAE-GERI, CHŪDAN YOKO-GERI KEKOMI – right and left) - one step sparring
+1.  KIHON IPPON KUMITE (JŌDAN OI-ZUKI, CHŪDAN OI-ZUKI, CHŪDAN MAE-GERI, CHŪDAN YOKO-GERI KEKOMI – right and left) - one-step sparring
 
 * Examiners are looking for appropriate degree of strength and sharpness of execution in each technique (Kihon, Kata and Kumite)
 
@@ -194,7 +194,7 @@ Here's a short video demonstrating sanbon kumite. Note that these are the steps 
 3. CHŪDAN SOTO-UKE in ZENKUTSU-DACHI, changing stance to KIBA-DACHI, YOKO-ENPI, YOKO-URAKEN-UCHI (step in) - outside block, elbow strike, back-fist
 4. CHŪDAN UCHI-UKE, GYAKU-ZUKI (step back) - inside block, reverse punch
 5. KŌKUTSU SHUTŌ UKE, ZENKUTSU NUKITE (step in) - sword hand block, spear hand strike
-6. CHŪDAN MAE-GERI (step in) - mid level front kick
+6. CHŪDAN MAE-GERI (step in) - mid-level front kick
 7. REN GERI (GEDAN KAKIWAKE CHŪDAN, JŌDAN) (step in) (TWICE) - two level kicks
 8. MAWASHI-GERI (JIYŪ KAMAE) (step in) - roundhouse kick
 9. YOKO-GERI KEAGE (in KIBA-DACHI, right and left) (step in) - side snap kick
@@ -211,7 +211,7 @@ Here's a short video demonstrating sanbon kumite. Note that these are the steps 
 3. CHŪDAN SOTO-UKE, YOKO-ENPI, YOKO-URAKEN-UCHI (ZENKUTSU-DACHI changing stance to KIBA-DACHI), GYAKU-ZUKI (ZENKUTSU-DACHI) (step in) - outside block, elbow strike, back-fist, reverse punch
 4. CHŪDAN UCHI-UKE, GYAKU-ZUKI (step back) - inside block, reverse punch
 5. KŌKUTSU SHUTŌ-UKE, ZENKUTSU NUKITE (step in) - sword hand block, spear hand strike
-6. CHŪDAN MAE-GERI (step in) - mid level front kick
+6. CHŪDAN MAE-GERI (step in) - mid-level front kick
 7. REN GERI (GEDAN KAKIWAKE CHŪDAN, JŌDAN) (step in) (TWICE) - two level kicks
 8. MAWASHI-GERI (JIYŪ KAMAE) (step in) - roundhouse kick
 9. YOKOGERI-KEAGE (in KIBA-DACHI, right and left) (step in) - side snap kick
@@ -256,7 +256,7 @@ Here's a short video demonstrating sanbon kumite. Note that these are the steps 
 9. YOKOGERI KEKOMI (ZENKUTSUDACHI) (step in)
 10. MAWASHIGERI, YOKOURAKENUCHI, CHUUDAN GYAKUZUKI (step in)
 #### Kata
-* Student’s favorite KATA
+* Student’s favourite KATA
 #### KUMITE
 * JIYU KUMITE (free kumite)
 
@@ -273,7 +273,7 @@ MAWASHIGERI・GYAKUZUKI (step in)
 7. MAEGERI, YOKOGERI KEKOMI, USHIROGERI
 (ZENKUTSUDACHI same feet right and left)
 #### Kata
-*  Student’s favorite KATA (Question and Answer Session)
+*  Student’s favourite KATA (Question and Answer Session)
 #### Kumite
 * JIYU KUMITE
 
@@ -289,7 +289,7 @@ MAWASHIGERI・GYAKUZUKI (step in)
 7. MAEGERI, YOKOGERI KEKOMI, USHIROGERI
 (ZENKUTSUDACHI same feet right and left)
 #### Kata
-* Student’s favorite KATA (Question and Answer Session)
+* Student’s favourite KATA (Question and Answer Session)
 #### Kumite
 * JIYU KUMITE
 ### 5th Dan - Godan
@@ -306,7 +306,7 @@ MAWASHIGERI・GYAKUZUKI (step in)
 #### Kata
 * Kata specified by examiner
   * Chosen from HEIAN SHODAN to TEKKI SANDAN, with (Question and Answer Session)
-* Student’s favorite KATA (Question and Answer Session)
+* Student’s favourite KATA (Question and Answer Session)
 #### Kumite
 * JIYU KUMITE
 ### 6th Dan - Rokudan
@@ -315,7 +315,7 @@ MAWASHIGERI・GYAKUZUKI (step in)
 * Specified by examiner
 #### Kata
 * Specified by examiner from HEIAN SHODAN to TEKKI SANDAN BASSAIDAI, KANKUUDAI, ENPI, or JION (Question and Answer Session)
-* Student’s favorite KATA (Question and Answer Session)
+* Student’s favourite KATA (Question and Answer Session)
 #### Kumite
 * JIYU KUMITE
 #### Additional
@@ -325,7 +325,7 @@ MAWASHIGERI・GYAKUZUKI (step in)
 #### Kihon
 * Specified by examiner
 #### Kata
-* Student’s favorite KATA (Question and Answer Session)
+* Student’s favourite KATA (Question and Answer Session)
 #### Kumite
 * JIYU KUMITE
 #### Additional

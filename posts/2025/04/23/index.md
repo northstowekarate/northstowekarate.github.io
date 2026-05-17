@@ -8,7 +8,7 @@ tags:
 ---
 # Lesson Summary - 23rd Apr 2025
 
-A big thank you to Sensei Joe for teaching the class while I was away. Sensei Joe has provided me with some notes so I can summarise the lesson below.
+A big thank you to Sensei Joe for teaching the class while I was away. Sensei Joe has provided me with some notes so I can summarize the lesson below.
 
 ## Kihon
 

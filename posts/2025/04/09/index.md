@@ -14,5 +14,5 @@ We went through our basic techniques from choku zuki to yoko geri keage. Repetit
 
 ## Kata
 
-When learning a kata, it's best to break it down in to sections. Heian Kata are all < 30 moves, so we split them into 2 to help you remember. We practiced kihon and heian shodan, nidan, sandan and yondan a few times each. Right now, we are practicing the moves to help you memorise them. Once you have them we can focus on improving the kata making stronger and faster.
+When learning a kata, it's best to break it down in to sections. Heian Kata are all < 30 moves, so we split them into 2 to help you remember. We practiced kihon and heian shodan, nidan, sandan and yondan a few times each. Right now, we are practicing the moves to help you memorize them. Once you have them we can focus on improving the kata making stronger and faster.
 

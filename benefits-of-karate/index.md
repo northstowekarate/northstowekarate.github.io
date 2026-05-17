@@ -36,7 +36,7 @@ Karate classes are a great place to make friends and connect with others who sha
 
 Karate is more than a sport - it’s a way to grow physically, mentally, and socially. Whether you're looking to stay fit, gain confidence, or be part of a positive community, karate has something to offer.
 
-## Learn Self-Defence
+## Learn Self-defence
 
 Karate teaches practical techniques to help you protect yourself and others. You’ll learn simple but effective moves that can be used in real-life situations, helping you feel safer and more prepared.
 

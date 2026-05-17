@@ -12,4 +12,4 @@ As it was our last session of the year, I decided we should have a bit of fun. S
 
 We then put this all together and I got out the break boards where you practiced your techniques - using your whole body and shifting your weight to generate power came in to play here.
 
-We the finished off with a mince pie!
+We then finished off with a mince pie!

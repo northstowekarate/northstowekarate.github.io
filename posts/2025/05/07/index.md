@@ -35,7 +35,7 @@ For all kicks, the first move is to raise your leg, keeping your foot tight and 
 
 ## Kumite
 
-After practicing our blocks on the spot, we also practiced punching to the correct target and then blocking each others attacks on the spot.
+After practicing our blocks on the spot, we also practiced punching to the correct target and then blocking each other's attacks on the spot.
 
 ## Kata
 

@@ -151,7 +151,7 @@ Karate is a martial art, and there are some risks involved. However, injuries ar
 
 ## How do I join?
 
-Please visit [book a class](/lesson-booking/) to find out how to book your first class. We are often fully booked so please reach out in advance.
+Please visit [book a class](/lesson-booking/) to find out how to book your first class. We are often fully booked, so please reach out in advance.
 
 ## How do I get a uniform?
 
@@ -169,4 +169,4 @@ Gradings are practical assessments to check if you're ready for the next grade. 
 
 ## Why learn karate?
 
-Karate improves fitness, confidence, focus and self‑defence skills within a supportive community.You can learn more on our [benefits of karate page](https://www.northstowekarate.com/benefits-of-karate/).
+Karate improves fitness, confidence, focus and self‑defence skills within a supportive community. You can learn more on our [benefits of karate page](https://www.northstowekarate.com/benefits-of-karate/).

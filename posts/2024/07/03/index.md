@@ -10,7 +10,7 @@ tags:
 
 We have officially opened and had our first class! Thank you to all 13 who attended the Northstowe Karate Clubs first ever lesson. A special thank you to Joe who kindly helped teach, and my wife Mitali for help organising. I hope you enjoyed the lesson and hope to see you back next week. Please let your friends know about the club.
 
-We covered 3 basic techniques today - oi zuki (stepping punch), gedan barai (lower sweep/block) and age uke (rising block). There's a [Northstowe Karate Club group](https://www.facebook.com/groups/468916798849946)  on Facebook for any discussions/questions you may have or feel free to send me an email.
+We covered 3 basic techniques today - oi zuki (stepping punch), gedan barai (lower sweep/block) and age uke (rising block). There's a [Northstowe Karate Club group](https://www.facebook.com/groups/468916798849946) on Facebook for any discussions/questions you may have or feel free to email me.
 
 We'll continue to train on Wednesdays 6.30-7.30pm at The Cabin for the next 9 weeks and if the attendance continues to be high, I'll extend this indefinitely.
 

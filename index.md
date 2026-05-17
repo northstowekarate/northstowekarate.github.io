@@ -146,7 +146,7 @@ headerContent: |
         <div class="fab fa-instagram fa-2xl"><div style="display:none;">Find us on Instagram</div></div>
       </a>
       <a href="https://youtube.com/@northstowekarate" target="_blank" rel="noopener noreferrer">
-        <div class="fab fa-youtube fa-2xl"><div style="display:none;">Find us on Youtube</div></div>
+        <div class="fab fa-youtube fa-2xl"><div style="display:none;">Find us on YouTube</div></div>
       </a>
       <a href="https://linkedin.com/company/northstowekarate" target="_blank" rel="noopener noreferrer">
         <div class="fab fa-linkedin fa-2xl"><div style="display:none;">Find us on LinkedIn</div></div>
@@ -184,7 +184,7 @@ headerContent: |
   <div class="card-body">
     <h4 class="h5">For parents ✅</h4>
     <ul class="mb-0">
-      <li><strong>Safe &amp; supervised:</strong> All <a href="/instructors">instructors</a> are DBS-checked and we follow safeguarding good practice.</li>
+      <li><strong>Safe &amp; supervised:</strong> All <a href="/instructors">instructors</a> are DBS-checked, and we follow safeguarding good practice.</li>
       <li><strong>Age-appropriate classes:</strong> Suitable for ages 8+, beginners welcome — no uniform required for the first lesson.</li>
       <li><strong>Progress &amp; reward:</strong> Structured belt gradings help build focus, resilience, and self-esteem.</li>
       <li><strong>Practical:</strong> First lesson free — bring comfortable clothes and a water bottle.</li>

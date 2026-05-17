@@ -12,4 +12,4 @@ Tonight, we continued with some more advanced techniques and kata. We warmed up 
 
 ## Funding
 
-The club has been awarded some funding. This will go towards equipment and hall fees. Additionally, we have some funding to help those on low income who usually wouldn't usually be able to afford to try new sports etc. We have funding for 4 new gis, annual memberships and first gradings. If you or someone you know could benefit from this funding, please let them know and we can have a confidential conversation. It will be self-assessed so there's no requirements to apply.
+The club has been awarded some funding. This will go towards equipment and hall fees. Additionally, we have some funding to help those on low income who usually wouldn't usually be able to afford to try new sports etc. We have funding for 4 new gis, annual memberships and first gradings. If you or someone you know could benefit from this funding, please let them know and we can have a confidential conversation. It will be self-assessed, so there are no requirements to apply.

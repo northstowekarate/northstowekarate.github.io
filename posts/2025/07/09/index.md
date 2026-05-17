@@ -16,4 +16,4 @@ Our first session was held on 2024-07-03. It has been great to see so many of yo
 
 We finished the lesson with some sweet treats to celebrate.
 
-Thank you to Deborah and Mitali for helping out with behind the scenes admin!
+Thank you to Deborah and Mitali for helping out with behind the scenes' admin!

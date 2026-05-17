@@ -12,7 +12,7 @@ tags:
 
 ### Kime - Instantaneous tension at the end of the technique
 
-Today's focus was on how to move quickly. To move quickly you must relax - breathing out (while moving) helps you relax and become faster. Tension slows you down. When you hit something, you cannot be relaxed, or there will be now power and you may injure yourself. So we instantaneously tense, only at the very end of the technique, and then relax. This instantaneous tensing and relaxing at the end of the technique is how perform decisive techniques - kime waza. Your whole body tenses, not just your arm.
+Today's focus was on how to move quickly. To move quickly you must relax - breathing out (while moving) helps you relax and become faster. Tension slows you down. When you hit something, you cannot be relaxed, or there will be no power and you may injure yourself. So we instantaneously tense, only at the very end of the technique, and then relax. This instantaneous tensing and relaxing at the end of the technique is how perform decisive techniques - kime waza. Your whole body tenses, not just your arm.
 
 ### Stepping Forward
 
@@ -20,4 +20,4 @@ When stepping forward, use your pivot/supporting leg jiku ashi to pull you forwa
 
 ## Kata
 
-We went through Kihon Kata, Heian Shodan and Heian Nidan. You can view [videos of these kata](/kata/heian/) to help you learn them. The above principals apply to kumite and kata - speed and power are essential to good kata.
+We went through Kihon Kata, Heian Shodan and Heian Nidan. You can view [videos of these kata](/kata/heian/) to help you learn them. The above principles apply to kumite and kata - speed and power are essential to good kata.

@@ -14,5 +14,5 @@ Many of you are still learning the moves of kihon kata, so you have to practice 
 
 For heian nidan, the first 6 moves must be fast and strong. It's also important to practice gyaku y position, with the hips angled 45 degrees inside when performing gyaku uchi uke.
 
-For heian yondan we have a combination for fast and slow moves. We need to ensure there's a clear difference to ensure the correct timing and rhythm of the techniques. Key moves include 5-10, performing keage and uraken followed by an elbow strike - you must ensure your hips are engaged and you don't fall into the elbow strike.
+For heian yondan we have a combination for fast and slow moves. We need to ensure there's a clear difference to ensure the correct timing and rhythm of the techniques. Key moves include 5-10, performing keage and uraken followed by an elbow strike - you must ensure your hips are engaged, and you don't fall into the elbow strike.
 
