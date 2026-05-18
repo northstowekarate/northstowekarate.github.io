@@ -151,7 +151,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-07-01 18:30:00",
+    "datetime": "2026-07-01T18:30:00",
     "endDatetime": "2026-07-01 20:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -161,7 +161,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-07-05 15:00:00",
+    "datetime": "2026-07-05T15:00:00",
     "endDatetime": "2026-07-05 16:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -171,7 +171,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-07-08 18:30:00",
+    "datetime": "2026-07-08T18:30:00",
     "endDatetime": "2026-07-08 20:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -181,7 +181,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-07-12 15:00:00",
+    "datetime": "2026-07-12T15:00:00",
     "endDatetime": "2026-07-12 16:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -191,7 +191,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-07-15 18:30:00",
+    "datetime": "2026-07-15T18:30:00",
     "endDatetime": "2026-07-15 20:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -201,7 +201,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-07-19 15:00:00",
+    "datetime": "2026-07-19T15:00:00",
     "endDatetime": "2026-07-19 16:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -211,7 +211,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-07-22 18:30:00",
+    "datetime": "2026-07-22T18:30:00",
     "endDatetime": "2026-07-22 20:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -221,7 +221,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-07-26 15:00:00",
+    "datetime": "2026-07-26T15:00:00",
     "endDatetime": "2026-07-26 16:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -231,7 +231,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-07-29 18:30:00",
+    "datetime": "2026-07-29T18:30:00",
     "endDatetime": "2026-07-29 20:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -241,7 +241,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-08-02 15:00:00",
+    "datetime": "2026-08-02T15:00:00",
     "endDatetime": "2026-08-02 16:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -251,7 +251,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-08-05 18:30:00",
+    "datetime": "2026-08-05T18:30:00",
     "endDatetime": "2026-08-05 20:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -261,7 +261,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-08-09 15:00:00",
+    "datetime": "2026-08-09T15:00:00",
     "endDatetime": "2026-08-09 16:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -271,7 +271,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-08-12 18:30:00",
+    "datetime": "2026-08-12T18:30:00",
     "endDatetime": "2026-08-12 20:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -281,7 +281,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-08-16 15:00:00",
+    "datetime": "2026-08-16T15:00:00",
     "endDatetime": "2026-08-16 16:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -291,7 +291,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-08-19 18:30:00",
+    "datetime": "2026-08-19T18:30:00",
     "endDatetime": "2026-08-19 20:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -301,7 +301,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-08-23 15:00:00",
+    "datetime": "2026-08-23T15:00:00",
     "endDatetime": "2026-08-23 16:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -311,7 +311,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-08-26 18:30:00",
+    "datetime": "2026-08-26T18:30:00",
     "endDatetime": "2026-08-26 20:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -321,7 +321,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-09-02 18:30:00",
+    "datetime": "2026-09-02T18:30:00",
     "endDatetime": "2026-09-02 20:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -331,7 +331,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-09-06 15:00:00",
+    "datetime": "2026-09-06 14:30:00",
     "endDatetime": "2026-09-06 16:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -341,7 +341,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-09-09 18:30:00",
+    "datetime": "2026-09-09T18:30:00",
     "endDatetime": "2026-09-09 20:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -351,7 +351,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-09-13 15:00:00",
+    "datetime": "2026-09-13 14:30:00",
     "endDatetime": "2026-09-13 16:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -361,7 +361,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-09-16 18:30:00",
+    "datetime": "2026-09-16T18:30:00",
     "endDatetime": "2026-09-16 20:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -371,7 +371,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-09-20 15:00:00",
+    "datetime": "2026-09-20 14:30:00",
     "endDatetime": "2026-09-20 16:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -381,7 +381,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-09-23 18:30:00",
+    "datetime": "2026-09-23T18:30:00",
     "endDatetime": "2026-09-23 20:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -391,7 +391,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-09-27 15:00:00",
+    "datetime": "2026-09-27 14:30:00",
     "endDatetime": "2026-09-27 16:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -401,7 +401,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-09-30 18:30:00",
+    "datetime": "2026-09-30T18:30:00",
     "endDatetime": "2026-09-30 20:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -411,7 +411,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-10-04 15:00:00",
+    "datetime": "2026-10-04 14:30:00",
     "endDatetime": "2026-10-04 16:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -421,7 +421,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-10-07 18:30:00",
+    "datetime": "2026-10-07T18:30:00",
     "endDatetime": "2026-10-07 20:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -431,7 +431,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-10-11 15:00:00",
+    "datetime": "2026-10-11 14:30:00",
     "endDatetime": "2026-10-11 16:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -441,7 +441,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-10-14 18:30:00",
+    "datetime": "2026-10-14T18:30:00",
     "endDatetime": "2026-10-14 20:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -451,7 +451,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-10-18 15:00:00",
+    "datetime": "2026-10-18 14:30:00",
     "endDatetime": "2026-10-18 16:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -461,7 +461,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-10-21 18:30:00",
+    "datetime": "2026-10-21T18:30:00",
     "endDatetime": "2026-10-21 20:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -471,7 +471,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-10-25 15:00:00",
+    "datetime": "2026-10-25 14:30:00",
     "endDatetime": "2026-10-25 16:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -481,7 +481,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-10-28 18:30:00",
+    "datetime": "2026-10-28T18:30:00",
     "endDatetime": "2026-10-28 20:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -491,7 +491,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-11-01 15:00:00",
+    "datetime": "2026-11-01 14:30:00",
     "endDatetime": "2026-11-01 16:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -501,7 +501,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-11-04 18:30:00",
+    "datetime": "2026-11-04T18:30:00",
     "endDatetime": "2026-11-04 20:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -511,7 +511,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-11-08 15:00:00",
+    "datetime": "2026-11-08 14:30:00",
     "endDatetime": "2026-11-08 16:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -521,7 +521,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-11-11 18:30:00",
+    "datetime": "2026-11-11T18:30:00",
     "endDatetime": "2026-11-11 20:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -531,7 +531,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-11-15 15:00:00",
+    "datetime": "2026-11-15 14:30:00",
     "endDatetime": "2026-11-15 16:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -541,7 +541,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-11-18 18:30:00",
+    "datetime": "2026-11-18T18:30:00",
     "endDatetime": "2026-11-18 20:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -551,7 +551,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-11-22 15:00:00",
+    "datetime": "2026-11-22 14:30:00",
     "endDatetime": "2026-11-22 16:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -561,7 +561,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-11-29 15:00:00",
+    "datetime": "2026-11-29 14:30:00",
     "endDatetime": "2026-11-29 16:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -571,7 +571,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-12-02 18:30:00",
+    "datetime": "2026-12-02T18:30:00",
     "endDatetime": "2026-12-02 20:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -581,7 +581,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-12-09 18:30:00",
+    "datetime": "2026-12-09T18:30:00",
     "endDatetime": "2026-12-09 20:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -591,7 +591,7 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-12-13 15:00:00",
+    "datetime": "2026-12-13 14:30:00",
     "endDatetime": "2026-12-13 16:00:00",
     "label": "Training",
     "location": "The Unity Centre",
@@ -601,18 +601,8 @@
   },
   {
     "id": "Northstowe Karate Training",
-    "datetime": "2026-12-16 18:30:00",
+    "datetime": "2026-12-16T18:30:00",
     "endDatetime": "2026-12-16 20:00:00",
-    "label": "Training",
-    "location": "The Unity Centre",
-    "locationLink": "#locatoin-unity-centre",
-    "notes": "",
-    "type": "lesson"
-  },
-  {
-    "id": "Northstowe Karate Training",
-    "datetime": "2026-12-27 15:00:00",
-    "endDatetime": "2026-12-27 16:00:00",
     "label": "Training",
     "location": "The Unity Centre",
     "locationLink": "#locatoin-unity-centre",
