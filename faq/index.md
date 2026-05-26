@@ -162,7 +162,6 @@ You can purchase karate gi (uniform) through the club, although this is not requ
 * [Bytomic Children's Beginner karate gi](https://www.bytomic.com/products/white-bytomic-red-label-7oz-lightweight-kids-karate-uniform)
 * [Bytomic Adult Beginner karate gi](https://www.bytomic.com/products/white-bytomic-red-label-7oz-lightweight-adult-karate-uniform)
 
-
 ## How do I get my next belt?
 
 Gradings are practical assessments to check if you're ready for the next grade. These are held around 3 times per year. You can read the requirements for each kyu grade (colour belt) in our [syllabus](/syllabus/).
