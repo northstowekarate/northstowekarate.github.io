@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: "Book Your First Class | Northstowe Karate Club"
-description: "Book your first class at Northstowe Karate Club for free or contact us to learn more via email or social media."
+description: "Ready to start your karate journey? Book your free trial class today - we can help develop focus, confidence and fitness."
 date: "git Last Modified"
 priority: 0.8
 changeFrequency: yearly

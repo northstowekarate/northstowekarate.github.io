@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: "Karate in Northstowe | Classes for Families, Kids & Adults"
-description: "Join Northstowe Karate Club for Karate classes near Cambridge. Perfect for kids (8+), families, and adults. Build confidence, fitness, and self-defence skills."
+description: "Join Northstowe Karate Club for Karate classes in Northstowe, Cambridge. Perfect for kids (8+), families, and adults. Build confidence, fitness, and focus"
 date: "git Last Modified"
 priority: 1.0
 changeFrequency: monthly

@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: "Northstowe Karate Class Schedule | Kids & Adults"
-description: "Join Shotokan Karate classes in Northstowe for beginners to black belts. Sessions on Wednesdays 6:30–8pm and Sundays 3–4pm. First lesson free."
+description: "Regular sessions on Wednesdays 6:30–8pm and Sundays 3–4pm at the Unity Centre. First lesson free. See our schedule for more details"
 date: "git Last Modified"
 changeFrequency: weekly
 headerContent: |
