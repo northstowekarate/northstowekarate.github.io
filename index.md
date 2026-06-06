@@ -105,56 +105,21 @@ headerContent: |
   <img
     src="/static/belt.webp"
     sizes="(max-width: 576px) 100vw, (max-width: 992px) 100vw, 100vw"
-    alt="Karate class at The Unity Centre in Northstowe"
+    alt="Shotokan Karate Belt"
     class="hero-image"
   >
   <div class="hero-content text-center">
-    <!-- Headline -->
-    <h1 class="display-5 fw-bold mb-3">
+    <h1 class="display-5 fw-bold">
       Karate Classes in Northstowe, Cambridge
     </h1>
-
-    <!-- Supporting Text -->
-    <p class="lead mb-4">
-      Family-friendly Shotokan Karate classes for ages 8+ and adults — taught by experienced instructors in a safe, supportive environment that builds confidence, focus, and fitness. First lesson free.
+    <p class="lead">
+     Family-friendly Shotokan Karate that builds confidence, focus, and fitness. Age 8+.
     </p>
-    
-    <!-- Class Details -->
     <p class="fs-6 fw-semibold">
-      Regular sessions: Wednesday 6.30pm–8pm &amp; Sunday 3–4pm at Northstowe Community Centre (The Unity Centre), CB24 1FD
+      Beginner-friendly - no equipment or experience needed, just bring a water bottle and wear sporty clothing
     </p>
-
-    <p class="fs-6 fw-semibold">
-      Beginner-friendly - no experience needed • DBS-checked instructors • Ages 8+
-    </p>
-
     <!-- Call-to-Action -->
     <a href="/lesson-booking/" class="btn btn-brown btn-lg px-4 mb-3">Book a free class</a>
-
-    <!-- Slogan -->
-    <p class="fs-6 fw-semibold">
-      Tradition • Respect • Honour
-    </p>
-    <div class="social-icons">
-      <a href="mailto:info@northstowekarate.com">
-        <div class="fa fa-envelope fa-2xl"><div style="display:none;">Email Us</div></div>
-      </a>
-      <a href="https://www.facebook.com/profile.php?id=61560001297561" target="_blank" rel="noopener noreferrer">
-        <div class="fab fa-facebook fa-2xl"><div style="display:none;">Find us on Facebook</div></div>
-      </a>
-      <a href="https://www.instagram.com/northstowekarate" target="_blank" rel="noopener noreferrer">
-        <div class="fab fa-instagram fa-2xl"><div style="display:none;">Find us on Instagram</div></div>
-      </a>
-      <a href="https://youtube.com/@northstowekarate" target="_blank" rel="noopener noreferrer">
-        <div class="fab fa-youtube fa-2xl"><div style="display:none;">Find us on YouTube</div></div>
-      </a>
-      <a href="https://linkedin.com/company/northstowekarate" target="_blank" rel="noopener noreferrer">
-        <div class="fab fa-linkedin fa-2xl"><div style="display:none;">Find us on LinkedIn</div></div>
-      </a>
-      <a href="https://share.google/J2lpG59uhIJCd814h" target="_blank" rel="noopener noreferrer">
-        <div class="fab fa-google fa-2xl"><div style="display:none;">Find us on Google</div></div>
-      </a>
-    </div>
   </div>
 
 </div>
