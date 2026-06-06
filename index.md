@@ -149,7 +149,7 @@ headerContent: |
   <div class="card-body">
     <h4 class="h5">For parents ✅</h4>
     <ul class="mb-0">
-      <li><strong>Safe &amp; supervised:</strong> All <a href="/instructors">instructors</a> are DBS-checked, and we follow safeguarding good practice.</li>
+      <li><strong>Safe &amp; supervised:</strong> Safeguarding is a priority at Northstowe Karate Club. All <a href="/instructors">instructors</a> are DBS-checked, and we follow safeguarding good practice.</li>
       <li><strong>Age-appropriate classes:</strong> Suitable for ages 8+, beginners welcome — no uniform required for the first lesson.</li>
       <li><strong>Progress &amp; reward:</strong> Structured belt gradings help build focus, resilience, and self-esteem.</li>
       <li><strong>Practical:</strong> First lesson free — bring comfortable clothes and a water bottle.</li>
@@ -166,9 +166,22 @@ Karate is more than a martial art - it’s a way of developing confidence, focus
 
 Parents often tell us they appreciate the balance we strike: structured, traditional training delivered in a friendly, encouraging environment. Students learn to work hard, support each other, and take pride in their achievements - skills that carry far beyond the dojo.
 
-## Our Teaching Approach
+Karate consists of 3 parts - kihon (basic techniques), kumite (sparring) and kata (forms). Below you see students practicing all 3. You can find out what a typical lesson looks like on our ["What to expect"](/what-to-expect) page.
 
-We teach with a focus on tradition and respect — values that shape every lesson. For the full teaching approach and how it works in practice, see our [About page](/about/).
+<div class="pswp-gallery" id="my-gallery">
+  <div class="gallery-grid">
+    <a href="./gallery/oi-zuki-2.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
+      <img src="./gallery/oi-zuki-2.webp" alt="Practicing kihon (basic techniques). Students practicing lunge punch." />
+    </a>
+    <a href="./gallery/sanbon-kumite-7.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
+      <img src="./gallery/sanbon-kumite-7.webp" alt="Students pracicing a sparring drill - sanbon kumite" />
+    </a>
+    <a href="./gallery/heian-nidan-6.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
+      <img src="./gallery/heian-nidan-6.webp" alt="Students on move 6 of heian nidan" />
+    </a>
+  </div>
+</div>
+
 
 ## What parents and students say about our classes
 
@@ -212,13 +225,27 @@ Simon Apen-Sadler is the Chief Instructor of Northstowe Karate Club. He is a 4th
 
 Check out our [FAQ page](/faq/) to see our frequently asked questions. If that doesn't answer your question, please [reach out to us](/contact/).
 
+<style>
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Default to 2 columns */
+  gap: 10px;
+}
+
+.gallery-grid img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+</style>
+
 <script type="module">
-  import PhotoSwipeLightbox from '/static/photoswipe-5.4.4/photoswipe-lightbox.esm.js';
-  const lightbox = new PhotoSwipeLightbox({
-    gallery: '#gallery',
-    children: 'a',
-    pswpModule: () => import('/static/photoswipe-5.4.4/photoswipe.esm.js')
-  });
-  lightbox.init();
+import PhotoSwipeLightbox from '/static/photoswipe-5.4.4/photoswipe-lightbox.esm.js';
+const lightbox = new PhotoSwipeLightbox({
+  gallery: '#my-gallery',
+  children: 'a',
+  pswpModule: () => import('/static/photoswipe-5.4.4/photoswipe.esm.js')
+});
+lightbox.init();
 </script>
 

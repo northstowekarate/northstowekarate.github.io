@@ -11,76 +11,76 @@ priority: 0.9
 <div class="pswp-gallery" id="my-gallery">
   <div class="gallery-grid">
     <a href="seiza.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
-      <img src="seiza.webp" alt="Gallery image seiza" />
+      <img src="seiza.webp" alt="Students kneeling at the start of the lesson" />
     </a>
     <a href="seiza2.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
-      <img src="seiza2.webp" alt="Gallery image seiza2" />
+      <img src="seiza2.webp" alt="Students kneeling at the start of the lesson" />
     </a>
     <a href="warm-up.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
-      <img src="warm-up.webp" alt="Gallery image warm-up" />
+      <img src="warm-up.webp" alt="Students taking part in the class warm-up" />
     </a>
     <a href="warm-up-stretch.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
-      <img src="warm-up-stretch.webp" alt="Gallery image warm-up-stretch" />
+      <img src="warm-up-stretch.webp" alt="Students stretching during the warm-up" />
     </a>
     <a href="warm-up-kiba.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
-      <img src="warm-up-kiba.webp" alt="Gallery image warm-up-kiba" />
+      <img src="warm-up-kiba.webp" alt="Students stretching their legs in kiba dachi" />
     </a>
     <a href="choku-zuki.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
       <img src="choku-zuki.webp" alt="Class practicing straight punch - choku zuki." />
     </a>
     <a href="oi-zuki-2.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
-      <img src="oi-zuki-2.webp" alt="Gallery image oi-zuki-2" />
+      <img src="oi-zuki-2.webp" alt="Class practicing lunge punch" />
     </a>
     <a href="oi-zuki-3.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
-      <img src="oi-zuki-3.webp" alt="Gallery image oi-zuki-3" />
+      <img src="oi-zuki-3.webp" alt="Class practicing lunge punch" />
     </a>
     <a href="oi-zuki-stepping.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
-      <img src="oi-zuki-stepping.webp" alt="Gallery image oi-zuki-stepping" />
+      <img src="oi-zuki-stepping.webp" alt="Class practicing lunge punch" />
     </a>
     <a href="age-uke.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
       <img src="age-uke.webp" alt="Class practicing rising block - age uke." />
     </a>
     <a href="soto-uke.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
-      <img src="soto-uke.webp" alt="Gallery image soto-uke" />
+      <img src="soto-uke.webp" alt="Class practicing outside block" />
     </a>
     <a href="mae-geri-demonstration.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
-      <img src="mae-geri-demonstration.webp" alt="Gallery image mae-geri-demonstration" />
+      <img src="mae-geri-demonstration.webp" alt="Front kick demonstration by instructor Simon Apen-Sadler" />
     </a>
     <a href="mae-geri-1.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
-      <img src="mae-geri-1.webp" alt="Gallery image mae-geri-1" />
+      <img src="mae-geri-1.webp" alt="Students practicing front kick" />
     </a>
     <a href="sanbon-kumite-1.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
-      <img src="sanbon-kumite-1.webp" alt="Gallery image sanbon-kumite-1" />
+      <img src="sanbon-kumite-1.webp" alt="Students practicing 3-step kumite - a sparring drill" />
     </a>
     <a href="sanbon-kumite-2.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
-      <img src="sanbon-kumite-2.webp" alt="Gallery image sanbon-kumite-2" />
+      <img src="sanbon-kumite-2.webp" alt="Students practicing 3-step kumite - a sparring drill" />
     </a>
     <a href="sanbon-kumite-3.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
-      <img src="sanbon-kumite-3.webp" alt="Gallery image sanbon-kumite-3" />
+      <img src="sanbon-kumite-3.webp" alt="Students practicing 3-step kumite - a sparring drill" />
     </a>
     <a href="sanbon-kumite-4.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
-      <img src="sanbon-kumite-4.webp" alt="Gallery image sanbon-kumite-4" />
+      <img src="sanbon-kumite-4.webp" alt="Students practicing 3-step kumite - a sparring drill" />
     </a>
     <a href="sanbon-kumite-5.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
-      <img src="sanbon-kumite-5.webp" alt="Gallery image sanbon-kumite-5" />
+      <img src="sanbon-kumite-5.webp" alt="Students practicing 3-step kumite - a sparring drill" />
     </a>
     <a href="sanbon-kumite-6.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
-      <img src="sanbon-kumite-6.webp" alt="Gallery image sanbon-kumite-6" />
+      <img src="sanbon-kumite-6.webp" alt="Students practicing 3-step kumite - a sparring drill" />
     </a>
     <a href="sanbon-kumite-7.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
-      <img src="sanbon-kumite-7.webp" alt="Gallery image sanbon-kumite-7" />
+      <img src="sanbon-kumite-7.webp" alt="Students practicing 3-step kumite - a sparring drill" />
     </a>
     <a href="yoi.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
-      <img src="yoi.webp" alt="Gallery image yoi" />
+      <img src="yoi.webp" alt="Ready position. Students and instructor ready to start kata practice" />
     </a>
     <a href="heian-shodan-first-move.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
-      <img src="heian-shodan-first-move.webp" alt="Gallery image heian-shodan-first-move" />
+      <img src="heian-shodan-first-move.webp" alt="First move of heian shodan" />
     </a>
     <a href="heian-nidan-6.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
-      <img src="heian-nidan-6.webp" alt="Gallery image heian-nidan-6" />
+      <img src="heian-nidan-6.webp" alt="Students performing move 6 of heian nidan" />
     </a>
     <a href="heian-nidan-12.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
-      <img src="heian-nidan-12.webp" alt="Gallery image heian-nidan-12" />
+      <img src="heian-nidan-12.webp" alt="Students performing move 6 of heian nidan" />
     </a>
   </div>
 </div>
