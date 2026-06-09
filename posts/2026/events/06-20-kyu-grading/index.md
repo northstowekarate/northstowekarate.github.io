@@ -36,7 +36,11 @@ Kyu grading hosted by [Cambridge Karate Dojo](https://cambridgekaratedojo.com). 
 
 ## Readiness
 
-I will assess your readiness to grade in the upcoming weeks. 
+To grade you
+
+* A dogi (uniform)
+* Active membership
+* Confirmation from the club instructor you are ready - readiness assessment will be done 1-3 weeks before the grading.
 
 ## Fees
 
