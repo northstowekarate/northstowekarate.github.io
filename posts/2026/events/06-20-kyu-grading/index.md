@@ -46,6 +46,12 @@ To grade you must have:
 
 The training fee is £15. The grading fee is £25 - this includes the training fee, which is compulsory.
 
+## What to bring
+
+* Your uniform (belt and dogi)
+* Your license
+* Water bottle
+
 ## Event Details
 
 * 1-2pm - training for purple belt and above
