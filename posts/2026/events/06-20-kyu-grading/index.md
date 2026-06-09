@@ -61,6 +61,10 @@ The grading fee is £25 - this includes the training fee, which is compulsory. T
 
 Please note grading times are approximate and depend on numbers.
 
+Please arrive 15 minutes early before your session starts. 
+
+Parents are welcome to watch quietly from the side.
+
 ### Location
 
 Held at Cambridge Karate Dojo - Main Hall at Kelsey Kerridge Sports Centre. There's parking available next door at Queen Anne Terrace Car Park - the car park does fill up quickly on weekends - there might be a queue, so please be early.
