@@ -36,7 +36,7 @@ Kyu grading hosted by [Cambridge Karate Dojo](https://cambridgekaratedojo.com). 
 
 ## Readiness
 
-To grade you
+To grade you must have:
 
 * A dogi (uniform)
 * Active membership
