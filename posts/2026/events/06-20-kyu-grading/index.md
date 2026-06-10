@@ -32,15 +32,25 @@ headerContent: |
 
 # Kyu Grading — 20 Jun 2026
 
-Kyu grading hosted by [Cambridge Karate Dojo](https://cambridgekaratedojo.com). Grading will consist of a 1-hour training session with Sensei Roy Tomlin, 7th Dan to help prepare for your grading, followed grading assessment.
+Kyu grading hosted by [Cambridge Karate Dojo](https://cambridgekaratedojo.com). Grading will consist of a 1-hour training session with Sensei Roy Tomlin, 7th Dan to help prepare for your grading, followed by grading assessment.
 
 ## Readiness
 
-I will assess your readiness to grade in the upcoming weeks. 
+To grade you must have:
+
+* A dogi (uniform)
+* Active membership/license
+* Confirmation from the club instructor you are ready - readiness assessment will be done 1-3 weeks before the grading.
 
 ## Fees
 
-The training fee is £15. The grading fee is £25 - this includes the training fee, which is compulsory.
+The grading fee is £25 - this includes the training fee, which is compulsory. The training fee is £15 for those who want to train, but aren't grading.
+
+## What to bring
+
+* Your uniform (belt and dogi)
+* Your license
+* Water bottle
 
 ## Event Details
 
@@ -50,6 +60,10 @@ The training fee is £15. The grading fee is £25 - this includes the training f
 * 4.30-6pm - grading for red belt and above
 
 Please note grading times are approximate and depend on numbers.
+
+Please arrive 15 minutes early before your session starts. 
+
+Parents are welcome to watch quietly from the side.
 
 ### Location
 
