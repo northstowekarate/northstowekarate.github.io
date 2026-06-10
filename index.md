@@ -166,7 +166,7 @@ Karate is more than a martial art - it’s a way of developing confidence, focus
 
 Parents often tell us they appreciate the balance we strike: structured, traditional training delivered in a friendly, encouraging environment. Students learn to work hard, support each other, and take pride in their achievements - skills that carry far beyond the dojo.
 
-Karate consists of 3 parts - kihon (basic techniques), kumite (sparring) and kata (forms). You can find out what a typical lesson looks like on our ["What to expect"](/what-to-expect) page. Here are some examples of students practising all three aspects of karate:
+Karate consists of 3 parts - kihon (basic techniques), kumite (sparring) and kata (forms). You can find out what a typical lesson looks like on our ["What to expect"](/training/what-to-expect/) page. Here are some examples of students practising all three aspects of karate:
 
 <div class="pswp-gallery" id="my-gallery">
   <div class="gallery-grid">
