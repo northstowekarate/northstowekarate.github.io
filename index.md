@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: "Karate in Northstowe | Classes for Families, Kids & Adults"
+title: "Karate Classes in Northstowe & Cambridge | Kids, Adults & Families"
 description: "Join Northstowe Karate Club for Karate classes in Northstowe, Cambridge. Perfect for kids (8+), families, and adults. Build confidence, fitness, and focus"
 date: "git Last Modified"
 priority: 1.0
@@ -114,9 +114,6 @@ headerContent: |
     </h1>
     <p class="lead">
      Family-friendly Shotokan Karate that builds confidence, focus, and fitness. Age 8+.
-    </p>
-    <p class="fs-6 fw-semibold">
-      Beginner-friendly - no equipment or experience needed, just bring a water bottle and wear sporty clothing
     </p>
     <!-- Call-to-Action -->
     <a href="/lesson-booking/" class="btn btn-brown btn-lg px-4 mb-3">Book a free class</a>
