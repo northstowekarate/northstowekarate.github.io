@@ -9,7 +9,7 @@ changeFrequency: yearly
 # Booking your first class
 New members (both **children 8+ and adults**) are always welcome - your first lesson is free. Our **Shotokan Karate classes in Northstowe** are family-friendly, safe, and designed to help students build confidence, fitness, and self-defence skills.
 
-After booking, you’ll receive a **reply from us** with all the details and what to bring within a few days. **Spaces are limited**, so book early to secure your spot. If you need to cancel, please [let us know](/contact/) as soon as possible.
+To book, please fill out the form below. If you prefer, you can email us directly instead: <a href="mailto:info@northstowekarate.com>info@northstowekarate.com</a>.
 
 <iframe width="640" height="480" title="Free trial Booking form" src="https://forms.microsoft.com/Pages/ResponsePage.aspx?id=3s3spjqgdUSy3GyjZkmAVgDWhhqLNiVKjObZ-2GEPr5UNE9BNEtSREdWVDZDRk84NlRYNFpHSU1INC4u&embed=true" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
