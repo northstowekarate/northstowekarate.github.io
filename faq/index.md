@@ -128,7 +128,7 @@ Your first class is free. After that, we offer pay-per-session plus annual membe
 
 ## Is Karate Right for me?
 
-We welcome students of all backgrounds and abilities. Whether you're looking to improve your fitness, build confidence, or simply try something new, our inclusive approach ensures everyone feels supported. Parents and guardians are encouraged to train alongside younger children to help them settle in.
+We welcome students of all backgrounds and abilities, from age 8 to adult. Whether you're looking to improve your fitness, build confidence, or simply try something new, our inclusive approach ensures everyone feels supported. Parents and guardians are encouraged to train alongside younger children to help them settle in.
 
 ## It's my first lesson, what can I expect? 
 
