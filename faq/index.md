@@ -41,7 +41,7 @@ headerContent: |
         "name": "It's my first lesson—what can I expect?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "You’ll learn basic stances, punches and kicks, plus dojo etiquette, respect and discipline. Our instructors ensure you feel comfortable throughout. Details: https://www.northstowekarate.com/training/what-to-expect/"
+          "text": "You’ll learn basic stances, punches and kicks, plus dojo etiquette, respect and discipline. Our instructors ensure you feel comfortable throughout. For more details see: https://www.northstowekarate.com/training/what-to-expect/"
         }
       },
       {
@@ -49,7 +49,7 @@ headerContent: |
         "name": "What should I wear?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "No uniform is needed to start. Wear comfortable sports clothing (e.g., T‑shirt and track pants). You can get a gi later if you wish."
+          "text": "No uniform is needed to start. Wear comfortable sports clothing (e.g., T‑shirt and track pants). You can get a dogi (uniform) once you decide to commit."
         }
       },
       {
@@ -89,7 +89,7 @@ headerContent: |
         "name": "How do I get a uniform?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "A gi is optional at first—try a few sessions before buying. You can purchase through the club or from reputable suppliers."
+          "text": "A uniform is optional for your first few sessions until you decide if karate is a good fit for you. You can purchase through the club or from reputable suppliers."
         }
       },
       {
@@ -106,6 +106,47 @@ headerContent: |
         "acceptedAnswer": {
           "@type": "Answer",
           "text": "Karate improves fitness, confidence, focus and self‑defence skills within a supportive community. Learn more: https://www.northstowekarate.com/benefits-of-karate/."
+        }
+      }
+      ,
+      {
+        "@type": "Question",
+        "name": "Am I too old to start karate?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No — there is no upper age limit. Many people start later in life; in Okinawa some begin in their 60s or 70s. We adapt training for fitness and safety at every age."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can parents train too?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes — parents can and frequently do train alongside children. Family training is welcome and can help children settle into classes."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How long does it take to get a black belt?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Typical progress to 1st dan (black belt) is around 3–5 years of regular training, depending on attendance, aptitude and grading schedules."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is karate good for confidence?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes — karate is a very effective activity for building confidence through structured achievement, regular practice and positive feedback."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is karate suitable for children with ADHD or autism?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Many children with ADHD or autism thrive in structured, supportive activities like karate, but it depends on individual needs. Please contact us before booking so we can discuss adaptations, safeguarding and how we can best support your child."
         }
       }
     ],
@@ -145,6 +186,26 @@ You don't need any special equipment. We recommend you bring a water bottle to e
 ## What are the age requirements? 
 We teach both children and adults, aged 8 and above. There's no upper age limit, so it's never too late to start learning karate. We recommend that young children train alongside their parents for the first few sessions to build their confidence gradually. This family-oriented approach can also strengthen bonds and create a supportive learning environment.
 
+## Am I too old to start karate?
+
+No — there is no upper age limit. People begin karate at many stages of life; in Okinawa many start in their 60s and 70s. We adapt exercises and intensity so training is safe and enjoyable for older beginners.
+
+## Can parents train too?
+
+Yes — parents are welcome to train alongside their children. Family participation can help younger students settle, and many parents continue training as adults for fitness and confidence.
+
+## How long does it take to get a black belt?
+
+Reaching 1st dan (black belt) typically takes around 3–5 years of regular training. Progress varies with attendance, individual aptitude and how often gradings are held.
+
+## Is karate good for confidence?
+
+Yes — karate is very effective at building confidence through progressive goals, regular practice and positive coaching. Students often report improved self-esteem and focus after consistent training.
+
+## Is karate suitable for children with ADHD or autism?
+
+Many children with ADHD or autistic children benefit from structured, supportive activities like karate, but needs vary. Please contact us before booking so we can discuss any adaptations, safeguarding measures, and how best to support your child in class.
+
 ## Will I get hurt? 
 
 Karate is a martial art, and there are some risks involved. However, injuries are rare. JKA karate is light contact only - you won't be expected to fight until you've mastered the basics. We build up the level of fighting gradually, starting off slowly with known attacks to develop technique and confidence. Safety is our top priority, and our instructors are trained to ensure that all activities are conducted in a controlled and safe manner.
@@ -168,4 +229,4 @@ Gradings are practical assessments to check if you're ready for the next grade. 
 
 ## Why learn karate?
 
-Karate improves fitness, confidence, focus and self‑defence skills within a supportive community. You can learn more on our [benefits of karate page](https://www.northstowekarate.com/benefits-of-karate/).
+Karate improves fitness, confidence, focus and self‑defence skills within a supportive community. You can learn more on our [benefits of karate page](/benefits-of-karate/).
