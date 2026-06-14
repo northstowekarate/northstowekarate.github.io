@@ -8,36 +8,75 @@ changeFrequency: yearly
 ---
 # About Northstowe Karate Club
 
-Founded in 2024 by Simon Apen-Sadler [(Chief Instructor)](/instructors/), Deborah Turner (Treasurer), and Mitali Apen-Sadler (Secretary), Northstowe Karate Club is a welcoming martial arts community based on the principles of budo karate: discipline, humility, and continuous self-improvement.
+Northstowe Karate Club is a friendly Shotokan karate club serving Northstowe, Cambridge and the surrounding villages. We welcome children aged 8 and over, teenagers, adults and families, from complete beginners to experienced martial artists.
 
-We teach traditional [Shotokan Karate](https://en.wikipedia.org/wiki/Shotokan), a Japanese martial art. We are a member of [Japan Shotokan Karate England](https://jske.co.uk) and are affiliated with the [Japan Karate Association](https://www.jka.or.jp/en/), which is one of the largest and most prestigious karate organizations in the world.
-
-## Family Friendly
-
-At Northstowe Karate Club, we pride ourselves on being a family-friendly and inclusive community where everyone aged 8 and above is welcome to train, learn, and grow together. Whether you're a complete beginner or have years of experience, our classes are designed to support mixed abilities, ensuring that each student progresses at their own pace in a safe and encouraging environment. Families often train side by side, building confidence, discipline, and fitness while sharing a unique and rewarding journey.
+Our aim is simple: to provide high-quality traditional karate training in a safe, supportive and welcoming environment where students can develop confidence, fitness, self-discipline and practical self-defence skills. Kids, adults and families train side-by-side developing confidence, fitness and focus.
 
 We believe karate is for everyone - regardless of background, or physical ability. Our instructors foster a respectful and supportive atmosphere where diversity is celebrated, and every member feels valued. From children developing coordination and focus to adults seeking fitness or self-defence skills, Northstowe Karate Club offers a space where personal growth and community spirit go hand in hand.
 
-## Tradition, Respect and Honour
+We teach traditional [Shotokan Karate](https://en.wikipedia.org/wiki/Shotokan), a Japanese martial art. We are a member of [Japan Shotokan Karate England](https://jske.co.uk) and are affiliated with the [Japan Karate Association](https://www.jka.or.jp/en/), which is one of the largest and most prestigious karate organizations in the world.
 
-We believe karate is more than physical technique — it’s a lifelong journey of character development. Our training is grounded in tradition and respect, with honour guiding how we teach, train, and support each other.
+## Why we train
 
-Our teaching approach reflects these values and is built around three principles:
+Karate is much more than punching and kicking. Regular training develops physical fitness, coordination and resilience, but it also teaches patience, respect and perseverance.
 
-- **Clarity and structure** — we teach traditional Shotokan Karate with clear explanations and structured progressions, so students build strong fundamentals from the start.
-- **Encouragement and confidence‑building** — we create a friendly, supportive environment where students feel safe to try, learn and grow.
-- **Respect, discipline and character** — karate develops character; we emphasize etiquette and discipline, so students train with **honour** both inside and outside the dojo.
+Whether your goal is fitness, self-defence, personal development or simply learning something new, karate provides a lifelong path of improvement.
 
-## What is budo?
-Budo (武道), meaning “the martial way,” represents a philosophy of personal growth through martial arts. It encourages focus, resilience, and mutual respect — values we aim to instil in every student.
+At Northstowe Karate Club, students train together regardless of age or experience, helping one another progress while challenging themselves to improve.
 
-Simon brings decades of experience and regularly trains with senior [Japan Karate Association (JKA)](https://www.jka.or.jp/en/) instructors on official JKA courses. The club is proudly affiliated with both [Japan Shotokan Karate England (JSKE)](https://jske.co.uk/) and the JKA, ensuring our teaching stays true to authentic Shotokan karate.
+## Who is karate for?
 
-**What to expect in training:** See our detailed lesson guide on the [What to expect](/training/what-to-expect/) page for class structure, lesson themes and videos.
+Our classes are suitable for:
 
-We welcome children, teens, and adults of all experience levels. Whether you're trying karate for the first time or returning to deepen your practice, you'll find a friendly, inclusive environment where everyone is supported and challenged.
+* Children aged 8 and above
+* Teenagers
+* Adults of any age
+* Complete beginners
+* Families who want to train together
+* Experienced karateka returning after a break
+
+No previous martial arts experience is required.
+
+## Traditional Shotokan Karate
+
+We practise traditional Shotokan Karate, one of the world's most widely practised karate styles. We are affiliated to the [Japan Karate Association](https://jka.or.jp/en), which is one of the largest and most prestigious karate organizations in the world.
+
+### Training includes:
+
+* Kihon (fundamental techniques)
+* Kata (formal patterns)
+* Kumite (partner work and sparring)
+* Practical self-defence applications
+
+Students progress through a recognised grading syllabus and have opportunities to train, grade and develop their skills over many years.
+
+## Club
+
+Northstowe Karate Club was established to as a non-profit community club to provide accessible, high-quality karate training for the growing communities of Northstowe and the surrounding area.
+
+We wanted to create a club where beginners would feel comfortable starting their martial arts journey while experienced students could continue to develop their skills in a traditional and respectful environment.
+
+Today the club welcomes students from Northstowe, Longstanton, Oakington, Histon, Cottenham, Cambridge and nearby villages.
 
 ## Our Instructors
 
 Simon Apen-Sadler, our chief instructor, is a 4th dan black belt with over 20 years of experience. He is first aid qualified, holds an enhanced DBS check, and regularly trains with senior JKA instructors. Simon’s teaching philosophy is to balance discipline with encouragement, helping every student progress at their own pace.
 
+## Why Us?
+
+* Friendly and welcoming atmosphere
+* Beginners always welcome
+* Family-friendly training
+* Traditional Shotokan karate
+* First lesson free
+* Clear grading pathway
+* Convenient Northstowe location
+* Training for ages 8 to adult
+
+## Interested in trying karate?
+
+Your first lesson is free and no special equipment is required.
+
+Book a free class or get in touch to learn more.
+
+<a href="/lesson-booking/" class="btn btn-brown btn-lg px-4 mb-3">Book a free class</a>
