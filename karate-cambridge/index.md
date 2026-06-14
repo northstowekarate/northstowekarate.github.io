@@ -57,12 +57,15 @@ Training is at the Unity Centre, Northstowe (CB24 1FD) — easy to reach from Ca
 
 We serve Cambridge, Northstowe, Longstanton, Oakington, Histon, Cottenham and other Cambridgeshire villages. Our classes welcome children, adults and families — see our dedicated kids and adult pages for specialist information.
 
-## FAQs
+## Who trains with us?
 
-<details>
-<summary>Who teaches the classes?</summary>
-Our instructors are DBS-checked and experienced in Shotokan Karate. See the <a href="/instructors/">instructors page</a> for full bios. Visit our <a href="/faq/">FAQ page</a> for more information.
-</details>
+Our classes are designed to be welcoming and useful for:
+
+- **Kids (age 8+)** — age-appropriate lessons that build coordination, focus and social skills. See our benefits for children on the [Kids Karate Cambridge](/kids-karate-cambridge/) page and the club-wide [Benefits of Karate](/benefits-of-karate/) page.
+- **Adults** — beginners and returning students welcome; training improves fitness, mobility and confidence.
+- **Families** — family sessions and mixed-age training are supported; many families train together.
+
+Want more detail? Read our [What to expect](/training/what-to-expect/) guide and the full <a href="/faq/">FAQ</a> for practical information about classes, safety and grading.
 
 <div class="text-center mt-4">
   <a href="/lesson-booking/" class="btn btn-brown btn-lg px-4">Book your free trial</a>
