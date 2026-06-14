@@ -35,13 +35,15 @@ headerContent: |
           "addressCountry": "GB"
         },
         "areaServed": [
-          "Northstowe",
-          "Longstanton",
-          "Oakington",
-          "Willingham",
-          "Cambridge",
-          "Cambridgeshire"
-        ],
+            "Northstowe",
+            "Longstanton",
+            "Oakington",
+            "Histon",
+            "Cottenham",
+            "Willingham",
+            "Cambridge",
+            "Cambridgeshire"
+          ],
         "member": [
           {
             "@id": "https://www.northstowekarate.com/instructors/#simonapensadler"
@@ -113,10 +115,10 @@ headerContent: |
       Karate Classes in Northstowe, Cambridge
     </h1>
     <p class="lead">
-     Family-friendly Shotokan Karate that builds confidence, focus, and fitness. Age 8+.
+     Family-friendly Shotokan Karate that builds confidence, focus, and fitness. Age 8 to adult.
     </p>
     <!-- Call-to-Action -->
-    <a href="/lesson-booking/" class="btn btn-brown btn-lg px-4 mb-3">Book a free class</a>
+    <a href="/lesson-booking/" class="btn btn-brown btn-sm px-4 mb-3">Book a free class</a>
   </div>
 
 </div>

@@ -91,6 +91,8 @@ priority: 0.9
 
 We train regularly at [The Unity Centre, Northstowe](https://maps.app.goo.gl/wXcMAGknwyPFEgMp6) **Wednesdays 6.30-8pm** and on **Sundays 3-4pm**.
 
+<p class="small text-muted">Serving Northstowe, Longstanton, Oakington, Histon, Cottenham, Cambridge and surrounding Cambridgeshire villages.</p>
+
 Still unsure? You can find out more about our typical class structure on our [what to expect page](/training/what-to-expect/).
 
 ## Fees at a glance
