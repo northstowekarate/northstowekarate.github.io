@@ -10,11 +10,9 @@ changeFrequency: yearly
 
 Northstowe Karate Club is a friendly Shotokan karate club serving Northstowe, Cambridge and the surrounding villages. We welcome children aged 8 and over, teenagers, adults and families, from complete beginners to experienced martial artists.
 
-Our aim is simple: to provide high-quality traditional karate training in a safe, supportive and welcoming environment where students can develop confidence, fitness, self-discipline and practical self-defence skills. Kids, adults and families train side-by-side developing confidence, fitness and focus.
+Our aim is simple: to provide high-quality traditional karate training in a safe, supportive and welcoming environment where students can develop confidence, fitness, self-discipline and practical self-defence skills. Kids, adults and families train side-by-side.
 
 We believe karate is for everyone - regardless of background, or physical ability. Our instructors foster a respectful and supportive atmosphere where diversity is celebrated, and every member feels valued. From children developing coordination and focus to adults seeking fitness or self-defence skills, Northstowe Karate Club offers a space where personal growth and community spirit go hand in hand.
-
-We teach traditional [Shotokan Karate](https://en.wikipedia.org/wiki/Shotokan), a Japanese martial art. We are a member of [Japan Shotokan Karate England](https://jske.co.uk) and are affiliated with the [Japan Karate Association](https://www.jka.or.jp/en/), which is one of the largest and most prestigious karate organizations in the world.
 
 ## Why we train
 
@@ -52,21 +50,21 @@ Students progress through a recognised grading syllabus and have opportunities t
 
 ## Club
 
-Northstowe Karate Club was established to as a non-profit community club to provide accessible, high-quality karate training for the growing communities of Northstowe and the surrounding area.
+Northstowe Karate Club was established as a non-profit community club to provide accessible, high-quality karate training for the growing communities of Northstowe and the surrounding area.
 
 We wanted to create a club where beginners would feel comfortable starting their martial arts journey while experienced students could continue to develop their skills in a traditional and respectful environment.
 
-Today the club welcomes students from Northstowe, Longstanton, Oakington, Histon, Cottenham, Cambridge and nearby villages.
+Students regularly travel from Northstowe, Longstanton, Oakington, Histon, Cottenham, Cambridge and other nearby villages to train with us.
 
 ## Our Instructors
 
-Simon Apen-Sadler, our chief instructor, is a 4th dan black belt with over 20 years of experience. He is first aid qualified, holds an enhanced DBS check, and regularly trains with senior JKA instructors. Simon’s teaching philosophy is to balance discipline with encouragement, helping every student progress at their own pace.
+Simon Apen-Sadler, our chief instructor, is a 4th dan black belt with over 20 years of experience. He is first aid qualified, holds an enhanced DBS check, and regularly trains with senior JKA instructors. Simon’s teaching philosophy is to balance discipline with encouragement, helping every student progress at their own pace. Simon enjoys helping students of all ages gain confidence, improve their fitness and achieve goals they may not have thought possible when they first stepped onto the dojo floor.
 
-## Why Us?
+## Why Northstowe Karate Club?
 
-* Friendly and welcoming atmosphere
-* Beginners always welcome
-* Family-friendly training
+* Friendly and welcoming atmosphere — train alongside supportive students of all ages and experience levels.
+* Beginners always welcome — no previous martial arts experience required.
+* Family-friendly training — parents and children can train together in the same class.
 * Traditional Shotokan karate
 * First lesson free
 * Clear grading pathway
