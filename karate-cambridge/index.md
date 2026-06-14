@@ -61,7 +61,7 @@ We serve Cambridge, Northstowe, Longstanton, Oakington, Histon, Cottenham and ot
 
 Our classes are designed to be welcoming and useful for:
 
-- **Kids (age 8+)** — age-appropriate lessons that build coordination, focus and social skills. See our benefits for children on the [Kids Karate Cambridge](/kids-karate-cambridge/) page and the club-wide [Benefits of Karate](/benefits-of-karate/) page.
+- **Kids (age 8+)** — age-appropriate lessons that build coordination, focus and social skills. See our benefits on the [Benefits of Karate](/benefits-of-karate/) page.
 - **Adults** — beginners and returning students welcome; training improves fitness, mobility and confidence.
 - **Families** — family sessions and mixed-age training are supported; many families train together.
 
