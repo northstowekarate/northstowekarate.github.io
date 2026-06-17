@@ -46,9 +46,11 @@ We practise traditional Shotokan Karate, one of the world's most widely practise
 * Kumite (partner work and sparring)
 * Practical self-defence applications
 
+Find out what our typical lesson looks like on our [what to expect](/what-to-expect/) page.
+
 Students progress through a recognised grading syllabus and have opportunities to train, grade and develop their skills over many years.
 
-## Club
+## Out Story and Purpose
 
 Northstowe Karate Club was established as a non-profit community club to provide accessible, high-quality karate training for the growing communities of Northstowe and the surrounding area.
 
