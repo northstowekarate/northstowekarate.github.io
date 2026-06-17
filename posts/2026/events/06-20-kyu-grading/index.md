@@ -39,7 +39,8 @@ Kyu grading hosted by [Cambridge Karate Dojo](https://cambridgekaratedojo.com). 
 To grade you must have:
 
 * A dogi (uniform)
-* Active membership/license
+* Active membership/license - please check your license is in date, if it's expired, you must reapply before the grading
+  * If you have applied and not yet received your license, you will still be able to grade
 * Confirmation from the club instructor you are ready - readiness assessment will be done 1-3 weeks before the grading.
 
 ## Fees
@@ -56,8 +57,8 @@ The grading fee is £25 - this includes the training fee, which is compulsory. T
 
 * 1-2pm - training for purple belt and above
 * 2-3pm - training for green belt and below
-* 3-4.30pm - grading for white and orange belts
-* 4.30-6pm - grading for red belt and above
+* 3-4pm - grading for white and orange belts
+* 4-6pm - grading for red belt and above
 
 Please note grading times are approximate and depend on numbers.
 
