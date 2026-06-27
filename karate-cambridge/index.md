@@ -51,9 +51,17 @@ Training is at the Unity Centre, Northstowe (CB24 1FD) — less than 30 mins dri
 - Community centre carpark and short-stay parking nearby at Pathfinder Primary School and Longstanton Park and Ride
 - Ground-floor hall with step-free access
 
-## Nearby villages served
+### Nearby villages served
 
 We serve Cambridge, Northstowe, Longstanton, Oakington, Histon, Cottenham and other Cambridgeshire villages. Our classes welcome children, adults and families — see our dedicated kids and adult pages for specialist information.
+
+## Training Schedule
+
+We train twice a week on Wednesday evenings and Sunday afternoon. Please see our [Class schedule](/training/) for more information.
+
+## Fees
+      
+First lesson free. £5 per person per session. Family discounts available. Membership required for permanent students. See our <a href="/training/#fees">fees page</a> for full details.</li>
 
 ## Who trains with us?
 
@@ -64,6 +72,12 @@ Our classes are designed to be welcoming and useful for:
 - **Families** — family sessions and mixed-age training are supported; many families train together.
 
 Want more detail? Read our [What to expect](/training/what-to-expect/) guide and the full <a href="/faq/">FAQ</a> for practical information about classes, safety and grading.
+
+## Contact
+
+You can contact us via email at <a href="mailto:info@northstowekarate.com">info@northstowekarate.com</a>. For alternative contact details see our [Contact Us](/contact) page.
+
+Click below to book a free trial.
 
 <div class="text-center mt-4">
   <a href="/lesson-booking/" class="btn btn-brown btn-lg px-4">Book your free trial</a>
