@@ -46,7 +46,7 @@ We practise traditional Shotokan Karate, one of the world's most widely practise
 * Kumite (partner work and sparring)
 * Practical self-defence applications
 
-Find out what our typical lesson looks like on our [what to expect](/what-to-expect/) page.
+Find out what our typical lesson looks like on our [what to expect](/training/what-to-expect/) page.
 
 Students progress through a recognised grading syllabus and have opportunities to train, grade and develop their skills over many years.
 
