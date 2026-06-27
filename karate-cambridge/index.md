@@ -40,17 +40,15 @@ headerContent: |
 
 </div>
 
-<div class="hero text-center">
-</div>
+At Northstowe Karate Club, our lessons start with a warm-up, followed by a combination of practicing techniques (kihon), partner drills / sparring (kumite) and kata - with clear progression via belt gradings. Find our more at our [what to expect](/training/what-to-expect/) page.
 
 ## Venue & Directions
 
-Training is at the Unity Centre, Northstowe (CB24 1FD) — easy to reach from Cambridge and surrounding villages. <a href="https://maps.app.goo.gl/wXcMAGknwyPFEgMp6" target="_blank">Open map</a>.
+Training is at the Unity Centre, Northstowe (CB24 1FD) — less than 30 mins drive from Cambridge. <a href="https://maps.app.goo.gl/wXcMAGknwyPFEgMp6" target="_blank">Open map</a>.
 
 ### Parking & accessibility
 
-- Community centre carpark and short-stay parking nearby
-- Street parking near the venue; please be considerate of neighbours
+- Community centre carpark and short-stay parking nearby at Pathfinder Primary School and Longstanton Park and Ride
 - Ground-floor hall with step-free access
 
 ## Nearby villages served
