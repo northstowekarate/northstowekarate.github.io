@@ -109,6 +109,7 @@ headerContent: |
     sizes="(max-width: 576px) 100vw, (max-width: 992px) 100vw, 100vw"
     alt="Shotokan Karate Belt"
     class="hero-image"
+    loading="eager"
   >
   <div class="hero-content text-center">
     <h1 class="display-5 fw-bold">
