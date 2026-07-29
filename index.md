@@ -106,7 +106,7 @@ headerContent: |
 <div class="hero">
   <img
     src="/static/belt.webp"
-    sizes="(max-width: 576px) 100vw, (max-width: 992px) 100vw, 100vw"
+    sizes="(max-width: 576px) 100vw, (max-width: 992px) 90vw, 80vw"
     alt="Shotokan Karate Belt"
     class="hero-image"
     loading="eager"
