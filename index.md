@@ -173,13 +173,13 @@ Karate consists of 3 parts - kihon (basic techniques), kumite (sparring) and kat
 <div class="pswp-gallery" id="my-gallery">
   <div class="gallery-grid">
     <a href="./gallery/oi-zuki-2.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
-      <img src="./gallery/oi-zuki-2.webp" alt="Practicing kihon (basic techniques). Students practicing lunge punch." />
+      <img sizes="33vw" src="./gallery/oi-zuki-2.webp" alt="Practicing kihon (basic techniques). Students practicing lunge punch." />
     </a>
     <a href="./gallery/sanbon-kumite-7.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
-      <img src="./gallery/sanbon-kumite-7.webp" alt="Students pracicing a sparring drill - sanbon kumite" />
+      <img sizes="33vw" src="./gallery/sanbon-kumite-7.webp" alt="Students pracicing a sparring drill - sanbon kumite" />
     </a>
     <a href="./gallery/heian-nidan-6.webp" data-pswp-width="1500" data-pswp-height="1000" target="_blank">
-      <img src="./gallery/heian-nidan-6.webp" alt="Students on move 6 of heian nidan" />
+      <img sizes="33vw" src="./gallery/heian-nidan-6.webp" alt="Students on move 6 of heian nidan" />
     </a>
   </div>
 </div>
