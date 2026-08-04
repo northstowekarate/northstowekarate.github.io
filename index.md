@@ -162,6 +162,8 @@ headerContent: |
 
 Our classes teach traditional Shotokan Karate, a Japanese martial art, in a friendly, structured environment. Students of all ages learn and grow together — children (8+), adults, and families. We welcome students from Northstowe, Longstanton, Willingham, Oakington, and the wider Cambridge area. Many people join us when looking for Cambridge karate classes that are supportive and confidence‑building.
 
+Our classes are suitable for all ages and abilities, 8+, including children, teens, adults, and families.
+
 Karate is more than a martial art. It helps develop confidence, focus, fitness, strength, and resilience. Every student progresses at their own pace, whether they’re brand new or returning after a break.
 
 We make sure everyone feels welcome from the moment they arrive. Our instructors guide students through each step, helping them build skills safely and steadily. Parents often tell us they appreciate the balance we strike: traditional training delivered in a friendly, encouraging environment.
