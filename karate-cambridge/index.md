@@ -53,7 +53,7 @@ Training is at the Unity Centre, Northstowe (CB24 1FD) — less than 30 mins dri
 
 ### Nearby villages served
 
-We serve Cambridge, Northstowe, Longstanton, Oakington, Histon, Cottenham and other Cambridgeshire villages. Our classes welcome children, adults and families — see our dedicated kids and adult pages for specialist information.
+We serve Cambridge, Northstowe, Longstanton, Oakington, Histon, Cottenham and other Cambridgeshire villages - we're easy to get to for anyone looking for Cambridge karate classes.
 
 ## Training Schedule
 
