@@ -160,7 +160,7 @@ headerContent: |
 
 ## Karate classes for children and adults
 
-Our classes teach traditional Shotokan Karate in a friendly, structured environment where students of all ages can learn and grow. Children (8+), adults, and families train together in a supportive setting that encourages confidence, fitness, and respect. We welcome students from Northstowe, Longstanton, Willingham, Oakington, and the surrounding Cambridge area.
+Our classes teach traditional Shotokan Karate in a friendly, structured environment where students of all ages can learn and grow. Children (8+), adults, and families train together in a supportive setting that encourages confidence, fitness, and respect. We welcome students from Northstowe, Longstanton, Willingham, Oakington, and the surrounding Cambridge area - making us a convenient option for anyone looking for Cambridge karate classes taught in a friendly, structured environment.
 
 Karate is more than a martial art - it’s a way of developing confidence, focus, fitness, strength and resilience in a supportive community. At Northstowe Karate Club, we focus on helping every student progress at their own pace. Whether someone is completely new or returning after a break, we make sure they feel welcome from the moment they step through the door.
 
