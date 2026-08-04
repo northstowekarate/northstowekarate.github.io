@@ -160,15 +160,16 @@ headerContent: |
 
 ## Karate classes for children and adults
 
-Our classes teach traditional Shotokan Karate in a friendly, structured environment where students of all ages can learn and grow. Children (8+), adults, and families train together in a supportive setting that encourages confidence, fitness, and respect. We welcome students from Northstowe, Longstanton, Willingham, Oakington, and the surrounding Cambridge area - making us a convenient option for anyone looking for Cambridge karate classes taught in a friendly, structured environment.
+Our classes teach traditional Shotokan Karate in a friendly, structured environment. Students of all ages learn and grow together — children (8+), adults, and families. We welcome students from Northstowe, Longstanton, Willingham, Oakington, and the wider Cambridge area. Many people join us when looking for Cambridge karate classes that are supportive and confidence‑building.
 
-Karate is more than a martial art - it’s a way of developing confidence, focus, fitness, strength and resilience in a supportive community. At Northstowe Karate Club, we focus on helping every student progress at their own pace. Whether someone is completely new or returning after a break, we make sure they feel welcome from the moment they step through the door.
+Karate is more than a martial art. It helps develop confidence, focus, fitness, strength, and resilience. Every student progresses at their own pace, whether they’re brand new or returning after a break.
 
-Parents often tell us they appreciate the balance we strike: structured, traditional training delivered in a friendly, encouraging environment. Students learn to work hard, support each other, and take pride in their achievements - skills that carry far beyond the dojo.
+We make sure everyone feels welcome from the moment they arrive. Our instructors guide students through each step, helping them build skills safely and steadily. Parents often tell us they appreciate the balance we strike: traditional training delivered in a friendly, encouraging environment.
 
+Students learn to work hard, support each other, and take pride in their achievements — qualities that carry far beyond the dojo.
 ### What to expect
 
-Karate consists of 3 parts - kihon (basic techniques), kumite (sparring) and kata (forms). You can find out what a typical lesson looks like on our ["What to expect"](/training/what-to-expect/) page. Here are some examples of students practising all three aspects of karate:
+Karate consists of 3 parts - kihon (basic techniques), kumite (sparring) and kata (forms). You can see what a typical lesson looks like on our ["What to expect"](/training/what-to-expect/) page. Here are some examples of students practising all three aspects of karate:
 
 <div class="pswp-gallery" id="my-gallery">
   <div class="gallery-grid">
