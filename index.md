@@ -166,7 +166,8 @@ Karate is more than a martial art. It helps develop confidence, focus, fitness, 
 
 We make sure everyone feels welcome from the moment they arrive. Our instructors guide students through each step, helping them build skills safely and steadily. Parents often tell us they appreciate the balance we strike: traditional training delivered in a friendly, encouraging environment.
 
-Students learn to work hard, support each other, and take pride in their achievements — qualities that carry far beyond the dojo.
+Students learn to work hard and support each other. They grow in confidence and take pride in what they achieve, both in the dojo and in everyday life.
+
 ### What to expect
 
 Karate consists of 3 parts - kihon (basic techniques), kumite (sparring) and kata (forms). You can see what a typical lesson looks like on our ["What to expect"](/training/what-to-expect/) page. Here are some examples of students practising all three aspects of karate:
