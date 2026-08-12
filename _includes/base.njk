@@ -11,13 +11,13 @@ date: 1980-01-01
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta property="og:title" content="{{ title }}">
+    <meta property="og:title" content="{{ title | safe }}">
     <meta property="og:site_name" content="Northstowe Karate Club">
     {%- if noindex -%}
     <meta name="robots" content="noindex,nofollow">
     {%- endif -%}
     {%- if description -%}
-    <meta name="description" property="og:description" content="{{ description }}">
+    <meta name="description" property="og:description" content="{{ description | safe }}">
     {%- endif -%}
     <meta property="og:url" content="https://www.northstowekarate.com{{ page.url }}">
     <meta property="og:image" content="https://www.northstowekarate.com/static/logo.webp">
