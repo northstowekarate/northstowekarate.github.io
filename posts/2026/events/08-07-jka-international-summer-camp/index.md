@@ -5,7 +5,6 @@ description: This 3 day camp is fantastic opportunity to train with some of the 
 date: 2026-08-07
 tags:
 - gasshuku-and-training-courses
-eleventyExcludeFromCollections: true
 headerContent: |
   <script type="application/ld+json">
   {
@@ -34,3 +33,5 @@ headerContent: |
 # JKA WF England International Summer Camp — 7 Aug 2026
 
 Annual summer camp with senior instructors from JKA HQ.
+
+<img class="img-fluid w-50 p-3" sizes="50vw" src="./JKA-WF-England-Paisley-August-2026-poster.png" alt="JKA WF England Poster">
