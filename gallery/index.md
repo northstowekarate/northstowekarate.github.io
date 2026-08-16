@@ -5,6 +5,32 @@ description: "See for yourself what our karate classes look like - adults and ch
 date: "git Last Modified"
 changeFrequency: yearly
 priority: 0.9
+headerContent: |
+  <style>
+  .gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Default to 2 columns */
+    gap: 10px;
+  }
+
+  @media (min-width: 768px) {
+    .gallery-grid {
+      grid-template-columns: repeat(3, 1fr); /* 3 columns on medium screens */
+    }
+  }
+
+  @media (min-width: 1200px) {
+    .gallery-grid {
+      grid-template-columns: repeat(4, 1fr); /* 4 columns on large screens */
+    }
+  }
+
+  .gallery-grid img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+  </style>
 ---
 # Photo Gallery
 
@@ -85,31 +111,6 @@ priority: 0.9
   </div>
 </div>
 
-<style>
-.gallery-grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr); /* Default to 2 columns */
-  gap: 10px;
-}
-
-@media (min-width: 768px) {
-  .gallery-grid {
-    grid-template-columns: repeat(3, 1fr); /* 3 columns on medium screens */
-  }
-}
-
-@media (min-width: 1200px) {
-  .gallery-grid {
-    grid-template-columns: repeat(4, 1fr); /* 4 columns on large screens */
-  }
-}
-
-.gallery-grid img {
-  width: 100%;
-  height: auto;
-  object-fit: cover;
-}
-</style>
 
 <script type="module">
 import PhotoSwipeLightbox from '/static/photoswipe-5.4.4/photoswipe-lightbox.esm.js';

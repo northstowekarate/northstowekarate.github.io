@@ -34,134 +34,135 @@ date: 1980-01-01
     <title>{{ title }}</title>
   </head>
   <body>
-  <div class="display-2 d-flex align-items-center justify-content-center flex-wrap text-center">
-    <img
-      src="/static/logo.webp"
-      alt="NKC Logo"
-      sizes="5vw"
-      class="flex-shrink-0"
-      style="height: 1.2em; width: auto;">
+  <header class="justify-content-center container">
+    <div class="display-2 d-flex align-items-center justify-content-center flex-wrap text-center">
+      <img
+        src="/static/logo.webp"
+        alt="NKC Logo"
+        sizes="5vw"
+        class="flex-shrink-0"
+        style="height: 1.2em; width: auto;">
 
-    <div class="text-wrap">
-      Northstowe Karate Club
-    </div>
-  </div>
-
-
-    <div id="page-content" class="justify-content-center container">
-      <nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
-        <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav mx-auto">
-            <li class="nav-item">
-              <a class="nav-link" href="/">Home</a>
-            </li>
-
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" id="classesAndPricing" aria-haspopup="true" href="#" data-bs-toggle="dropdown">
-                Classes &amp; Pricing
-              </a>
-              <ul class="dropdown-menu" aria-labelledby="classesAndPricing">
-                <li><a class="dropdown-item" href="/training/">Class Timetable</a></li>
-                <li><a class="dropdown-item" href="/training/fees/">Club Fees</a></li>
-              </ul>
-            </li>
-
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" id="aboutDropdown" aria-haspopup="true" href="#" data-bs-toggle="dropdown">
-                About
-              </a>
-              <ul class="dropdown-menu" aria-labelledby="aboutDropdown">
-                <li><a class="dropdown-item" href="/about/">About the club</a></li>
-                <li><a class="dropdown-item" href="/instructors/">Instructors</a></li>
-                <li><a class="dropdown-item" href="/training/what-to-expect/">What to expect</a></li>
-                <li><a class="dropdown-item" href="/benefits-of-karate/">Why Northstowe Karate Club?</a></li>
-                <li><a class="dropdown-item" href="/gallery/">Photo Gallery</a></li>
-              </ul>
-            </li>
-
-            <li class="nav-item">
-              <a class="nav-link" href="/events/">Events</a>
-            </li>
-
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" id="studentResources" aria-haspopup="true" href="#" data-bs-toggle="dropdown">
-                Student Resources
-              </a>
-              <ul class="dropdown-menu" aria-labelledby="studentResources">
-                <li><a class="dropdown-item" href="/dojo-kun/">Dojo Kun (Rules)</a></li>
-                <li><a class="dropdown-item" href="/etiquette/">Etiquette</a></li>
-                <li><hr class="dropdown-divider"></li>
-                <li><a class="dropdown-item" href="/kata/heian/">Kihon and Heian Kata</a></li>
-                <li><a class="dropdown-item" href="/syllabus/">Grading Syllabus</a></li>
-                <li><a class="dropdown-item" href="/terminology/">Terminology</a></li>
-              </ul>
-            </li>
-
-            <li class="nav-item">
-              <a class="nav-link" href="/faq/">FAQ</a>
-            </li>
-
-            <li class="nav-item">
-              <a class="nav-link" href="/blog/">Blog</a>
-            </li>
-
-            <li class="nav-item">
-              <a class="nav-link" href="/contact/">Contact</a>
-            </li>
-
-            <li class="nav-item">
-              <a class="nav-link btn btn-brown book-class d-block d-lg-inline-block w-100 w-lg-auto text-center ms-lg-2" href="/lesson-booking/" aria-label="Book a free class">Book a free class</a>
-            </li>
-          </ul>
-        </div>
-      </nav>
-
-      {{ content | safe }}
-    </div>
-    <footer class="footer mt-5 py-4 text-center">
-      <hr>
-      <div class="container">
-        <p><strong>Northstowe Karate Club</strong></p>
-        <p>Traditional Shotokan Karate in Northstowe, Cambridgeshire</p>
-        <p>Training at <a href="https://maps.app.goo.gl/wXcMAGknwyPFEgMp6" target="_blank" rel="noopener noreferrer">The Unity Centre, Northstowe</a></p>
-        <p>Wednesdays 6:30–8:00pm | Sundays 3:00–4:00pm</p>
-
-        <p class="small text-muted">Serving: Northstowe, Longstanton, Oakington, Histon, Cottenham, <a href="/karate-cambridge/">Cambridge</a> and Cambridgeshire.</p>
-
-        <a href="/lesson-booking/" class="btn btn-brown btn-lg px-4 mb-3">Book a free class</a>
-
-        <p><a href="/contact/">Contact Us</a> | <a href="/training/">Class Schedule</a></p>
-        <p>
-        <div class="social-icons">
-          <a href="mailto:info@northstowekarate.com">
-            <div class="fa fa-envelope fa-2xl"><div style="display:none;">Email Us</div></div>
-          </a>
-          <a href="https://www.facebook.com/profile.php?id=61560001297561" target="_blank" rel="noopener noreferrer">
-            <div class="fab fa-facebook fa-2xl"><div style="display:none;">Find us on Facebook</div></div>
-          </a>
-          <a href="https://www.instagram.com/northstowekarate" target="_blank" rel="noopener noreferrer">
-            <div class="fab fa-instagram fa-2xl"><div style="display:none;">Find us on Instagram</div></div>
-          </a>
-          <a href="https://youtube.com/@northstowekarate" target="_blank" rel="noopener noreferrer">
-            <div class="fab fa-youtube fa-2xl"><div style="display:none;">Find us on Youtube</div></div>
-          </a>
-          <a href="https://linkedin.com/company/northstowekarate" target="_blank" rel="noopener noreferrer">
-            <div class="fab fa-linkedin fa-2xl"><div style="display:none;">Find us on LinkedIn</div></div>
-          </a>
-          <a href="https://share.google/J2lpG59uhIJCd814h" target="_blank" rel="noopener noreferrer">
-            <div class="fab fa-google fa-2xl"><div style="display:none;">Find us on Google</div></div>
-          </a>
-        </div>
-        </p>
-        <p>Affiliations: <a href="https://www.jka.or.jp/en/">Japan Karate Association (JKA)</a> and <a href="https://jske.co.uk">Japan Shotokan Karate England (JSKE)</a></p>
-        <p><a href="/policies/safeguarding/safeguarding-statement.pdf">Safeguarding Statement</a> | <a href="/policies/safeguarding/policy/safeguarding-policy.pdf">Safeguarding Policy</a></p>
-        <p><a href="/policies/">Club Documents and Policies</a></p>
+      <div class="text-wrap">
+        Northstowe Karate Club
       </div>
-    </footer>
+    </div>
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
+      <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mx-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="/">Home</a>
+          </li>
+
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" id="classesAndPricing" aria-haspopup="true" href="#" data-bs-toggle="dropdown">
+              Classes &amp; Pricing
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="classesAndPricing">
+              <li><a class="dropdown-item" href="/training/">Class Timetable</a></li>
+              <li><a class="dropdown-item" href="/training/fees/">Club Fees</a></li>
+            </ul>
+          </li>
+
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" id="aboutDropdown" aria-haspopup="true" href="#" data-bs-toggle="dropdown">
+              About
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="aboutDropdown">
+              <li><a class="dropdown-item" href="/about/">About the club</a></li>
+              <li><a class="dropdown-item" href="/instructors/">Instructors</a></li>
+              <li><a class="dropdown-item" href="/training/what-to-expect/">What to expect</a></li>
+              <li><a class="dropdown-item" href="/benefits-of-karate/">Why Northstowe Karate Club?</a></li>
+              <li><a class="dropdown-item" href="/gallery/">Photo Gallery</a></li>
+            </ul>
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link" href="/events/">Events</a>
+          </li>
+
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" id="studentResources" aria-haspopup="true" href="#" data-bs-toggle="dropdown">
+              Student Resources
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="studentResources">
+              <li><a class="dropdown-item" href="/dojo-kun/">Dojo Kun (Rules)</a></li>
+              <li><a class="dropdown-item" href="/etiquette/">Etiquette</a></li>
+              <li><hr class="dropdown-divider"></li>
+              <li><a class="dropdown-item" href="/kata/heian/">Kihon and Heian Kata</a></li>
+              <li><a class="dropdown-item" href="/syllabus/">Grading Syllabus</a></li>
+              <li><a class="dropdown-item" href="/terminology/">Terminology</a></li>
+            </ul>
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link" href="/faq/">FAQ</a>
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link" href="/blog/">Blog</a>
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link" href="/contact/">Contact</a>
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link btn btn-brown book-class d-block d-lg-inline-block w-100 w-lg-auto text-center ms-lg-2" href="/lesson-booking/" aria-label="Book a free class">Book a free class</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+  <main class="justify-content-center container">
+
+    {{ content | safe }}
+  </main>
+  <footer class="footer mt-5 py-4 text-center justify-content-center container">
+    <hr>
+    <div>
+      <p><strong>Northstowe Karate Club</strong></p>
+      <p>Traditional Shotokan Karate in Northstowe, Cambridgeshire</p>
+      <p>Training at <a href="https://maps.app.goo.gl/wXcMAGknwyPFEgMp6" target="_blank" rel="noopener noreferrer">The Unity Centre, Northstowe</a></p>
+      <p>Wednesdays 6:30–8:00pm | Sundays 3:00–4:00pm</p>
+
+      <p class="small text-muted">Serving: Northstowe, Longstanton, Oakington, Histon, Cottenham, <a href="/karate-cambridge/">Cambridge</a> and Cambridgeshire.</p>
+
+      <a href="/lesson-booking/" class="btn btn-brown btn-lg px-4 mb-3">Book a free class</a>
+
+      <p><a href="/contact/">Contact Us</a> | <a href="/training/">Class Schedule</a></p>
+      <p>
+      <div class="social-icons">
+        <a href="mailto:info@northstowekarate.com">
+          <div class="fa fa-envelope fa-2xl"><div style="display:none;">Email Us</div></div>
+        </a>
+        <a href="https://www.facebook.com/profile.php?id=61560001297561" target="_blank" rel="noopener noreferrer">
+          <div class="fab fa-facebook fa-2xl"><div style="display:none;">Find us on Facebook</div></div>
+        </a>
+        <a href="https://www.instagram.com/northstowekarate" target="_blank" rel="noopener noreferrer">
+          <div class="fab fa-instagram fa-2xl"><div style="display:none;">Find us on Instagram</div></div>
+        </a>
+        <a href="https://youtube.com/@northstowekarate" target="_blank" rel="noopener noreferrer">
+          <div class="fab fa-youtube fa-2xl"><div style="display:none;">Find us on Youtube</div></div>
+        </a>
+        <a href="https://linkedin.com/company/northstowekarate" target="_blank" rel="noopener noreferrer">
+          <div class="fab fa-linkedin fa-2xl"><div style="display:none;">Find us on LinkedIn</div></div>
+        </a>
+        <a href="https://share.google/J2lpG59uhIJCd814h" target="_blank" rel="noopener noreferrer">
+          <div class="fab fa-google fa-2xl"><div style="display:none;">Find us on Google</div></div>
+        </a>
+      </div>
+      </p>
+      <p>Affiliations: <a href="https://www.jka.or.jp/en/">Japan Karate Association (JKA)</a> and <a href="https://jske.co.uk">Japan Shotokan Karate England (JSKE)</a></p>
+      <p><a href="/policies/safeguarding/safeguarding-statement.pdf">Safeguarding Statement</a> | <a href="/policies/safeguarding/policy/safeguarding-policy.pdf">Safeguarding Policy</a></p>
+      <p><a href="/policies/">Club Documents and Policies</a></p>
+    </div>
+  </footer>
     <div id="cookie-banner">
       <div class="container">
         <p>We use cookies to improve your experience and analyze site usage. <a href="/policies/privacy/privacy-policy.pdf">View our privacy policy.</a>.</p>

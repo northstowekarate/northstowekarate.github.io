@@ -8,6 +8,20 @@ changeFrequency: monthly
 headerContent: |
   <link href="/static/photoswipe-5.4.4/photoswipe-lightbox.esm.js" rel="preload" as="script">
   <link href="/static/photoswipe-5.4.4/photoswipe.esm.js" rel="preload" as="script">
+  <style>
+  .gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Default to 2 columns */
+    gap: 10px;
+  }
+
+  .gallery-grid img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+  </style>
+
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -147,7 +161,7 @@ headerContent: |
 
 <div class="card mt-3 border-primary">
   <div class="card-body">
-    <h4 class="h5">For parents ✅</h4>
+    <h3 class="h5">For parents ✅</h3>
     <ul class="mb-0">
       <li><strong>Safe &amp; supervised:</strong> Safeguarding is a priority at Northstowe Karate Club. All <a href="/instructors">instructors</a> are DBS-checked, and we follow safeguarding good practice.</li>
       <li><strong>Age-appropriate classes:</strong> Suitable for ages 8+, beginners welcome — no uniform required for the first lesson.</li>
@@ -230,20 +244,6 @@ Simon Apen-Sadler is the Chief Instructor of Northstowe Karate Club. He is a 4th
 ## Still have questions?
 
 Check out our [FAQ page](/faq/) to see our frequently asked questions. If that doesn't answer your question, please [reach out to us](/contact/).
-
-<style>
-.gallery-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr); /* Default to 2 columns */
-  gap: 10px;
-}
-
-.gallery-grid img {
-  width: 100%;
-  height: auto;
-  object-fit: cover;
-}
-</style>
 
 <script type="module">
 import PhotoSwipeLightbox from '/static/photoswipe-5.4.4/photoswipe-lightbox.esm.js';
