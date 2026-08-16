@@ -153,7 +153,7 @@ headerContent: |
       <li><strong>Contact:</strong> Email us at <a href="mailto:info@northstowekarate.com">info@northstowekarate.com</a> or view our <a href="/contact/">contact page</a> alternative contact options</li>
     </ul>
     <div class="text-center">
-      <a href="/lesson-booking/" class="btn btn-brown btn-lg mb-3 px-4">Book a free class</a>
+      <a href="/lesson-booking/" class="btn btn-brown btn-lg mb-3 px-4">Book a free trial class</a>
       <p class="small text-muted mb-0">First lesson free • DBS-checked <a href="/instructors">instructors</a> • Age 8+</p>
     </div>
   </div>
