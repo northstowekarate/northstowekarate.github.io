@@ -133,7 +133,7 @@ headerContent: |
      Family-friendly Shotokan Karate that builds confidence, focus, and fitness. Age 8 to adult.
     </p>
     <!-- Call-to-Action -->
-    <a href="/lesson-booking/" class="btn btn-brown btn-sm px-4 mb-3">Book a free class</a>
+    <a href="/lesson-booking/" class="btn btn-brown btn-sm px-4 mb-3">Book a free trial class</a>
   </div>
 
 </div>
