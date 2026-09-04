@@ -292,7 +292,7 @@ Parking is available outside. Additional parking can be found nearby at either P
 
   // Render upcoming routine sessions in table (first N after the next one)
   const N = cfg.upcomingCount;
-  const startIndex = nextRoutine ? 1 : 0;
+  const startIndex = 0;
   const upcoming = routine.slice(startIndex, startIndex + N);
 
   // If there are no routine sessions at all, hide the upcoming section
