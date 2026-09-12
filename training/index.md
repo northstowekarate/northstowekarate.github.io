@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: "Northstowe Karate Class Schedule | Kids & Adults"
-description: "Regular sessions on Wednesdays 6:30–8pm and Sundays 3–4pm at the Unity Centre. First lesson free. See our schedule for more details"
+description: "Regular sessions on Wednesdays 6:30–8pm and Sundays 2.30–4pm at the Unity Centre. First lesson free. See our schedule for more details"
 date: "git Last Modified"
 changeFrequency: weekly
 headerContent: |
@@ -26,7 +26,7 @@ headerContent: |
           {
             "@type": "Schedule",
             "byDay": "Sunday",
-            "startTime": "15:00",
+            "startTime": "14:30",
             "endTime": "16:00",
             "scheduleTimezone": "Europe/London"
           }
@@ -63,7 +63,7 @@ headerContent: |
         "hasMap": "https://maps.app.goo.gl/wXcMAGknwyPFEgMp6",
         "url": "https://www.northstowekarate.com",
         "telephone": "+447596922670",
-        "openingHours": "Wednesday 18:30-20:00, Sunday 15:00-16:00",
+        "openingHours": "Wednesday 18:30-20:00, Sunday 14:30-16:00",
         "priceRange": "£",
         "amenityFeature": [
           {
@@ -89,7 +89,7 @@ priority: 0.9
 
 ## Regular Classes 
 
-We train regularly at [The Unity Centre, Northstowe](https://maps.app.goo.gl/wXcMAGknwyPFEgMp6) **Wednesdays 6.30-8pm** and on **Sundays 3-4pm**.
+We train regularly at [The Unity Centre, Northstowe](https://maps.app.goo.gl/wXcMAGknwyPFEgMp6) **Wednesdays 6.30-8pm** and on **Sundays 2.30-4pm**.
 
 <p class="small text-muted">Serving Northstowe, Longstanton, Oakington, Histon, Cottenham, Cambridge and surrounding Cambridgeshire villages.</p>
 
