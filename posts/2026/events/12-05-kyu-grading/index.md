@@ -5,7 +5,6 @@ description: This is an opportunity to train with Roy Tomlin sensei followed by 
 date: 2026-12-05
 tags:
 - gasshuku-and-training-courses
-eleventyExcludeFromCollections: true
 headerContent: |
   <script type="application/ld+json">
   {
@@ -32,4 +31,43 @@ headerContent: |
 
 # Kyu Grading — 5 Dec 2026
 
-Joint kyu grading for eligible students to test for their next belt.
+Kyu grading hosted by [Cambridge Karate Dojo](https://cambridgekaratedojo.com). Grading will consist of a 1-hour training session with Sensei Roy Tomlin, 7th Dan to help prepare for your grading, followed by grading assessment.
+
+## Readiness
+
+To grade you must have:
+
+* A dogi (uniform)
+* Active membership/license - please check your license is in date, if it's expired, you must reapply before the grading
+  * If you have applied and not yet received your license, you will still be able to grade
+* Confirmation from the club instructor you are ready - readiness assessment will be done 1-3 weeks before the grading.
+
+## Fees
+
+The grading fee is £25 - this includes the training fee, which is compulsory. The training fee is £15 for those who want to train, but aren't grading.
+
+## What to bring
+
+* Your uniform (belt and dogi)
+* Your license
+* Water bottle
+
+## Event Details
+
+* 1-2pm - training for purple belt and above
+* 2-3pm - training for green belt and below
+* 3-4pm - grading for white and orange belts
+* 4-6pm - grading for red belt and above
+
+Please note grading times are approximate and depend on numbers.
+
+Please arrive 15 minutes early before your session starts. 
+
+Parents are welcome to watch quietly from the side.
+
+### Location
+
+Held at Cambridge Karate Dojo - Main Hall at Kelsey Kerridge Sports Centre. There's parking available next door at Queen Anne Terrace Car Park - the car park does fill up quickly on weekends - there might be a queue, so please be early.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2445.3250373298483!2d0.1304957!3d52.2011405!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d87140d34454e7%3A0x5f0588a4fdac865b!2sCambridge%20Karate%20Dojo!5e0!3m2!1sen!2suk!4v1778161526953!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
