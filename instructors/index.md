@@ -52,10 +52,10 @@ changeFrequency: yearly
       Enhanced DBS Certification
     </li>
     <li>
-      D Grade Examiner
+      C Grade Examiner
     </li>
     <li>
-      C Grade Instructor
+      B Grade Instructor
     </li>
     <li>
       C Grade Judge
