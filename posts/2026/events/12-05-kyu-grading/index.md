@@ -42,10 +42,13 @@ Belts and certificates will be awarded after the grading, during regularly train
   * If you have applied and not yet received your license, you will still be able to grade
 * Have confirmation from the club instructor you are ready - readiness assessment will be done 1-3 weeks before the grading.
 
+Please note you cannot ask to be double graded.
 
 ## Fees
 
 The grading fee is £25 - this includes the training fee - you must attend the training session if you want to grade. 
+
+An additional fee of £10 for double grades.
 
 The training fee is £15 for those who want to only train.
 
