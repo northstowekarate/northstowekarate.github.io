@@ -75,7 +75,7 @@ Parents are welcome to watch quietly from the side.
 
 ### Location
 
-University of Cambridge Sports Centre. Please park in [Car Park B](https://www.sport.cam.ac.uk/about-us/plan-your-visit/university-cambridge-sports-centre).
+University of Cambridge Sports Centre. Please park in [Car Park 8](https://www.sport.cam.ac.uk/about-us/plan-your-visit/university-cambridge-sports-centre).
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2444.9207491501497!2d0.08340597152709152!3d52.208487667734865!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8774861d9ffdf%3A0xb73d0c1fc075bba2!2sUniversity%20of%20Cambridge%20Sports%20Centre!5e0!3m2!1sen!2suk!4v1795537897911!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
