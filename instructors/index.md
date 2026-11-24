@@ -52,13 +52,13 @@ changeFrequency: yearly
       Enhanced DBS Certification
     </li>
     <li>
-      D Grade Examiner
+      B Grade Instructor
     </li>
     <li>
-      C Grade Instructor
+      C Grade Examiner
     </li>
     <li>
-      C Grade Judge
+      C Grade Referee
     </li>
     <li>
       BMABA Level 2 Instructor Award
